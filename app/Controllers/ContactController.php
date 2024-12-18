@@ -1,9 +1,20 @@
 <?php
 namespace App\Controllers;
+use App\Core\View;
+use App\Helpers\Language;
+
 
 class ContactController {
-    public function showForm() {
-        include __DIR__ . '/../Views/contact.php';
+    public function showForm($lang)
+    {
+        // Charger les traductions pour la langue donnée
+        $translations = Language::getTranslations($lang);
+
+        // Rendre la vue `home.php` avec les données nécessaires
+        View::render('contact', [
+            'lang' => $lang,
+            'translations' => $translations,
+        ]);
     }
 
     public function sendEmail() {

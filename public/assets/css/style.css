@@ -1,0 +1,25 @@
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+}
+
+ul li {
+    display: inline;
+}
+
+ul li a {
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #333;
+    font-weight: bold;
+}
+
+ul li a.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
