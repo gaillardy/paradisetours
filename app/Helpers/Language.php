@@ -52,7 +52,12 @@ class Language
      */
     public static function renderSwitcher($currentLang, $currentRoute)
     {
-        $languages = ['en' => 'English', 'fr' => 'Français', 'es' => 'Español'];
+        $languages = [
+            'en' => 'English', 
+            'fr' => 'Français', 
+            'es' => 'Español'
+        ];
+
         $output = '<ul>';
 
         foreach ($languages as $code => $name) {
@@ -63,6 +68,7 @@ class Language
         }
 
         $output .= '</ul>';
+        
         return $output;
     }
 }

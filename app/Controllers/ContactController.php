@@ -10,10 +10,18 @@ class ContactController {
         // Charger les traductions pour la langue donnée
         $translations = Language::getTranslations($lang);
 
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $metaDescription = "Description contact";
+        $metaKeywords = "Keywords for contact";
+
         // Rendre la vue `home.php` avec les données nécessaires
         View::render('contact', [
-            'lang' => $lang,
+            'lang'         => $lang,
             'translations' => $translations,
+            'currentRoute' => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'=>$metaKeywords
         ]);
     }
 
@@ -22,6 +30,10 @@ class ContactController {
         $subject = "Contact Form Submission";
         $message = $_POST['message'];
         $headers = "From: {$_POST['email']}";
+
+        echo $message."</br>";
+        echo $headers."</br>";
+        echo "Email sent successfully!";
 
         if (mail($adminEmail, $subject, $message, $headers)) {
             echo "Email sent successfully!";
