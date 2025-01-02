@@ -3668,7 +3668,8 @@ input[type="button"].btn-block {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 1.25rem; }
+  padding: 1.25rem; 
+}
 
 .card-img {
   width: 100%;
@@ -8504,17 +8505,9 @@ textarea.form-control {
     right: 0;
     content: '';
     z-index: -1;
-    opacity: .9;
-    background: #2ebdc4;
-    background: -moz-linear-gradient(-45deg, #2ebdc4 0%, #68e5b2 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, #2ebdc4), color-stop(100%, #68e5b2));
-    background: -webkit-linear-gradient(-45deg, #2ebdc4 0%, #68e5b2 100%);
-    background: -o-linear-gradient(-45deg, #2ebdc4 0%, #68e5b2 100%);
-    background: -ms-linear-gradient(-45deg, #2ebdc4 0%, #68e5b2 100%);
-    background: -webkit-linear-gradient(315deg, #2ebdc4 0%, #68e5b2 100%);
-    background: -o-linear-gradient(315deg, #2ebdc4 0%, #68e5b2 100%);
-    background: linear-gradient(135deg, #2ebdc4 0%, #68e5b2 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2ebdc4', endColorstr='#68e5b2', GradientType=1 ); }
+    opacity: .8;
+    background: black;
+    }
 
 .ftco-counter {
   padding: 10em 0; }

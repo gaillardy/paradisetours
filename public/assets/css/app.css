@@ -1,6 +1,100 @@
 /* General Styles */
 
 
+.ftco-section {
+  padding-top: 40px; /* Réduit l'espace en haut */
+  padding-bottom: 40px; /* Réduit l'espace en bas */
+}
+
+.services-section {
+  margin-bottom: 20px; /* Réduit l'espace entre cette section et la suivante */
+}
+
+.ftco-destination {
+  margin-top: 10px; /* Réduit l'espace en haut de cette section */
+}
+
+.heading {
+  margin-bottom: 10px; /* Ajuste l'espacement des titres si nécessaire */
+}
+
+.heading-perso {
+  margin-top: 0; /* Supprime les marges inutiles */
+  padding-top: 10px; /* Ajoute un léger espacement si besoin */
+}
+
+/* Conteneur de la section */
+.heading-tour {
+  display: flex; /* Flexbox pour aligner facilement */
+  justify-content: center; /* Centre horizontalement */
+  align-items: center; /* Centre verticalement */
+  width: 100%; /* Prend toute la largeur de la fenêtre */
+  background-color: #FFD580; /* Fond orange clair */
+  padding: 20px 10px; /* Espacement vertical et horizontal */
+  margin: 0; /* Pas d'espacement externe */
+  text-align: center; /* Centre le texte à l'intérieur */
+}
+
+/* Style du titre */
+.title-tour {
+  font-size: clamp(1.5rem, 4vw, 2.5rem); /* Taille adaptative */
+  font-weight: bold; /* Texte en gras */
+  color: #333; /* Couleur du texte */
+  margin: 0; /* Supprime les marges par défaut */
+  position: relative; /* Nécessaire pour le pseudo-élément */
+}
+
+/* Tiret avant le texte */
+.title-tour::before {
+  content: ""; /* Ajoute un tiret */
+  color: #333; /* Couleur du tiret */
+  font-size: 1.5rem; /* Taille du tiret */
+  position: absolute; /* Positionnement absolu */
+  left: -25px; /* Décalage horizontal */
+  top: 50%; /* Aligne verticalement */
+  transform: translateY(-50%); /* Ajuste l'alignement */
+}
+
+/* Réduction du padding pour petits écrans */
+@media (max-width: 768px) {
+  .heading-tour {
+      padding: 15px 5px;
+  }
+}
+
+
+
+
+.heading-perso {
+  display: flex; /* Aligne le contenu horizontalement */
+  justify-content: center; /* Centre le contenu */
+  align-items: center; /* Centre verticalement si nécessaire */
+  width: 100%; /* Full width */
+  text-align: center; /* Centre le texte */
+  background-color: #FFD580; /* Orange clair pour le fond */
+  padding: 20px 0; /* Espacement vertical */
+  border-radius: 8px; /* Coins arrondis */
+}
+
+.styled-title {
+  font-size: 2rem; /* Taille du texte */
+  font-weight: bold; /* Mettre en gras */
+  color: #333; /* Couleur du texte */
+  margin: 0; /* Supprime les marges par défaut */
+  position: relative; /* Nécessaire pour le ::before */
+}
+
+.styled-title::before {
+  content: ""; /* Ajout du tiret avant */
+  color: #333; /* Même couleur que le texte */
+  font-size: 1.5rem; /* Taille du tiret */
+  position: absolute; /* Positionnement absolu */
+  left: -25px; /* Décalage par rapport au texte */
+  top: 50%; /* Centré verticalement */
+  transform: translateY(-50%); /* Ajustement vertical */
+}
+
+
   
   /* Content Sections */
   .content-section {
@@ -113,7 +207,7 @@
   
   .jumbotron h1 {
     font-size: 1.8rem;
-    color: black; /* Couleur bleue pour le titre */
+    color: #007bff; /* Couleur bleue pour le titre */
     margin-bottom: 1rem;
   }
   

@@ -10,7 +10,7 @@ session_start();
 $router = new Router();
 
 $router->add('/', function ($params) {
-    $validLanguages = ['en', 'fr', 'es']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -24,8 +24,41 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
+
+$router->add('/{lang}/contact/success', function ($params) {
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ContactController();
+    $controller->success($lang);
+});
+
+
+
+$router->add('/{lang}/excurtions', function ($params) {
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->index($lang);
+});
+
 $router->add('/{lang}/sendnews', function ($params) {
-    $validLanguages = ['en', 'fr', 'es']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -40,7 +73,7 @@ $router->add('/{lang}/sendnews', function ($params) {
 });
 
 $router->add('/{lang}/news', function ($params) {
-    $validLanguages = ['en', 'fr', 'es']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -55,7 +88,7 @@ $router->add('/{lang}/news', function ($params) {
 });
 
 $router->add('/{lang}/subscribe', function ($params) {
-    $validLanguages = ['en', 'fr', 'es']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -70,7 +103,7 @@ $router->add('/{lang}/subscribe', function ($params) {
 });
 
 $router->add('/{lang}/newsletter', function ($params) {
-    $validLanguages = ['en', 'fr', 'es']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -86,7 +119,7 @@ $router->add('/{lang}/newsletter', function ($params) {
 
 
 $router->add('/{lang}/home', function ($params) {
-    $validLanguages = ['en', 'fr', 'es']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -104,7 +137,7 @@ $router->add('/{lang}/home', function ($params) {
 
 
 $router->add('/{lang}/contact', function ($params) {
-    $validLanguages = ['en', 'fr', 'es']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -119,7 +152,7 @@ $router->add('/{lang}/contact', function ($params) {
 });
 
 $router->add('/{lang}/sub', function ($params) {
-    $validLanguages = ['en', 'fr', 'es']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -130,7 +163,7 @@ $router->add('/{lang}/sub', function ($params) {
 
     // Appeler le HomeController avec la langue
     $controller = new \App\Controllers\ContactController();
-    $controller->sendEmail();
+    $controller->sendEmail($lang);
 });
 
 if (!preg_match('#^/[a-z]{2}/#', $_SERVER['REQUEST_URI'])) {

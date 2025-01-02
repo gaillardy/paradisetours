@@ -19,9 +19,9 @@ class Language
             'keywords' => 'tourisme, voyage, vacances, aventure',
             'welcome' => 'Bienvenue sur la page d\'accueil!',
             'intro' => 'Ceci est la version française du site.',
-            'contact' => 'La page de contact',
+            'contact' => 'contact',
         ],
-        'es' => [
+        'it' => [
             'title' => 'Bienvenido a nuestra agencia de turismo',
             'description' => 'Explora destinos increíbles en todo el mundo.',
             'keywords' => 'turismo, viajes, vacaciones, aventura',
@@ -55,7 +55,7 @@ class Language
         $languages = [
             'en' => 'English', 
             'fr' => 'Français', 
-            'es' => 'Español'
+            'it' => 'Italiano'
         ];
 
         $output = '<ul>';
