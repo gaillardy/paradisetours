@@ -3,45 +3,248 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Review of Samsung Galaxy S24 Ultra</title>
-    <meta name="description" content="In-depth review of the Samsung Galaxy S24 Ultra, highlighting its features, performance, and camera capabilities.">
-    <meta name="keywords" content="Samsung Galaxy S24 Ultra, review, smartphone, features, performance, camera">
+    <title>Document</title>
 </head>
 <body>
-    <h1>Review of Samsung Galaxy S24 Ultra</h1>
-    <p>The Samsung Galaxy S24 Ultra is a powerful smartphone.</p>
-    <p>It boasts a stunning display and impressive performance.</p>
-    <p>Its camera capabilities are top-notch.</p>
-    <p>Overall, it's a great choice for tech enthusiasts.</p>
+    <section class="ftco-section ftco-destination mt-2">
+        <div class="container">
+            <div class="row justify-content-start mb-2 pb-3">
+                <div class="col-md-7 heading-section ftco-animate"></div>
+                <div class="col-sm-12 heading-perso justify-content-center">
+                    <h2 class="mb-4 styled-title">Nos packages 2</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="slider-container">
+                        <button class="slider-btn prev-btn">&#10094;</button>
+                        <div class="slider" id="slider">
+                            <div class="slide">
+                                <img src="image1.jpg" alt="Image 1">
+                                <p>Description du package 1</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image2.jpg" alt="Image 2">
+                                <p>Description du package 2</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image3.jpg" alt="Image 3">
+                                <p>Description du package 3</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image4.jpg" alt="Image 4">
+                                <p>Description du package 4</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image5.jpg" alt="Image 5">
+                                <p>Description du package 5</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            <div class="slide">
+                                <img src="image6.jpg" alt="Image 6">
+                                <p>Description du package 6</p>
+                            </div>
+                            
+                        </div>
+                        <button class="slider-btn next-btn">&#10095;</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <style>
+    .slider-container {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    
+    .slider {
+        display: flex;
+        transition: transform 0.3s ease-in-out;
+        cursor: grab;
+    }
+    
+    .slide {
+        flex: 0 0 25%;
+        text-align: center;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    
+    .slide img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+    
+    .slide p {
+        margin-top: 10px;
+        font-size: 16px;
+        color: #333;
+    }
+    
+    .slider-btn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: transparent;
+        color: #333;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        z-index: 10;
+        font-size: 24px;
+        border-radius: 50%;
+        transition: color 0.3s ease;
+    }
+    
+    .slider-btn.prev-btn {
+        left: 10px;
+    }
+    
+    .slider-btn.next-btn {
+        right: 10px;
+    }
+    
+    .slider-btn:hover {
+        color: #f85959;
+    }
+    </style>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+    $(document).ready(function () {
+        const slider = $("#slider");
+        const slideWidth = $(".slide").outerWidth(true); // Largeur d'un slide avec marges
+        const totalSlides = $(".slide").length;
+        let currentIndex = 0;
+        let isDragging = false;
+        let startX = 0;
+        let currentTranslate = 0;
+        let prevTranslate = 0;
+    
+        // Navigation avec les boutons
+        function moveSlider() {
+            slider.css("transform", `translateX(${-currentIndex * slideWidth}px)`);
+        }
+    
+        $(".next-btn").click(function () {
+            if (currentIndex < totalSlides - 4) {
+                currentIndex++;
+            } else {
+                currentIndex = 0; // Revenir au début
+            }
+            moveSlider();
+        });
+    
+        $(".prev-btn").click(function () {
+            if (currentIndex > 0) {
+                currentIndex--;
+            } else {
+                currentIndex = totalSlides - 4; // Aller à la fin
+            }
+            moveSlider();
+        });
+    
+        // Détection du début du drag
+        slider.on("mousedown touchstart", function (e) {
+            isDragging = true;
+            startX = e.pageX || e.originalEvent.touches[0].pageX;
+            slider.css("cursor", "grabbing");
+        });
+    
+        // Déplacement pendant le drag
+        slider.on("mousemove touchmove", function (e) {
+            if (!isDragging) return;
+            const currentX = e.pageX || e.originalEvent.touches[0].pageX;
+            const moveX = currentX - startX;
+            currentTranslate = prevTranslate + moveX;
+            slider.css("transform", `translateX(${currentTranslate}px)`);
+        });
+    
+        // Fin du drag
+        $(document).on("mouseup touchend", function () {
+            if (isDragging) {
+                isDragging = false;
+                slider.css("cursor", "grab");
+                const threshold = slideWidth / 4;
+                if (currentTranslate - prevTranslate > threshold && currentIndex > 0) {
+                    currentIndex--;
+                } else if (prevTranslate - currentTranslate > threshold && currentIndex < totalSlides - 4) {
+                    currentIndex++;
+                }
+                moveSlider();
+                prevTranslate = -currentIndex * slideWidth;
+            }
+        });
+    
+        // Défilement automatique
+        let autoSlide = setInterval(function () {
+            if (!isDragging) {
+                if (currentIndex < totalSlides - 4) {
+                    currentIndex++;
+                } else {
+                    currentIndex = 0;
+                }
+                moveSlider();
+            }
+        }, 3000);
+    
+        // Pause sur hover
+        slider.hover(
+            function () {
+                clearInterval(autoSlide);
+            },
+            function () {
+                autoSlide = setInterval(function () {
+                    if (currentIndex < totalSlides - 4) {
+                        currentIndex++;
+                    } else {
+                        currentIndex = 0;
+                    }
+                    moveSlider();
+                }, 3000);
+            }
+        );
+    });
+    </script>
+                
 
-    <h2>Design and Build</h2>
-    <p>The Galaxy S24 Ultra has a sleek design.</p>
-    <p>It features a durable build with premium materials.</p>
-    <p>The phone is both stylish and robust.</p>
-    <p>It fits comfortably in your hand.</p>
-    <p>Overall, the design is a standout feature.</p>
-
-    <h2>Display</h2>
-    <p>The display is one of the best in the market.</p>
-    <p>It offers vibrant colors and sharp details.</p>
-    <p>The screen size is perfect for multimedia.</p>
-    <p>Overall, the display is a major highlight.</p>
-
-    <h2>Performance</h2>
-    <p>The Galaxy S24 Ultra is powered by the latest processor.</p>
-    <p>It handles multitasking with ease.</p>
-    <p>The performance is smooth and fast.</p>
-    <p>Overall, it's a powerhouse.</p>
-
-    <h2>Camera</h2>
-    <p>The camera system is impressive.</p>
-    <p>It captures stunning photos and videos.</p>
-    <p>The low-light performance is exceptional.</p>
-    <p>Overall, the camera is a standout feature.</p>
-
-    <h2>Conclusion</h2>
-    <p>The Samsung Galaxy S24 Ultra is a top-tier smartphone.</p>
-    <p>It offers excellent performance, design, and camera capabilities.</p>
-    <p>Overall, it's a great choice for tech enthusiasts.</p>
 </body>
 </html>
+

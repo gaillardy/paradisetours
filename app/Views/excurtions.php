@@ -36,80 +36,142 @@
     </div>
 </section>
 
+<section class="ftco-section ftco-destination mt-2">
+    	<div class="container">
+                <div class="row">
+		            <div class="col-md-12 d-flex justify-content-center counter-wrap ftco-animate">
+                        <div class="block-18 text-center">
+                            <h2 class="mb-4">Excursions Nord</h2>
+                            
+                        </div>
+                    </div>
+		        </div>
+    		<div class="row">
+    			<div class="col-md-12">
+    				<div class="destination-slider owl-carousel ftco-animate">
+    					<div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/1.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Baie des Russes</h2>
+                                        <p>Explorez les eaux cristallines et le sable doré.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>  
+							</div>
+	    				</div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/2.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Nosy Komba Tanikely</h2>
+                                        <p>Admirez des paysages spectaculaires.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/3.jpeg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Nosy Iranja Ile au tortue</h2>
+                                        <p>Une immersion au cœur de la nature sauvage.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
 
-<section class="gallery">
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/1.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">Baie des Russes</h2>
-                <p>Explorez les eaux cristallines et le sable doré.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/2.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">Nosy Komba Tanikely</h2>
-                <p>Admirez des paysages spectaculaires.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/3.jpeg')">
-            <div class="overlay">
-                <h2 class="mb-2">Nosy Iranja Ile au tortue</h2>
-                <p>Une immersion au cœur de la nature sauvage.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/4.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">La réserve de Lokobe</h2>
-                <p>Vivez l'aventure sur les dunes infinies.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/5.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">Tour de l’île</h2>
-                <p>Découvrez une architecture moderne et vibrante.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/6.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">Nosy Sakatia, Îles Paradisiaques</h2>
-                <p>Des couchers de soleil à couper le souffle.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/7.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">Nosy Mitsio avec Bateau rapide</h2>
-                <p>Entrez dans un monde magique et mystérieux.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/8.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">Observation Baleine et Dauphin</h2>
-                <p>Écoutez la puissance de la nature.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/9.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">Pêche au gros</h2>
-                <p>Une expérience relaxante et unique.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
-        <div class="gallery-item" style="background-image: url('/assets/images/gallery/10.jpg')">
-            <div class="overlay">
-                <h2 class="mb-2">Croisière en Catamaran</h2>
-                <p>Revivez l'histoire à travers des lieux authentiques.</p>
-                <a href="#" class="btn">Découvrir</a>
-            </div>
-        </div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/4.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">La réserve de Lokobe</h2>
+                                        <p>Vivez l'aventure sur les dunes infinies.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/5.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Tour de l’île</h2>
+                                        <p>Découvrez une architecture moderne et vibrante.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/6.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Nosy Sakatia, Îles Paradisiaques</h2>
+                                        <p>Des couchers de soleil à couper le souffle.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Nosy Mitsio avec Bateau rapide</h2>
+                                        <p>Entrez dans un monde magique et mystérieux.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/8.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Observation Baleine et Dauphin</h2>
+                                        <p>Écoutez la puissance de la nature.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/9.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Pêche au gros</h2>
+                                        <p>Une expérience relaxante et unique.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/10.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Croisière en Catamaran</h2>
+                                        <p>Revivez l'histoire à travers des lieux authentiques.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
     </section>
-    <?php include 'templates/footer.php'; ?>
+<?php include 'templates/footer.php'; ?>
 
 
 

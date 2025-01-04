@@ -17,17 +17,30 @@ $languages = [
       	</button>
 
 		<div class="collapse navbar-collapse justify-content-end" id="ftco-nav">
-		  <ul class="navbar-nav ms-auto align-items-center">
+		  <ul class="navbar-nav ms-auto align-items-start">
 			<!-- Accueil -->
 			<li class="nav-item active">
 			  <a href="/en/home" class="nav-link">Accueil</a>
 			</li>
 		
 			<!-- Excursions Dropdown -->
-			<li class="nav-item ">
-			  <a href="/<?= $lang ?>/excurtions" class="nav-link "  aria-expanded="false">
+			<li class="nav-item dropdown">
+			  <a href="/<?= $lang ?>/excurtions" class="nav-link dropdown-toggle"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
 				Excursions
-			  </a>
+			  </a>		
+			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
+			  		<li>
+						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
+							Excursions Nord
+						</a>
+					</li>
+					<li><hr class="dropdown-divider"></li>
+					<li>
+						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
+							Excursions Sud
+						</a>
+					</li>
+			  	</ul>
 			</li>
 		
 			<!-- Circuits Dropdown -->
@@ -43,15 +56,69 @@ $languages = [
 				Tours
 			  </a>
 			</li>
+
+			<!-- Guide -->
+			<li class="nav-item">
+			  <a href="/<?=  $lang ?>/guide" class="nav-link">Guide</a>
+			</li>
 		
 			<!-- Contact -->
 			<li class="nav-item">
 			  <a href="/<?=  $lang ?>/contact" class="nav-link">Contact</a>
 			</li>
 
-			<!-- Contact -->
+			<!-- Service -->
 			<li class="nav-item">
 			  <a href="" class="nav-link">Services</a>
+			</li>
+
+			
+		
+			<!-- social network -->
+			<li class="nav-item dropdown">
+			  <a href="javascript:avoid(0)" class="nav-link dropdown-toggle"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
+				Nous suivre
+			  </a>
+
+			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
+			  		<li>
+					  	<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.facebook.com/NosybeParadiseTours/">
+							<span class="icon-facebook"></span>
+							&nbsp; Facebook
+						</a>
+					</li>
+					<li><hr class="dropdown-divider"></li>
+					<li>
+						<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://twitter.com/7paradisetours">
+							<span class="icon-twitter"></span>
+							&nbsp;Twitter X
+						</a>
+					</li>
+					<li><hr class="dropdown-divider"></li>
+					<li>
+						<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://mg.linkedin.com/in/nosy-be-paradise-tours-1bb9088b">
+						<span class="icon-linkedin"></span>
+						&nbsp;Linkedin
+						</a>
+					</li>
+
+					<li><hr class="dropdown-divider"></li>
+					<li>
+						<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://https//www.google.com/maps/contrib/112713821230749887112/photos/@-13.3996565,48.2711495,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1">
+							<span class="icon-google-plus"></span>
+							&nbsp;Google +
+						</a>
+					</li>
+
+					<li><hr class="dropdown-divider"></li>
+					<li>
+						<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.youtube.com/results?search_query=nosy+be+paradise+tours">
+							<span class="icon-youtube"></span>
+							&nbsp; Youtube
+						</a>
+					</li>
+			  	</ul>
+
 			</li>
 
 			<!-- Langue Dropdown -->
@@ -78,13 +145,6 @@ $languages = [
 						}
 					?>
 			  	</ul>
-			</li>
-		
-			<!-- CTA -->
-			<li class="nav-item cta">
-			  <a href="tel:+261320712758">
-				<span>Reserver</span>
-			  </a>
 			</li>
 		  </ul>
 		</div> 

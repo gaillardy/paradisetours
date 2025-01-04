@@ -47,9 +47,9 @@
           <h2 class="ftco-heading-2">Des questions?</h2>
           <div class="block-23 mb-3">
             <ul>
-              <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-              <li><a href="tel:+261320427235"><span class="icon icon-phone"></span><span class="text">+261320427235</span></a></li>
-              <li><a href="mailto:contact@nosybeparadisetours.com"><span class="icon icon-envelope"></span><span class="text"> contact@nosybeparadisetours.com</span></a></li>
+              <li><span class="icon icon-map-marker"></span><span class="text">À côté de la pharmacie TSARAJORORue Boulevard Raymond poincaréHell ville- Nosy be 207 MADAGASCAR</span></li>
+              <li><a href="tel:+261320712758"><span class="icon icon-phone"></span><span class="text">+261320712758</span></a></li>
+              <li><a href="mailto:contact@nosybeparadisetours.com"><span class="icon icon-envelope"></span><span class="text"> Nous contacter </span></a></li>
             </ul>
           </div>
       </div>
@@ -58,8 +58,8 @@
   <div class="row">
     <div class="col-md-12 text-center">
 
-      <p>
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Nosy Be Paradise Tours</a>
+        <p>
+          Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Nosy Be Paradise Tours</a>
         </p>
     </div>
   </div>
@@ -67,6 +67,7 @@
 </footer>
 
 <script src="/assets/js/script.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="/assets/js/bootstrap.bundle.min.js"></script>
 <script src="/assets/js/jquery.min.js"></script>
 <script src="/assets/js/jquery-migrate-3.0.1.min.js"></script>

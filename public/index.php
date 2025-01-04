@@ -25,6 +25,22 @@ $router->add('/', function ($params) {
 });
 
 
+$router->add('/{lang}/guide', function ($params) {
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->guide($lang);
+});
+
+
 $router->add('/{lang}/contact/success', function ($params) {
     $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
