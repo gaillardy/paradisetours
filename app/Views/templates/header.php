@@ -8,7 +8,7 @@
     <meta name="keywords" content="<?= $metaKeywords ?? 'tourism, travel' ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title><?= $title ?> / Nosy be Paradise Tours</title>
-        <link rel="icon" href="/assets/images/logo-paradise.png">
+        <link rel="icon" href="/assets/images/favicon.png">
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Alex+Brush" rel="stylesheet">
         <link rel="stylesheet" href="/assets/css/open-iconic-bootstrap.min.css">
@@ -38,6 +38,12 @@
         <link rel="stylesheet" href="/assets/css/style.css">
         <link rel="stylesheet" href="/assets/css/app.css">
         <link rel="stylesheet" href="/assets/css/slider.css">
+
+        <!-- Bootstrap CSS -->
+        <!-- Animation on Scroll CSS -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+        <!-- Font Awesome for icons -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
         
 </head>
 <body>
@@ -51,5 +57,11 @@
 <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 <script src="/assets/js/script.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Bootstrap and AOS JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 </body>
 </html>

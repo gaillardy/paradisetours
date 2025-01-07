@@ -5,21 +5,21 @@ namespace App\Controllers;
 use App\Helpers\Language;
 use App\Core\View;
 
-class ExcurtionController
+class CircuitController
 {
     
     public function index($lang)
     {
         $translations = Language::getTranslations($lang);
 
-        $title = 'Excurtions';
-        $metaDescription = 'Excurtions Nosy be';
-        $metaKeywords = 'Excurtions Nosy be';
+        $title = 'Circuits';
+        $metaDescription = 'Circuits de Madagascar';
+        $metaKeywords = 'Circuits de Madagascar';
 
         // Obtenir la route actuelle
         $currentRoute = $_SERVER['REQUEST_URI'];
 
-        View::render('excurtions', [
+        View::render('circuit', [
             'title' => $title,
             'metaDescription' => $metaDescription,
             'metaKeywords' => $metaKeywords,

@@ -41,7 +41,7 @@
                 <div class="row">
 		            <div class="col-md-12 d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 text-center">
-                            <h2 class="mb-4">Excursions Nord</h2>
+                            <h2 class="mb-4">Excursions côté mer</h2>
                             
                         </div>
                     </div>
@@ -97,18 +97,6 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/5.jpg')">
-                                    <div class="overlay">
-                                        <h2 class="mb-2">Tour de l’île</h2>
-                                        <p>Découvrez une architecture moderne et vibrante.</p>
-                                        <a href="#" class="btn">Découvrir</a>
-                                    </div>
-                                </div>
-							</div>
-	    				</div>
-
-                        <div class="item">
-							<div class="destination">
                                 <div class="gallery-item" style="background-image: url('/assets/images/gallery/6.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Nosy Sakatia, Îles Paradisiaques</h2>
@@ -130,6 +118,44 @@
                                 </div>
 							</div>
 	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">catamaran Mitsio</h2>
+                                        <p>Entrez dans un monde magique et mystérieux.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">catamaran RADAMA</h2>
+                                        <p>L'archipel de Radama en catamaran </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">catamaran Mitsio et RADAMA</h2>
+                                        <p>Entrez dans un monde magique et mystérieux.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+
 
                         <div class="item">
 							<div class="destination">
@@ -170,7 +196,54 @@
     			</div>
     		</div>
     	</div>
-    </section>
+</section>
+
+
+<section class="ftco-section ftco-destination mt-2">
+    	<div class="container">
+                <div class="row">
+		            <div class="col-md-12 d-flex justify-content-center counter-wrap ftco-animate">
+                        <div class="block-18 text-center">
+                            <h2 class="mb-4">Excursions côté terre</h2>
+                            
+                        </div>
+                    </div>
+		        </div>
+    		<div class="row">
+    			<div class="col-md-12">
+    				<div class="destination-slider owl-carousel ftco-animate">
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/4.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2" style="text-transform:lowercase">
+                                            TOUR DIA LAVA LA RESERVE NATURELLE DE LOKOBE + NOSY KOMBA
+                                        </h2>
+                                        <p>Vivez l'aventure sur les dunes infinies.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/5.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Perfume tours : Tour de l’île</h2>
+                                        <p>Découvrez une architecture moderne et vibrante.</p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+</section>
+
+
 <?php include 'templates/footer.php'; ?>
 
 

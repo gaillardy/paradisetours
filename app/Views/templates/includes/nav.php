@@ -31,28 +31,41 @@ $languages = [
 			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
 			  		<li>
 						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
-							Excursions Nord
+							Excursions mer
 						</a>
 					</li>
 					<li><hr class="dropdown-divider"></li>
 					<li>
 						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
-							Excursions Sud
+							Excursions terre
 						</a>
 					</li>
 			  	</ul>
 			</li>
 		
 			<!-- Circuits Dropdown -->
-			<li class="nav-item">
-			  <a href="#" class="nav-link"   aria-expanded="false">
-				Circuits
-			  </a>
+			<li class="nav-item dropdown">
+			  <a href="/<?= $lang ?>/circuits" class="nav-link dropdown-toggle"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
+			  Circuits
+			  </a>		
+			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
+			  		<li>
+						<a class="dropdown-item  " href="/<?= $lang ?>/circuits">
+						Circuits Nord
+						</a>
+					</li>
+					<li><hr class="dropdown-divider"></li>
+					<li>
+						<a class="dropdown-item  " href="/<?= $lang ?>/circuits">
+						Circuits RN7
+						</a>
+					</li>
+			  	</ul>
 			</li>
 
 			<!-- Circuits Dropdown -->
 			<li class="nav-item">
-			  <a href="#" class="nav-link"   aria-expanded="false">
+			  <a href="/<?= $lang ?>/tours" class="nav-link"   aria-expanded="false">
 				Tours
 			  </a>
 			</li>
@@ -69,7 +82,7 @@ $languages = [
 
 			<!-- Service -->
 			<li class="nav-item">
-			  <a href="" class="nav-link">Services</a>
+			  <a href="/<?=  $lang ?>/services" class="nav-link">Services</a>
 			</li>
 
 			

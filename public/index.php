@@ -24,6 +24,51 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
+$router->add('/{lang}/tours', function ($params) {
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ToursController();
+    $controller->index($lang);
+});
+
+$router->add('/{lang}/services', function ($params) {
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->service($lang);
+});
+
+$router->add('/{lang}/circuits', function ($params) {
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\CircuitController();
+    $controller->index($lang);
+});
+
 
 $router->add('/{lang}/guide', function ($params) {
     $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
