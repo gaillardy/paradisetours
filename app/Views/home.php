@@ -15,14 +15,6 @@
 				<div class="col-md-9 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 					<h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><strong>Love the nature <br></strong>and enjoy our services</h1>
 					<p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"> </p>
-					
-					<p id="browse">browse the highlights</p>
-					<p class="browse d-md-flex">
-						<span class="d-flex justify-content-md-center align-items-md-center"><a href="/<?= $lang ?>/guide"><i class="flaticon-detective"></i>Guide</a></span>
-						<span class="d-flex justify-content-md-center align-items-md-center"><a href="/en/app_excurtion_nosybe"><i class="flaticon-hotel"></i>Excurcion</a></span> 
-						<span class="d-flex justify-content-md-center align-items-md-center"><a href="#"><i class="flaticon-meeting-point"></i>Circuits</a></span> 
-						<span class="d-flex justify-content-md-center align-items-md-center"><a href="#"><i class="flaticon-support"></i>Services</a></span>
-					</p>
 				</div>
 			</div>
       </div>
@@ -50,7 +42,7 @@
 							surtout lorsqu’il s’agit d’une nouvelle destination.
 						</p>
 					</div>
-					<a href="#" class="btn-savoir">En savoir plus</a>
+					<a href="/<?= $lang ?>/guide" class="btn-savoir">En savoir plus</a>
             	</div>      
           	</div>
           <div class="col-md-3 d-flex align-self-stretch ftco-animate" id="media">
@@ -63,13 +55,13 @@
 			">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-hotel" style="color:#fff;"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Excurtion</h3>
+                <h3 class="heading mb-3">Excursions</h3>
                 <p>Nosy Be est connu pour un tourisme balnéaire, 
 					nos excursions sont parfaitement organisées.
 				</p>
 				
               </div>
-			  <a href="#" class="btn-savoir">En savoir plus</a>
+			  <a href="/<?= $lang ?>/excursions" class="btn-savoir">En savoir plus</a>
             </div>    
           </div>
           <div class="col-md-3 d-flex align-self-stretch ftco-animate" id="media">
@@ -87,7 +79,7 @@
 						nous vous proposons différents packages.
 					</p>
               	</div>
-			  <a href="#" class="btn-savoir">En savoir plus</a>
+			  <a href="/<?= $lang ?>/circuits" class="btn-savoir">En savoir plus</a>
             </div>      
           </div>
           <div class="col-md-3 d-flex align-self-stretch ftco-animate" id="media">
@@ -106,7 +98,7 @@
 				</p>
 				
               </div>
-			  <a href="#" class="btn-savoir">En savoir plus</a>
+			  <a href="/<?= $lang ?>/services" class="btn-savoir">En savoir plus</a>
             </div>      
           </div>
         </div>
@@ -295,7 +287,7 @@
 										
 									</div>
 									<p>
-										C’est une belle expérience qui permet de resserrer les liens .
+										C’est une belle expérience qui permet de resserrer les liens entre collègue .
 									</p>
 									<p class="days"><span style="visibility:hidden;">Voyage incentive</span></p>
 									<hr>

@@ -18,7 +18,7 @@
       <div class="ftco-footer-widget mb-4 ml-md-5">
         <h2 class="ftco-heading-2">Informations</h2>
         <ul class="list-unstyled">
-          <li><a href="#" class="py-2 d-block">À propos</a></li>
+          <li><a href="/<?= $lang ?>/a-propos" class="py-2 d-block">À propos</a></li>
           <li><a href="/<?= $lang ?>/services" class="py-2 d-block">Service</a></li>
           <li><a href="/<?= $lang ?>/contact" class="py-2 d-block">Contact</a></li>
           <li><a href="/<?= $lang ?>/guide" class="py-2 d-block">Guide</a></li>

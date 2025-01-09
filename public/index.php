@@ -24,6 +24,41 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
+
+$router->add('/{lang}/a-propos', function ($params) {
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->about($lang);
+});
+
+
+
+$router->add('/{lang}/excursions/baie-des-russes', function ($params) {
+    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->russe($lang);
+});
+
+
+
 $router->add('/{lang}/tours', function ($params) {
     $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
@@ -103,7 +138,7 @@ $router->add('/{lang}/contact/success', function ($params) {
 
 
 
-$router->add('/{lang}/excurtions', function ($params) {
+$router->add('/{lang}/excursions', function ($params) {
     $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue

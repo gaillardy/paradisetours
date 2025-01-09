@@ -25,6 +25,27 @@ class HomeController
         ]);
     }
 
+    public function about($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'A propos';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $metaDescription = "A propos Nosy be Paradise Tour";
+        $metaKeywords = "A propos Nosy be Paradise Tour";
+
+        View::render('about', [
+            'lang'         => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+            'title' => $title,
+        ]);
+    }
+
     public function service($lang)
     {
         // Charger les traductions pour la langue donnée

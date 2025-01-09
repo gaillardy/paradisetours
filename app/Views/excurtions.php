@@ -55,7 +55,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">Baie des Russes</h2>
                                         <p>Explorez les eaux cristallines et le sable doré.</p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/excurtions/baie-des-russes" class="btn">Découvrir</a>
                                     </div>
                                 </div>  
 							</div>

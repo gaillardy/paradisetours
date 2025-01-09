@@ -1,0 +1,4 @@
+1-extracte les dossiers
+2-ouvre le dossier dans VS code
+3-tape le raccourci ctrl + %
+4-lance la commande php -S localhost:8000 -t public

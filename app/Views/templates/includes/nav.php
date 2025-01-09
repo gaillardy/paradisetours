@@ -6,6 +6,93 @@ $languages = [
 ];
 
 ?>
+<style>
+    /* Base styles for the nav-item */
+    .nav-item {
+      position: relative;
+    }
+    
+    .custom-dropdown .nav-link {
+      color: #333;
+      text-decoration: none;
+      padding: 10px 15px;
+      display: inline-block;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+    
+    .custom-dropdown .nav-link:focus {
+      outline: none;
+      color: #007bff;
+    }
+    
+    /* Change background on focus-within */
+    .custom-dropdown:focus-within {
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+    
+    /* Dropdown menu styles */
+    .custom-dropdown .dropdown-menu {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      padding: 10px 0;
+      display: none;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity 0.3s ease, transform 0.3s ease;
+      z-index: 1000;
+      min-width: 200px;
+    }
+    
+    
+    
+    
+    /* Dropdown menu visible with focus-within */
+    .custom-dropdown:focus-within .dropdown-menu {
+      display: block;
+      opacity: 1;
+      transform: translateY(0);
+    }
+    
+    /* Dropdown item styles */
+    .custom-dropdown .dropdown-item {
+      padding: 10px 20px;
+      color: #333;
+      text-decoration: none;
+      display: block;
+      font-size: 14px;
+      transition: background-color 0.3s ease, color 0.3s ease;
+      transition:0.5s ease-in-out;
+    }
+    
+    .custom-dropdown .dropdown-item:hover,
+    .custom-dropdown .dropdown-item:focus {
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    
+    /* Divider styles */
+    .custom-dropdown .divider {
+      height: 1px;
+      margin: 5px 0;
+      background-color: #ddd;
+      border: none;
+    }
+	@media (max-width:750px){
+		.navbar-collapse {
+			height: 100vh;
+		}
+    
+	}
+    
+    
+</style>
 
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
@@ -20,15 +107,15 @@ $languages = [
 		  <ul class="navbar-nav ms-auto align-items-start">
 			<!-- Accueil -->
 			<li class="nav-item active">
-			  <a href="/en/home" class="nav-link">Accueil</a>
+			  <a href="/<?= $lang ?>/home" class="nav-link">Accueil</a>
 			</li>
 		
 			<!-- Excursions Dropdown -->
-			<li class="nav-item dropdown">
-			  <a href="/<?= $lang ?>/excurtions" class="nav-link dropdown-toggle"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
+			<li class="nav-item custom-dropdown">
+			  <a href="javascript:avoid(0)" class="nav-link" tabindex="0">
 				Excursions
 			  </a>		
-			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
+			  	<ul class="dropdown-menu" >
 			  		<li>
 						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
 							Excursions mer
@@ -43,25 +130,26 @@ $languages = [
 			  	</ul>
 			</li>
 		
-			<!-- Circuits Dropdown -->
-			<li class="nav-item dropdown">
-			  <a href="/<?= $lang ?>/circuits" class="nav-link dropdown-toggle"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
-			  Circuits
-			  </a>		
-			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
-			  		<li>
-						<a class="dropdown-item  " href="/<?= $lang ?>/circuits">
-						Circuits Nord
-						</a>
-					</li>
-					<li><hr class="dropdown-divider"></li>
+			
+			<li class="nav-item custom-dropdown">
+				<a href="javascript:avoid(0)" class="nav-link" tabindex="0">
+					Circuits
+				</a>
+				<ul class="dropdown-menu">
 					<li>
-						<a class="dropdown-item  " href="/<?= $lang ?>/circuits">
-						Circuits RN7
-						</a>
+					<a class="dropdown-item" href="/<?= $lang ?>/circuits">
+						Circuits Nord
+					</a>
 					</li>
-			  	</ul>
+					<li>
+					<a class="dropdown-item" href="/<?= $lang ?>/circuits">
+						Circuits RN7
+					</a>
+					</li>
+				</ul>
 			</li>
+
+
 
 			<!-- Circuits Dropdown -->
 			<li class="nav-item">
@@ -88,12 +176,12 @@ $languages = [
 			
 		
 			<!-- social network -->
-			<li class="nav-item dropdown">
-			  <a href="javascript:avoid(0)" class="nav-link dropdown-toggle"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
-				Nous suivre
-			  </a>
+			<li class="nav-item custom-dropdown">
+			  	<a href="javascript:avoid(0)" class="nav-link" tabindex="0">
+					Nous suivre
+			  	</a>
 
-			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
+			  	<ul class="dropdown-menu" >
 			  		<li>
 					  	<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.facebook.com/NosybeParadiseTours/">
 							<span class="icon-facebook"></span>
@@ -135,8 +223,8 @@ $languages = [
 			</li>
 
 			<!-- Langue Dropdown -->
-			<li class="nav-item dropdown">
-			  <a href="#" class="nav-link dropdown-toggle" id="langDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+			<li class="nav-item custom-dropdown">
+			  <a href="javascript:avoid(0)" class="nav-link" tabindex="0">
 				<img src="/assets/images/lang/<?= $lang ?>.png" alt="Français" style="width: 15px; height: 12px;">
 			  </a>
 			  	
@@ -153,7 +241,6 @@ $languages = [
 										<?= $name ?>
 									</a>
 								</li>
-								<li><hr class="dropdown-divider"></li>
 							<?php
 						}
 					?>
@@ -162,5 +249,5 @@ $languages = [
 		  </ul>
 		</div> 
     </div>
-  </nav>
+</nav>
 <!-- END nav -->

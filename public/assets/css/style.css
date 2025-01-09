@@ -3693,34 +3693,8 @@ input[type="button"].btn-block {
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
-  animation: zoom-slow 15s infinite alternate ease-in-out; /* Animation lente */
 }
 
-@media(max-width:750px){
-  .hero-wrap {
-    animation: zoom-slow-2 15s infinite alternate ease-in-out; /* Animation lente */
-  }
-.browse , #browse {display: none;}
-
-}
-
-@keyframes zoom-slow-2 {
-  0% {
-    background-size: cover; /* Taille normale */
-  }
-  100% {
-    background-size: cover; /* Zoom léger */
-  }
-}
-
-@keyframes zoom-slow {
-  0% {
-      background-size: 100%; /* Taille normale */
-  }
-  100% {
-      background-size: 110%; /* Zoom léger */
-  }
-}
 .card-img {
   width: 100%;
   border-radius: calc(0.25rem - 1px); }
@@ -4242,7 +4216,6 @@ input[type="button"].btn-block {
 .flaticon-support,
 .btn-savoir
  {
-  transform:translateX(-350px);
   visibility:hidden;
   opacity:0;
   transition:0.3s ease-in-out;
@@ -4255,8 +4228,19 @@ input[type="button"].btn-block {
 #media:hover .flaticon-meeting-point,
 #media:hover .flaticon-support,
 #media:hover .btn-savoir
- {
-  transform:translateX(0px);
+{
+  visibility:visible;
+  opacity:1;
+}
+
+#media:focus
+.media-body , 
+#media:focus .flaticon-detective,
+#media:focus .flaticon-hotel,
+#media:focus .flaticon-meeting-point,
+#media:focus .flaticon-support,
+#media:focus .btn-savoir
+{
   visibility:visible;
   opacity:1;
 }
@@ -4264,7 +4248,6 @@ input[type="button"].btn-block {
 
 .media-body .heading , .icon {
   color:#fff;
-  
 }
 
 .list-group {

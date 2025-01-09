@@ -41,7 +41,7 @@ form {
         }
 
         input:focus, textarea:focus {
-            border-color: #007bff;
+            border-color: #f08300;
             background: #fff;
             outline: none;
         }
@@ -50,7 +50,7 @@ form {
         input:not(:placeholder-shown) + label {
             top: -4px;
             font-size: 12px;
-            color: #007bff;
+            color: #f08300;
         }
 
         textarea {
@@ -68,7 +68,7 @@ form {
         .btn-submit {
             width: 100%;
             padding: 12px;
-            background: #007bff;
+            background: #f08300;
             color: white;
             border: none;
             border-radius: 5px;
@@ -78,7 +78,7 @@ form {
         }
 
         .btn-submit:hover {
-            background: #0056b3;
+            background: #cc6f02;
         }
 
         @media (max-width: 600px) {
