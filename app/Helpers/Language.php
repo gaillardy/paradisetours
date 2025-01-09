@@ -28,6 +28,10 @@ class Language
             'welcome' => '¡Bienvenido a la página principal!',
             'intro' => 'Esta es la versión en español del sitio.',
         ],
+
+        'de' => [
+            'title' => 'Bienvenido a nuestra agencia de turismo',
+        ]
     ];
 
 
@@ -55,7 +59,8 @@ class Language
         $languages = [
             'en' => 'English', 
             'fr' => 'Français', 
-            'it' => 'Italiano'
+            'it' => 'Italiano',
+            'de' => 'Deutsch'
         ];
 
         $output = '<ul>';

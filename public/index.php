@@ -215,7 +215,7 @@ $router->add('/{lang}/newsletter', function ($params) {
 
 
 $router->add('/{lang}/home', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it' , 'de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -263,7 +263,7 @@ $router->add('/{lang}/sub', function ($params) {
 });
 
 if (!preg_match('#^/[a-z]{2}/#', $_SERVER['REQUEST_URI'])) {
-    header("Location: /en/home");
+    header("Location:/en/home");
     exit;
 }
 

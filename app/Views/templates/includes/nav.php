@@ -2,7 +2,8 @@
 $languages = [
 	'en' => 'English', 
 	'fr' => 'Français', 
-	'it' => 'Italiano'
+	'it' => 'Italiano',
+	'de' => 'Deutsch'
 ];
 
 ?>
@@ -117,13 +118,13 @@ $languages = [
 			  </a>		
 			  	<ul class="dropdown-menu" >
 			  		<li>
-						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
+						<a class="dropdown-item  " href="/<?= $lang ?>/excursions">
 							Excursions mer
 						</a>
 					</li>
 					<li><hr class="dropdown-divider"></li>
 					<li>
-						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
+						<a class="dropdown-item  " href="/<?= $lang ?>/excursions">
 							Excursions terre
 						</a>
 					</li>
@@ -225,7 +226,7 @@ $languages = [
 			<!-- Langue Dropdown -->
 			<li class="nav-item custom-dropdown">
 			  <a href="javascript:avoid(0)" class="nav-link" tabindex="0">
-				<img src="/assets/images/lang/<?= $lang ?>.png" alt="Français" style="width: 15px; height: 12px;">
+				<img src="/assets/images/lang/<?= $lang ?>.png" alt="<?= $lang ?>" style="width: 15px; height: 12px;">
 			  </a>
 			  	
 			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
