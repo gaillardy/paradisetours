@@ -1,5 +1,4 @@
 <?php include 'templates/header.php'; ?>
-<?php use App\Helpers\Language; ?>
 <?php //htmlspecialchars($translations['welcome'] ?? 'Welcome') ?>
 <?php //Language::translate('contact'); ?>
 
@@ -480,6 +479,6 @@
     	</div>
     </section>
 
-	
+
 
 <?php include 'templates/footer.php'; ?>

@@ -1,240 +1,108 @@
-<style>
-    /* Base styles for the nav-item */
-    /* Base styles for the nav-item */
-    .nav-item {
-      position: relative;
-    }
-    
-    .custom-dropdown .nav-link {
-      color: #333;
-      text-decoration: none;
-      padding: 10px 15px;
-      display: inline-block;
-      font-weight: bold;
-      transition: color 0.3s ease;
-    }
-    
-    .custom-dropdown .nav-link:focus {
-      outline: none;
-      color: #007bff;
-    }
-    
-    /* Change background on focus-within */
-    .custom-dropdown:focus-within {
-      border-radius: 5px;
-      transition: background-color 0.3s ease;
-    }
-    
-    /* Dropdown menu styles */
-    .custom-dropdown .dropdown-menu {
-      position: absolute;
-      top: 100%;
-      left: 0;
-      background-color: #fff;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      padding: 10px 0;
-      display: none;
-      opacity: 0;
-      transform: translateY(10px);
-      transition: opacity 0.3s ease, transform 0.3s ease;
-      z-index: 1000;
-      min-width: 200px;
-    }
-    
-    
-    
-    
-    /* Dropdown menu visible with focus-within */
-    .custom-dropdown:focus-within .dropdown-menu {
-      display: block;
-      opacity: 1;
-      transform: translateY(0);
-    }
-    
-    /* Dropdown item styles */
-    .custom-dropdown .dropdown-item {
-      padding: 10px 20px;
-      color: #333;
-      text-decoration: none;
-      display: block;
-      font-size: 14px;
-      transition: background-color 0.3s ease, color 0.3s ease;
-      transition:0.5s ease-in-out;
-    }
-    
-    .custom-dropdown .dropdown-item:hover,
-    .custom-dropdown .dropdown-item:focus {
-      background-color: #f8f9fa;
-      color: #333;
-    }
-    
-    /* Divider styles */
-    .custom-dropdown .divider {
-      height: 1px;
-      margin: 5px 0;
-      background-color: #ddd;
-      border: none;
-    }
-    
-    
-    
-    </style>
 
-<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-    <div class="container">
-      	<a class="navbar-brand justify-content-start" href="/<?= $lang ?>/home">
-			<img src="/assets/images/logo-paradise.png" alt="Nosy be Paradise tour" >
-	  	</a>
-      	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-        	<span class="oi oi-menu"></span> Menu
-      	</button>
-
-		<div class="collapse navbar-collapse justify-content-end" id="ftco-nav">
-		  <ul class="navbar-nav ms-auto align-items-start">
-			<!-- Accueil -->
-			<li class="nav-item active">
-			  <a href="/<?= $lang ?>/home" class="nav-link">Accueil</a>
-			</li>
-		
-			<!-- Excursions Dropdown -->
-			<li class="nav-item custom-dropdown">
-			  <a href="javascript:avoid(0)" class="nav-link" tabindex="0">
-				Excursions
-			  </a>		
-			  	<ul class="dropdown-menu" >
-			  		<li>
-						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
-							Excursions mer
-						</a>
-					</li>
-					<li><hr class="dropdown-divider"></li>
-					<li>
-						<a class="dropdown-item  " href="/<?= $lang ?>/excurtions">
-							Excursions terre
-						</a>
-					</li>
-			  	</ul>
-			</li>
-		
-			
-			<li class="nav-item custom-dropdown">
-				<a href="javascript:avoid(0)" class="nav-link" tabindex="0">
-					Circuits
-				</a>
-				<ul class="dropdown-menu">
-					<li>
-					<a class="dropdown-item" href="/<?= $lang ?>/circuits">
-						Circuits Nord
-					</a>
-					</li>
-					<li>
-					<a class="dropdown-item" href="/<?= $lang ?>/circuits">
-						Circuits RN7
-					</a>
-					</li>
-				</ul>
-			</li>
-
-
-
-			<!-- Circuits Dropdown -->
-			<li class="nav-item">
-			  <a href="/<?= $lang ?>/tours" class="nav-link"   aria-expanded="false">
-				Tours
-			  </a>
-			</li>
-
-			<!-- Guide -->
-			<li class="nav-item">
-			  <a href="/<?=  $lang ?>/guide" class="nav-link">Guide</a>
-			</li>
-		
-			<!-- Contact -->
-			<li class="nav-item">
-			  <a href="/<?=  $lang ?>/contact" class="nav-link">Contact</a>
-			</li>
-
-			<!-- Service -->
-			<li class="nav-item">
-			  <a href="/<?=  $lang ?>/services" class="nav-link">Services</a>
-			</li>
-
-			
-		
-			<!-- social network -->
-			<li class="nav-item custom-dropdown">
-			  	<a href="javascript:avoid(0)" class="nav-link" tabindex="0">
-					Nous suivre
-			  	</a>
-
-			  	<ul class="dropdown-menu" >
-			  		<li>
-					  	<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.facebook.com/NosybeParadiseTours/">
-							<span class="icon-facebook"></span>
-							&nbsp; Facebook
-						</a>
-					</li>
-					<li><hr class="dropdown-divider"></li>
-					<li>
-						<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://twitter.com/7paradisetours">
-							<span class="icon-twitter"></span>
-							&nbsp;Twitter X
-						</a>
-					</li>
-					<li><hr class="dropdown-divider"></li>
-					<li>
-						<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://mg.linkedin.com/in/nosy-be-paradise-tours-1bb9088b">
-						<span class="icon-linkedin"></span>
-						&nbsp;Linkedin
-						</a>
-					</li>
-
-					<li><hr class="dropdown-divider"></li>
-					<li>
-						<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://https//www.google.com/maps/contrib/112713821230749887112/photos/@-13.3996565,48.2711495,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1">
-							<span class="icon-google-plus"></span>
-							&nbsp;Google +
-						</a>
-					</li>
-
-					<li><hr class="dropdown-divider"></li>
-					<li>
-						<a class="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.youtube.com/results?search_query=nosy+be+paradise+tours">
-							<span class="icon-youtube"></span>
-							&nbsp; Youtube
-						</a>
-					</li>
-			  	</ul>
-
-			</li>
-
-			<!-- Langue Dropdown -->
-			<li class="nav-item custom-dropdown">
-			  <a href="javascript:avoid(0)" class="nav-link" tabindex="0">
-				<img src="/assets/images/lang/<?= $lang ?>.png" alt="Français" style="width: 15px; height: 12px;">
-			  </a>
-			  	
-			  	<ul class="dropdown-menu" aria-labelledby="langDropdown">
-				  	<?php
-						foreach ($languages as $code => $name) {
-							// Construire l'URL en changeant uniquement la langue
-							$newRoute = preg_replace('/^\/[a-z]{2}/', "/$code", $currentRoute);
-
-							?>
-								<li>
-									<a class="dropdown-item <?= $code === $lang ? 'active' : ''; ?>" href="<?= $newRoute ?>">
-										<img src="/assets/images/lang/<?= $code ?>.png" alt="<?= $name ?>" style="width: 15px; height: 12px;">
-										<?= $name ?>
-									</a>
-								</li>
-							<?php
-						}
-					?>
-			  	</ul>
-			</li>
-		  </ul>
-		</div> 
-    </div>
-</nav>
+  
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Bouton Call-to-Action</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			height: 100vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background: #f0f0f0;
+		  }
+		  
+		  .cta-button {
+			position: fixed;
+			bottom: 20px;
+			right: 20px;
+		  }
+		  
+		  .main-btn {
+			width: 60px;
+			height: 60px;
+			background-color: #007BFF;
+			color: white;
+			border-radius: 50%;
+			border: none;
+			cursor: pointer;
+			font-size: 24px;
+			box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			outline: none;
+			transition: transform 0.3s ease;
+		  }
+		  
+		  .main-btn:hover {
+			transform: scale(1.1);
+		  }
+		  
+		  .social-icons {
+			position: absolute;
+			bottom: 60px;
+			right: 0;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			gap: 10px;
+			pointer-events: none;
+			opacity: 0;
+			transform: scale(0);
+			transform-origin: bottom;
+			transition: all 0.4s ease-in-out;
+		  }
+		  
+		  .main-btn:focus + .social-icons {
+			pointer-events: auto;
+			opacity: 1;
+			transform: scale(1);
+		  }
+		  
+		  .social-icon {
+			width: 50px;
+			height: 50px;
+			background-color: #007BFF;
+			color: white;
+			border-radius: 50%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			text-decoration: none;
+			font-size: 20px;
+			transition: transform 0.3s, background-color 0.3s;
+		  }
+		  
+		  .social-icon:hover {
+			background-color: #0056b3;
+			transform: scale(1.1);
+		  }
+		  
+		  .facebook { background-color: #3b5998; }
+		  .youtube { background-color: #ff0000; }
+		  .linkedin { background-color: #0077b5; }
+		  .twitter { background-color: #1da1f2; }
+		  .google { background-color: #db4437; }
+	</style>
+  </head>
+  <body>
+	<div class="cta-button">
+	  <button class="main-btn" aria-label="Menu réseaux sociaux">
+		✉️
+	  </button>
+	  <div class="social-icons">
+		<a href="https://www.facebook.com" target="_blank" class="social-icon facebook" aria-label="Facebook">F</a>
+		<a href="https://www.youtube.com" target="_blank" class="social-icon youtube" aria-label="YouTube">Y</a>
+		<a href="https://www.linkedin.com" target="_blank" class="social-icon linkedin" aria-label="LinkedIn">L</a>
+		<a href="https://twitter.com" target="_blank" class="social-icon twitter" aria-label="Twitter">T</a>
+		<a href="https://plus.google.com" target="_blank" class="social-icon google" aria-label="Google Plus">G</a>
+	  </div>
+	</div>
+  </body>
+  </html>

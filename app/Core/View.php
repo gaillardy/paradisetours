@@ -21,4 +21,6 @@ class View
         // Inclure le fichier de template
         include $templateFile;
     }
+
+    
 }

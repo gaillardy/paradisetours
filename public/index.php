@@ -10,7 +10,7 @@ session_start();
 $router = new Router();
 
 $router->add('/', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -24,9 +24,116 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
+$router->add('/{lang}/excursions/peche-au-gros', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->peche($lang);
+});
+
+
+$router->add('/{lang}/excursions/observation-des-baleines', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->baleine($lang);
+});
+
+$router->add('/{lang}/excursions/nosy-sakatia', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->sakatia($lang);
+});
+
+$router->add('/{lang}/excursions/perfume-tour', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->parfumTour($lang);
+});
+
+$router->add('/{lang}/excursions/reserve-de-lokobe', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->lokobe($lang);
+});
+
+$router->add('/{lang}/excursions/nosy-iranja', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->iranja($lang);
+});
+
+
+$router->add('/{lang}/excursions/nosy-komba-et-nosy-tanikely', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->komba($lang);
+});
+
 
 $router->add('/{lang}/a-propos', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -43,7 +150,7 @@ $router->add('/{lang}/a-propos', function ($params) {
 
 
 $router->add('/{lang}/excursions/baie-des-russes', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -60,7 +167,7 @@ $router->add('/{lang}/excursions/baie-des-russes', function ($params) {
 
 
 $router->add('/{lang}/tours', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -75,7 +182,7 @@ $router->add('/{lang}/tours', function ($params) {
 });
 
 $router->add('/{lang}/services', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -90,7 +197,7 @@ $router->add('/{lang}/services', function ($params) {
 });
 
 $router->add('/{lang}/circuits', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -106,7 +213,7 @@ $router->add('/{lang}/circuits', function ($params) {
 
 
 $router->add('/{lang}/guide', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -122,7 +229,7 @@ $router->add('/{lang}/guide', function ($params) {
 
 
 $router->add('/{lang}/contact/success', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -139,7 +246,7 @@ $router->add('/{lang}/contact/success', function ($params) {
 
 
 $router->add('/{lang}/excursions', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -154,7 +261,7 @@ $router->add('/{lang}/excursions', function ($params) {
 });
 
 $router->add('/{lang}/sendnews', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -169,7 +276,7 @@ $router->add('/{lang}/sendnews', function ($params) {
 });
 
 $router->add('/{lang}/news', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -184,7 +291,7 @@ $router->add('/{lang}/news', function ($params) {
 });
 
 $router->add('/{lang}/subscribe', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -199,7 +306,7 @@ $router->add('/{lang}/subscribe', function ($params) {
 });
 
 $router->add('/{lang}/newsletter', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -233,7 +340,7 @@ $router->add('/{lang}/home', function ($params) {
 
 
 $router->add('/{lang}/contact', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
@@ -248,7 +355,7 @@ $router->add('/{lang}/contact', function ($params) {
 });
 
 $router->add('/{lang}/sub', function ($params) {
-    $validLanguages = ['en', 'fr', 'it']; // Langues prises en charge
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {

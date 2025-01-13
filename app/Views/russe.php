@@ -189,7 +189,7 @@
         </section>
 
         <section class="buttons-section">
-            <a href="/assets/documents/br.pdf" class="btn btn-outline-primary" download>Télécharger le PDF</a>
+            <a href="#" class="btn btn-outline-primary" download="/assets/documents/br.pdf">Télécharger le PDF</a>
             <a href="tel:+261320712758" class="btn btn-outline-succsess">Appeler Maintenant</a>
         </section>
     </main>

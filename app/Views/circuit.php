@@ -19,7 +19,7 @@
 		    	<div class="row">
 		            <div class="col-md-12 d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 text-center">
-                            <h2 class="mb-2">Circuits nord de Madagascar</h2>
+                            <h2 class="mb-2">Circuits  de Madagascar</h2>
                             <div class="text">
                                 <span>
                                     NOSY BE PARADISE TOURS organise et offre des excursions sur plusieurs jours, 
@@ -74,6 +74,62 @@
                                         <p>
                                             Durée  : 5 jours 4 nuits
                                             Départ : Nosy Be
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Parc Bemaraha</h2>
+                                        <p>
+                                        Réserve National Terrestre classée Patrimoine Mondial au paysage de Tsingy de différentes formes.
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Parc Ankarana</h2>
+                                        <p>
+                                        Réserve Spéciale, Forêt dense sèche, le Tsingy et son peuplement et la Forêt des canyons.
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Parc Marojejy </h2>
+                                        <p>
+                                            Parc National Terrestre classé Patrimoine Mondial, massif impressionnant, 
+                                            forêt dense humide de basse altitude habitat 
+                                            du Propithecus candidus ou Simpona fotsy.
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Parc Ankarafantsika</h2>
+                                        <p>
+                                        Ankarafantsika comprend une formation 
+                                        floristique unique sur massif sableux dans laquelle 
+                                        se trouvent des espèces faunistiques à un taux d’endémicité très élevé.
                                         </p>
                                         <a href="#" class="btn">Découvrir</a>
                                     </div>
@@ -146,6 +202,37 @@
                                 </div>
 							</div>
 	    				</div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Parc Mantadia</h2>
+                                        <p>
+                                        Parc National Terrestre avec une forêt dense
+                                         humide sempervirente où des espèces d’amphibiens, 
+                                        de reptiles et des lémuriens ont élu habitat.
+
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Montagne d’Ambre</h2>
+                                        <p>
+                                        Parc National Terrestre et Réserve Spéciale, 
+                                        forêt dense humide avec un taux d’endémisme 
+                                        très élevé dont des milliers d’espèces de bois précieux .
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
     				</div>
     			</div>
     		</div>
@@ -159,7 +246,6 @@
 		            <div class="col-md-12 d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 text-center">
                             <h2 class="mb-4">Circuits RN7</h2>
-                            
                         </div>
                     </div>
 		        </div>
@@ -168,15 +254,13 @@
     				<div class="destination-slider owl-carousel ftco-animate">
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
                                     <div class="overlay">
-                                        <h2 class="mb-2" style="text-transform:lowercase">
-                                            CIRCUIT SUD DE MADAGASCAR RN7
-                                            10J - 9N  
-                                        </h2>
+                                        <h2 class="mb-2">Parc Isalo</h2>
                                         <p>
-                                            10 jours - 9 nuits
-                                            en 4 cases
+                                            Le Parc National Terrestre Isalo est 
+                                            une représentation écologique unique au sein du réseau
+                                            Parc Nationaux Madagascar.
                                         </p>
                                         <a href="#" class="btn">Découvrir</a>
                                     </div>
@@ -186,21 +270,67 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
                                     <div class="overlay">
-                                    <h2 class="mb-2" style="text-transform:lowercase">
-                                            CIRCUIT SUD DE MADAGASCAR RN7
-                                            10J - 9N  
-                                        </h2>
+                                        <h2 class="mb-2">Parc Andringitra</h2>
                                         <p>
-                                            10 jours - 9 nuits
-                                            en 4 cases
+                                            Parc National Terrestre classé Site Patrimoine Mondial, 
+                                            refuge des plantes et animaux du massif forestier du Moyen Est de Madagascar.
                                         </p>
                                         <a href="#" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
 	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Parc Zombitse</h2>
+                                        <p>
+                                        Le complexe Zombitse Vohibasia est réputé par 
+                                        sa richesse en espèce d’oiseaux rares, 
+                                        endémiques de Madagascar et / ou de la zone.
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Parc Ranomafana</h2>
+                                        <p>
+                                            Parc National Terrestre classé Site Patrimoine Mondial avec 
+                                            sa forêt dense humide de basse altitude (600-800m).
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>  
+							</div>
+	    				</div>
+
+                        <div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Parc Andohahela</h2>
+                                        <p>
+                                        Parc National Terrestre classé Site Patrimonial Mondial, 
+                                        Andohahela représente la diversité biologique 
+                                        de l’extrême Sud-Est de Madagascar.
+                                        </p>
+                                        <a href="#" class="btn">Découvrir</a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+
+                        
     				</div>
     			</div>
     		</div>
