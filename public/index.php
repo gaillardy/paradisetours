@@ -3,7 +3,6 @@
 
 require __DIR__ . '/../autoload.php';
 
-use App\Helpers\Language;
 use App\Controllers\Router;
 session_start();
 
@@ -22,6 +21,18 @@ $router->add('/', function ($params) {
     // Appeler le HomeController avec la langue
     $controller = new \App\Controllers\HomeController();
     $controller->index($lang);
+});
+
+$router->add('/auth/login', function () {
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\AuthController;
+    $controller->login();
+});
+
+$router->add('/nbpt-admin', function () {
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\AdminController;
+    $controller->index();
 });
 
 $router->add('/{lang}/circuit/tour-meva', function ($params) {
@@ -415,10 +426,13 @@ $router->add('/{lang}/sub', function ($params) {
     $controller->sendEmail($lang);
 });
 
-if (!preg_match('#^/[a-z]{2}/#', $_SERVER['REQUEST_URI'])) {
-    header("Location:/en/home");
-    exit;
-}
+
+
+// if (!preg_match('#^/[a-z]{2}/#', $_SERVER['REQUEST_URI'])) {
+//     header("Location:/en/home");
+//     exit;
+// }
+
 
 // Continuer avec le routeur ou le contrôleur
 $router->dispatch();
