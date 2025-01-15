@@ -24,6 +24,52 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
+$router->add('/{lang}/circuit/tour-meva', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\CircuitController();
+    $controller->meva($lang);
+});
+
+
+$router->add('/{lang}/circuit/tour-salama', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\CircuitController();
+    $controller->salama($lang);
+});
+
+$router->add('/{lang}/circuit/tour-fosa', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\CircuitController();
+    $controller->fosa($lang);
+});
+
 $router->add('/{lang}/excursions/peche-au-gros', function ($params) {
     $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 

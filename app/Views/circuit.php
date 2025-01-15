@@ -61,7 +61,7 @@
                                             Durée : 14 jours 13 nuits
                                             Départ : Nosy Be
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/tour-fosa" class="btn">Découvrir</a>
                                     </div>
                                 </div>  
 							</div>
@@ -75,7 +75,7 @@
                                             Durée  : 5 jours 4 nuits
                                             Départ : Nosy Be
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/tour-meva" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -142,10 +142,10 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">Tour salama</h2>
                                         <p>
-                                            Durée : 6 jours 5 nuits
+                                            Durée  : 6 jours 5 nuits
                                             Départ : Nosy Be
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?=  $lang ?>/circuit/tour-salama" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -196,7 +196,7 @@
                                 <div class="gallery-item" style="background-image: url('/assets/images/circuits/circuit-slide.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Veloma</h2>
-                                        <p>: Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)</p>
+                                        <p>Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)</p>
                                         <a href="#" class="btn">Découvrir</a>
                                     </div>
                                 </div>
