@@ -1,42 +1,28 @@
-<?php include 'templates/admin-header.php' ?>
+<?php include 'templates/admin-header.php';?>
 
-<!-- Main Content -->
-<div class="main-content">
-        <nav class="navbar navbar-expand-lg navbar-dark">
-            <button class="navbar-toggler" type="button" id="menu-toggle">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="container-fluid">
-                <span class="navbar-brand">Admin Dashboard</span>
-            </div>
-        </nav>
+<div class="admin-wrapper">
+    <?php  include 'templates/includes/aside.php'; ?>
 
-        <div class="container mt-4">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Total Users</h5>
-                            <p class="card-text">100</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">New Registrations</h5>
-                            <p class="card-text">25</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">System Logs</h5>
-                            <p class="card-text">5 Errors</p>
-                        </div>
-                    </div>
-                </div>
+    <div class="main-content">
+        <header class="header">
+            <h1>Bonjour <?= $_SESSION['username'] ?></h1>
+            <a href="/nbpt-admin/logout" onclick="return confirm('Se déconnecter ?')" class="logout">Déconnexion</a>
+        </header>
+        <section class="content">
+            <div class="widget">
+                <h2>Boite de reception</h2>
+                <p>0</p>
             </div>
-        </div>
+            <div class="widget">
+                <h2>Utilisateurs</h2>
+                <p>0</p>
+            </div>
+            <div class="widget">
+                <h2>Inscription au newsletter</h2>
+                <p>0</p>
+            </div>
+        </section>
     </div>
+</div>
+
+

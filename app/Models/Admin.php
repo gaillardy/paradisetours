@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use App\Models\Database;
+use PDO;
 
 class Admin
 {
@@ -23,14 +24,15 @@ class Admin
     public static function authenticate(string $email, string $password): ?array
     {
         $db = Database::getInstance();
-        $query = "SELECT * FROM admins WHERE email = :email";
+        $query = "SELECT * FROM admins WHERE email = :email AND  pass = :pass";
         $stmt = $db->prepare($query);
         $stmt->bindParam(':email', $email);
+        $stmt->bindParam(':pass', $password);
         $stmt->execute();
 
         $admin = $stmt->fetch();
 
-        if ($admin && password_verify($password, $admin['password'])) {
+        if ($admin &&  $password /*password_verify($password, $admin['password'])*/) {
             return $admin;
         }
 
@@ -67,6 +69,20 @@ class Admin
         $stmt = $db->query($query);
 
         return $stmt->fetchAll();
+    }
+
+    /**
+     * Récupère tous les contact.
+     *
+     * @return array
+     */
+    public static function getAllcontacts(): array
+    {
+        $db = Database::getInstance();
+        $query = "SELECT * FROM contact";
+        $stmt = $db->query($query);
+
+        return $stmt->fetchAll(PDO::FETCH_OBJ);
     }
 
     /**

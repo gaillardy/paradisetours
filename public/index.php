@@ -23,6 +23,30 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
+$router->add('/nbpt-admin/contact', function () {
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\AdminController();
+    $controller->contact();
+});
+
+$router->add('/nbpt-admin/logout', function () {
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\AdminController();
+    $controller->logout();
+});
+
+$router->add('/nbpt-admin/dashboard', function () {
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\AdminController();
+    $controller->index();
+});
+
+$router->add('/auth/authenticate', function () {
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\AuthController();
+    $controller->login();
+});
+
 $router->add('/auth/login', function () {
     // Appeler le HomeController avec la langue
     $controller = new \App\Controllers\AuthController;
@@ -428,10 +452,21 @@ $router->add('/{lang}/sub', function ($params) {
 
 
 
-// if (!preg_match('#^/[a-z]{2}/#', $_SERVER['REQUEST_URI'])) {
-//     header("Location:/en/home");
+
+$requestUri = $_SERVER['REQUEST_URI'];
+
+// Si l'URL est vide ou correspond au point d'entrée principale
+if ($requestUri === '/' || $requestUri === '/index.php') {
+    header("Location: /en/home");
+    exit;
+}
+
+// Si l'URL ne correspond pas au format "/xx/" (où "xx" est une langue)
+// if (!preg_match('#^/[a-z]{2}/#', $requestUri)) {
+//     header("Location: /en/home");
 //     exit;
 // }
+
 
 
 // Continuer avec le routeur ou le contrôleur

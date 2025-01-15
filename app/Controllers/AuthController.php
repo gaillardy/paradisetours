@@ -9,24 +9,34 @@ class AuthController
 {
     public function login()
     {
+        $title = "Se connecter";
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $email = $_POST['email'] ?? '';
             $password = $_POST['password'] ?? '';
+
+            
 
             $admin = Admin::authenticate($email, $password);
 
             if ($admin) {
                 $_SESSION['admin_id'] = $admin['id'];
-                header('Location: /admin/dashboard');
+                $_SESSION['username'] = $admin['username'];
+                $_SESSION['email'] = $admin['email'];
+                $_SESSION['password'] = $admin['password'];
+
+                
+                header('Location: /nbpt-admin/dashboard');
                 exit;
             } else {
-                $error = 'Invalid credentials';
+                $error = 'Mot de passe ou email incorrect';
                 View::render('login', ['error' => $error]);
                 return;
             }
         }
 
-        View::render('login');
+        View::render('login',[
+            'title' => $title,
+        ]);
     }
 
     public function register()

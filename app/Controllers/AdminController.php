@@ -15,13 +15,53 @@ class AdminController
 
         // Obtenir la route actuelle
         $currentRoute = $_SERVER['REQUEST_URI'];
+        $title = 'Tableau de bord';
 
         // Exemple de vue avec liste des utilisateurs
         $users = Admin::getAllUsers();
         View::render('dashboard', [
             'users' => $users,
             'currentRoute' => $currentRoute,
+            'title' => $title,
         ]);
+    }
+
+    public function contact()
+    {
+
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $title = 'Boite de reception';
+
+        // Exemple de vue avec liste des utilisateurs
+        $contacts = Admin::getAllcontacts();
+        View::render('adm-contact', [
+            'contacts' => $contacts,
+            'currentRoute' => $currentRoute,
+            'title' => $title,
+        ]);
+    }
+
+    public function isLoggedIn() {
+        try {
+            if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+                $email    = $_POST['email'];
+                $password = $_POST['password'];
+        
+                // Tente de connecter l'admin
+                if (Admin::authenticate($email, $password)) {
+                    header("Location: /nbpt-admin/dashboard"); // Redirige vers le tableau de bord
+                    exit;
+                } else {
+                    header("Location: /auth/login?msg=error");
+                }
+            }
+        } catch (\PDOException $e) {
+            echo "Erreur de connexion à la base de données : " . $e->getMessage();
+        }
     }
 
     public function editProfile()
