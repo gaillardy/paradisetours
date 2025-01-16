@@ -1,13 +1,21 @@
 /* Global styles */
 body {
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(to bottom right, #4e81e0, #6eafff);
     margin: 0;
-    color: #333;
+    color: #f5f5f5;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background: url('/assets/images/cover/dark-cover-mada.jpg') no-repeat center center fixed;
+    background-size: cover;
+    /* background-blend-mode: overlay; */
+    background-color: rgba(0, 0, 0, 0.5); /* Applique une teinte sombre */
+    /* filter: grayscale(100%);  Effet noir et blanc */
+}
+
+h1, h2, h3, p {
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7); /* Ajout d'une ombre pour améliorer la lisibilité */
 }
 .error-container {
     background-color: #fff;
