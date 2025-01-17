@@ -4,11 +4,9 @@ namespace App\Controllers;
 
 class Router {
     private $routes = [];
-
     public function add($path, $callback) {
         $this->routes[$path] = $callback;
     }
-
         
     public function dispatch() {
         $requestedPath = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
@@ -32,10 +30,7 @@ class Router {
                 }
             }
         }
-
         http_response_code(404);
         echo "404 - Page not found";
     }
-
-
 }

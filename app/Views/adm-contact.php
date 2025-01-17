@@ -6,7 +6,9 @@
     <div class="main-content">
         <header class="header">
             <h1>Contacts</h1>
-            <a href="/nbpt-admin/logout" onclick="return confirm('Se déconnecter ?')" class="logout">Déconnexion</a>
+            <a href="#" >
+                <i class="fa fa-user"></i>
+            </a>
         </header>
         <section class="content">
             <?php 
@@ -15,7 +17,7 @@
                         <div class="inbox" data-id="<?= $item->id ?>">
                             <div class="widget" data-id="<?= $item->id ?>">
                                 <div class="details">
-                                    <a href="/nbpt-admin/contact/<?= $item->id ?>" class="email-link">
+                                    <a href="/nbpt-admin/inbox/<?= $item->id ?>" class="email-link">
                                         <p class="non-lu"><?= $item->nom ?></p>
                                     </a>
                                     <p class="subject"><?= $item->sujet ?></p>
@@ -28,7 +30,6 @@
                                 </div>
                             </div>
                         </div>
-
                     <?php
                 }
             ?>

@@ -26,6 +26,25 @@ class AdminController
         ]);
     }
 
+    public function getContact($id)
+    {
+
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $title = 'Boite de reception';
+
+        // Exemple de vue avec liste des utilisateurs
+        $contacts = Admin::getOnecontacts($id);
+        View::render('sg-contact', [
+            'contacts' => $contacts,
+            'currentRoute' => $currentRoute,
+            'title' => $title,
+        ]);
+    }
+
     public function contact()
     {
 

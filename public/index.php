@@ -23,38 +23,52 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
+$router->add('/nbpt-admin/?id={id}', function ($params) {
+    
+    $id = $params['id'];
+
+    // if (!$id) {
+    //     http_response_code(404);
+    //     return;
+    // }
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->getContact($id);
+});
+
+
 $router->add('/nbpt-admin/contact', function () {
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\AdminController();
     $controller->contact();
 });
 
 $router->add('/nbpt-admin/logout', function () {
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\AdminController();
     $controller->logout();
 });
 
 $router->add('/nbpt-admin/dashboard', function () {
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\AdminController();
     $controller->index();
 });
 
 $router->add('/auth/authenticate', function () {
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\AuthController();
     $controller->login();
 });
 
 $router->add('/auth/login', function () {
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\AuthController;
     $controller->login();
 });
 
 $router->add('/nbpt-admin', function () {
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\AdminController;
     $controller->index();
 });
@@ -69,7 +83,7 @@ $router->add('/{lang}/circuit/tour-meva', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\CircuitController();
     $controller->meva($lang);
 });
@@ -85,7 +99,7 @@ $router->add('/{lang}/circuit/tour-salama', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\CircuitController();
     $controller->salama($lang);
 });
@@ -100,7 +114,7 @@ $router->add('/{lang}/circuit/tour-fosa', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\CircuitController();
     $controller->fosa($lang);
 });
@@ -115,7 +129,7 @@ $router->add('/{lang}/excursions/peche-au-gros', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->peche($lang);
 });
@@ -131,7 +145,7 @@ $router->add('/{lang}/excursions/observation-des-baleines', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->baleine($lang);
 });
@@ -146,7 +160,7 @@ $router->add('/{lang}/excursions/nosy-sakatia', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->sakatia($lang);
 });
@@ -161,7 +175,7 @@ $router->add('/{lang}/excursions/perfume-tour', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->parfumTour($lang);
 });
@@ -176,7 +190,7 @@ $router->add('/{lang}/excursions/reserve-de-lokobe', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->lokobe($lang);
 });
@@ -191,7 +205,7 @@ $router->add('/{lang}/excursions/nosy-iranja', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->iranja($lang);
 });
@@ -207,7 +221,7 @@ $router->add('/{lang}/excursions/nosy-komba-et-nosy-tanikely', function ($params
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->komba($lang);
 });
@@ -223,7 +237,7 @@ $router->add('/{lang}/a-propos', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\HomeController();
     $controller->about($lang);
 });
@@ -240,7 +254,7 @@ $router->add('/{lang}/excursions/baie-des-russes', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->russe($lang);
 });
@@ -257,7 +271,7 @@ $router->add('/{lang}/tours', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ToursController();
     $controller->index($lang);
 });
@@ -272,7 +286,7 @@ $router->add('/{lang}/services', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\HomeController();
     $controller->service($lang);
 });
@@ -287,7 +301,7 @@ $router->add('/{lang}/circuits', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\CircuitController();
     $controller->index($lang);
 });
@@ -303,7 +317,7 @@ $router->add('/{lang}/guide', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\HomeController();
     $controller->guide($lang);
 });
@@ -319,7 +333,7 @@ $router->add('/{lang}/contact/success', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ContactController();
     $controller->success($lang);
 });
@@ -336,54 +350,27 @@ $router->add('/{lang}/excursions', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ExcurtionController();
     $controller->index($lang);
 });
 
-$router->add('/{lang}/sendnews', function ($params) {
-    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
-
-    $lang = $params['lang']; // Récupérer la langue
-    if (!in_array($lang, $validLanguages)) {
-        http_response_code(404);
-        echo "Language not supported!";
-        return;
-    }
-
-    // Appeler le HomeController avec la langue
+$router->add('/nbpt-admin/sendnews', function () {
+    
     $controller = new \App\Controllers\NewsletterController();
-    $controller->sendnews($lang);
+    $controller->sendnews();
 });
 
-$router->add('/{lang}/news', function ($params) {
-    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
-
-    $lang = $params['lang']; // Récupérer la langue
-    if (!in_array($lang, $validLanguages)) {
-        http_response_code(404);
-        echo "Language not supported!";
-        return;
-    }
-
-    // Appeler le HomeController avec la langue
+$router->add('/nbpt-admin/newsletter', function () {
+    
     $controller = new \App\Controllers\NewsletterController();
-    $controller->newsForm($lang);
+    $controller->newsForm();
 });
 
-$router->add('/{lang}/subscribe', function ($params) {
-    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
-
-    $lang = $params['lang']; // Récupérer la langue
-    if (!in_array($lang, $validLanguages)) {
-        http_response_code(404);
-        echo "Language not supported!";
-        return;
-    }
-
-    // Appeler le HomeController avec la langue
+$router->add('/subscribe', function () {
+    
     $controller = new \App\Controllers\NewsletterController();
-    $controller->subscribe($lang);
+    $controller->subscribe();
 });
 
 $router->add('/{lang}/newsletter', function ($params) {
@@ -396,7 +383,7 @@ $router->add('/{lang}/newsletter', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\NewsletterController();
     $controller->showForm($lang);
 });
@@ -412,7 +399,7 @@ $router->add('/{lang}/home', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\HomeController();
     $controller->index($lang);
 });
@@ -430,7 +417,7 @@ $router->add('/{lang}/contact', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ContactController();
     $controller->showForm($lang);
 });
@@ -445,7 +432,7 @@ $router->add('/{lang}/sub', function ($params) {
         return;
     }
 
-    // Appeler le HomeController avec la langue
+    
     $controller = new \App\Controllers\ContactController();
     $controller->sendEmail($lang);
 });

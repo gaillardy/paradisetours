@@ -238,5 +238,5 @@ form {
                 this.submit();
             }
         });
-    </script>
+</script>
 <?php include 'templates/footer.php'; ?>

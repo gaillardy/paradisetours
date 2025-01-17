@@ -79,10 +79,25 @@ class Admin
     public static function getAllcontacts(): array
     {
         $db = Database::getInstance();
-        $query = "SELECT * FROM contact";
+        $query = "SELECT * FROM contact ORDER BY id DESC";
         $stmt = $db->query($query);
 
         return $stmt->fetchAll(PDO::FETCH_OBJ);
+    }
+    /**
+     * Récupère un email
+     * @return array
+     */
+    public static function getOnecontacts($id): ?array
+    {
+        $db = Database::getInstance();
+        $query = "SELECT * FROM contact WHERE id = :id";
+        $stmt = $db->query($query);
+        $stmt = $db->prepare($query);
+        $stmt->bindParam(':id', $id);
+        $stmt->execute();
+
+        return $stmt->fetch() ?: null;
     }
 
     /**

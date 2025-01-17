@@ -28,10 +28,9 @@ class NewsletterController {
         ]);
     }
 
-    public function newsForm($lang)
+    public function newsForm()
     {
-        // Charger les traductions pour la langue donnée
-        $translations = Language::getTranslations($lang);
+        $title =  "Newsletter";
 
         // Obtenir la route actuelle
         $currentRoute = $_SERVER['REQUEST_URI'];
@@ -40,15 +39,14 @@ class NewsletterController {
 
         // Rendre la vue `home.php` avec les données nécessaires
         View::render('news', [
-            'lang'            => $lang,
-            'translations'    => $translations,
             'currentRoute'    => $currentRoute,
             'metaDescription' => $metaDescription,
-            'metaKeywords'    => $metaKeywords
+            'metaKeywords'    => $metaKeywords,
+            'title' => $title,
         ]);
     }
 
-    public function sendnews($lang){
+    public function sendnews(){
         $news = new Newsletter();
         $subs = $news->getSubscribers();
         $sujet = $_POST['sujet'];
@@ -59,7 +57,7 @@ class NewsletterController {
         }
     }
 
-    public function subscribe($lang) {
+    public function subscribe() {
         $newsletter = new Newsletter();
         $email = $_POST['email'];
         

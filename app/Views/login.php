@@ -22,7 +22,7 @@
             <form action="/auth/login" method="POST" id="loginForm">
                 <div class="form-group">
                     <div class="input-wrapper">
-                        <i class="icon icon-message"></i>
+                        <i class="icon fas fa-envelope"></i>
                         <input type="email" class="form-control" id="email" name="email" placeholder="Adresse Email" required>
                     </div>
                     <div id="emailError" class="text-danger mt-2" style="display: none;">Please enter a valid email address.</div>
