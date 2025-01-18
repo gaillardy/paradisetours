@@ -5,10 +5,20 @@
 
     <div class="main-content">
         <header class="header">
-            <h1>Contacts</h1>
-            <a href="#" >
-                <i class="fa fa-user"></i>
-            </a>
+            <h1>Boite de reception</h1>
+            <div class="dropdown">
+                <a href="javascript:avoid(0)" class="dropdown-toggle">
+                    <i class="fa fa-user"></i>
+                </a>
+                <div class="dropdown-menu">
+                    <a href="#" class="dropdown-item">
+                        <i class="fa fa-user-circle"></i> Voir profil
+                    </a>
+                    <a href="/nbpt-admin/logout" onclick="return confirm('Souhaitez-vous vraiment vous déconnecter ?')" class="dropdown-item">
+                        <i class="fa fa-sign-out-alt"></i>déconnexion
+                    </a>
+                </div>
+            </div>
         </header>
         <section class="content">
             <?php 

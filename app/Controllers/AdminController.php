@@ -26,6 +26,113 @@ class AdminController
         ]);
     }
 
+    public function editPassword()
+    {
+        $id = $_SESSION['admin_id'];
+
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        if ($_POST['pass'] === $_POST['password_confirm']) {
+            Admin::updatePassword($id,$_POST);
+            header('Location: /nbpt-admin/user');
+            
+        }else {
+            header('Location: /nbpt-admin/user/set-password?msg=error');
+        }
+
+        
+    }
+
+    public function setPassword()
+    {
+
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $title = 'Nouveau mot de passe';
+
+        View::render('setpass', [
+            'currentRoute' => $currentRoute,
+            'title'        => $title,
+        ]);
+    }
+
+    public function updateAccount()
+    {
+        $id = $_SESSION['admin_id'];
+
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        if (!filter_var($id, FILTER_VALIDATE_INT)) {
+            header("Location:/nbpt-admin");
+        }
+
+        $_SESSION['username'] = $_POST['username'];
+        $_SESSION['email']    = $_POST['email'];
+        $_SESSION['password'] = $_POST['password'];
+        $_SESSION['nom']      = $_POST['nom'];
+        $_SESSION['prenom']   = $_POST['prenom'];
+
+        Admin::updateProfile($id,$_POST);
+
+        header("Location:/nbpt-admin/user");
+    }
+
+    public function getSingleAccount()
+    {
+
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        if (!filter_var($_SESSION['admin_id'], FILTER_VALIDATE_INT)) {
+            header("Location:/nbpt-admin");
+
+        }
+
+        $user = Admin::getById($_SESSION['admin_id']);
+
+        if (!$user) {
+            http_response_code(404);
+            View::render('404', ['message' => "Utilisateur introuvable."]);
+            return;
+        }
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $title = 'Utilisateur';
+        View::render('profile', [
+            'user'        => $user,
+            'currentRoute' => $currentRoute,
+            'title'        => $title,
+        ]);
+    }
+
+    public function getAllAccount()
+    {
+
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $title = 'Comptes';
+
+        // Exemple de vue avec liste des utilisateurs
+        $users = Admin::getAllUsers();
+        View::render('comptes', [
+            'users' => $users,
+            'currentRoute' => $currentRoute,
+            'title' => $title,
+        ]);
+    }
+
+
+    
+
     public function getContact($id)
     {
         $this->checkAuthentication();

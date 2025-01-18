@@ -332,7 +332,7 @@
                     <i class="fa fa-user"></i>
                 </a>
                 <div class="dropdown-menu">
-                    <a href="#" class="dropdown-item">
+                    <a href="/nbpt-admin/user" class="dropdown-item">
                         <i class="fa fa-user-circle"></i> Voir profil
                     </a>
                     <a href="/nbpt-admin/logout" onclick="return confirm('Souhaitez-vous vraiment vous déconnecter ?')" class="dropdown-item">
@@ -421,20 +421,17 @@
 </div>
 
 <script>
-// Ouverture du modal avec animation
-function openModal(modalId) {
-    const modal = document.getElementById(modalId);
-    modal.classList.add('show');
-}
+    // Ouverture du modal avec animation
+    function openModal(modalId) {
+        const modal = document.getElementById(modalId);
+        modal.classList.add('show');
+    }
 
-// Fermeture du modal avec animation
-function closeModal(modalId) {
-    const modal = document.getElementById(modalId);
-    modal.classList.remove('show');
-}
-
-
-
+    // Fermeture du modal avec animation
+    function closeModal(modalId) {
+        const modal = document.getElementById(modalId);
+        modal.classList.remove('show');
+    }
 </script>
 
 

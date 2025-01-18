@@ -55,6 +55,9 @@ class NewsletterController {
         foreach ($subs as $items) {
             mail($items->email, $sujet, $message, "From: $from");
         }
+
+        header("Location:/nbpt-admin/newsletter");
+        exit;
     }
 
     public function subscribe() {

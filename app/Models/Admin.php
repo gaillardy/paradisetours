@@ -65,10 +65,10 @@ class Admin
     public static function getAllUsers(): array
     {
         $db = Database::getInstance();
-        $query = "SELECT id, username, email FROM admins";
+        $query = "SELECT * FROM admins";
         $stmt = $db->query($query);
 
-        return $stmt->fetchAll();
+        return $stmt->fetchAll(PDO::FETCH_ASSOC);
     }
 
     /**
@@ -114,6 +114,19 @@ class Admin
         return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
     }
 
+    public static function updatePassword(int $id, array $data): bool
+    {
+        $db = Database::getInstance();
+        $query = "UPDATE admins SET 
+         pass = :password , updated_at = NOW()
+        WHERE id = :id";
+        $stmt = $db->prepare($query);
+        $stmt->bindParam(':password', $data['pass']);
+        $stmt->bindParam(':id', $id);
+
+        return $stmt->execute();
+    }
+
 
     /**
      * Met à jour les informations d'un administrateur.
@@ -125,10 +138,15 @@ class Admin
     public static function updateProfile(int $id, array $data): bool
     {
         $db = Database::getInstance();
-        $query = "UPDATE admins SET username = :username, email = :email WHERE id = :id";
+        $query = "UPDATE admins SET 
+        username = :username, email = :email, nom =  :nom, prenom = :prenom, pass = :password , updated_at = NOW()
+        WHERE id = :id";
         $stmt = $db->prepare($query);
         $stmt->bindParam(':username', $data['username']);
         $stmt->bindParam(':email', $data['email']);
+        $stmt->bindParam(':nom', $data['nom']);
+        $stmt->bindParam(':prenom', $data['prenom']);
+        $stmt->bindParam(':password', $data['pass']);
         $stmt->bindParam(':id', $id);
 
         return $stmt->execute();
@@ -143,7 +161,7 @@ class Admin
     public static function getById(int $id): ?array
     {
         $db = Database::getInstance();
-        $query = "SELECT id, username, email FROM admins WHERE id = :id";
+        $query = "SELECT * FROM admins WHERE id = :id";
         $stmt = $db->prepare($query);
         $stmt->bindParam(':id', $id);
         $stmt->execute();

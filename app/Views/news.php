@@ -111,9 +111,19 @@
     <div class="main-content">
         <header class="header">
             <h1>Envoyer un nensletter aux abonnées</h1>
-            <a href="#" >
-                <i class="fa fa-user"></i>
-            </a>
+            <div class="dropdown">
+                <a href="javascript:avoid(0)" class="dropdown-toggle">
+                    <i class="fa fa-user"></i>
+                </a>
+                <div class="dropdown-menu">
+                    <a href="/nbpt-admin/user" class="dropdown-item">
+                        <i class="fa fa-user-circle"></i> Voir profil
+                    </a>
+                    <a href="/nbpt-admin/logout" onclick="return confirm('Souhaitez-vous vraiment vous déconnecter ?')" class="dropdown-item">
+                        <i class="fa fa-sign-out-alt"></i>déconnexion
+                    </a>
+                </div>
+            </div>
         </header>
         <center>
             <section class="ftco-section" id="guide">

@@ -22,7 +22,10 @@ class AuthController
                 $_SESSION['admin_id'] = $admin['id'];
                 $_SESSION['username'] = $admin['username'];
                 $_SESSION['email'] = $admin['email'];
-                $_SESSION['password'] = $admin['password'];
+                $_SESSION['password'] = $admin['pass'];
+                $_SESSION['nom'] = $admin['nom'];
+                $_SESSION['prenom'] = $admin['prenom'];
+
 
                 
                 header('Location: /nbpt-admin/dashboard');

@@ -278,4 +278,71 @@ body.dark-mode {
     border: none;
     cursor: pointer;
   }
+
+  /* Style du menu déroulant */
+  .dropdown {
+    position: relative;
+}
+
+.dropdown-toggle {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 24px;
+    color: black;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #fff;
+    color: #333;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    min-width: 160px;
+    z-index: 10;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.4s ease, transform 0.4s ease, visibility 0s 0.4s;
+    transform: translateY(10px);
+}
+
+
+
+/* Style des éléments du menu */
+.dropdown-item {
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Icônes du menu */
+.dropdown-item i {
+    margin-right: 10px;
+}
+
+/* Effet de survol sur les éléments du menu */
+.dropdown-item:hover {
+    background-color: #f1f1f1;
+    color: #007bff;
+}
+
+/* Focus sur le lien de l'icône utilisateur */
+.dropdown-toggle:focus {
+    outline: none;
+}
+.dropdown:focus-within .dropdown-menu{
+    display: block;
+    opacity: 1;
+    pointer-events: all;
+    transform: translateY(0);
+    visibility: visible;
+    transition: opacity 0.4s ease, transform 0.4s ease;
+}
     

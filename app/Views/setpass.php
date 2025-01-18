@@ -5,7 +5,7 @@
 
     <div class="main-content">
         <header class="header">
-            <h1>Bonjour <?= $_SESSION['username'] ?></h1>
+            <h1>Utilisateurs  <a href="#">Ajouter un utilisateur</a></h1>
             <div class="dropdown">
                 <a href="javascript:avoid(0)" class="dropdown-toggle">
                     <i class="fa fa-user"></i>
@@ -22,16 +22,21 @@
         </header>
         <section class="content">
             <div class="widget">
-                <h2>Boite de reception</h2>
-                <p>0</p>
+                <h2><?= $_SESSION['username'] ?></h2>
             </div>
             <div class="widget">
-                <h2>Utilisateurs</h2>
-                <p>0</p>
-            </div>
-            <div class="widget">
-                <h2>Inscription au newsletter</h2>
-                <p>0</p>
+                <form action="/nbpt-admin/user/set-new-password" method="post">
+                    <p>
+                        <label for="pass">Nouveau mot de passe</label>
+                        <input type="password" name="pass" id="pass">
+                    </p>
+
+                    <p>
+                        <label for="pass">Confireme le mot de passe</label>
+                        <input type="password" name="password_confirm" id="pass">
+                    </p>
+                    <input type="submit" value="Mettre à jour le mot de passe">
+                </form>
             </div>
         </section>
     </div>

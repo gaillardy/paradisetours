@@ -23,6 +23,34 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
+$router->add('/nbpt-admin/user/set-new-password', function () {
+    $controller = new \App\Controllers\AdminController();
+    $controller->editPassword();
+});
+
+
+$router->add('/nbpt-admin/user/set-password', function () {
+    $controller = new \App\Controllers\AdminController();
+    $controller->setPassword();
+});
+
+$router->add('/nbpt-admin/user', function () {
+    $controller = new \App\Controllers\AdminController();
+    $controller->getSingleAccount();
+});
+
+$router->add('/nbpt-admin/compte/edit', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->updateAccount();
+});
+
+$router->add('/nbpt-admin/comptes', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->getAllAccount();
+});
+
 $router->add('/nbpt-admin/contact/delete/{id}', function ($params) {
     $id = $params['id'];
 
