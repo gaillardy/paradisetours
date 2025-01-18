@@ -1,6 +1,6 @@
 <?php include 'templates/header.php'; ?>
 <style>
-form {
+        form {
             background: #fff;
             padding: 20px 30px;
             border-radius: 10px;

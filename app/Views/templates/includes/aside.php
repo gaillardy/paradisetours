@@ -9,6 +9,6 @@
         <li><a href="/nbpt-admin/newsletter">Newsletter</a></li>
     </ul>
     <ul class="menu">
-        <li><a href="/nbpt-admin/logout" onclick="return confirm('Se déconnecter ?')"><i class="icon fas fa-power-off"></i></a></li>
+        <li><a href="/nbpt-admin/logout" onclick="return confirm('Souhaitez-vous vraiment vous déconnecter ?')"><i class="icon fas fa-power-off"></i></a></li>
     </ul>
 </aside>

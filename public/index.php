@@ -23,18 +23,23 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
-$router->add('/nbpt-admin/?id={id}', function ($params) {
-    
+$router->add('/nbpt-admin/contact/delete/{id}', function ($params) {
     $id = $params['id'];
 
-    // if (!$id) {
-    //     http_response_code(404);
-    //     return;
-    // }
+    $controller = new \App\Controllers\AdminController();
+    $controller->deleteContactAction($id);
+});
 
+
+$router->add('/nbpt-admin/inbox/{id}', function ($params) {
+    error_log("Route callback invoked with params: " . print_r($params, true));
+
+    $id = $params['id'];
     $controller = new \App\Controllers\AdminController();
     $controller->getContact($id);
 });
+
+
 
 
 $router->add('/nbpt-admin/contact', function () {

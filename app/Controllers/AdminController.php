@@ -28,22 +28,30 @@ class AdminController
 
     public function getContact($id)
     {
-
-        // Vérifie si l'administrateur est connecté
         $this->checkAuthentication();
 
-        // Obtenir la route actuelle
-        $currentRoute = $_SERVER['REQUEST_URI'];
-        $title = 'Boite de reception';
+        if (!filter_var($id, FILTER_VALIDATE_INT)) {
+            throw new \Exception("L'identifiant est invalide.");
+        }
 
-        // Exemple de vue avec liste des utilisateurs
-        $contacts = Admin::getOnecontacts($id);
+        $contact = Admin::getOnecontacts($id);
+
+        if (!$contact) {
+            http_response_code(404);
+            View::render('404', ['message' => "Email introuvable."]);
+            return;
+        }
+
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $title = 'Boite de réception';
+
         View::render('sg-contact', [
-            'contacts' => $contacts,
+            'contact' => $contact,
             'currentRoute' => $currentRoute,
             'title' => $title,
         ]);
     }
+
 
     public function contact()
     {
@@ -63,6 +71,25 @@ class AdminController
             'title' => $title,
         ]);
     }
+
+    public function deleteContactAction($id)
+    {
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        // Appel au modèle pour supprimer l'email
+        $isDeleted = Admin::deleteContact($id);
+
+        if ($isDeleted) {
+            // Redirection vers la liste des contacts après suppression
+            header("Location: /nbpt-admin/contact");
+            exit;
+        } else {
+            // En cas d'échec, afficher un message d'erreur ou rediriger vers une page appropriée
+            echo "Une erreur est survenue lors de la suppression de l'email.";
+        }
+    }
+
 
     public function isLoggedIn() {
         try {

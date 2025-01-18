@@ -1,7 +1,7 @@
 
 <?php include 'templates/admin-header.php';?>
 <style>
-form {
+ form {
             background: #fff;
             padding: 20px 30px;
             border-radius: 10px;
@@ -49,7 +49,7 @@ form {
 
         input:focus + label,textarea:focus + label,
         input:not(:placeholder-shown) + label {
-            top: -4px;
+            top: -2px;
             font-size: 12px;
             color: #f08300;
         }
@@ -82,51 +82,26 @@ form {
             background: #cc6f02;
         }
 
-        @media (max-width: 600px) {
-            form {
-                padding: 15px;
-            }
-        }
-        .jumbotron {
-            background: #ffffff;
-            border-radius: 10px;
-            padding: 20px 30px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-            max-width: 600px;
-            margin: 20px auto;
+        .btn-submit:disabled {
+        background-color: #ddd;
+        color: #888;
+        cursor: not-allowed;
         }
 
-        .jumbotron h1 {
-            font-size: 24px;
-            color: black;
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        p {
-            font-size: 16px;
-            line-height: 1.6;
-            color: #555;
-            margin: 10px 0;
-        }
+        .btn-submit:not(:disabled):hover {
+            background-color: #cc6f02;
+        }          
+/* Responsive */
+@media (max-width: 768px) {
+    form {
+        padding: 1.5rem;
+    }
 
-        p i {
-            color: black;
-            margin-right: 10px;
-        }
+    h2 {
+        font-size: 20px;
+    }
+}
 
-        h1 i {
-            color: black;
-            margin-right: 10px;
-        }
-
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
 </style>
 
 
@@ -136,33 +111,50 @@ form {
     <div class="main-content">
         <header class="header">
             <h1>Envoyer un nensletter aux abonnées</h1>
-            <a href="/nbpt-admin/logout" onclick="return confirm('Se déconnecter ?')" class="logout">Déconnexion</a>
+            <a href="#" >
+                <i class="fa fa-user"></i>
+            </a>
         </header>
-        <section class="ftco-section" id="guide" >
-            <div class="container">
-                <div class="row d-md-flex">
-                    <div class="col-md-6 ftco-animate p-md-5 ">
-                        <form id="contactForm" action="/nbpt-admin/sendnews" method="post" novalidate>
-                            <h2 class="mb-4">Newsletter</h2>
-                            <div class="form-group">
-                                <input type="text" name="sujet" id="sujet" placeholder=" " required>
-                                <label for="sujet">Sujet</label>
-                                <div class="error-message" id="nomError">Veuillez entrer un nom valide (3-255 caractères).</div>
-                            </div>
-                            <div class="form-group">
-                                <textarea name="message" id="message" placeholder=" " required></textarea>
-                                <label for="message">Message</label>
-                            </div>
-                            <input type="submit" value="Envoyer" class="btn-submit">
-
-                        </form>
+        <center>
+            <section class="ftco-section" id="guide">
+                <div class="container">
+                    <div class="row justify-content-center align-items-center min-vh-100">
+                        <div class="col-md-8 col-lg-6">
+                            <form id="contactForm" action="/nbpt-admin/sendnews" method="post" >
+                                <h2 class="mb-4 text-center">Newsletter</h2>
+                                <div class="form-group">
+                                    <input type="text" name="sujet" id="sujet" placeholder=" " required>
+                                    <label for="sujet">Sujet</label>
+                                    <div class="error-message" id="nomError">Veuillez entrer un nom valide (3-255 caractères).</div>
+                                </div>
+                                <div class="form-group">
+                                    <textarea name="message" id="message" placeholder=" " required></textarea>
+                                    <label for="message">Message</label>
+                                </div>
+                                <div class="text-center">
+                                    <button type="submit" class="btn-submit" >Envoyer</button>
+                                </div>
+                            </form>
+                        </div>
                     </div>
-                    
                 </div>
-            </div>
-        </section>
+            </section>
+        </center>
     </div>
 </div>
+<script>
+        document.addEventListener('DOMContentLoaded', () => {
+        const form = document.getElementById('contactForm');
+        const submitButton = form.querySelector('.btn-submit');
+
+        form.addEventListener('submit', (event) => {
+            submitButton.disabled = true;
+            submitButton.textContent = "Envoi...";
+
+        });
+    });
+
+</script>
 
 
 

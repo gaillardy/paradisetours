@@ -84,21 +84,36 @@ class Admin
 
         return $stmt->fetchAll(PDO::FETCH_OBJ);
     }
-    /**
-     * Récupère un email
-     * @return array
-     */
+
+    public static function deleteContact($id): bool
+    {
+        // Récupération de l'instance de la base de données
+        $db = Database::getInstance();
+
+        // Préparation de la requête DELETE
+        $query = "DELETE FROM contact WHERE id = :id";
+        $stmt = $db->prepare($query);
+
+        // Liaison de la valeur du paramètre
+        $stmt->bindValue(':id', $id, PDO::PARAM_INT);
+
+        // Exécution de la requête et retour du résultat (true si réussi, false sinon)
+        return $stmt->execute();
+    }
+
+
+
     public static function getOnecontacts($id): ?array
     {
         $db = Database::getInstance();
         $query = "SELECT * FROM contact WHERE id = :id";
-        $stmt = $db->query($query);
         $stmt = $db->prepare($query);
-        $stmt->bindParam(':id', $id);
+        $stmt->bindValue(':id', $id, PDO::PARAM_INT);
         $stmt->execute();
 
-        return $stmt->fetch() ?: null;
+        return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
     }
+
 
     /**
      * Met à jour les informations d'un administrateur.
