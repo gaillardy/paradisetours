@@ -326,7 +326,7 @@
 
     <div class="main-content">
         <header class="header">
-            <h1><?= $contact['sujet'] ?></h1>
+            <h1><?= $sendbox['sujet'] ?></h1>
             <div class="dropdown">
                 <a href="javascript:avoid(0)" class="dropdown-toggle">
                     <i class="fa fa-user"></i>
@@ -341,21 +341,21 @@
                 </div>
             </div>
         </header>
-        <a href="/nbpt-admin/inbox"><i class="fa fa-arrow-left"></i></a>
+        <a href="/nbpt-admin/send-box"><i class="fa fa-arrow-left"></i></a>
 
         <section class="content">
             <div class="email-view">
                 <div class="email-header">
                     <h2 class="email-subject">
-                        Sujet : <?= $contact['sujet'] ?>
+                        Sujet : <?= $sendbox['sujet'] ?>
                     </h2>
                     <span class="email-date">
                     <?php
-                        if (isset($contact['created_at']) && !empty($contact['created_at'])) {
+                        if (isset($sendbox['send_at']) && !empty($sendbox['send_at'])) {
                             // Convertit en timestamp si nécessaire
-                            $timestamp = is_numeric($contact['created_at']) 
-                                ? $contact['created_at'] 
-                                : strtotime($contact['created_at']);
+                            $timestamp = is_numeric($sendbox['send_at']) 
+                                ? $sendbox['send_at'] 
+                                : strtotime($sendbox['send_at']);
                         
                             // Création de l'objet DateTime
                             $date = new DateTime();
@@ -377,18 +377,16 @@
                     </span>
                 </div>
                 <div class="email-meta">
-                    <p><strong>De :</strong> <?= $contact['email'] ?></p>
-                    <p><strong>À :</strong> contact@nosybeparadisetours.com</p>
-                    <p><strong>Nom:</strong> <?= $contact['nom'] ?></p>
+                    <p><strong>De :</strong> <?= $sendbox['de'] ?></p>
+                    <p><strong>À :</strong> <?= $sendbox['a'] ?></p>
                 </div>
                 <div class="email-body">
-                    <?= $contact['messages'] ?>
+                    <?= $sendbox['messages'] ?>
                 </div>
                 <div class="email-actions">
-                    <button class="reply-btn" onclick="openModal('replyModal')">Répondre</button>
                     <button class="forward-btn" onclick="openModal('forwardModal')">Transférer</button>
 
-                    <form action="/nbpt-admin/inbox/delete/<?= $contact['id'] ?>" method="post">
+                    <form action="/nbpt-admin/send-box/delete/<?= $sendbox['id'] ?>" method="post">
                         <button type="submit" onclick="return confirm('Êtes-vous sûr de vouloir supprimer cet email ?')" style="background: red;"><i class="fa fa-trash"></i></button>
                     </form>
                     
@@ -399,7 +397,7 @@
             <div id="replyModal" class="modal hidden">
                 <div class="modal-content">
                     <h3>Répondre</h3>
-                    <form action="/nbpt-admin/inbox/response/<?= $contact['id'] ?>" method="post">
+                    <form action="/nbpt-admin/inbox/response/<?= $sendbox['id'] ?>" method="post">
                         <textarea placeholder="Écrivez votre réponse ici..." name="message"></textarea>
                         <button class="modal-close" onclick="closeModal('replyModal')" type="button">Annuler</button>
                         <button class="modal-submit" type="submit">Envoyer</button>
@@ -411,7 +409,7 @@
             <div id="forwardModal" class="modal hidden">
                 <div class="modal-content">
                     <h3>Transférer</h3>
-                    <form action="/nbpt-admin/inbox/transfer/<?= $contact['id'] ?>" method="post">
+                    <form action="/nbpt-admin/sendbox/transfer/<?= $sendbox['id'] ?>" method="post">
                         <input type="email" name="to" placeholder="Adresse email du destinataire" class="modal-input-email">
                         <button class="modal-close" onclick="closeModal('forwardModal')" type="button">Annuler</button>
                         <button class="modal-submit" type="submit">Envoyer</button>

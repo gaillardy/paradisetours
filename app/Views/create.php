@@ -20,11 +20,11 @@
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    max-width: 400px;
+    max-width: 500px;
     width: 100%;
 }
 
-h2 {
+.form-container h2 {
     text-align: center;
     margin-bottom: 20px;
     color: #2f3640;
@@ -41,6 +41,8 @@ label {
     font-weight: bold;
 }
 
+input[type="text"],
+input[type="email"],
 input[type="password"] {
     width: 100%;
     padding: 10px;
@@ -49,6 +51,8 @@ input[type="password"] {
     transition: border-color 0.3s;
 }
 
+input[type="text"]:focus,
+input[type="email"]:focus,
 input[type="password"]:focus {
     border-color: #3498db;
     outline: none;
@@ -77,12 +81,26 @@ button:hover {
     background: #27ae60;
 }
 
-.password-link {
+.back-link a {
     display: inline-block;
     color: #3498db;
     text-decoration: none;
-    margin-top: 10px;
+    margin-bottom: 20px;
     transition: color 0.3s;
+}
+
+.back-link a:hover {
+    color: #2980b9;
+}
+
+@media (max-width: 768px) {
+    .form-container {
+        padding: 15px;
+    }
+
+    button {
+        font-size: 14px;
+    }
 }
 </style>
 
@@ -92,16 +110,7 @@ button:hover {
 
     <div class="main-content">
         <header class="header">
-            <h1>Utilisateurs  <a href="#" class="password-link">Ajouter un utilisateur</a></h1>
-            <?php
-                foreach ($flashMessages as $message){
-                    ?>
-                        <div class="flash-message <?= $message['type']; ?>">
-                            <p><?= htmlspecialchars($message['message']); ?></p>
-                        </div>
-                    <?php
-                }
-            ?>
+            <h1>Ajouter un utilisateur</h1>
             <div class="dropdown">
                 <a href="javascript:avoid(0)" class="dropdown-toggle">
                     <i class="fa fa-user"></i>
@@ -118,22 +127,49 @@ button:hover {
         </header>
         <section class="content">
             <div class="form-container">
-                <h2><?= $user['username'] ?></h2>
-                <form action="/nbpt-admin/user/set-new-password/<?= $user['id'] ?>" method="post" id="updatePasswordForm">
+                <div class="back-link">
+                    <a href="/nbpt-admin/comptes">&larr; Retour</a>
+                </div>
+                <h2>Ajouter un compte</h2>
+                <form action="/nbpt-admin/add-account" method="post" id="addAccountForm">
                     <div class="form-group">
-                        <label for="pass">Nouveau mot de passe</label>
-                        <input type="password" name="pass" id="pass" required minlength="6">
+                        <label for="username">Nom d'utilisateur</label>
+                        <input type="text" id="username" name="username" required>
+                        <small class="error-message" id="usernameError"></small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="nom">Nom</label>
+                        <input type="text" id="nom" name="nom" required minlength="2" maxlength="50">
+                        <small class="error-message" id="nomError"></small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="prenom">Prénom</label>
+                        <input type="text" id="prenom" name="prenom" required minlength="2" maxlength="50">
+                        <small class="error-message" id="prenomError"></small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
+                        <small class="error-message" id="emailError"></small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="pass">Mot de passe</label>
+                        <input type="password" id="pass" name="pass" required minlength="6">
                         <small class="error-message" id="passError"></small>
                     </div>
 
                     <div class="form-group">
-                        <label for="password_confirm">Confirmer le mot de passe</label>
-                        <input type="password" name="password_confirm" id="password_confirm" required>
+                        <label for="confirm_pass">Confirmer le mot de passe</label>
+                        <input type="password" id="confirm_pass" name="confirm_pass" required>
                         <small class="error-message" id="confirmPassError"></small>
                     </div>
 
                     <div class="form-group">
-                        <button type="submit" id="submitBtn">Mettre à jour le mot de passe</button>
+                        <button type="submit" id="submitBtn">Ajouter le compte</button>
                     </div>
                 </form>
             </div>
@@ -143,9 +179,13 @@ button:hover {
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
-    const form = document.getElementById("updatePasswordForm");
+    const form = document.getElementById("addAccountForm");
+    const usernameInput = document.getElementById("username");
+    const emailInput = document.getElementById("email");
+    const nomInput = document.getElementById("nom");
+    const prenomInput = document.getElementById("prenom");
     const passInput = document.getElementById("pass");
-    const confirmPassInput = document.getElementById("password_confirm");
+    const confirmPassInput = document.getElementById("confirm_pass");
 
     form.addEventListener("submit", function (event) {
         let valid = true;
@@ -154,6 +194,30 @@ button:hover {
         document.querySelectorAll(".error-message").forEach((el) => {
             el.style.display = "none";
         });
+
+        // Validation du nom d'utilisateur
+        if (usernameInput.value.trim() === "") {
+            valid = false;
+            showError("usernameError", "Le nom d'utilisateur est obligatoire.");
+        }
+
+        // Validation de l'email
+        if (!validateEmail(emailInput.value)) {
+            valid = false;
+            showError("emailError", "Veuillez entrer un email valide.");
+        }
+
+        // Validation du nom
+        if (nomInput.value.trim().length < 2 || nomInput.value.trim().length > 50) {
+            valid = false;
+            showError("nomError", "Le nom doit contenir entre 2 et 50 caractères.");
+        }
+
+        // Validation du prénom
+        if (prenomInput.value.trim().length < 2 || prenomInput.value.trim().length > 50) {
+            valid = false;
+            showError("prenomError", "Le prénom doit contenir entre 2 et 50 caractères.");
+        }
 
         // Validation du mot de passe
         if (passInput.value.length < 6) {
@@ -172,6 +236,11 @@ button:hover {
         }
     });
 
+    function validateEmail(email) {
+        const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return regex.test(email);
+    }
+
     function showError(id, message) {
         const errorElement = document.getElementById(id);
         if (errorElement) {
@@ -182,5 +251,4 @@ button:hover {
 });
 
 </script>
-
 

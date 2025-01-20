@@ -23,26 +23,94 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
-$router->add('/nbpt-admin/user/set-new-password', function () {
+$router->add('/nbpt-admin/send-box/{id}', function ($params) {
+
+    $id = $params['id'];
+
     $controller = new \App\Controllers\AdminController();
-    $controller->editPassword();
+    $controller->SingleSendBox($id);
+});
+
+$router->add('/nbpt-admin/send-box', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->sendbox();
+});
+
+$router->add('/nbpt-admin/send-new-message', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->sendEmailAdmin();
 });
 
 
-$router->add('/nbpt-admin/user/set-password', function () {
+$router->add('/nbpt-admin/new-message', function () {
+
     $controller = new \App\Controllers\AdminController();
-    $controller->setPassword();
+    $controller->newMessage();
 });
 
-$router->add('/nbpt-admin/user', function () {
+$router->add('/nbpt-admin/sendbox/transfer/{id}', function ($params) {
+    $id = $params['id'];
     $controller = new \App\Controllers\AdminController();
-    $controller->getSingleAccount();
+    $controller->actionTransferSendbox($id);
 });
 
-$router->add('/nbpt-admin/compte/edit', function () {
+$router->add('/nbpt-admin/inbox/transfer/{id}', function ($params) {
+    $id = $params['id'];
+    $controller = new \App\Controllers\AdminController();
+    $controller->actionTransfer($id);
+});
+
+$router->add('/nbpt-admin/inbox/response/{id}', function ($params) {
+    $id = $params['id'];
+    $controller = new \App\Controllers\AdminController();
+    $controller->actionReponse($id);
+});
+
+$router->add('/nbpt-admin/user/set-new-password/{id}', function ($params) {
+    $id = $params['id'];
+    $controller = new \App\Controllers\AdminController();
+    $controller->editPassword($id);
+});
+
+
+$router->add('/nbpt-admin/user/set-password/{id}', function ($params) {
+    $id = $params['id'];
 
     $controller = new \App\Controllers\AdminController();
-    $controller->updateAccount();
+    $controller->setPassword($id);
+});
+
+
+$router->add('/nbpt-admin/add-account', function () {
+    $controller = new \App\Controllers\AdminController();
+    $controller->actionCreateUser();
+});
+
+$router->add('/nbpt-admin/add-user', function () {
+    $controller = new \App\Controllers\AdminController();
+    $controller->createAccount();
+});
+
+$router->add('/nbpt-admin/user/{id}', function ($params) {
+    $id = $params['id'];
+    $controller = new \App\Controllers\AdminController();
+    $controller->getSingleAccount($id);
+});
+
+$router->add('/nbpt-admin/profile', function () {
+    $controller = new \App\Controllers\AdminController();
+    $controller->getProfile();
+});
+
+
+$router->add('/nbpt-admin/compte/edit/{id}', function ($params) {
+
+    $id = $params['id'];
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->updateAccount($id);
 });
 
 $router->add('/nbpt-admin/comptes', function () {
@@ -51,12 +119,28 @@ $router->add('/nbpt-admin/comptes', function () {
     $controller->getAllAccount();
 });
 
-$router->add('/nbpt-admin/contact/delete/{id}', function ($params) {
+$router->add('/nbpt-admin/send-box/delete/{id}', function ($params) {
+    $id = $params['id'];
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->deleteSendBoxAction($id);
+});
+
+$router->add('/nbpt-admin/inbox/delete/{id}', function ($params) {
     $id = $params['id'];
 
     $controller = new \App\Controllers\AdminController();
     $controller->deleteContactAction($id);
 });
+
+$router->add('/nbpt-admin/inbox/view/{id}', function ($params) {
+    error_log("Route callback invoked with params: " . print_r($params, true));
+
+    $id = $params['id'];
+    $controller = new \App\Controllers\AdminController();
+    $controller->updateViewInbox($id);
+});
+
 
 
 $router->add('/nbpt-admin/inbox/{id}', function ($params) {
@@ -70,7 +154,7 @@ $router->add('/nbpt-admin/inbox/{id}', function ($params) {
 
 
 
-$router->add('/nbpt-admin/contact', function () {
+$router->add('/nbpt-admin/inbox', function () {
     
     $controller = new \App\Controllers\AdminController();
     $controller->contact();
@@ -400,10 +484,18 @@ $router->add('/nbpt-admin/newsletter', function () {
     $controller->newsForm();
 });
 
-$router->add('/subscribe', function () {
+$router->add('/{lang}/subscribe', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
     
     $controller = new \App\Controllers\NewsletterController();
-    $controller->subscribe();
+    $controller->subscribe($lang);
 });
 
 $router->add('/{lang}/newsletter', function ($params) {

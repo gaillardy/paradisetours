@@ -60,7 +60,7 @@ class ContactController {
         $clientEmail = $_POST['email'];
         $tel = $_POST['tel'];
         $nom = $_POST['nom'];
-        $headers = "From: {$_POST['email']}";
+        $headers = $_POST['email'];
         
 
         $data = new Contact();
@@ -71,7 +71,7 @@ class ContactController {
 
             header("Location:/$lang/contact/success");
             /**
-             * Envoie du message à l'admin
+             * Envoie du message à l'email de l'admin
              */
             // if (mail($adminEmail, $subject, $message, $headers)) {
                 

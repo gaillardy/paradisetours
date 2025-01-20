@@ -45,16 +45,14 @@ class Admin
      * @param array $data
      * @return bool
      */
-    public static function create(array $data): bool
+    public static function create($username,$email,$nom,$prenom,$pass): bool
     {
         $db = Database::getInstance();
-        $query = "INSERT INTO admins (username, email, password) VALUES (:username, :email, :password)";
+        $query = "INSERT INTO 
+        admins (username, email, nom, prenom, pass, created_at, updated_at) 
+        VALUES (?, ?, ?, ?, ?, NOW(), NOW())";
         $stmt = $db->prepare($query);
-        $stmt->bindParam(':username', $data['username']);
-        $stmt->bindParam(':email', $data['email']);
-        $stmt->bindParam(':password', $data['password']);
-
-        return $stmt->execute();
+        return $stmt->execute([$username,$email,$nom,$prenom,$pass]);
     }
 
     /**
@@ -72,6 +70,72 @@ class Admin
     }
 
     /**
+     * Summary of getTotalUsersAdmin : Stat des users
+     * @return mixed
+     */
+    public static function getTotalUsersAdmin()
+    {
+        $db = Database::getInstance();
+        $query = "SELECT COUNT(*) AS total_admin  FROM admins";
+        $stmt = $db->query($query);
+
+        return $stmt->fetch(PDO::FETCH_ASSOC);
+    }
+
+    /**
+     * Summary of getTotalUsersAdmin : Stat des abonnées
+     * @return mixed
+     */
+    public static function getTotalSubscribers()
+    {
+        $db = Database::getInstance();
+        $query = "SELECT COUNT(*) AS total_sub  FROM subscribers";
+        $stmt = $db->query($query);
+
+        return $stmt->fetch(PDO::FETCH_ASSOC);
+    }
+
+    /**
+     * Summary of getTotalUsersAdmin : Stat des inbox
+     * @return mixed
+     */
+    public static function getTotalInbox()
+    {
+        $db = Database::getInstance();
+        $query = "SELECT COUNT(*) AS total_inbox  FROM contact";
+        $stmt = $db->query($query);
+
+        return $stmt->fetch(PDO::FETCH_ASSOC);
+    }
+
+    /**
+     * Summary of getTotalUsersAdmin : Stat des sendbox
+     * @return mixed
+     */
+    public static function getTotalSendbox()
+    {
+        $db = Database::getInstance();
+        $query = "SELECT COUNT(*) AS total_sendbox  FROM sendbox";
+        $stmt = $db->query($query);
+
+        return $stmt->fetch(PDO::FETCH_ASSOC);
+    }
+
+    /**
+     * Récupère tous la boite d'envoi.
+     *
+     * @return array
+     */
+    public static function getAllSendbox(): array
+    {
+        $db = Database::getInstance();
+        $query = "SELECT * FROM sendbox ORDER BY id DESC";
+        $stmt = $db->query($query);
+
+        return $stmt->fetchAll(PDO::FETCH_OBJ);
+    }
+
+    /**
      * Récupère tous les contact.
      *
      * @return array
@@ -83,6 +147,22 @@ class Admin
         $stmt = $db->query($query);
 
         return $stmt->fetchAll(PDO::FETCH_OBJ);
+    }
+
+    public static function deleteSendBox($id): bool
+    {
+        // Récupération de l'instance de la base de données
+        $db = Database::getInstance();
+
+        // Préparation de la requête DELETE
+        $query = "DELETE FROM sendbox WHERE id = :id";
+        $stmt = $db->prepare($query);
+
+        // Liaison de la valeur du paramètre
+        $stmt->bindValue(':id', $id, PDO::PARAM_INT);
+
+        // Exécution de la requête et retour du résultat (true si réussi, false sinon)
+        return $stmt->execute();
     }
 
     public static function deleteContact($id): bool
@@ -101,8 +181,29 @@ class Admin
         return $stmt->execute();
     }
 
+    /**
+     * Summary of getOnecontacts : Recuperer un message envoyé
+     * @param mixed $id
+     * @return mixed
+     */
+    public static function getOneSenbox($id): ?array
+    {
+        $db = Database::getInstance();
+        $query = "SELECT * FROM sendbox WHERE id = :id";
+        $stmt = $db->prepare($query);
+        $stmt->bindValue(':id', $id, PDO::PARAM_INT);
+        $stmt->execute();
+
+        return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
+    }
 
 
+
+    /**
+     * Summary of getOnecontacts : Recuperer un message recu
+     * @param mixed $id
+     * @return mixed
+     */
     public static function getOnecontacts($id): ?array
     {
         $db = Database::getInstance();
@@ -114,17 +215,39 @@ class Admin
         return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
     }
 
-    public static function updatePassword(int $id, array $data): bool
+    public static function updatePassword($password,$id): bool
     {
         $db = Database::getInstance();
         $query = "UPDATE admins SET 
-         pass = :password , updated_at = NOW()
-        WHERE id = :id";
+         pass = ?, updated_at = NOW()
+        WHERE id = ?";
         $stmt = $db->prepare($query);
-        $stmt->bindParam(':password', $data['pass']);
-        $stmt->bindParam(':id', $id);
 
-        return $stmt->execute();
+        return $stmt->execute([$password,$id]);
+    }
+
+    public static function updateViewEmail($view,$id): bool
+    {
+        $db = Database::getInstance();
+        $query = "UPDATE contact SET 
+         view = ?
+        WHERE id = ?";
+        $stmt = $db->prepare($query);
+        return $stmt->execute([$view,$id]);
+    }
+
+    /**
+     * Enregistrer un Nouveau message.
+     *
+     * @param array $data
+     * @return bool
+     */
+    public  function newMessage($headers,$clientEmail,$subject,$message)
+    {
+        $stmt = $this->db->prepare("INSERT INTO 
+        sendbox(de,a,sujet,messages,send_at) 
+        VALUES (?,?,?,?,NOW())");
+        return $stmt->execute([$headers,$clientEmail,$subject,$message]);
     }
 
 
@@ -132,24 +255,16 @@ class Admin
      * Met à jour les informations d'un administrateur.
      *
      * @param int $id
-     * @param array $data
-     * @return bool
+     * @return mixed
      */
-    public static function updateProfile(int $id, array $data): bool
+    public static function updateProfile($username,$email,$nom,$prenom,$id)
     {
         $db = Database::getInstance();
         $query = "UPDATE admins SET 
-        username = :username, email = :email, nom =  :nom, prenom = :prenom, pass = :password , updated_at = NOW()
-        WHERE id = :id";
+        username = ?, email = ?, nom =  ?, prenom = ?, updated_at = NOW()
+        WHERE id = ?";
         $stmt = $db->prepare($query);
-        $stmt->bindParam(':username', $data['username']);
-        $stmt->bindParam(':email', $data['email']);
-        $stmt->bindParam(':nom', $data['nom']);
-        $stmt->bindParam(':prenom', $data['prenom']);
-        $stmt->bindParam(':password', $data['pass']);
-        $stmt->bindParam(':id', $id);
-
-        return $stmt->execute();
+        return $stmt->execute([$username,$email,$nom,$prenom,$id]);
     }
 
     /**
@@ -166,6 +281,38 @@ class Admin
         $stmt->bindParam(':id', $id);
         $stmt->execute();
 
-        return $stmt->fetch() ?: null;
+        return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
+    }
+
+    /**
+     * Recuperer un email avant derépondre
+     * @param int $id
+     * @return mixed
+     */
+    public static function getEmailByID(int $id): ?array
+    {
+        $db = Database::getInstance();
+        $query = "SELECT * FROM contact WHERE id = :id";
+        $stmt = $db->prepare($query);
+        $stmt->bindParam(':id', $id);
+        $stmt->execute();
+
+        return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
+    }
+
+    /**
+     * Recuperer un email envoyé
+     * @param int $id
+     * @return mixed
+     */
+    public static function getSendEdEmailByID(int $id): ?array
+    {
+        $db = Database::getInstance();
+        $query = "SELECT * FROM sendbox WHERE id = :id";
+        $stmt = $db->prepare($query);
+        $stmt->bindParam(':id', $id);
+        $stmt->execute();
+
+        return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
     }
 }

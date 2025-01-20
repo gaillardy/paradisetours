@@ -3,6 +3,7 @@ namespace App\Models;
 
 use App\Models\Database;
 use PDO;
+use PDOException;
 
 class Newsletter {
     private $db;
@@ -17,7 +18,21 @@ class Newsletter {
     }
 
     public function addSubscriber($email) {
-        $stmt = $this->db->prepare('INSERT INTO subscribers (email,created_at) VALUES (?,NOW())');
-        return $stmt->execute([$email]);
+        try {
+            // Vérifie si l'email existe déjà
+            $stmt = $this->db->prepare('SELECT COUNT(*) FROM subscribers WHERE email = ?');
+            $stmt->execute([$email]);
+            if ($stmt->fetchColumn() > 0) {
+                return false; // Email déjà abonné
+            }
+    
+            // Ajout de l'email
+            $stmt = $this->db->prepare('INSERT INTO subscribers (email, created_at) VALUES (?, NOW())');
+            return $stmt->execute([$email]);
+        } catch (PDOException $e) {
+            // Logger l'erreur pour le diagnostic
+            // error_log($e->getMessage());
+            return false;
+        }
     }
 }

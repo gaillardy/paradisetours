@@ -5,6 +5,7 @@ use App\Core\View;
 use App\Models\Newsletter;
 use App\Helpers\FlashMessage;
 use App\Helpers\Language;
+use Exception;
 
 class NewsletterController {
 
@@ -60,16 +61,36 @@ class NewsletterController {
         exit;
     }
 
-    public function subscribe() {
+    public function subscribe($lang) {
         $newsletter = new Newsletter();
-        $email = $_POST['email'];
-        
-        if ($newsletter->addSubscriber($email)) {
-            // FlashMessage::add('success', 'You have successfully subscribed to the newsletter!');
-        } else {
-            // FlashMessage::add('error', 'Subscription failed. Try again later.');
+        $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+    
+        // Validation de l'email
+        if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+            FlashController::addFlashMessage('error', 'Veuiller entrer un email valide');
+            header("Location:/$lang/home");
+            exit;
         }
-        header('Location:/en/newsletter'); // Rediriger vers la page d'accueil
+    
+        // Ajout à la newsletter
+        try {
+            if ($newsletter->addSubscriber($email)) {
+                FlashController::addFlashMessage('success', 'Vous êtes abonnées avec succès!');
+                header("Location:/$lang/home");
+            } else {
+                FlashController::addFlashMessage('error', 'Vous êtes déja abonnée');
+                header("Location:/$lang/home");
+            }
+        } catch (Exception $e) {
+            // // Logger l'erreur pour le diagnostic
+            // error_log($e->getMessage());
+            FlashController::addFlashMessage('error', 'Une erreur c\'est produite lors du traitement, reessayer');
+            header("Location:/$lang/home");
+        }
         exit;
     }
+    
 }

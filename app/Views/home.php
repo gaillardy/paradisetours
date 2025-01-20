@@ -1,7 +1,15 @@
 <?php include 'templates/header.php'; ?>
 <?php //htmlspecialchars($translations['welcome'] ?? 'Welcome') ?>
 <?php //Language::translate('contact'); ?>
-
+<?php
+    foreach ($flashMessages as $message){
+        ?>
+            <div class="flash-message <?= $message['type']; ?>">
+                <p><?= htmlspecialchars($message['message']); ?></p>
+            </div>
+        <?php
+    }
+?>
 
 	<div class="hero-wrap js-fullheight" style="
 		background-image: url('/assets/images/dark-cover.jpg');

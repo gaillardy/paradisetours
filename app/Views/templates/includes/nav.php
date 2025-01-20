@@ -166,7 +166,8 @@ $languages = [
 
 								?>
 									<li>
-										<a class="dropdown-item <?= $code === $lang ? 'active' : ''; ?>" href="<?= $newRoute ?>">
+										<a class="dropdown-item <?= $code === $lang ? 'active' : ''; ?>" 
+										href="<?= $newRoute ?>">
 											<img src="/assets/images/lang/<?= $code ?>.png" alt="<?= $name ?>" style="width: 15px; height: 12px;">
 											<?= $name ?>
 										</a>

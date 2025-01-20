@@ -69,6 +69,9 @@ body {
     background-color: #0073aa;
 }
 
+.active-menu {
+    background-color: #0073aa;
+}
 /* Main Content */
 .main-content {
     flex-grow: 1;

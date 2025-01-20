@@ -16,12 +16,14 @@ class HomeController
 
         // Obtenir la route actuelle
         $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
 
         View::render('home', [
-            'title' => $title,
-            'lang' => $lang,
-            'translations' => $translations,
-            'currentRoute' => $currentRoute,
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
         ]);
     }
 

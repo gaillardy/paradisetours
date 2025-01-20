@@ -1,3 +1,154 @@
+<style>
+    /* Effet d'arrière-plan */
+    .modal {
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: rgba(0, 0, 0, 0.5);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          z-index: 1000;
+          opacity: 0;
+          visibility: hidden;
+          transition: opacity 0.3s ease, visibility 0.3s ease;
+      }
+
+      /* Affichage lorsque le modal est actif */
+      .modal.show {
+          opacity: 1;
+          visibility: visible;
+      }
+
+      /* Contenu du modal */
+      .modal-content {
+          background: #fff;
+          padding: 20px;
+          border-radius: 12px;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+          transform: scale(0.8);
+          transition: transform 0.3s ease;
+          width: 90%;
+          max-width: 400px;
+      }
+
+      /* Effet de zoom lorsque le modal est affiché */
+      .modal.show .modal-content {
+          transform: scale(1);
+      }
+
+      /* Titre du modal */
+      .modal-content h3 {
+          font-size: 1.5rem;
+          color: #333;
+          margin-bottom: 15px;
+      }
+
+      /* Zone de texte */
+      .modal-content textarea {
+          width: 100%;
+          height: 100px;
+          padding: 10px;
+          font-size: 1rem;
+          border: 1px solid #ddd;
+          border-radius: 8px;
+          margin-bottom: 15px;
+          resize: none;
+          box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+          transition: border 0.2s ease;
+      }
+
+      .modal-content textarea:focus {
+          border-color: #007bff;
+          outline: none;
+      }
+
+      /* Style de base des boutons */
+      #btn-mod {
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: all 0.3s ease;
+      outline: none;
+      }
+
+      /* Style pour le bouton 'Annuler' */
+      .modal-close {
+      background-color: #f44336; /* Rouge */
+      color: white;
+      font-weight: bold;
+      }
+
+      .modal-close:hover {
+      background-color: #d32f2f;
+      }
+
+      .modal-close:focus {
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      }
+
+      /* Style pour le bouton 'Envoyer' */
+      .modal-submit {
+      background-color: #4CAF50; /* Vert */
+      color: white;
+      font-weight: bold;
+      }
+
+      .modal-submit:hover {
+      background-color: #388E3C;
+      }
+
+      .modal-submit:focus {
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      }
+
+      /* Effet de transition */
+      #btn-mod:active {
+      transform: scale(0.98);
+      }
+      /* Style de l'input email */
+      .modal-input-email {
+      width: 100%;
+      padding: 12px 16px;
+      margin-bottom: 20px; /* Espacement en bas pour aérer */
+      font-size: 16px;
+      border: 2px solid #ddd;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+      color: #333;
+      transition: all 0.3s ease;
+      box-sizing: border-box; /* Pour inclure le padding dans la largeur totale */
+      }
+
+      /* Effet au focus */
+      .modal-input-email:focus {
+      border-color: #4CAF50; /* Couleur verte */
+      box-shadow: 0 0 8px rgba(76, 175, 80, 0.5); /* Ombre légère */
+      outline: none;
+      }
+
+      /* Placeholder personnalisé */
+      .modal-input-email::placeholder {
+      color: #999; /* Couleur grise plus douce pour le placeholder */
+      font-style: italic; /* Style italique pour le placeholder */
+      }
+
+      /* Effet au survol */
+      .modal-input-email:hover {
+      border-color: #66bb6a; /* Légère couleur verte au survol */
+      }
+
+      /* Effet de focus actif */
+      .modal-input-email:active {
+      transform: scale(0.98); /* Effet de réduction lors du clic */
+      }
+</style>
+
+
 <footer class="ftco-footer ftco-bg-dark ftco-section">
 <div class="container">
   <div class="row mb-5">
@@ -22,7 +173,21 @@
           <li><a href="/<?= $lang ?>/services" class="py-2 d-block">Service</a></li>
           <li><a href="/<?= $lang ?>/contact" class="py-2 d-block">Contact</a></li>
           <li><a href="/<?= $lang ?>/guide" class="py-2 d-block">Guide</a></li>
-          <li><a href="#" class="py-2 d-block">Newsletter</a></li>
+          <li><a href="javascript:avoid(0)" onclick="openModal('forwardModal')" class="py-2 d-block">Newsletter</a></li>
+
+
+          <!-- Modale pour Newsletter -->
+          <div id="forwardModal" class="modal hidden">
+                <div class="modal-content">
+                    <h3>S'abonner</h3>
+                    <form action="/<?= $lang ?>/subscribe" method="post">
+                        <input type="email" name="email" placeholder="Votre Adresse email " class="modal-input-email">
+                        <button id="btn-mod" class="modal-close" onclick="closeModal('forwardModal')" type="button">Annuler</button>
+                        <button id="btn-mod" class="modal-submit" type="submit">Envoyer</button>
+                    </form>
+                </div>
+          </div>
+
         </ul>
       </div>
     </div>
@@ -65,7 +230,19 @@
   </div>
 </div>
 </footer>
+<script>
+  // Ouverture du modal avec animation
+  function openModal(modalId) {
+        const modal = document.getElementById(modalId);
+        modal.classList.add('show');
+    }
 
+    // Fermeture du modal avec animation
+    function closeModal(modalId) {
+        const modal = document.getElementById(modalId);
+        modal.classList.remove('show');
+    }
+</script>
 <script src="/assets/js/script.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="/assets/js/bootstrap.bundle.min.js"></script>

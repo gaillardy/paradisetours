@@ -1,4 +1,37 @@
 /* General Styles */
+/* styles.css */
+
+.flash-message {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: bold;
+  opacity: 0;
+  animation: fadeIn 1s forwards;
+  margin-bottom: 10px;
+  z-index: 1000;
+}
+
+.flash-message.success {
+  background-color: #4CAF50;
+}
+
+.flash-message.error {
+  background-color: #f44336;
+}
+
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
 
 
 .ftco-section {
