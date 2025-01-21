@@ -107,7 +107,15 @@ button:hover {
 
 <div class="admin-wrapper">
     <?php  include 'templates/includes/aside.php'; ?>
-
+    <?php
+        foreach ($flashMessages as $message){
+            ?>
+                <div class="flash-message <?= $message['type']; ?>">
+                    <p><?= htmlspecialchars($message['message']); ?></p>
+                </div>
+            <?php
+        }
+    ?>
     <div class="main-content">
         <header class="header">
             <h1>Ajouter un utilisateur</h1>
@@ -130,7 +138,7 @@ button:hover {
                 <div class="back-link">
                     <a href="/nbpt-admin/comptes">&larr; Retour</a>
                 </div>
-                <h2>Ajouter un compte</h2>
+                <h2>Ajouter un utilisateur</h2>
                 <form action="/nbpt-admin/add-account" method="post" id="addAccountForm">
                     <div class="form-group">
                         <label for="username">Nom d'utilisateur</label>

@@ -66,14 +66,16 @@ class AdminController
 
             if($password_confirm === $password){
                 Admin::create($username, $email,$nom,$prenom,$password);
-                header("Location:/nbpt-admin/add-user?msg=success");
+                FlashController::addFlashMessage('success','Utilisateur ajouté avec success');
+                header("Location:/nbpt-admin/add-user");
             }else{
-                header("Location:/nbpt-admin/add-user?msg=error");
+                FlashController::addFlashMessage('error','Les mots de passe ne correspondent pas');
+                header("Location:/nbpt-admin/add-user");
             }
         }else{
-            header("Location:/nbpt-admin/add-user?msg=error");
+            FlashController::addFlashMessage('error','Tout les champs sont obligatoires');
+            header("Location:/nbpt-admin/add-user");
         }
-
     }
 
     public function createAccount()
@@ -86,12 +88,12 @@ class AdminController
         $currentRoute = $_SERVER['REQUEST_URI'];
         $title = 'Ajouter un compte';
 
-        // Exemple de vue avec liste des utilisateurs
-        // $users = Admin::create();
+        $flashMessages = FlashController::getFlashMessages();
 
         View::render('create', [
-            'currentRoute' => $currentRoute,
-            'title' => $title,
+            'flashMessages' =>$flashMessages,
+            'currentRoute'  => $currentRoute,
+            'title'         => $title,
         ]);
     }
 
@@ -205,11 +207,13 @@ class AdminController
         // Obtenir la route actuelle
         $currentRoute = $_SERVER['REQUEST_URI'];
         $title = 'Nouveau message';
+        $flashMessages = FlashController::getFlashMessages();
 
         
         View::render('message', [
-            'currentRoute' => $currentRoute,
-            'title' => $title,
+            'flashMessages' => $flashMessages,
+            'currentRoute'  => $currentRoute,
+            'title'         => $title,
         ]);
     }
 
@@ -233,11 +237,15 @@ class AdminController
                 * Envoie du message à l'email du destinataire
                 */
                 mail($clientEmail, $subject, $message, $headers);
-
-                header("Location:/nbpt-admin/new-message?msg=success");
+                FlashController::addFlashMessage('success','Votre message a été envoyé');
+                header("Location:/nbpt-admin/new-message");
+            }else {
+                FlashController::addFlashMessage('error','Une erreur c\'est produite, reesayez');
+                header("Location:/nbpt-admin/new-message");
             }
         }else{
-            header("Location:/nbpt-admin/new-message?msg=error");
+            FlashController::addFlashMessage('error','Les champs sont obligatoires');
+            header("Location:/nbpt-admin/new-message");
         }
         
     }
@@ -289,22 +297,39 @@ class AdminController
 
         if (!filter_var($id, FILTER_VALIDATE_INT)) {
             header("Location:/nbpt-admin");
+            
         }
 
-        $_SESSION['username'] = $_POST['username'];
-        $_SESSION['email']    = $_POST['email'];
-        $_SESSION['nom']      = $_POST['nom'];
-        $_SESSION['prenom']   = $_POST['prenom'];
+        if (
+        !empty($_POST['username']) && 
+        !empty($_POST['email']) || 
+        !empty($_POST['nom']) || 
+        !empty($_POST['prenom'])
+        
+        ) {
+            $_SESSION['username'] = $_POST['username'];
+            $_SESSION['email']    = $_POST['email'];
+            $_SESSION['nom']      = $_POST['nom'];
+            $_SESSION['prenom']   = $_POST['prenom'];
 
-        Admin::updateProfile(
-        $_POST['username'],
-        $_POST['email'],
-        $_POST['nom'],
-        $_POST['prenom'],
-        $id
-        );
+            Admin::updateProfile(
+            $_POST['username'],
+            $_POST['email'],
+            $_POST['nom'],
+            $_POST['prenom'],
+            $id
+            );
 
-        header("Location:/nbpt-admin/user/$id");
+            FlashController::addFlashMessage('success','Informations mise à jour avec succès');
+
+            header("Location:/nbpt-admin/user/$id");
+        }else{
+            FlashController::addFlashMessage('error','Les champs Username et email sont obligatoires');
+
+            header("Location:/nbpt-admin/user/$id");
+        }
+
+        
     }
 
     public function getSingleAccount($id)

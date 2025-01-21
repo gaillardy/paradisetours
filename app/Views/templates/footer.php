@@ -1,4 +1,10 @@
 <style>
+  .error-message {
+            color: red;
+            font-size: 12px;
+            display: none;
+            margin-top: 5px;
+        }
     /* Effet d'arrière-plan */
     .modal {
           position: fixed;
@@ -180,10 +186,11 @@
           <div id="forwardModal" class="modal hidden">
                 <div class="modal-content">
                     <h3>S'abonner</h3>
-                    <form action="/<?= $lang ?>/subscribe" method="post">
-                        <input type="email" name="email" placeholder="Votre Adresse email " class="modal-input-email">
-                        <button id="btn-mod" class="modal-close" onclick="closeModal('forwardModal')" type="button">Annuler</button>
-                        <button id="btn-mod" class="modal-submit" type="submit">Envoyer</button>
+                    <form action="/<?= $lang ?>/subscribe" method="post" id="contactForm" >
+                      <input type="email" name="email" id="email" placeholder="Votre Adresse email " class="modal-input-email">
+                      <div class="error-message" id="emailError">Veuillez entrer un email valide.</div>
+                      <button id="btn-mod" class="modal-close" onclick="closeModal('forwardModal')" type="button">Annuler</button>
+                      <button id="btn-mod" class="modal-submit" type="submit">Envoyer</button>
                     </form>
                 </div>
           </div>
@@ -233,16 +240,38 @@
 <script>
   // Ouverture du modal avec animation
   function openModal(modalId) {
-        const modal = document.getElementById(modalId);
-        modal.classList.add('show');
+    const modal = document.getElementById(modalId);
+    modal.classList.add('show');
+  }
+
+  // Fermeture du modal avec animation
+  function closeModal(modalId) {
+    const modal = document.getElementById(modalId);
+    modal.classList.remove('show');
+  }
+  document.getElementById("contactForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    let isValid = true;
+
+    // Validation de l'email
+    const email = document.getElementById("email");
+    const emailError = document.getElementById("emailError");
+    const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailPattern.test(email.value)) {
+      emailError.style.display = "block";
+      isValid = false;
+    } else {
+      emailError.style.display = "none";
     }
 
-    // Fermeture du modal avec animation
-    function closeModal(modalId) {
-        const modal = document.getElementById(modalId);
-        modal.classList.remove('show');
+    // Si tout est valide, soumettre le formulaire
+    if (isValid) {
+      this.submit();
     }
+  });
+
 </script>
+
 <script src="/assets/js/script.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="/assets/js/bootstrap.bundle.min.js"></script>

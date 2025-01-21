@@ -106,7 +106,15 @@ small.error-message {
 
 <div class="admin-wrapper">
     <?php  include 'templates/includes/aside.php'; ?>
-
+    <?php
+        foreach ($flashMessages as $message){
+            ?>
+                <div class="flash-message <?= $message['type']; ?>">
+                    <p><?= htmlspecialchars($message['message']); ?></p>
+                </div>
+            <?php
+        }
+    ?>
     <div class="main-content">
         <header class="header">
             <h1>Nouveau message</h1>

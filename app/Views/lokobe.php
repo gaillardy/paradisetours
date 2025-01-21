@@ -20,45 +20,24 @@
                 <h2 class="mb-4">Images</h2>
             </div>
         </div>
-    		<div class="row">
+            <div class="row">
     			<div class="col-md-12">
     				<div class="destination-slider owl-carousel ftco-animate">
-                        <div class="item">
-                            <div class="destination">
-                                <a   target="_blank" href="/assets/images/excurtions/l-1.jpg" class="img d-flex justify-content-center align-items-center" style='background-image: url("/assets/images/excurtions/l-1.jpg");'>
-                                    <div class="icon d-flex justify-content-center align-items-center">
-                                        <span class="icon-search2"></span>
+                        <?php
+                            for ($i=1; $i <= 4 ; $i++) { 
+                                ?>
+                                    <div class="item">
+                                        <div class="destination">
+                                            <a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/excurtions/l-<?= $i ?>.jpg');">
+                                                <div class="icon d-flex justify-content-center align-items-center">
+                                                    <span class="icon-search2"></span>
+                                                </div>
+                                            </a>
+                                        </div>
                                     </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="destination">
-                                <a  target="_blank" href="/assets/images/excurtions/l-2.jpg" class="img d-flex justify-content-center align-items-center" style='background-image: url("/assets/images/excurtions/l-2.jpg");'>
-                                    <div class="icon d-flex justify-content-center align-items-center">
-                                        <span class="icon-search2"></span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="destination">
-                                <a  target="_blank" href="/assets/images/excurtions/l-3.jpg" class="img d-flex justify-content-center align-items-center" style='background-image: url("/assets/images/excurtions/l-3.jpg");'>
-                                    <div class="icon d-flex justify-content-center align-items-center">
-                                        <span class="icon-search2"></span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="destination">
-                                <a  target="_blank" href="/assets/images/excurtions/l-4.jpg" class="img d-flex justify-content-center align-items-center" style='background-image: url("/assets/images/excurtions/l-4.jpg");'>
-                                    <div class="icon d-flex justify-content-center align-items-center">
-                                        <span class="icon-search2"></span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
+                                <?php
+                            }
+                        ?>
     				</div>
     			</div>
     		</div>

@@ -16,16 +16,19 @@ class ContactController {
         $metaDescription = "formulaire de  contact Nosy be Paradise Tours";
         $metaKeywords = "formulaire de  contact";
         $title = "Contact";
-        unset($_SESSION['contact_success']);
+
+        $flashMessages = FlashController::getFlashMessages();
+
 
         // Rendre la vue `home.php` avec les données nécessaires
         View::render('contact', [
-            'lang'         => $lang,
-            'translations' => $translations,
-            'currentRoute' => $currentRoute,
-            'metaDescription' => $metaDescription,
-            'metaKeywords'    => $metaKeywords,
-            'title' => $title
+            'flashMessages'      => $flashMessages,
+            'lang'               => $lang,
+            'translations'       => $translations,
+            'currentRoute'       => $currentRoute,
+            'metaDescription'    => $metaDescription,
+            'metaKeywords'       => $metaKeywords,
+            'title'              => $title
         ]);
     }
 
@@ -40,14 +43,17 @@ class ContactController {
         $metaKeywords = "formulaire de  contact";
         $title = "Contact";
 
+        $flashMessages = FlashController::getFlashMessages();
+
         // Rendre la vue `home.php` avec les données nécessaires
         View::render('sendcontact', [
-            'lang'         => $lang,
-            'translations' => $translations,
-            'currentRoute' => $currentRoute,
-            'metaDescription' => $metaDescription,
-            'metaKeywords'    => $metaKeywords,
-            'title' => $title,
+            'flashMessages'      => $flashMessages,
+            'lang'              => $lang,
+            'translations'      => $translations,
+            'currentRoute'      => $currentRoute,
+            'metaDescription'   => $metaDescription,
+            'metaKeywords'      => $metaKeywords,
+            'title'             => $title,
         ]);
     }
 
@@ -67,17 +73,10 @@ class ContactController {
 
         if($data->addContact($nom,$clientEmail,$tel,$subject,$message)){
 
-            $_SESSION['contact_success'] = true;
-
-            header("Location:/$lang/contact/success");
-            /**
-             * Envoie du message à l'email de l'admin
-             */
-            // if (mail($adminEmail, $subject, $message, $headers)) {
-                
-            // } else {
-            //     $msgerror =  "Failed to send email.";
-            // }
+            mail($adminEmail, $subject, $message, $headers);
+            FlashController::addFlashMessage('success','Votre message a été envoyé');
+            header("Location:/$lang/contact");
+           
         } 
     }
 }

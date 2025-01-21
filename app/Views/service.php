@@ -87,7 +87,7 @@
   <div class="container">
     <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
       <div class="col-md-9 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-        <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">&Agrave; propos</h1>
+        <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Services</h1>
       </div>
     </div>
   </div>
@@ -109,11 +109,11 @@
       <!-- Service Card 1 -->
       <div class="col-md-4" data-aos="fade-up">
         <div class="service-card shadow-lg rounded overflow-hidden">
-          <img src="/assets/images/services/transfer.jpg" alt="Transfert Premium" class="img-fluid rounded-top">
+          <img src="/assets/images/services/transfert.jpg" alt="Transfert Premium" class="img-fluid rounded-top">
           <div class="service-card-body">
             <h3>Transfert Premium</h3>
             <p>Service de transport haut de gamme, pour des trajets confortables et rapides.</p>
-            <a href="#" class="btn btn-outline-primary">En savoir plus</a>
+            <a href="/<?= $lang ?>/transfert-premium" class="btn btn-outline-primary">En savoir plus</a>
           </div>
         </div>
       </div>
@@ -124,7 +124,7 @@
           <div class="service-card-body">
             <h3>Service Traiteur</h3>
             <p>Offre de repas gastronomiques pour tous types d'événements.</p>
-            <a href="#" class="btn btn-outline-primary">En savoir plus</a>
+            <a href="#service-traiteur" class="btn btn-outline-primary">En savoir plus</a>
           </div>
         </div>
       </div>
@@ -135,10 +135,48 @@
           <div class="service-card-body">
             <h3>Réception Croisières</h3>
             <p>Organisation de réceptions sur des bateaux de luxe avec vue sur mer.</p>
-            <a href="#" class="btn btn-outline-primary">En savoir plus</a>
+            <a href="#reception-coisières" class="btn btn-outline-primary">En savoir plus</a>
           </div>
         </div>
       </div>
+    </div>
+    <div class="row">
+
+      <!-- Service Card 1 -->
+      <div class="col-md-4" data-aos="fade-up">
+        <div class="service-card shadow-lg rounded overflow-hidden">
+          <img src="/assets/images/services/s-2.jpg" alt="Transfert Premium" class="img-fluid rounded-top">
+          <div class="service-card-body">
+            <h3>Voyage Incentive</h3>
+            <p>Réinventez l’incentive en vous offrant un voyage d’entreprise original. </p>
+            <a href="/<?=  $lang ?>/voyage-incentive" class="btn btn-outline-primary">En savoir plus</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Service Card 2 -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="service-card shadow-lg rounded overflow-hidden">
+          <img src="/assets/images/services/s-3.jpg" alt="Service Traiteur" class="img-fluid rounded-top">
+          <div class="service-card-body">
+            <h3>Mariage et Lune de Miel</h3>
+            <p>L’équipe Paradise Tours vous propose son forfait mariage et Lune de miel. </p>
+            <a href="#mariage-et-lune-de-miel" class="btn btn-outline-primary">En savoir plus</a>
+          </div>
+        </div>
+      </div>
+      <!-- Service Card 3 -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="service-card shadow-lg rounded overflow-hidden">
+          <img src="/assets/images/services/donia.jpg" alt="Réception Croisières" class="img-fluid rounded-top">
+          <div class="service-card-body">
+            <h3>Culture et Événements</h3>
+            <p>Organisation de réceptions sur des bateaux de luxe avec vue sur mer.</p>
+            <a href="#culture-events" class="btn btn-outline-primary">En savoir plus</a>
+          </div>
+        </div>
+      </div>
+      
     </div>
   </section>
 
@@ -159,7 +197,7 @@
       </div>
     </div>
 
-    <div class="row">
+    <div class="row" id="reception-coisières">
       <div class="col-md-12" >
         <h3 class="text-center">Réception Croisières</h3>
         <p class="text-justify">
@@ -328,4 +366,91 @@
       </div>
     </div>
   </section>
+
+
+    <!-- Mariage Section -->
+  <section id="mariage-et-lune-de-miel" class="container py-5" data-aos="fade-up">
+    <h2 class="text-center mb-4">Mariage et Lune de Miel</h2>
+    <div class="row">
+      <!-- Event Block 1 -->
+      <div class="col-md-6 mb-4" data-aos="fade-up">
+        <div class="event-block shadow-lg rounded overflow-hidden">
+          
+          <img src="/assets/images/services/s-1.jpg" alt="Festival Donia" class="img-fluid mb-3">
+          <br class="text-justify">
+            Pour fêter ce qu’il y a de plus beau sur terre, l’AMOUR.
+            Vous rêvez d’un mariage dans un cadre exceptionnel, hors du commun ou d’une lune de miel sur une île paradisiaque?
+
+            L’équipe Paradise Tours vous propose son forfait mariage et Lune de miel. 
+            <p class="mb-4"></p>
+            <br>
+            <br>
+          </p>
+        </div>
+      </div>
+      <!-- Event Block 2 -->
+      <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="event-block shadow-lg rounded overflow-hidden">
+          <img src="/assets/images/services/s-3.jpg" alt="Festival Sômarôho" class="img-fluid mb-3">
+          <p class="text-justify">
+            Nous disposons de plusieurs coordonnateurs de mariage expérimentés, pouvant vous assurer un mariage de rêve. 
+            Que ce soit pour des événements intimes ou de grande envergure pouvant accueillir jusqu’à 150 invités,
+           nos équipes de professionnels mettent tout en œuvre pour créer un moment unique pour vous.
+           Un cadre idyllique, un décor paradisiaque et une équipe motivée à votre disposition pour rendre vos moments uniques. 
+           Pas étonnant que l’île se distingue comme l’une des destinations préférées pour célébrer l’amour!
+            
+          </p>
+          <br>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <p id="service-traiteur"></p>
+
+  <section id="additional-info" class="container py-5" data-aos="fade-up">
+    <div class="row" >
+      <div class="col-md-12" >
+        <h3 class="text-center">Service traiteur</h3>
+        <p class="text-justify">
+          Anniversaire, Naissance, Séminaire ou autres occasions spéciales, 
+          il y a rien de mieux que voir ses invités se régaler sans avoir à le faire soi-même.
+
+          Quand il s’agit d’assurer un repas, les recettes de plats traditionnels n’ont pas leur pareil.
+
+          Nosy Be Paradise Tours met en avant la qualité de l’art culinaire malgache. 
+          Mais aussi la cuisine européenne et autre à la demande de la clientèle.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Image Section -->
+    <section class="ftco-section ftco-destination mt-5">
+    	<div class="container">
+        <div class="row">
+    			<div class="col-md-12">
+    				<div class="destination-slider owl-carousel ftco-animate">
+              <?php
+                for ($i=1; $i < 18 ; $i++) { 
+                  ?>
+                    <div class="item">
+                        <div class="destination">
+                            <a href="/assets/images/services/tr-<?= $i ?>.jpg" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/services/tr-<?= $i ?>.jpg');">
+                                <div class="icon d-flex justify-content-center align-items-center">
+                                  <span class="icon-search2"></span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                  <?php
+                }
+              ?>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+
+
 <?php include 'templates/footer.php'; ?>

@@ -1,5 +1,36 @@
 <?php include 'templates/header.php'; ?>
 <style>
+    .flash-message {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: bold;
+  opacity: 0;
+  animation: fadeIn 1s forwards;
+  margin-bottom: 10px;
+  z-index: 1000;
+}
+
+.flash-message.success {
+  background-color: #4CAF50;
+}
+
+.flash-message.error {
+  background-color: #f44336;
+}
+
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
         form {
             background: #fff;
             padding: 20px 30px;
@@ -126,7 +157,7 @@
         a:hover {
             text-decoration: underline;
         }
-    </style>
+</style>
 
 <div class="hero-wrap js-fullheight" style="background-image: url('/assets/images/dark-cover.jpg');">
     <div class="overlay"></div>
@@ -139,7 +170,15 @@
     </div>
 </div>
 
-
+<?php
+    foreach ($flashMessages as $message){
+        ?>
+            <div class="flash-message <?= $message['type']; ?>" style="color:#fff;">
+                <p><?= htmlspecialchars($message['message']); ?></p>
+            </div>
+        <?php
+    }
+?>
 
 <section class="ftco-section" id="guide" >
   <div class="container">

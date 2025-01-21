@@ -1,4 +1,8 @@
 /* General Styles */
+html {
+  scroll-behavior: smooth;
+}
+
 
 /* Base styles for the nav-item */
 .cta-button {

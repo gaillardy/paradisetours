@@ -48,27 +48,7 @@ class HomeController
         ]);
     }
 
-    public function service($lang)
-    {
-        // Charger les traductions pour la langue donnée
-        $translations = Language::getTranslations($lang);
-
-        // Obtenir la route actuelle
-        $currentRoute = $_SERVER['REQUEST_URI'];
-        $metaDescription = "Service Nosy be Paradise Tour";
-        $metaKeywords = "Service Nosy be Paradise Tour";
-        $title = "Service";
-
-        // Rendre la vue `home.php` avec les données nécessaires
-        View::render('service', [
-            'lang'         => $lang,
-            'translations' => $translations,
-            'currentRoute' => $currentRoute,
-            'metaDescription' => $metaDescription,
-            'metaKeywords'    => $metaKeywords,
-            'title' => $title,
-        ]);
-    }
+    
 
     public function guide($lang)
     {
