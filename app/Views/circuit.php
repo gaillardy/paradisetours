@@ -88,7 +88,7 @@
                                         <p>
                                         Réserve National Terrestre classée Patrimoine Mondial au paysage de Tsingy de différentes formes.
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-bemaraha" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -101,7 +101,7 @@
                                         <p>
                                         Réserve Spéciale, Forêt dense sèche, le Tsingy et son peuplement et la Forêt des canyons.
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-ankarana" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -116,7 +116,7 @@
                                             forêt dense humide de basse altitude habitat 
                                             du Propithecus candidus ou Simpona fotsy.
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-marojejy" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -131,7 +131,7 @@
                                         floristique unique sur massif sableux dans laquelle 
                                         se trouvent des espèces faunistiques à un taux d’endémicité très élevé.
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-ankarafantsika" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -213,7 +213,7 @@
                                         de reptiles et des lémuriens ont élu habitat.
 
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-mantadia" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -228,7 +228,7 @@
                                         forêt dense humide avec un taux d’endémisme 
                                         très élevé dont des milliers d’espèces de bois précieux .
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-ambre" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -262,7 +262,7 @@
                                             une représentation écologique unique au sein du réseau
                                             Parc Nationaux Madagascar.
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-isalo" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -277,7 +277,7 @@
                                             Parc National Terrestre classé Site Patrimoine Mondial, 
                                             refuge des plantes et animaux du massif forestier du Moyen Est de Madagascar.
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-andringitra" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -293,7 +293,7 @@
                                         sa richesse en espèce d’oiseaux rares, 
                                         endémiques de Madagascar et / ou de la zone.
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-zombitse" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -324,7 +324,7 @@
                                         Andohahela représente la diversité biologique 
                                         de l’extrême Sud-Est de Madagascar.
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/parc-andohahela" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>

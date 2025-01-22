@@ -3,68 +3,66 @@
         <h2>NBPT Admin</h2>
     </div>
     <ul class="menu">
-
-
+        <li>
+            <a href="/fr/home" target="_blank">
+                <i class="fas fa-globe"></i> Voir le site
+            </a>
+        </li>
         <li>
             <a href="/nbpt-admin/dashboard" 
-                class="<?php if($currentRoute === '/nbpt-admin/dashboard'){echo 'active-menu';} else {echo '';}?>"
-            >
-            Tableau de bord
+                class="<?php if($currentRoute === '/nbpt-admin/dashboard'){echo 'active-menu';} else {echo '';}?>">
+                <i class="fas fa-tachometer-alt"></i> Tableau de bord
             </a>
         </li>
-
         <li>
-            <a href="/nbpt-admin/comptes"
-            class="<?php if($currentRoute === '/nbpt-admin/comptes'){echo 'active-menu';} else {echo '';}?>"
-            >
-                Utilisateurs
+            <a href="/nbpt-admin/comptes" 
+                class="<?php if($currentRoute === '/nbpt-admin/comptes'){echo 'active-menu';} else {echo '';}?>">
+                <i class="fas fa-users"></i> Utilisateurs
             </a>
         </li>
-
         <li>
-            <a href="/nbpt-admin/new-message"
-            class="<?php if($currentRoute === '/nbpt-admin/new-message'){echo 'active-menu';} else {echo '';}?>"
-            >
-                Nouveau message
+            <a href="/nbpt-admin/new-message" 
+                class="<?php if($currentRoute === '/nbpt-admin/new-message'){echo 'active-menu';} else {echo '';}?>">
+                <i class="fas fa-envelope"></i> Nouveau message
             </a>
         </li>
-
-
         <li>
-            <a href="/nbpt-admin/inbox"
-            class="<?php if($currentRoute === '/nbpt-admin/inbox'){echo 'active-menu';} else {echo '';}?>"
-            >
-                Boite de reception
+            <a href="/nbpt-admin/inbox" 
+                class="<?php if($currentRoute === '/nbpt-admin/inbox'){echo 'active-menu';} else {echo '';}?>">
+                <i class="fas fa-inbox"></i> Boîte de réception
             </a>
         </li>
-
         <li>
-            <a href="/nbpt-admin/send-box"
-                class="<?php if($currentRoute === '/nbpt-admin/send-box'){echo 'active-menu';} else {echo '';}?>"
-            >
-                Boite d'envoi
+            <a href="/nbpt-admin/send-box" 
+                class="<?php if($currentRoute === '/nbpt-admin/send-box'){echo 'active-menu';} else {echo '';}?>">
+                <i class="fas fa-paper-plane"></i> Boîte d'envoi
             </a>
         </li>
-
         <li>
-            <a href="/nbpt-admin/newsletter"
-            class="<?php if($currentRoute === '/nbpt-admin/newsletter'){echo 'active-menu';} else {echo '';}?>"
-            >
-                Newsletter
+            <a href="/nbpt-admin/newsletter" 
+                class="<?php if($currentRoute === '/nbpt-admin/newsletter'){echo 'active-menu';} else {echo '';}?>">
+                <i class="fas fa-newspaper"></i> Newsletter
             </a>
         </li>
-
         <li>
-            <a href="/fr/home"
-            target="_blank"
-            >
-                Nosy be Paradise Tours
+            <a href="mailto:geektateur263@gmail.com">
+                <i class="fas fa-life-ring"></i> Support
             </a>
         </li>
-
-        <li><a href="mailto:geektateur263@gmail.com">Support</a></li>
+        <li>
+            <a href="https://piwik.pro/login/" 
+                class="<?php if($currentRoute === '/nbpt-admin/analytique'){echo 'active-menu';} else {echo '';}?>" 
+                target="_blank">
+                <i class="fas fa-chart-line"></i> Analytique
+            </a>
+        </li>
     </ul>
     <ul class="menu">
-        <li><a href="/nbpt-admin/logout" onclick="return confirm('Souhaitez-vous vraiment vous déconnecter ?')"><i class="icon fas fa-power-off"></i></a></li>
+        <li>
+            <a href="/nbpt-admin/logout" 
+                onclick="return confirm('Souhaitez-vous vraiment vous déconnecter ?')">
+                <i class="fas fa-power-off"></i> Déconnexion
+            </a>
+        </li>
     </ul>
 </aside>

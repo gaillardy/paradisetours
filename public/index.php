@@ -128,6 +128,12 @@ $router->add('/nbpt-admin/compte/edit/{id}', function ($params) {
     $controller->updateAccount($id);
 });
 
+$router->add('/nbpt-admin/analytique', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->analytique();
+});
+
 $router->add('/nbpt-admin/comptes', function () {
 
     $controller = new \App\Controllers\AdminController();
@@ -203,6 +209,163 @@ $router->add('/nbpt-admin', function () {
     
     $controller = new \App\Controllers\AdminController;
     $controller->index();
+});
+
+
+
+$router->add('/{lang}/circuit/parc-isalo', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->isalo($lang);
+});
+
+$router->add('/{lang}/circuit/parc-ambre', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->ambre($lang);
+});
+
+
+$router->add('/{lang}/circuit/parc-mantadia', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->mantadia($lang);
+});
+
+
+$router->add('/{lang}/circuit/parc-marojejy', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->marojejy($lang);
+});
+
+$router->add('/{lang}/circuit/parc-zombitse', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->zombitse($lang);
+});
+
+
+$router->add('/{lang}/circuit/parc-ankarafantsika', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->ankarafantsika($lang);
+});
+
+
+$router->add('/{lang}/circuit/parc-bemaraha', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->bemaraha($lang);
+});
+
+
+$router->add('/{lang}/circuit/parc-ankarana', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->ankarana($lang);
+});
+
+$router->add('/{lang}/circuit/parc-andringitra', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->andringitra($lang);
+});
+
+$router->add('/{lang}/circuit/parc-andohahela', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->andohahela($lang);
 });
 
 $router->add('/{lang}/circuit/tour-meva', function ($params) {

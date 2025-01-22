@@ -46,7 +46,6 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">  
 </head>
 <body>
-
 <!-- Piwik pro -->
 <script>
   (function(window, document, dataLayerName, id) {
@@ -57,6 +56,13 @@
   tags.async=!0,tags.src="https://nosybeparadisetours.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
   !function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
   })(window, document, 'dataLayer', '2454a6df-b536-46a7-b3a6-b1c5de0d5495');
+</script>
+<script type="importmap">
+  {
+    "imports": {
+      "@google/generative-ai": "https://esm.run/@google/generative-ai"
+    }
+  }
 </script>
 
 
@@ -80,9 +86,38 @@
       <a href="https://twitter.com/7paradisetours" target="_blank" class="social-icon twitter">
         <i class="icon-twitter"></i>
       </a>
+      <a href="tel:+261320712758" class="social-icon whatsapp">
+        <i class="icon-whatsapp"></i>
+      </a>
       <a href="https://https//www.google.com/maps/contrib/112713821230749887112/photos/@-13.3996565,48.2711495,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1" target="_blank" class="social-icon google">
         <i class="icon-google-plus"></i>
       </a>
+      <a href="javascript:avoid(0)"  class="social-icon chatbot" id="chatbot-toggle">
+        <i class="icon-chat"></i>
+      </a>
+      <div id="chatbot-container" class="hidden">
+        <button id="scroll-down-btn" class="scroll-down-btn hidden">
+          <i class="fa fa-chevron-down"></i>
+        </button>
+
+        <div id="chatbot-box">
+            <div class="chatbot-header">
+                <h4 style="color: #fff;">NBPT Assistant</h4>
+                <button id="close-chatbot" class="close-btn">&times;</button>
+            </div>
+            <div id="chatbot-messages" class="chatbot-messages">
+              <div class="message welcome-message">
+                Bonjour 👋 ! Comment puis-je vous aider aujourd'hui ?
+              </div>
+            </div>
+            <div class="chatbot-input-container">
+              <textarea id="chatbot-input" placeholder="Écrivez votre message..."></textarea>
+              <button id="send-chatbot" class="btn-send">
+              <i class="fa fa-paper-plane"></i>
+              </button>
+            </div>
+        </div>
+      </div>
     </div>
 </div>
 <!-- Social network -->
@@ -123,6 +158,126 @@
         });
     });
 
+    document.addEventListener('DOMContentLoaded', async () => {
+    const chatbotContainer = document.getElementById('chatbot-container');
+    const chatbotToggleButton = document.getElementById('chatbot-toggle');
+    const closeChatbotButton = document.getElementById('close-chatbot');
+
+    // Afficher/Masquer le chatbot avec des transitions
+    chatbotToggleButton.addEventListener('click', () => {
+        if (chatbotContainer.classList.contains('hidden')) {
+            chatbotContainer.classList.remove('hidden');
+            setTimeout(() => {
+                chatbotContainer.classList.add('show');
+            }, 10);
+        } else {
+            chatbotContainer.classList.remove('show');
+            setTimeout(() => {
+                chatbotContainer.classList.add('hidden');
+            }, 300);
+        }
+    });
+
+    // Fermer le chatbot
+    closeChatbotButton.addEventListener('click', () => {
+        chatbotContainer.classList.remove('show');
+        setTimeout(() => {
+            chatbotContainer.classList.add('hidden');
+        }, 300);
+    });
+
+
+
+
+      
+});
+</script>
+<script type="module" >
+import { GoogleGenerativeAI } from "@google/generative-ai";
+
+const API_KEY = "AIzaSyBtsM3yGtYBGETelfdANsspMzC-CauJb5s"; // Remplacez par votre clé API
+const genAI = new GoogleGenerativeAI(API_KEY);
+
+document.addEventListener("DOMContentLoaded", async () => {
+    const chatbotContainer = document.getElementById("chatbot-container");
+    const closeChatbotBtn = document.getElementById("close-chatbot");
+    const chatbotMessages = document.getElementById("chatbot-messages");
+    const chatbotInput = document.getElementById("chatbot-input");
+    const sendChatbotBtn = document.getElementById("send-chatbot");
+
+    
+
+    let chatHistory = JSON.parse(localStorage.getItem("chatHistory")) || [];
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+
+    const updateChat = (message, sender) => {
+        const messageDiv = document.createElement("div");
+        messageDiv.classList.add("message", sender);
+        messageDiv.textContent = message;
+        chatbotMessages.appendChild(messageDiv);
+        chatbotMessages.scrollTop = chatbotMessages.scrollHeight;
+    };
+
+    const saveToLocalStorage = () => {
+        localStorage.setItem("chatHistory", JSON.stringify(chatHistory));
+    };
+
+    const loadChatHistory = () => {
+        chatHistory.forEach((item) => {
+            updateChat(item.message, item.sender);
+        });
+    };
+
+    const sendMessage = async (message) => {
+        chatHistory.push({ message, sender: "user" });
+        updateChat(message, "user");
+        saveToLocalStorage();
+
+        try {
+            const chat = model.startChat({
+                history: chatHistory.map((item) => ({
+                    role: item.sender === "user" ? "user" : "model",
+                    parts: [{ text: item.message }],
+                })),
+                generationConfig: {
+                    maxOutputTokens: 4000,
+                },
+            });
+
+            const result = await chat.sendMessage(message);
+            const response = await result.response.text();
+            chatHistory.push({ message: response, sender: "model" });
+            updateChat(response, "model");
+            saveToLocalStorage();
+        } catch (error) {
+            updateChat(
+                "Désolé, une erreur s'est produite. Veuillez réessayer plus tard.",
+                "model"
+            );
+        }
+    };
+
+    sendChatbotBtn.addEventListener("click", () => {
+        const message = chatbotInput.value.trim();
+        if (message) {
+            chatbotInput.value = "";
+            sendMessage(message);
+        }
+    });
+
+    chatbotInput.addEventListener("keypress", (e) => {
+        if (e.key === "Enter" && !e.shiftKey) {
+            e.preventDefault();
+            sendChatbotBtn.click();
+        }
+    });
+
+    closeChatbotBtn.addEventListener("click", () => {
+        chatbotContainer.classList.add("hidden");
+    });
+
+    loadChatHistory();
+});
 </script>
 </body>
 </html>

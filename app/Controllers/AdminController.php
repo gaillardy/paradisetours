@@ -39,6 +39,21 @@ class AdminController
         ]);
     }
 
+    public function analytique()
+    {
+        // Vérifie si l'administrateur est connecté
+        $this->checkAuthentication();
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $title = 'Analytique';
+
+        View::render('analytique', [
+            'currentRoute' => $currentRoute,
+            'title'        => $title,
+        ]);
+    }
+
 
     
 
