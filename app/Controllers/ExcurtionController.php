@@ -29,6 +29,90 @@ class ExcurtionController
         ]);
     }
 
+    public function helicot($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = "Tour de l'ile en helicot";
+        $metaDescription = "Tour de l'ile en helicot";
+        $metaKeywords = "Tour de l'ile en helicot";
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('helicot', [
+            'title'           => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+            'lang'            => $lang,
+            'translations'    => $translations,
+            'currentRoute'    => $currentRoute,
+        ]);
+    }
+
+    public function kite($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Kite Surf à Diego-Suarez';
+        $metaDescription = 'Kite Surf à Diego-Suarez';
+        $metaKeywords = 'Kite Surf à Diego-Suarez';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('kite', [
+            'title'           => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+            'lang'            => $lang,
+            'translations'    => $translations,
+            'currentRoute'    => $currentRoute,
+        ]);
+    }
+
+    public function sejour($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Séjour en plage vierge';
+        $metaDescription = 'Visites: Baie des Russes, Nosy Antsoha, Nosy Iranja';
+        $metaKeywords = 'Séjour en plage vierge';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('sejour', [
+            'title'           => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+            'lang'            => $lang,
+            'translations'    => $translations,
+            'currentRoute'    => $currentRoute,
+        ]);
+    }
+
+    public function catamaran($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Croisière en catamaran - Excurtions';
+        $metaDescription = 'Croisière en catamaran avec ou sans plongée';
+        $metaKeywords = 'Croisière en catamaran avec ou sans plongée';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('catamaran', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
     public function peche($lang)
     {
         $translations = Language::getTranslations($lang);

@@ -370,7 +370,7 @@
 
     <!-- Mariage Section -->
   <section id="mariage-et-lune-de-miel" class="container py-5" data-aos="fade-up">
-    <h2 class="text-center mb-4">Mariage et Lune de Miel</h2>
+    <h2 class="text-center mb-4" id="voyage-de-noce">Mariage et Lune de Miel</h2>
     <div class="row">
       <!-- Event Block 1 -->
       <div class="col-md-6 mb-4" data-aos="fade-up">

@@ -54,7 +54,7 @@
     				<div class="destination-slider owl-carousel ftco-animate">
     					<div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/circuit-slide.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/tour-fosa-cover.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Tour Fosa</h2>
                                         <p>
@@ -68,7 +68,7 @@
 	    				</div>
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/circuit-slide.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/tour-meva-cover.webp')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Tour Meva</h2>
                                         <p>
@@ -82,7 +82,7 @@
 	    				</div>
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-bemaraha.webp')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Bemaraha</h2>
                                         <p>
@@ -95,7 +95,7 @@
 	    				</div>
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-ankarana.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Ankarana</h2>
                                         <p>
@@ -108,7 +108,7 @@
 	    				</div>
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-marojejy.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Marojejy </h2>
                                         <p>
@@ -123,7 +123,7 @@
 	    				</div>
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-ankarafantsika.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Ankarafantsika</h2>
                                         <p>
@@ -138,7 +138,7 @@
 	    				</div>
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/circuit-slide.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/tour-salama-cover.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Tour salama</h2>
                                         <p>
@@ -153,7 +153,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/circuit-slide.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/tour-soa-cover.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Tour Soa</h2>
                                         <p>
@@ -169,7 +169,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/circuit-slide.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/tour-tsangatsanga-cover.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">TSANGATSANGANA </h2>
                                         <p>Visite : Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)</p>
@@ -181,7 +181,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/circuit-slide.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/tour-tsarabe-cover.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">TSARABE</h2>
                                         <p>Réserve spéciale de l’Ankarana, ville d’Ambilobe   et ses alentours </p>
@@ -193,7 +193,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/circuits/circuit-slide.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/tour-veloma-cover.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Veloma</h2>
                                         <p>Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)</p>
@@ -204,7 +204,7 @@
 	    				</div>
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-mantadia.jpeg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Mantadia</h2>
                                         <p>
@@ -220,7 +220,7 @@
 	    				</div>
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-montagne-ambre.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Montagne d’Ambre</h2>
                                         <p>
@@ -254,7 +254,7 @@
     				<div class="destination-slider owl-carousel ftco-animate">
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-isalo.webp')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Isalo</h2>
                                         <p>
@@ -270,7 +270,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/andringitra.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Andringitra</h2>
                                         <p>
@@ -285,7 +285,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-zombitse.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Zombitse</h2>
                                         <p>
@@ -301,7 +301,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-ranomafana-cover.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Ranomafana</h2>
                                         <p>
@@ -316,7 +316,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tours/rn7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/cover/parc-andohahela.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Parc Andohahela</h2>
                                         <p>
@@ -329,8 +329,6 @@
                                 </div>
 							</div>
 	    				</div>
-
-                        
     				</div>
     			</div>
     		</div>

@@ -1,6 +1,4 @@
 <?php include 'templates/header.php'; ?>
-<?php //htmlspecialchars($translations['welcome'] ?? 'Welcome') ?>
-<?php //Language::translate('contact'); ?>
 <?php
     foreach ($flashMessages as $message){
         ?>
@@ -43,13 +41,12 @@
 					</div>
 				</div>
 					<div class="media-body p-2 mt-2">
-						<h3 class="heading mb-3">Guide</h3>
+						<h3 class="heading mb-3"><?= $translations['guide'] ?></h3>
 						<p>
-							Voyager peut-être excitant et stressant à la foi, 
-							surtout lorsqu’il s’agit d’une nouvelle destination.
+							<?= $translations['38'] ?>
 						</p>
 					</div>
-					<a href="/<?= $lang ?>/guide" class="btn-savoir">En savoir plus</a>
+					<a href="/<?= $lang ?>/guide" class="btn-savoir"><?= $translations['read'] ?></a>
             	</div>      
           	</div>
           <div class="col-md-3 d-flex align-self-stretch ftco-animate" id="media">
@@ -62,13 +59,13 @@
 			">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-hotel" style="color:#fff;"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Excursions</h3>
-                <p>Nosy Be est connu pour un tourisme balnéaire, 
-					nos excursions sont parfaitement organisées.
+                <h3 class="heading mb-3"><?= $translations['excursion'] ?></h3>
+                <p>
+					<?= $translations['35'] ?>
 				</p>
 				
               </div>
-			  <a href="/<?= $lang ?>/excursions" class="btn-savoir">En savoir plus</a>
+			  <a href="/<?= $lang ?>/excursions" class="btn-savoir"><?= $translations['read'] ?></a>
             </div>    
           </div>
           <div class="col-md-3 d-flex align-self-stretch ftco-animate" id="media">
@@ -81,12 +78,12 @@
 			">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-meeting-point" style="color:#fff;"></span></div></div>
               	<div class="media-body p-2 mt-2">
-					<h3 class="heading mb-3">Circuits</h3>
-					<p>Pour un maximum de découverte dans notre magnifique culture, 
-						nous vous proposons différents packages.
+					<h3 class="heading mb-3"><?= $translations['circuit-2'] ?></h3>
+					<p>
+						<?= $translations['36'] ?>
 					</p>
               	</div>
-			  <a href="/<?= $lang ?>/circuits" class="btn-savoir">En savoir plus</a>
+			  <a href="/<?= $lang ?>/circuits" class="btn-savoir"><?= $translations['read'] ?></a>
             </div>      
           </div>
           <div class="col-md-3 d-flex align-self-stretch ftco-animate" id="media">
@@ -99,13 +96,13 @@
 			">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-support" style="color:#fff;"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Service</h3>
-                <p>À part organisateur d’excursions, 
-					est aussi prestataire de transferts  terrestres et marins.
+                <h3 class="heading mb-3"><?= $translations['service'] ?></h3>
+                <p>
+					<?= $translations['37'] ?>
 				</p>
 				
               </div>
-			  <a href="/<?= $lang ?>/services" class="btn-savoir">En savoir plus</a>
+			  <a href="/<?= $lang ?>/services" class="btn-savoir"><?= $translations['read'] ?></a>
             </div>      
           </div>
         </div>
@@ -118,7 +115,7 @@
 				<div class="col-md-7 heading-section ftco-animate">
 				</div>
 				<div class="col-sm-12 heading-perso justify-content-center">
-					<h2 class="mb-4 styled-title">Nos packages</h2>
+					<h2 class="mb-4 styled-title"><?= $translations['package'] ?></h2>
 				</div>
         	</div>
     		<div class="row">
@@ -132,8 +129,8 @@
 		    						</div>
 		    					</a>
 		    					<div class="text p-3">
-		    						<h3><a href="#">Nature</a></h3>
-		    						<span class="listing" id="pack">faune et flore</span>
+		    						<h3><a href="#"><?= $translations['key1'] ?></a></h3>
+		    						<span class="listing" id="pack"><?= $translations['key2'] ?></span>
 		    					</div>
 		    				</div>
 	    				</div>
@@ -145,8 +142,8 @@
 		    						</div>
 		    					</a>
 		    					<div class="text p-3">
-		    						<h3><a href="#">Tourisme vert</a></h3>
-		    						<span class="listing" id="pack">culture – histoire</span>
+		    						<h3><a href="#"><?= $translations['key3'] ?></a></h3>
+		    						<span class="listing" id="pack"><?= $translations['key4'] ?></span>
 		    					</div>
 		    				</div>
 	    				</div>
@@ -158,8 +155,8 @@
 		    						</div>
 		    					</a>
 		    					<div class="text p-3">
-		    						<h3><a href="#">Découverte</a></h3>
-		    						<span class="listing" id="pack">EXCURSION – SAFARI</span>
+		    						<h3><a href="#"><?= $translations['key5'] ?></a></h3>
+		    						<span class="listing" id="pack"><?= $translations['key6'] ?></span>
 		    					</div>
 		    				</div>
 	    				</div>
@@ -171,24 +168,12 @@
 		    						</div>
 		    					</a>
 		    					<div class="text p-3">
-		    						<h3><a href="#">Sauvage</a></h3>
-		    						<span class="listing" id="pack">Intensive trip</span>
+		    						<h3><a href="#"><?= $translations['key7'] ?></a></h3>
+		    						<span class="listing" id="pack"><?= $translations['key8'] ?></span>
 		    					</div>
 		    				</div>
 	    				</div>
-						<div class="item">
-		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/package4.jpg');">
-		    						<div class="icon d-flex justify-content-center align-items-center">
-		    							<span class="icon-search2"></span>
-		    						</div>
-		    					</a>
-		    					<div class="text p-3">
-		    						<h3><a href="#">Sauvage</a></h3>
-		    						<span class="listing" id="pack">Intensive trip</span>
-		    					</div>
-		    				</div>
-	    				</div> 
+						
     				</div>
     			</div>
     		</div>
@@ -204,7 +189,7 @@
 				<div class="col-md-7 heading-section ftco-animate">
 				</div>
 				<div class="col-sm-12 heading-perso justify-content-center">
-					<h2 class="mb-4 styled-title">Nos activités</h2>
+					<h2 class="mb-4 styled-title"><?= $translations['key9'] ?></h2>
 				</div>
         	</div>
     		<div class="row">
@@ -212,7 +197,7 @@
     				<div class="destination-slider owl-carousel ftco-animate">
     					<div class="item">
 							<div class="destination">
-								<a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/activite3.jpg');">
+								<a href="/<?= $lang ?>/excursions/peche-au-gros" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/activite3.jpg');">
 									<div class="icon d-flex justify-content-center align-items-center">
 										<span class="icon-search2"></span>
 									</div>
@@ -220,22 +205,24 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">Pêche aux gros</a></h3>
+											<h3><a href="/<?= $lang ?>/excursions/peche-au-gros"><?= $translations['key10'] ?></a></h3>
 										</div>
 									</div>
-									<p>Passionné de pêche sportive
-										ou simplement envie de découvrir cette discipline.</p>
-									<p class="days"><span>Vivez l'expérience</span></p>
+									<p>
+										<?= $translations['key11'] ?>
+										
+									</p>
+									<p class="days"><span><?= $translations['key12'] ?></span></p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="/<?= $lang ?>/excursions/peche-au-gros"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
     						</div>
 	    				</div>
 	    				<div class="item">
 							<div class="destination">
-								<a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/activite1.jpg');">
+								<a href="/<?= $lang ?>/excursions/croisiere-en-catamaran" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/activite1.jpg');">
 									<div class="icon d-flex justify-content-center align-items-center">
 										<span class="icon-search2"></span>
 									</div>
@@ -243,21 +230,21 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">Croisière en Catamaran</a></h3>
+											<h3><a href="/<?= $lang ?>/excursions/croisiere-en-catamaran"><?= $translations['key13'] ?></a></h3>
 										</div>
 									</div>
-									<p>L’Archipel des Mitsio et les îles Radama avec Paradise tours</p>
-									<p class="days"><span>Avec ou sans plongée</span></p>
+									<p><?= $translations['key14'] ?></p>
+									<p class="days"><span><?= $translations['key15'] ?></span></p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="/<?= $lang ?>/excursions/croisiere-en-catamaran"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
     						</div>
 	    				</div>
 	    				<div class="item">
 							<div class="destination">
-								<a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/activite2.jpg');">
+								<a href="/<?= $lang ?>/services#voyage-de-noce" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/activite2.jpg');">
 									<div class="icon d-flex justify-content-center align-items-center">
 										<span class="icon-search2"></span>
 									</div>
@@ -265,22 +252,23 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">Voyage de noce</a></h3>
+											<h3><a href="/<?= $lang ?>/services#voyage-de-noce"><?= $translations['key16'] ?></a></h3>
 										</div>
 									</div>
-									<p>Un cadre idyllique et un service personnalisé
-										pour fêter ce qu’il y a de plus beau sur terre</p>
-									<p class="days"><span>Mariage et lune de miel</span></p>
+									<p>
+										<?= $translations['key17'] ?>
+									</p>
+									<p class="days"><span><?= $translations['key18'] ?></span></p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="/<?= $lang ?>/services#voyage-de-noce"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
     						</div>
 	    				</div>
 	    				<div class="item">
 							<div class="destination">
-								<a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/activite4.jpg');">
+								<a href="/<?= $lang ?>/voyage-incentive" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/activite4.jpg');">
 									<div class="icon d-flex justify-content-center align-items-center">
 										<span class="icon-search2"></span>
 									</div>
@@ -288,18 +276,18 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">Voyage <span>incentive</span> </a></h3>
+											<h3><a href="/<?= $lang ?>/voyage-incentive"><?= $translations['key19'] ?> <span><?= $translations['key20'] ?></span> </a></h3>
 											
 										</div>
 										
 									</div>
 									<p>
-										C’est une belle expérience qui permet de resserrer les liens entre collègue .
+										<?= $translations['key21'] ?>
 									</p>
-									<p class="days"><span style="visibility:hidden;">Voyage incentive</span></p>
+									<p class="days"><span style="visibility:hidden;"><?= $translations['key19'] ?>  <?= $translations['key20'] ?></span></p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="/<?= $lang ?>/voyage-incentive"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
     						</div>
@@ -314,15 +302,15 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">Séjour à la plage</a></h3>
+											<h3><a href="#"><?= $translations['key22'] ?></a></h3>
 										</div>
 										
 									</div>
-									<p>Idéales pour les amoureux , plus d’intimité en savourant  la beauté des plages.</p>
-									<p class="days"><span>4 Jours 3 nuits</span></p>
+									<p><?= $translations['key23'] ?></p>
+									<p class="days"><span><?= $translations['key24'] ?></span></p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="#"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
     						</div>
@@ -335,16 +323,12 @@
 	<!-- End of slider-->
 
 
-
-
-
-
     <section class="ftco-section ftco-counter img" id="section-counter" 
 		style="background-image: url('/assets/images/bg_1.jpg');background-attachment: fixed;">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <h2 class="mb-2">Qui sommes nous ?</h2>
+            <h2 class="mb-2"><?= $translations['key25'] ?></h2>
           </div>
         </div>
         <div class="row justify-content-center ">
@@ -353,10 +337,8 @@
                     <div class="col-md-12 d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 text-center">
                             <div class="text">
-                                <span>Créée en 2004, NOSY BE PARADISE TOURS est une entreprise individuelle 
-                                    qui opère dans le secteur du tourisme. Elle a pour activité 
-                                    principale la prestation de services touristiques spécialisée dans l’organisation des excursions 
-                                    non seulement sur Nosy-Be et les petites îles environnantes mais également dans la partie Nord de Madagascar Grande île.
+                                <span>
+									<?= $translations['key26'] ?>
                                 </span>
                             </div>
                         </div>
@@ -392,24 +374,24 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">WEEK-END À NOSY IRANJA</a></h3>
+											<h3><a href="#"><?= $translations['key27'] ?></a></h3>
 										</div>
 										<div class="two">
 										</div>
 									</div>
-									<p>Témoigné le plus beau moment d’éclosion d’œuf des tortues de mer pendant un week-end à Nosy Iranja.
-										
+									<p>
+										<?= $translations['key28'] ?>
 									</p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="#"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
 							</div>
 	    				</div>
 	    				<div class="item">
 							<div class="destination">
-								<a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/tour2.jpg');">
+								<a href="/<?= $lang ?>/tour-de-l-ile-en-helicot" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/tour2.jpg');">
 									<div class="icon d-flex justify-content-center align-items-center">
 										<span class="icon-search2"></span>
 									</div>
@@ -417,21 +399,23 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">TOUR DE L’ÎLE EN HELICOT</a></h3>
+											<h3><a href="/<?= $lang ?>/tour-de-l-ile-en-helicot"><?= $translations['key29'] ?></a></h3>
 										</div>
 										
 									</div>
-									<p>Prendre de la hauteur permet de voir encore plus. Un paysage époustouflant et unique : plages, 7 lacs, ...</p>
+									<p>
+										<?= $translations['key30'] ?> ...
+									</p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="/<?= $lang ?>/tour-de-l-ile-en-helicot"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
 							</div>
 	    				</div>
 	    				<div class="item">
 							<div class="destination">
-								<a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/tour3.jpg');">
+								<a href="/<?= $lang ?>/kite-surf-a-diego-suarez" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/tour3.jpg');">
 								<div class="icon d-flex justify-content-center align-items-center">
 									<span class="icon-search2"></span>
 								</div>
@@ -439,24 +423,24 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">KITE SURF</a></h3>
+											<h3><a href="/<?= $lang ?>/kite-surf-a-diego-suarez"><?= $translations['key31'] ?></a></h3>
 											
 										</div>
 										
 									</div>
-									<p>C’est un séjour conçu pour tous types de clients qui s’intéresse au sport 
-										de glisse que ce soit débutants amateurs , professionnels. 
-										</p>
+									<p>
+										<?= $translations['key32'] ?>
+									</p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="/<?= $lang ?>/kite-surf-a-diego-suarez"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
     						</div>
 	    				</div>
 	    				<div class="item">
 							<div class="destination">
-								<a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/tour4.jpg');">
+								<a href="/<?= $lang ?>/sejour-plage-vierge" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/tour4.jpg');">
 									<div class="icon d-flex justify-content-center align-items-center">
 										<span class="icon-search2"></span>
 									</div>
@@ -464,18 +448,17 @@
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="#">SEJOUR PLAGE VIERGE</a></h3>
+											<h3><a href="/<?= $lang ?>/sejour-plage-vierge"><?= $translations['key33'] ?></a></h3>
 											
 										</div>
 										
 									</div>
 									<p>
-										Visites:Idéales pour les amoureux , plus d’intimité en savourant la nature et la beauté des plages vierges.
-										
+										<?= $translations['key34'] ?>
 									</p>
 									<hr>
 									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="#">Découvrir</a></span>
+										<span class="ml-auto"><a href="/<?= $lang ?>/sejour-plage-vierge"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
 							</div>

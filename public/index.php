@@ -490,6 +490,84 @@ $router->add('/{lang}/excursions/reserve-de-lokobe', function ($params) {
     $controller->lokobe($lang);
 });
 
+$router->add('/{lang}/kite-surf-a-diego-suarez', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->kite($lang);
+});
+
+$router->add('/{lang}/tour-de-l-ile-en-helicot', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->helicot($lang);
+});
+
+
+$router->add('/{lang}/kite-surf-a-diego-suarez', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->kite($lang);
+});
+
+
+
+$router->add('/{lang}/sejour-plage-vierge', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->sejour($lang);
+});
+
+$router->add('/{lang}/excursions/croisiere-en-catamaran', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->catamaran($lang);
+});
+
 $router->add('/{lang}/excursions/nosy-iranja', function ($params) {
     $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
@@ -777,7 +855,7 @@ $requestUri = $_SERVER['REQUEST_URI'];
 
 // Si l'URL est vide ou correspond au point d'entrée principale
 if ($requestUri === '/' || $requestUri === '/index.php') {
-    header("Location: /en/home");
+    header("Location: /fr/home");
     exit;
 }
 

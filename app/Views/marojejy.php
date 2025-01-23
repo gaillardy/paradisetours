@@ -1,7 +1,7 @@
 <?php include 'templates/header.php'; ?>
 
 
-    <div class="hero-wrap js-fullheight" style="background-image: url('/assets/images/circuits/tour3.jpg');">
+    <div class="hero-wrap js-fullheight" style="background-image: url('/assets/images/cover/parc-marojejy.jpg');">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">

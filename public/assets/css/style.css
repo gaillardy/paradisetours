@@ -7828,7 +7828,13 @@ h1, h2, h3, h4, h5,
 .destination {
   display: block;
   width: 100%;
-  margin-bottom: 30px; }
+  margin-bottom: 30px; 
+}
+.item {
+  max-height: 450px;
+
+}
+
   @media (max-width: 991.98px) {
     .destination {
       margin-bottom: 30px; } }

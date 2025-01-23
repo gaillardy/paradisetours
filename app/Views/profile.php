@@ -143,13 +143,13 @@ button:hover {
 
                     <div class="form-group">
                         <label for="nom">Nom</label>
-                        <input type="text" id="nom" name="nom" value="<?= htmlspecialchars($user['nom']) ?>" required minlength="2" maxlength="50">
+                        <input type="text" id="nom" name="nom" value="<?= $user['nom'] ?>" required minlength="2" maxlength="50">
                         <small class="error-message" id="nomError"></small>
                     </div>
 
                     <div class="form-group">
                         <label for="prenom">Prénom</label>
-                        <input type="text" id="prenom" name="prenom" value="<?= htmlspecialchars($user['prenom']) ?>" required minlength="2" maxlength="50">
+                        <input type="text" id="prenom" name="prenom" value="<?= $user['prenom'] ?>" required minlength="2" maxlength="50">
                         <small class="error-message" id="prenomError"></small>
                     </div>
 

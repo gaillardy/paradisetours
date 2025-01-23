@@ -104,14 +104,14 @@ $languages = [
 		<div class="collapse navbar-collapse justify-content-end" id="ftco-nav">
 		  	<ul class="navbar-nav ms-auto align-items-start">
 				<!-- Accueil -->
-				<li class="nav-item active">
-				<a href="/<?= $lang ?>/home" class="nav-link">Accueil</a>
+				<li class="nav-item <?php if($currentRoute === "/$lang/home"){echo 'active';} else {echo '';}?>">
+					<a href="/<?= $lang ?>/home" class="nav-link"><?= $translations['home'] ?></a>
 				</li>
 			
 				<!-- Excursions Dropdown -->
 				<li class="nav-item custom-dropdown">
-				<a href="javascript:avoid(0)" class="nav-link" tabindex="0">
-					Nos excursions
+				<a href="javascript:avoid(0)" class="nav-link <?php if($currentRoute === "/$lang/excursions"){echo 'active';} else {echo '';}?>" tabindex="0">
+					<?= $translations['39'] ?>
 				</a>		
 					<ul class="dropdown-menu" >
 						<li>
@@ -130,8 +130,8 @@ $languages = [
 			
 				
 				<li class="nav-item custom-dropdown">
-					<a href="javascript:avoid(0)" class="nav-link" tabindex="0">
-						Circuits de Madagascar
+					<a href="javascript:avoid(0)" class="nav-link <?php if($currentRoute === "/$lang/circuits"){echo 'active';} else {echo '';}?>" tabindex="0">
+						<?= $translations['circuit'] ?>
 					</a>
 					<ul class="dropdown-menu">
 						<li>
@@ -148,8 +148,8 @@ $languages = [
 				</li>
 
 				<!-- Contact -->
-				<li class="nav-item">
-				<a href="/<?=  $lang ?>/contact" class="nav-link">Contact</a>
+				<li class="nav-item ">
+					<a href="/<?=  $lang ?>/contact" class="nav-link <?php if($currentRoute === "/$lang/contact"){echo 'active';} else {echo '';}?>"><?= $translations['contact'] ?></a>
 				</li>
 
 				<!-- Langue Dropdown -->
@@ -177,31 +177,6 @@ $languages = [
 						?>
 					</ul>
 				</li>
-				<!--<li class="nav-item">
-				<a href="" class="nav-link">
-					<i class="icon-facebook"></i>
-				</a>
-				</li>
-				<li class="nav-item">
-					<a href="" class="nav-link">
-						<i class="icon-twitter"></i>
-					</a>
-				</li>
-				<li class="nav-item">
-					<a href="" class="nav-link">
-						<i class="icon-twitter"></i>
-					</a>
-				</li>
-				<li class="nav-item">
-					<a href="" class="nav-link">
-						<i class="icon-twitter"></i>
-					</a>
-				</li>
-				<li class="nav-item">
-					<a href="" class="nav-link">
-						<i class="icon-twitter"></i>
-					</a>
-				</li>-->
 		  	</ul>
 		</div> 
     </div>

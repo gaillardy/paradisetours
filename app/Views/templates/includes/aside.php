@@ -1,3 +1,19 @@
+<style>
+.sidebar .menu li a {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espace entre l'icône et le texte */
+    text-decoration: none;
+    color: inherit;
+    font-size: 14px;
+}
+
+.sidebar .menu li a i {
+    font-size: 18px; /* Taille des icônes */
+    color: #00796b; /* Même couleur que le thème */
+}
+
+</style>
 <aside class="sidebar">
     <div class="sidebar-header">
         <h2>NBPT Admin</h2>
