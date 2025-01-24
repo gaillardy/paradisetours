@@ -98,7 +98,7 @@ $languages = [
 			<img src="/assets/images/logo-paradise.png" alt="Nosy be Paradise tour" >
 	  	</a>
       	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-        	<span class="oi oi-menu"></span> Menu
+        	<span class="oi oi-menu"></span> <?= $translations['41'] ?>
       	</button>
 
 		<div class="collapse navbar-collapse justify-content-end" id="ftco-nav">
@@ -116,13 +116,13 @@ $languages = [
 					<ul class="dropdown-menu" >
 						<li>
 							<a class="dropdown-item  " href="/<?= $lang ?>/excursions">
-								Excursions mer
+								<?= $translations['42'] ?>
 							</a>
 						</li>
 						<li><hr class="dropdown-divider"></li>
 						<li>
 							<a class="dropdown-item  " href="/<?= $lang ?>/excursions">
-								Excursions terre
+								<?= $translations['43'] ?>
 							</a>
 						</li>
 					</ul>
@@ -136,12 +136,12 @@ $languages = [
 					<ul class="dropdown-menu">
 						<li>
 							<a class="dropdown-item" href="/<?= $lang ?>/circuits">
-								Circuits Nord
+							<?= $translations['44'] ?>
 							</a>
 						</li>
 						<li>
 							<a class="dropdown-item" href="/<?= $lang ?>/circuits">
-								Circuits RN7
+								<?= $translations['45'] ?>
 							</a>
 						</li>
 					</ul>

@@ -29,6 +29,90 @@ class CircuitController
         ]);
     }
 
+    public function decouverte($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Découverte Safari';
+        $metaDescription = 'Découverte Safari';
+        $metaKeywords = 'Découverte Safari';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('safari', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
+    public function vert($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Tourisme vert';
+        $metaDescription = 'Tourisme vert : NATURE DÉCOUVERTE';
+        $metaKeywords = 'Tourisme vert : NATURE DÉCOUVERTE';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('vert', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
+    public function nature($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Nature Pack';
+        $metaDescription = 'Nature Pack : FEEL THE RHYTHM';
+        $metaKeywords = 'Nature Pack : FEEL THE RHYTHM';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('nature', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
+    public function tsarabe($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Tour tsara be - Circuits';
+        $metaDescription = '  La réserve spéciale de l’Ankarana s’étend sur une superficie de 18 225ha.  Pour le moment 12 circuits ont été aménagés, pour les visiteurs et les chercheurs.';
+        $metaKeywords = 'Tour tsara be';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('tsarabe', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
     public function isalo($lang)
     {
         $translations = Language::getTranslations($lang);

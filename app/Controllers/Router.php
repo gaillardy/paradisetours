@@ -40,8 +40,7 @@ class Router {
         }
     
         // Aucun itinéraire correspondant trouvé
-        http_response_code(404);
-        echo "404 - Page not found";
+        header("Location:/not-found");
     }
     
     

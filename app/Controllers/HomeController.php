@@ -27,6 +27,49 @@ class HomeController
         ]);
     }
 
+    public function w_iranja($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Nosy Iranja';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
+
+        $metaDescription = "Week-End à Nosy Iranja";
+        $metaKeywords = "Week-End à Nosy Iranja";
+
+        View::render('w_iranja', [
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+        ]);
+    }
+
+    public function notfound($lang)
+    {
+
+        $title = '404 - not found';
+        $translations = Language::getTranslations($lang);
+
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('404', [
+            'title'         => $title,
+            'currentRoute'  => $currentRoute,
+            'lang'         => $lang,
+            'translations' => $translations,
+
+        ]);
+    }
+
     public function about($lang)
     {
         $translations = Language::getTranslations($lang);

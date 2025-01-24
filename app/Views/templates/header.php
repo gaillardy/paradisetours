@@ -279,5 +279,21 @@ document.addEventListener("DOMContentLoaded", async () => {
     loadChatHistory();
 });
 </script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+  const slides = document.querySelectorAll('.slideshow .slide');
+  let currentSlide = 0;
+
+  function showNextSlide() {
+    slides[currentSlide].classList.remove('active');
+    currentSlide = (currentSlide + 1) % slides.length;
+    slides[currentSlide].classList.add('active');
+  }
+
+  // Change de slide toutes les 5 secondes
+  setInterval(showNextSlide, 4000);
+});
+
+</script>
 </body>
 </html>

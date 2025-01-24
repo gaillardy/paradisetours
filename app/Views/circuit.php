@@ -185,7 +185,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">TSARABE</h2>
                                         <p>Réserve spéciale de l’Ankarana, ville d’Ambilobe   et ses alentours </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/tour-tsarabe" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>

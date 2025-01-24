@@ -23,20 +23,7 @@ $router->add('/', function ($params) {
     $controller->index($lang);
 });
 
-$router->add('/', function ($params) {
-    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 
-    $lang = $params['lang']; // Récupérer la langue
-    if (!in_array($lang, $validLanguages)) {
-        http_response_code(404);
-        echo "Language not supported!";
-        return;
-    }
-
-    // Appeler le HomeController avec la langue
-    $controller = new \App\Controllers\HomeController();
-    $controller->index($lang);
-});
 
 $router->add('/nbpt-admin/send-box/{id}', function ($params) {
 
@@ -211,6 +198,66 @@ $router->add('/nbpt-admin', function () {
     $controller->index();
 });
 
+$router->add('/{lang}/decouverte', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->decouverte($lang);
+});
+
+$router->add('/{lang}/tourisme-vert', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->vert($lang);
+});
+
+
+$router->add('/{lang}/nature-pack', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->nature($lang);
+});
+
+$router->add('/{lang}/circuit/tour-tsarabe', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->tsarabe($lang);
+});
 
 
 $router->add('/{lang}/circuit/parc-isalo', function ($params) {
@@ -503,6 +550,20 @@ $router->add('/{lang}/kite-surf-a-diego-suarez', function ($params) {
     
     $controller = new \App\Controllers\ExcurtionController();
     $controller->kite($lang);
+});
+
+$router->add('/{lang}/not-found', function ($params) {
+
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        header("Location:/fr/not-found");
+        return;
+    }
+   
+    $controller = new \App\Controllers\HomeController();
+    $controller->notfound($lang);
 });
 
 $router->add('/{lang}/tour-de-l-ile-en-helicot', function ($params) {
@@ -800,17 +861,30 @@ $router->add('/{lang}/newsletter', function ($params) {
 });
 
 
+
+$router->add('/{lang}/week-end-a-nosy-iranja', function ($params) {
+    $validLanguages = ['en', 'fr', 'it' , 'de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        header("Location:/fr/week-end-a-nosy-iranja");
+        return;
+    }
+
+    $controller = new \App\Controllers\HomeController();
+    $controller->w_iranja($lang);
+});
+
+
 $router->add('/{lang}/home', function ($params) {
     $validLanguages = ['en', 'fr', 'it' , 'de']; // Langues prises en charge
 
     $lang = $params['lang']; // Récupérer la langue
     if (!in_array($lang, $validLanguages)) {
-        http_response_code(404);
-        echo "Language not supported!";
+        header("Location:/fr/home");
         return;
     }
 
-    
     $controller = new \App\Controllers\HomeController();
     $controller->index($lang);
 });
