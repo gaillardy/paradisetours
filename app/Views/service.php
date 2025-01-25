@@ -311,7 +311,7 @@
       <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
         <div class="event-block shadow-lg rounded overflow-hidden">
           <h4>Festival Sômarôho</h4>
-          <img src="/assets/images/services/somaroho.jfif" alt="Festival Sômarôho" class="img-fluid mb-3">
+          <img src="/assets/images/services/Somaroho.jpg" alt="Festival Sômarôho" class="img-fluid mb-3">
           <p class="text-justify">
             En tant que jeune artiste nosybéen, 
             WAWA fut décidé depuis 2014 d’organiser une festivité appelé «SOMAROHO» particulièrement tous les mois d’Août,
@@ -360,7 +360,7 @@
       <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="400">
         <div class="event-block shadow-lg rounded overflow-hidden">
           <h4>Culture Tsangan-Tsaina</h4>
-          <img src="service.jpg" alt="Culture Tsangan-Tsaina" class="img-fluid mb-3">
+          <img src="/assets/images/services/15.jpg" alt="Culture Tsangan-Tsaina" class="img-fluid mb-3">
           <p class="text-justify">La culture Tsangan-Tsaina est un aspect fondamental de la vie locale, mélangeant musique, arts et traditions ancestrales.</p>
         </div>
       </div>

@@ -290,7 +290,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     slides[currentSlide].classList.add('active');
   }
 
-  // Change de slide toutes les 5 secondes
+  // Change de slide toutes les 4 secondes
   setInterval(showNextSlide, 4000);
 });
 

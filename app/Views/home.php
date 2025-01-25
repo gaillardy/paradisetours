@@ -68,7 +68,7 @@ h5 {
 
 </style>
 
-	<div class="hero-wrap js-fullheight">
+	<div class="hero-wrap js-fullheight" style="background-image: url('/assets/images/slide_header/1.webp');">
 		<div class="overlay"></div>
 		<div class="slideshow">
 			<?php

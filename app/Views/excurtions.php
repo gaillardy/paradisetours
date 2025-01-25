@@ -121,7 +121,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/11.jpeg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">catamaran Mitsio</h2>
                                         <p>Entrez dans un monde magique et mystérieux.</p>
@@ -133,7 +133,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/12.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">catamaran RADAMA</h2>
                                         <p>L'archipel de Radama en catamaran </p>
@@ -145,7 +145,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/7.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/13.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">catamaran Mitsio et RADAMA</h2>
                                         <p>Entrez dans un monde magique et mystérieux.</p>
@@ -171,7 +171,7 @@
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/gallery/9.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/home/peche.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Pêche au gros</h2>
                                         <p>Une expérience relaxante et unique.</p>
