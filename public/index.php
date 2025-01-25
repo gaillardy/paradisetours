@@ -446,6 +446,112 @@ $router->add('/{lang}/circuit/tour-salama', function ($params) {
     $controller->salama($lang);
 });
 
+$router->add('/{lang}/excursion/mitsiho-en-bivouac', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->bivouac($lang);
+});
+
+$router->add('/{lang}/excursion/mitsiho-et-radama', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->radamaMitsiho($lang);
+});
+
+$router->add('/{lang}/excursion/catamaran-radama', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->radama($lang);
+});
+
+$router->add('/{lang}/excursion/mitsiho-en-catamaran', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->mitsiho($lang);
+});
+
+$router->add('/{lang}/circuit/tour-tsangatsanga', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->tsangatsanga($lang);
+});
+
+$router->add('/{lang}/circuit/tour-veloma', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->veloma($lang);
+});
+
+
+$router->add('/{lang}/circuit/tour-soa', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\CircuitController();
+    $controller->soa($lang);
+});
+
 $router->add('/{lang}/circuit/tour-fosa', function ($params) {
     $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 

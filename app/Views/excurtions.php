@@ -113,7 +113,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">Nosy Mitsio avec Bateau rapide</h2>
                                         <p>Entrez dans un monde magique et mystérieux.</p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/excursion/mitsiho-en-bivouac" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -125,7 +125,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">catamaran Mitsio</h2>
                                         <p>Entrez dans un monde magique et mystérieux.</p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/excursion/mitsiho-en-catamaran" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -137,7 +137,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">catamaran RADAMA</h2>
                                         <p>L'archipel de Radama en catamaran </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/excursion/catamaran-radama" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -149,7 +149,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">catamaran Mitsio et RADAMA</h2>
                                         <p>Entrez dans un monde magique et mystérieux.</p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/excursion/mitsiho-et-radama" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -187,7 +187,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">Croisière en Catamaran</h2>
                                         <p>Revivez l'histoire à travers des lieux authentiques.</p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/excursions/croisiere-en-catamaran" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>

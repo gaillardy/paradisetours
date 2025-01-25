@@ -161,7 +161,7 @@
                                             Départ : Nosy be
 
                                         </p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?=  $lang ?>/circuit/tour-soa" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -173,7 +173,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">TSANGATSANGANA </h2>
                                         <p>Visite : Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)</p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?=  $lang ?>/circuit/tour-tsangatsanga" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>
@@ -197,7 +197,7 @@
                                     <div class="overlay">
                                         <h2 class="mb-2">Veloma</h2>
                                         <p>Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)</p>
-                                        <a href="#" class="btn">Découvrir</a>
+                                        <a href="/<?= $lang ?>/circuit/tour-veloma" class="btn">Découvrir</a>
                                     </div>
                                 </div>
 							</div>

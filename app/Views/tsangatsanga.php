@@ -1,7 +1,7 @@
 <?php include 'templates/header.php'; ?>
 
 
-    <div class="hero-wrap js-fullheight" style="background-image: url('/assets/images/circuits/fosa.jpg');">
+    <div class="hero-wrap js-fullheight" style="background-image: url('/assets/images/cover/tour-tsangatsanga-cover.jpg');">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
@@ -12,36 +12,6 @@
         </div>
     </div>
 
-    <section class="ftco-section ftco-destination mt-5">
-    	<div class="container">
-    		<div class="row justify-content-start mf-5 pf-3">
-            <div class="col-md-7 heading-section ftco-animate">
-                <h2 class="mf-4">Images</h2>
-            </div>
-        </div>
-    		<div class="row">
-    			<div class="col-md-12">
-    				<div class="destination-slider owl-carousel ftco-animate">
-                        <?php
-                            for ($i=1; $i <= 11 ; $i++) { 
-                                ?>
-                                    <div class="item">
-                                        <div class="destination">
-                                            <a   target="_blank" href="/assets/images/circuits/f-<?= $i ?>.jpg" class="img d-flex justify-content-center align-items-center" style='background-image: url("/assets/images/circuits/f-<?= $i ?>.jpg");'>
-                                                <div class="icon d-flex justify-content-center align-items-center">
-                                                    <span class="icon-search2"></span>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                <?php
-                            }
-                        ?>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    </section>
 
     <main>
         <section class="content-section">

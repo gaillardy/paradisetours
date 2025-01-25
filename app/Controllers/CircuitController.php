@@ -29,6 +29,69 @@ class CircuitController
         ]);
     }
 
+    public function tsangatsanga($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Tour Tsangatsanga - circuits';
+        $metaDescription = "nous commençons la visite du parc avec le Tsingy Gris avec ses formations rocheuses pointues et spectaculaires ";
+        $metaKeywords = 'Circuits de Madagascar, Tour Tsangatsanga';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('tsangatsanga', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+            'lang'            => $lang,
+            'translations'    => $translations,
+            'currentRoute'    => $currentRoute,
+        ]);
+    }
+
+    public function veloma($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Tour Veloma - circuits';
+        $metaDescription = "la visite du parc avec le Tsingy Gris avec ses formations rocheuses pointues et spectaculaires";
+        $metaKeywords = 'Circuits de Madagascar, Tour Veloma';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('veloma', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
+    public function soa($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Tour Soa - Circuits';
+        $metaDescription = "un tour dans la ville d’Ambanja pour découvrir : l’originalité et la charme de cette ville";
+        $metaKeywords = 'Tour Soa, Ambanja';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('soa', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
     public function decouverte($lang)
     {
         $translations = Language::getTranslations($lang);

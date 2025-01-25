@@ -29,6 +29,91 @@ class ExcurtionController
         ]);
     }
 
+    public function bivouac($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = strtolower('L’ARCHIPEL DE MITSIO en bivouac - Excurtions');
+        $metaDescription = "Mer turquoise et propre, parfait pour de la plongée apnée, Chasse sous-marine ou pêche à la traîne et rencontre avec les villageois.";
+        $metaKeywords = 'ARCHIPEL DE MITSIO en bivouac';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('grand_mitsio', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
+
+    public function radamaMitsiho($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Catamaran Mitsio et Radama - Excurtions';
+        $metaDescription = 'Catamaran Mitsio et Radama, Direction Tanikely c’est une réserve sous-marine ou toutes sortes de poissons de récif sont présentes';
+        $metaKeywords = 'Catamaran Mitsio et Radama';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('radama_mitsiho', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
+    public function radama($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Catamaran Radama - Excurtions';
+        $metaDescription = strtolower('PROGRAMME CROISIERE DECOUVERTE À L’ARCHIPEL DES RADAMES SUR 5 JOURS/4 NUITS');
+        $metaKeywords = 'Catamaran Radama';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('radama', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
+    public function mitsiho($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Archipel de Mitsiho en catamaran - Excurtions';
+        $metaDescription = "Découverte de l’île au sable blanc. Vous profiterez de la très belle plage de TSARABANJINA pour vous adonner au farniente, ";
+        $metaKeywords = 'Archipel de Mitsiho en catamaran';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('mitsiho', [
+            'title'           => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+            'lang'            => $lang,
+            'translations'    => $translations,
+            'currentRoute'    => $currentRoute,
+        ]);
+    }
+
     public function helicot($lang)
     {
         $translations = Language::getTranslations($lang);
