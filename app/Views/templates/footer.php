@@ -161,7 +161,7 @@
     <div class="col-md">
       <div class="ftco-footer-widget mb-4">
         <h2 class="ftco-heading-2">Nosy Be Paradise Tours</h2>
-        <p>Suivez nous sur les résaux sociaux.</p>
+        <p><?= $translations['46'] ?></p>
         <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
           <li class="ftco-animate"><a target="_blank" rel="noreferrer noopener" href="https://twitter.com/7paradisetours"><span class="icon-twitter"></span></a></li>
           <li class="ftco-animate"><a target="_blank" rel="noreferrer noopener" href="https://www.facebook.com/NosybeParadiseTours/"><span class="icon-facebook"></span></a></li>
@@ -173,12 +173,12 @@
     </div>
     <div class="col-md">
       <div class="ftco-footer-widget mb-4 ml-md-5">
-        <h2 class="ftco-heading-2">Informations</h2>
+        <h2 class="ftco-heading-2"><?= $translations['47'] ?></h2>
         <ul class="list-unstyled">
-          <li><a href="/<?= $lang ?>/a-propos" class="py-2 d-block">À propos</a></li>
-          <li><a href="/<?= $lang ?>/services" class="py-2 d-block">Service</a></li>
-          <li><a href="/<?= $lang ?>/contact" class="py-2 d-block">Contact</a></li>
-          <li><a href="/<?= $lang ?>/guide" class="py-2 d-block">Guide</a></li>
+          <li><a href="/<?= $lang ?>/a-propos" class="py-2 d-block"><?= $translations['48'] ?></a></li>
+          <li><a href="/<?= $lang ?>/services" class="py-2 d-block"><?= $translations['service'] ?></a></li>
+          <li><a href="/<?= $lang ?>/contact" class="py-2 d-block"><?= $translations['contact'] ?></a></li>
+          <li><a href="/<?= $lang ?>/guide" class="py-2 d-block"><?= $translations['guide'] ?></a></li>
           <li><a href="javascript:avoid(0)" onclick="openModal('forwardModal')" class="py-2 d-block">Newsletter</a></li>
 
 
