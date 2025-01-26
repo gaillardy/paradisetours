@@ -152,6 +152,10 @@
       .modal-input-email:active {
       transform: scale(0.98); /* Effet de réduction lors du clic */
       }
+
+      a:hover {
+        text-decoration: none;
+      }
 </style>
 
 
@@ -219,7 +223,7 @@
           <h2 class="ftco-heading-2">Des questions?</h2>
           <div class="block-23 mb-3">
             <ul>
-              <li><span class="icon icon-map-marker"></span><span class="text">À côté de la pharmacie TSARAJORORue Boulevard Raymond poincaréHell ville- Nosy be 207 MADAGASCAR</span></li>
+              <li><a href="#"><span class="icon icon-map-marker"></span><span class="text">À côté de la pharmacie TSARAJORORue Boulevard Raymond poincaréHell ville- Nosy be 207 MADAGASCAR </span></a></li>
               <li><a href="tel:+261320712758"><span class="icon icon-phone"></span><span class="text">+261320712758</span></a></li>
               <li><a href="mailto:contact@nosybeparadisetours.com"><span class="icon icon-envelope"></span><span class="text"> Nous contacter </span></a></li>
             </ul>

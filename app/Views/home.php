@@ -431,7 +431,7 @@ h5 {
 
                         <div class="item">
 							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tour3.jpg')">
+                                <div class="gallery-item" style="background-image: url('/assets/images/home/kit_surf.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2"><?= $translations['key31'] ?></h2>
                                         <p>

@@ -149,8 +149,8 @@
             margin-right: 10px;
         }
 
-        a {
-            color: #007bff;
+        .jumbotron a {
+            color: #333;
             text-decoration: none;
         }
 
@@ -216,9 +216,9 @@
         <div class="col-md-6 ftco-animate p-md-5">
             <div class="jumbotron">
             <h1><i class="fas fa-info-circle"></i> Informations de Contact</h1>
-            <p><i class="fas fa-globe"></i> <strong>Site :</strong> Nosy Be Paradise Tour</p>
-            <p><i class="fas fa-map-marker-alt"></i> <strong>Localisation :</strong> À côté de la pharmacie Tsarajoro, Rue Boulevard Raymond Poincaré, Hell-Ville, Nosy Be 207, Madagascar</p>
-            <p><i class="fab fa-whatsapp"></i> <strong>WhatsApp :</strong><a href="tel:+261320712758">+261 32 07 127 58</a></p>
+            <p class="mb-4"><i class="fas fa-globe"></i> <strong>Site :</strong> <a href="/<?= $lang ?>/home"> Nosy Be Paradise Tour</a></p>
+            <p class="mb-4"><i class="fas fa-map-marker-alt"></i> <strong><a href="#" id="loc"> Localisation :</strong> À côté de la pharmacie Tsarajoro, Rue Boulevard Raymond Poincaré, Hell-Ville, Nosy Be 207, Madagascar</a></p>
+            <p class="mb-4"><i class="fab fa-whatsapp"></i> <strong>WhatsApp :</strong><a href="tel:+261320712758">+261 32 07 127 58</a></p>
             <p><i class="fas fa-envelope"></i> <strong>Email :</strong> <a href="mailto:contact@nosybeparadisetour.com">contact@nosybeparadisetour.com</a></p>
             </div>
         </div>
