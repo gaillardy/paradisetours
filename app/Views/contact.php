@@ -217,9 +217,22 @@
             <div class="jumbotron">
             <h1><i class="fas fa-info-circle"></i> Informations de Contact</h1>
             <p class="mb-4"><i class="fas fa-globe"></i> <strong>Site :</strong> <a href="/<?= $lang ?>/home"> Nosy Be Paradise Tour</a></p>
-            <p class="mb-4"><i class="fas fa-map-marker-alt"></i> <strong><a href="#" id="loc"> Localisation :</strong> À côté de la pharmacie Tsarajoro, Rue Boulevard Raymond Poincaré, Hell-Ville, Nosy Be 207, Madagascar</a></p>
+            <p class="mb-4"><i class="fas fa-map-marker-alt"></i> <strong><a href="https://maps.app.goo.gl/mRbRfNy5W71xW7YU9" target="_blank" id="loc"> Localisation :</strong> À côté de la pharmacie Tsarajoro, Rue Boulevard Raymond Poincaré, Hell-Ville, Nosy Be 207, Madagascar</a></p>
             <p class="mb-4"><i class="fab fa-whatsapp"></i> <strong>WhatsApp :</strong><a href="tel:+261320712758">+261 32 07 127 58</a></p>
             <p><i class="fas fa-envelope"></i> <strong>Email :</strong> <a href="mailto:contact@nosybeparadisetour.com">contact@nosybeparadisetour.com</a></p>
+            <p><i class="fas fa-paper-plane"></i>Newletter : <a href="javascript:avoid(0)" onclick="openModal('forwardModal')">S'inscrire</a></p>
+            </div>
+        </div>
+        <!-- Modale pour Newsletter -->
+        <div id="forwardModal" class="modal hidden">
+            <div class="modal-content">
+                <h3>S'abonner</h3>
+                <form action="/<?= $lang ?>/subscribe" method="post" id="contactForm" >
+                    <input type="email" name="email" id="email" placeholder="Votre Adresse email " class="modal-input-email">
+                    <div class="error-message" id="emailError">Veuillez entrer un email valide.</div>
+                    <button id="btn-mod" class="modal-close" onclick="closeModal('forwardModal')" type="button">Annuler</button>
+                    <button id="btn-mod" class="modal-submit" type="submit">Envoyer</button>
+                </form>
             </div>
         </div>
     </div>
@@ -278,4 +291,39 @@
             }
         });
 </script>
+<script>
+  // Ouverture du modal avec animation
+  function openModal(modalId) {
+    const modal = document.getElementById(modalId);
+    modal.classList.add('show');
+  }
+
+  // Fermeture du modal avec animation
+  function closeModal(modalId) {
+    const modal = document.getElementById(modalId);
+    modal.classList.remove('show');
+  }
+  document.getElementById("contactForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    let isValid = true;
+
+    // Validation de l'email
+    const email = document.getElementById("email");
+    const emailError = document.getElementById("emailError");
+    const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailPattern.test(email.value)) {
+      emailError.style.display = "block";
+      isValid = false;
+    } else {
+      emailError.style.display = "none";
+    }
+
+    // Si tout est valide, soumettre le formulaire
+    if (isValid) {
+      this.submit();
+    }
+  });
+
+</script>
+
 <?php include 'templates/footer.php'; ?>

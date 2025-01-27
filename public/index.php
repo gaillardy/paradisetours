@@ -506,6 +506,36 @@ $router->add('/{lang}/excursion/mitsiho-en-catamaran', function ($params) {
     $controller->mitsiho($lang);
 });
 
+$router->add('/{lang}/green', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->green($lang);
+});
+
+$router->add('/{lang}/blue-tour', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    
+    $controller = new \App\Controllers\ExcurtionController();
+    $controller->blue($lang);
+});
+
 $router->add('/{lang}/circuit/tour-tsangatsanga', function ($params) {
     $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
 

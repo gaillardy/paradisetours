@@ -29,6 +29,48 @@ class ExcurtionController
         ]);
     }
 
+    public function green($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title           = 'Green';
+        $metaDescription = "Nosy Komba est une île volcanique face à Nosy Be. Le village de Nosy Komba est agrémenté de son marché de broderies et d'artisanat en bois. ";
+        $metaKeywords    = 'Green, Nosy Komba, Excurtions Nosy be';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('green', [
+            'title' => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang' => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
+    public function blue($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Blue tour';
+        $metaDescription = "Une fois arrivé sur l'île IRANJA, vous serez accueilli avec un paysage à couper le souffle. Une immersion totale dans la nature embellira votre journée.  ";
+        $metaKeywords = 'Blue tour, Excurtions Nosy be';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+
+        View::render('blue', [
+            'title'           => $title,
+            'metaDescription' => $metaDescription,
+            'metaKeywords' => $metaKeywords,
+            'lang'         => $lang,
+            'translations' => $translations,
+            'currentRoute' => $currentRoute,
+        ]);
+    }
+
     public function bivouac($lang)
     {
         $translations = Language::getTranslations($lang);

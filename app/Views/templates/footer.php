@@ -189,12 +189,12 @@
           <!-- Modale pour Newsletter -->
           <div id="forwardModal" class="modal hidden">
                 <div class="modal-content">
-                    <h3>S'abonner</h3>
+                    <h3><?= $translations['49'] ?></h3>
                     <form action="/<?= $lang ?>/subscribe" method="post" id="contactForm" >
                       <input type="email" name="email" id="email" placeholder="Votre Adresse email " class="modal-input-email">
-                      <div class="error-message" id="emailError">Veuillez entrer un email valide.</div>
-                      <button id="btn-mod" class="modal-close" onclick="closeModal('forwardModal')" type="button">Annuler</button>
-                      <button id="btn-mod" class="modal-submit" type="submit">Envoyer</button>
+                      <div class="error-message" id="emailError"><?= $translations['50'] ?></div>
+                      <button id="btn-mod" class="modal-close" onclick="closeModal('forwardModal')" type="button"><?= $translations['51'] ?></button>
+                      <button id="btn-mod" class="modal-submit" type="submit"><?= $translations['52'] ?></button>
                     </form>
                 </div>
           </div>
@@ -204,7 +204,7 @@
     </div>
     <div class="col-md">
        <div class="ftco-footer-widget mb-4">
-        <h2 class="ftco-heading-2">Compagnies aériennes</h2>
+        <h2 class="ftco-heading-2"><?= $translations['53'] ?></h2>
         <ul class="list-unstyled">
           <li><a target="_blank" rel="noreferrer noopener" href="https://www.airmadagascar.com/fr" class="py-2 d-block">Air Madagascar</a></li>
           <li><a target="_blank" rel="noreferrer noopener" href="https://www.air-austral.com/" class="py-2 d-block">Air Austral</a></li>
@@ -220,12 +220,12 @@
     </div>
     <div class="col-md">
       <div class="ftco-footer-widget mb-4">
-          <h2 class="ftco-heading-2">Des questions?</h2>
+          <h2 class="ftco-heading-2"><?= $translations['54'] ?></h2>
           <div class="block-23 mb-3">
             <ul>
-              <li><a href="#"><span class="icon icon-map-marker"></span><span class="text">À côté de la pharmacie TSARAJORORue Boulevard Raymond poincaréHell ville- Nosy be 207 MADAGASCAR </span></a></li>
+              <li><a href="https://maps.app.goo.gl/mRbRfNy5W71xW7YU9" target="_blank"><span class="icon icon-map-marker"></span><span class="text">À côté de la pharmacie TSARAJORORue Boulevard Raymond poincaréHell ville- Nosy be 207 MADAGASCAR </span></a></li>
               <li><a href="tel:+261320712758"><span class="icon icon-phone"></span><span class="text">+261320712758</span></a></li>
-              <li><a href="mailto:contact@nosybeparadisetours.com"><span class="icon icon-envelope"></span><span class="text"> Nous contacter </span></a></li>
+              <li><a href="mailto:contact@nosybeparadisetours.com"><span class="icon icon-envelope"></span><span class="text"><?= $translations['contact'] ?></span></a></li>
             </ul>
           </div>
       </div>
@@ -233,10 +233,9 @@
   </div>
   <div class="row">
     <div class="col-md-12 text-center">
-
-        <p>
-          Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Nosy Be Paradise Tours</a>
-        </p>
+      <p>
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Nosy Be Paradise Tours. Powered by Z-type</a>
+      </p>
     </div>
   </div>
 </div>

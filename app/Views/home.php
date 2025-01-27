@@ -65,6 +65,133 @@
 h5 {
 	text-transform: capitalize;
 }
+/* Conteneur de l'entête */
+.heading-perso {
+  margin: 40px 0;
+}
+
+/* Titre stylé */
+.styled-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #2c3e50; /* Bleu profond */
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  background: #f8f9fa; /* Légèrement différent du blanc pour un effet subtil */
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Lignes décoratives */
+.line-decor {
+  display: inline-block;
+  width: 50px;
+  height: 3px;
+  background-color: #3498db; /* Bleu éclatant */
+  vertical-align: middle;
+  margin: 0 10px;
+}
+
+/* Effet hover sur le titre */
+.styled-title:hover {
+  color: #2980b9; /* Plus clair au survol */
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+/* Pour garantir le centrage sur toutes tailles d'écran */
+.text-center {
+  text-align: center;
+}
+
+/* Conteneur principal des blocs */
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin: 10px;
+}
+
+/* Bloc de destination */
+.destination {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  height: 100%; /* Assurer la pleine hauteur pour les flexbox enfants */
+}
+
+/* Image du bloc */
+.destination .img {
+  height: 200px; /* Hauteur fixe pour l'image */
+  background-size: cover;
+  background-position: center;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Contenu du texte */
+.destination .text {
+  padding: 20px;
+  flex: 1; /* Occupe tout l'espace restant pour uniformiser les hauteurs */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Titre */
+.destination .text h3 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* Description */
+.destination .text p {
+  font-size: 0.9rem;
+  color: #6c757d;
+  text-align: justify;
+}
+
+/* Section bas */
+.destination .text .bottom-area {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/* Effet hover */
+.destination:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Pour assurer des hauteurs uniformes */
+.item {
+  min-height: 350px; /* Hauteur minimale */
+}
+
+.one {
+	
+	font-weight: bold;
+}
+.one a {
+	color: black;
+	word-spacing: normal;
+}
+
+
 
 </style>
 
@@ -176,19 +303,65 @@ h5 {
         </div>
       </div>
     </section>
-
+	
+	<!-- Nos package -->
     <section class="ftco-section ftco-destination mt-2">
     	<div class="container">
     		<div class="row justify-content-start mb-2 pb-3">
 				<div class="col-md-7 heading-section ftco-animate">
 				</div>
-				<div class="col-sm-12 heading-perso justify-content-center">
-					<h2 class="mb-4 styled-title"><?= $translations['package'] ?></h2>
+				<div class="col-sm-12 heading-perso text-center">
+					<h2 class="mb-4 styled-title">
+						<span class="line-decor"></span>
+						<?= $translations['package'] ?>
+						<span class="line-decor"></span>
+					</h2>
 				</div>
+
         	</div>
     		<div class="row">
     			<div class="col-md-12">
     				<div class="destination-slider owl-carousel ftco-animate">
+						<div class="item">
+		    				<div class="destination">
+		    					<a href="/<?= $lang ?>/green" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/pack/20.avif');">
+		    						<div class="icon d-flex justify-content-center align-items-center">
+		    							<span class="icon-search2"></span>
+		    						</div>
+		    					</a>
+		    					<div class="text p-3">
+		    						<h3><a href="/<?= $lang ?>/green">North Mada</a></h3>
+		    						<span class="listing" id="pack">12 jours - 11 Nuits</span>
+									
+		    					</div>
+		    				</div>
+	    				</div>
+						<div class="item">
+		    				<div class="destination">
+		    					<a href="/<?= $lang ?>/green" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/gallery/2.jpg');">
+		    						<div class="icon d-flex justify-content-center align-items-center">
+		    							<span class="icon-search2"></span>
+		    						</div>
+		    					</a>
+		    					<div class="text p-3">
+		    						<h3><a href="/<?= $lang ?>/green">Green</a></h3>
+		    						<span class="listing" id="pack">6 jours - 5 Nuits</span>
+		    					</div>
+		    				</div>
+	    				</div>
+						<div class="item">
+		    				<div class="destination">
+		    					<a href="/<?= $lang ?>/blue-tour" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/home/pack-blue.jpg');">
+		    						<div class="icon d-flex justify-content-center align-items-center">
+		    							<span class="icon-search2"></span>
+		    						</div>
+		    					</a>
+		    					<div class="text p-3">
+		    						<h3><a href="/<?= $lang ?>/blue-tour">Blue tour</a></h3>
+		    						<span class="listing" id="pack">5 jours - 4 Nuits</span>
+		    					</div>
+		    				</div>
+	    				</div>
     					<div class="item">
 		    				<div class="destination">
 		    					<a href="/<?= $lang ?>/nature-pack" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/package1.jpg');">
@@ -239,6 +412,7 @@ h5 {
 		    						<h3><a href="/<?= $lang ?>/circuit/tour-fosa"><?= $translations['key7'] ?></a></h3>
 		    						<span class="listing" id="pack"><?= $translations['key8'] ?></span>
 		    					</div>
+								
 		    				</div>
 	    				</div>
 						
@@ -250,14 +424,18 @@ h5 {
 
 	
 
-	<!-- slider -->
+	<!-- slider : Nos activité -->
 	<section class="ftco-section ftco-destination mt-2">
     	<div class="container">
     		<div class="row justify-content-start mb-2 pb-3">
 				<div class="col-md-7 heading-section ftco-animate">
 				</div>
-				<div class="col-sm-12 heading-perso justify-content-center">
-					<h2 class="mb-4 styled-title"><?= $translations['key9'] ?></h2>
+				<div class="col-sm-12 heading-perso text-center">
+					<h2 class="mb-4 styled-title">
+						<span class="line-decor"></span>
+						<?= $translations['key9'] ?>
+						<span class="line-decor"></span>
+					</h2>
 				</div>
         	</div>
     		<div class="row">
@@ -273,7 +451,7 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="/<?= $lang ?>/excursions/peche-au-gros"><?= $translations['key10'] ?></a></h3>
+											<p><b><a href="/<?= $lang ?>/excursions/peche-au-gros"><?= $translations['key10'] ?></a></b></p>
 										</div>
 									</div>
 									<p>
@@ -298,7 +476,7 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="/<?= $lang ?>/excursions/croisiere-en-catamaran"><?= $translations['key13'] ?></a></h3>
+											<p><b><a href="/<?= $lang ?>/excursions/croisiere-en-catamaran"><?= $translations['key13'] ?></a></b></p>
 										</div>
 									</div>
 									<p><?= $translations['key14'] ?></p>
@@ -320,7 +498,7 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="/<?= $lang ?>/services#voyage-de-noce"><?= $translations['key16'] ?></a></h3>
+											<p><b><a href="/<?= $lang ?>/services#voyage-de-noce"><?= $translations['key16'] ?></a></b></p>
 										</div>
 									</div>
 									<p>
@@ -344,7 +522,7 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="/<?= $lang ?>/voyage-incentive"><?= $translations['key19'] ?> <span><?= $translations['key20'] ?></span> </a></h3>
+											<p><b><a href="/<?= $lang ?>/voyage-incentive"><?= $translations['key19'] ?> <span><?= $translations['key20'] ?></span> </a></b></p>
 											
 										</div>
 										
@@ -370,7 +548,7 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<h3><a href="/<?= $lang ?>/sejour-plage-vierge"><?= $translations['key22'] ?></a></h3>
+											<p><b><a href="/<?= $lang ?>/sejour-plage-vierge"><?= $translations['key22'] ?></a></b></p>
 										</div>
 										
 									</div>
@@ -390,13 +568,17 @@ h5 {
     </section>
 	<!-- End of slider-->
 
-
+	<!-- Paradise tour-->		
     <section class="ftco-section ftco-destination mt-2">
     	<div class="container">
                 <div class="row mb-4">
-					<div class="col-sm-12 heading-perso justify-content-center">
-						<h2 class="mb-4 styled-title">Paradise tours</h2>
-					</div>
+				<div class="col-sm-12 heading-perso text-center">
+					<h2 class="mb-4 styled-title">
+						<span class="line-decor"></span>
+						Paradise Tour
+						<span class="line-decor"></span>
+					</h2>
+				</div>
 		        </div>
     		<div class="row">
     			<div class="col-md-12">
@@ -437,6 +619,34 @@ h5 {
                                         <p>
                                         <?=$translations['key32']?>
                                         </p>
+                                        <a href="/<?= $lang ?>/kite-surf-a-diego-suarez" class="btn"><?=$translations['decouvrir']?></a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+						<div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/pack/rn-7.webp')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Circuit RN7</h2>
+                                        <p>
+                                        	Explorez Madagascar avec le Circuit RN7 : Un voyage au cœur du Sud ! 
+											Plongez dans une aventure inoubliable à travers la célèbre Route Nationale 7. 
+                                        </p>
+                                        <a href="/<?= $lang ?>/kite-surf-a-diego-suarez" class="btn"><?=$translations['decouvrir']?></a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+						<div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/pack/m-2.webp')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Évasion à Morondava </h2>
+                                        <p>
+										Évasion à Morondava : Là où la nature raconte ses secrets ! 
+										Partez à la découverte de Morondava, terre d'aventure et de magie. 
+										</p>
                                         <a href="/<?= $lang ?>/kite-surf-a-diego-suarez" class="btn"><?=$translations['decouvrir']?></a>
                                     </div>
                                 </div>
