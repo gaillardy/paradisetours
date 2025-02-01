@@ -16,7 +16,7 @@ class Router {
     
         foreach ($this->routes as $path => $callback) {
             $routePattern = preg_replace('/\{[a-z]+\}/', '([a-zA-Z0-9_-]+)', $path);
-            $routePattern = "#^" . $routePattern . "$#";
+            $routePattern = "#^".$routePattern."$#";
     
             if (preg_match($routePattern, $requestedPath, $matches)) {
                 error_log("Matched route: $path");
@@ -40,7 +40,7 @@ class Router {
         }
     
         // Aucun itinéraire correspondant trouvé
-        header("Location:/not-found");
+        header("Location:/fr/not-found");
     }
     
     

@@ -99,14 +99,8 @@
     <div class="container" data-aos="fade-up">
       <h1 class="display-4">Notre transfert premium</h1>
         <p class="lead">
-            Nous offrons des services et prestations touristiques complètes et diversifiées pour des clients particuliers ou en groupes que ce soit au niveau local, 
-            national ou international. 
-            Nous proposons également une gamme complète de service pour les professionnels tels que les Tours Opérateurs,
-            Agences de voyages, Hôtels, Centre de plongée et les bateaux croisières qui constituent des partenaires locales et internationales.
-
-            L’entreprise propose des services de transfert terre et mer en voiture ou par bateau rapide pour ses clients. De l’aéroport à l’hôtel, 
-            ou bien de l’hôtel à l’aéroport. 
-            Du port d’Ankify au port de Nosy-Be ou l’inverse. Il existe aussi les transferts à travers les petites îles voisines de Nosy-Be
+          Nosy Be Paradise Tours propose des services et prestations touristiques complets et variés sur terre et en mer pour une clientèle individuelle ou des groupes au niveau local, national ou international. De plus, nous offrons une gamme complète de services aux professionnels tels que les tour-opérateurs, les agences de voyages, les hôtels, les centres de plongée et les compagnies de croisières qui sont des partenaires locaux et internationaux. Nosy Be Paradise Tours vend et organise non seulement des excursions à la journée, mais aussi des sorties en catamaran de plusieurs jours ou des bivouacs à terre sur les nombreuses petites îles autour de Nosy-Be. Nosy Be Paradise Tours propose à ses clients des services de transfert terrestre et maritime en voiture ou en hors-bord. De l'aéroport à l'hôtel ou de l'hôtel à l'aéroport. Du port d'Ankify au port de Nosy-Be ou inversement. 
+          Il existe également la possibilité de transfert via les petites îles voisines de Nosy-Be ou vers d'autres régions de Madagascar.
         </p>
     </div>
 </section>
@@ -145,10 +139,43 @@
 
   <!-- Additional Information Section -->
   <section id="additional-info" class="container py-5 " data-aos="fade-up">
+
+    <div class="row mb-5">
+      <div class="col-md-12" >
+        <h3 class="text-center">Le transfert Premium comprend :</h3>
+        <ul>
+          <li>Transfert en voiture privée ou en bateau</li>
+          <li>voiture très confortable et spacieuse avec climatisation</li>
+          <li>Conducteur ou accompagnateur pouvant communiquer</li>
+          <li>1 bouteille d'eau fraîche par personne</li>
+          <li>Assurance responsabilité civile</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="tow mb-5">
+      <div class="col-md-12">
+        <h3 class="text-center">Transfert V.I.P</h3>
+        <ul>
+          <li>bienvenue au salon V.I.P</li>
+          <li>Transfert en voiture privée ou en bateau</li>
+          <li>Voiture très confortable et spacieuse avec climatisation</li>
+          <li>Chauffeur ou accompagnateur bilingue pouvant communiquer avec le client</li>
+          <li>Collation pendant le voyage (en cas de changement d'horaire de vol)</li>
+          <li>1 bouteille d'eau fraîche par personne</li>
+          <li>1 serviette rafraîchissante</li>
+          <li>Assistance à la récupération des bagages</li>
+          <li>Accompagnement au véhicule</li>
+          <li>Assurance responsabilité civile</li>
+        </ul>
+      </div>
+    </div>
+
+
     <div class="row mb-4">
       <div class="col-md-12" >
         <h3 class="text-center">TRANSFERT TERRESTRE :</h3>
-        <p class="text-center">
+        <p class="text-justify">
             Que ce soit pour l’accueil, pour les visites ou pour les déplacements. 
             Notre agence met à la disposition des ses clients des véhicules routiers confortables.
         </p>
@@ -158,7 +185,7 @@
     <div class="row mb-4">
       <div class="col-md-12" >
         <h3 class="text-center">TRANSFERT MARITIME :</h3>
-        <p class="text-center">
+        <p class="text-justify">
             Lors des excursions sur les îles environnantes, 
             lors des transferts rapides  ou lors des activités nautiques. 
             Les  clients se doivent de se sentir bien en sécurité en confort et à l’aise
@@ -171,7 +198,7 @@
     <div class="row">
       <div class="col-md-12" >
         <h3 class="text-center">TRANSFERT AÉRIENNE :</h3>
-        <p class="text-center">
+        <p class="text-justify">
             Mal de voiture ou mal de mer, 
             Optez pour un transfert ultra rapide en hélico ou avion pour Vos longues excursions
             ou simplement pour une balade  pour admirer la beauté du Nord de Madagascar.

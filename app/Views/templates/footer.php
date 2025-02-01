@@ -182,7 +182,7 @@
           <li><a href="/<?= $lang ?>/a-propos" class="py-2 d-block"><?= $translations['48'] ?></a></li>
           <li><a href="/<?= $lang ?>/services" class="py-2 d-block"><?= $translations['service'] ?></a></li>
           <li><a href="/<?= $lang ?>/contact" class="py-2 d-block"><?= $translations['contact'] ?></a></li>
-          <li><a href="/<?= $lang ?>/guide" class="py-2 d-block"><?= $translations['guide'] ?></a></li>
+          <li><a href="/<?= $lang ?>/savoir" class="py-2 d-block"><?= $translations['guide'] ?></a></li>
           <li><a href="javascript:avoid(0)" onclick="openModal('forwardModal')" class="py-2 d-block">Newsletter</a></li>
 
 
@@ -206,12 +206,12 @@
        <div class="ftco-footer-widget mb-4">
         <h2 class="ftco-heading-2"><?= $translations['53'] ?></h2>
         <ul class="list-unstyled">
-          <li><a target="_blank" rel="noreferrer noopener" href="https://www.airmadagascar.com/fr" class="py-2 d-block">Air Madagascar</a></li>
+          <li><a target="_blank" rel="noreferrer noopener" href="javascript:avoid(0)" class="py-2 d-block">Madagascar airlines </a></li>
           <li><a target="_blank" rel="noreferrer noopener" href="https://www.air-austral.com/" class="py-2 d-block">Air Austral</a></li>
           <li><a target="_blank" rel="noreferrer noopener" href="https://www.ethiopianairlines.com/" class="py-2 d-block">Ethiopian Airline</a></li>
           <li><a target="_blank" rel="noreferrer noopener" href="https://www.flyairlink.com/" class="py-2 d-block">Airlink</a></li>
-          <li><a target="_blank" rel="noreferrer noopener" href="https://tsaradia.com/" class="py-2 d-block">Tsaradia</a></li>
-          <li><a target="_blank" rel="noreferrer noopener" href="https://www.madagasikaraairways.com/fr" class="py-2 d-block">Madagascar Airways</a></li>
+          <li><a target="_blank" rel="noreferrer noopener" href="javascript:avoid(0)" class="py-2 d-block">Polish airlines</a></li>
+          <li><a target="_blank" rel="noreferrer noopener" href="javascript:avoid(0)" class="py-2 d-block">Flight Bulgaria</a></li>
           <li><a target="_blank" rel="noreferrer noopener" href="http://www.ewa-air.com/" class="py-2 d-block">Ewa Air</a></li>
           <li><a target="_blank" rel="noreferrer noopener" href="https://www.neosair.it/" class="py-2 d-block">Neos Air</a></li>
 

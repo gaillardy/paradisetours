@@ -24,6 +24,112 @@ $router->add('/', function ($params) {
 });
 
 
+$router->add('/{lang}/madagascar', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->madagascar($lang);
+});
+
+$router->add('/{lang}/savoir', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->savoir($lang);
+});
+
+$router->add('/{lang}/nosy-be', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->nosybe($lang);
+});
+
+$router->add('/{lang}/morondava-long', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->morondava_long($lang);
+});
+
+$router->add('/{lang}/morondava', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->morondava($lang);
+});
+
+$router->add('/{lang}/circuit-sud', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->sud($lang);
+});
+
+$router->add('/{lang}/north-mada', function ($params) {
+    $validLanguages = ['en', 'fr', 'it','de']; // Langues prises en charge
+
+    $lang = $params['lang']; // Récupérer la langue
+    if (!in_array($lang, $validLanguages)) {
+        http_response_code(404);
+        echo "Language not supported!";
+        return;
+    }
+
+    // Appeler le HomeController avec la langue
+    $controller = new \App\Controllers\HomeController();
+    $controller->nord($lang);
+});
+
+
 
 $router->add('/nbpt-admin/send-box/{id}', function ($params) {
 
@@ -32,6 +138,50 @@ $router->add('/nbpt-admin/send-box/{id}', function ($params) {
     $controller = new \App\Controllers\AdminController();
     $controller->SingleSendBox($id);
 });
+
+
+
+// partie pour le mot de passe oublié
+
+$router->add('/nbpt-admin/change-password', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->changePassword();
+});
+
+
+$router->add('/nbpt-admin/reset-password', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->reset_password();
+});
+
+
+$router->add('/nbpt-admin/checking-code', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->checking_code();
+});
+
+$router->add('/nbpt-admin/set-code', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->set_code();
+});
+
+$router->add('/nbpt-admin/send-code-reset', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->ActionSendCodeReset();
+});
+
+$router->add('/nbpt-admin/send-code', function () {
+
+    $controller = new \App\Controllers\AdminController();
+    $controller->sendCodeReset();
+});
+
+// partie pour le mot de passe oublié
 
 $router->add('/nbpt-admin/send-box', function () {
 
@@ -115,11 +265,7 @@ $router->add('/nbpt-admin/compte/edit/{id}', function ($params) {
     $controller->updateAccount($id);
 });
 
-$router->add('/nbpt-admin/analytique', function () {
 
-    $controller = new \App\Controllers\AdminController();
-    $controller->analytique();
-});
 
 $router->add('/nbpt-admin/comptes', function () {
 
@@ -180,16 +326,16 @@ $router->add('/nbpt-admin/dashboard', function () {
     $controller->index();
 });
 
-$router->add('/auth/authenticate', function () {
-    
-    $controller = new \App\Controllers\AuthController();
-    $controller->login();
-});
-
-$router->add('/auth/login', function () {
+$router->add('/nbpt-admin/authentification', function () {
     
     $controller = new \App\Controllers\AuthController;
     $controller->login();
+});
+
+$router->add('/nbpt-admin/auth/login', function () {
+    
+    $controller = new \App\Controllers\AuthController;
+    $controller->loginForm();
 });
 
 $router->add('/nbpt-admin', function () {
@@ -919,7 +1065,7 @@ $router->add('/{lang}/guide', function ($params) {
 
     
     $controller = new \App\Controllers\HomeController();
-    $controller->guide($lang);
+    $controller->savoir($lang);
 });
 
 

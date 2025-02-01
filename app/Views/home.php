@@ -183,15 +183,41 @@ h5 {
 }
 
 .one {
-	
+	width: 100%;
 	font-weight: bold;
 }
 .one a {
 	color: black;
 	word-spacing: normal;
 }
+.one p {
+	word-spacing: normal;
+}
 
+#pack  a{
+	color:#333!important;
+	font-weight: bold;
+}
 
+.listing {
+	font-size: small!important;
+	text-transform: lowercase!important;
+}
+
+#discover  a{
+ background: #8bc34a;
+color: #fff;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+-ms-border-radius: 4px;
+ border-radius: 4px;
+padding: 3px  5px!important;
+}
+
+#discover  a:hover {
+background: #8bc34a;
+color: #fff; 
+}
 
 </style>
 
@@ -237,7 +263,7 @@ h5 {
 				</div>
 					<div class="media-body p-2 mt-2">
 						<h3 class="heading mb-3"><?= $translations['guide'] ?></h3>
-						<p>
+						<p class="text-white">
 							<?= $translations['38'] ?>
 						</p>
 					</div>
@@ -253,13 +279,12 @@ h5 {
 					background-color: black; 
 			">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-hotel" style="color:#fff;"></span></div></div>
-              <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3"><?= $translations['excursion'] ?></h3>
-                <p>
-					<?= $translations['35'] ?>
-				</p>
-				
-              </div>
+              	<div class="media-body p-2 mt-2">
+					<h3 class="heading mb-3"><?= $translations['excursion'] ?></h3>
+					<p class="text-white">
+						<?= $translations['35'] ?>
+					</p>
+              	</div>
 			  <a href="/<?= $lang ?>/excursions" class="btn-savoir"><?= $translations['read'] ?></a>
             </div>    
           </div>
@@ -274,7 +299,7 @@ h5 {
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-meeting-point" style="color:#fff;"></span></div></div>
               	<div class="media-body p-2 mt-2">
 					<h3 class="heading mb-3"><?= $translations['circuit-2'] ?></h3>
-					<p>
+					<p class="text-white">
 						<?= $translations['36'] ?>
 					</p>
               	</div>
@@ -292,7 +317,7 @@ h5 {
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-support" style="color:#fff;"></span></div></div>
               <div class="media-body p-2 mt-2">
                 <h3 class="heading mb-3"><?= $translations['service'] ?></h3>
-                <p>
+                <p class="text-white">
 					<?= $translations['37'] ?>
 				</p>
 				
@@ -324,15 +349,14 @@ h5 {
     				<div class="destination-slider owl-carousel ftco-animate">
 						<div class="item">
 		    				<div class="destination">
-		    					<a href="/<?= $lang ?>/green" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/pack/20.avif');">
+		    					<a href="/<?= $lang ?>/north-mada" class="img d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/pack/20.avif');">
 		    						<div class="icon d-flex justify-content-center align-items-center">
 		    							<span class="icon-search2"></span>
 		    						</div>
 		    					</a>
-		    					<div class="text p-3">
-		    						<h3><a href="/<?= $lang ?>/green">North Mada</a></h3>
+		    					<div class="text p-3" id="pack">
+		    						<a href="/<?= $lang ?>/north-mada">North Mada</a>
 		    						<span class="listing" id="pack">12 jours - 11 Nuits</span>
-									
 		    					</div>
 		    				</div>
 	    				</div>
@@ -343,8 +367,8 @@ h5 {
 		    							<span class="icon-search2"></span>
 		    						</div>
 		    					</a>
-		    					<div class="text p-3">
-		    						<h3><a href="/<?= $lang ?>/green">Green</a></h3>
+		    					<div class="text p-3" id="pack">
+		    						<a href="/<?= $lang ?>/green">Green</a>
 		    						<span class="listing" id="pack">6 jours - 5 Nuits</span>
 		    					</div>
 		    				</div>
@@ -356,8 +380,8 @@ h5 {
 		    							<span class="icon-search2"></span>
 		    						</div>
 		    					</a>
-		    					<div class="text p-3">
-		    						<h3><a href="/<?= $lang ?>/blue-tour">Blue tour</a></h3>
+		    					<div class="text p-3" id="pack">
+		    						<a href="/<?= $lang ?>/blue-tour">Blue tour</a>
 		    						<span class="listing" id="pack">5 jours - 4 Nuits</span>
 		    					</div>
 		    				</div>
@@ -369,8 +393,8 @@ h5 {
 		    							<span class="icon-search2"></span>
 		    						</div>
 		    					</a>
-		    					<div class="text p-3">
-		    						<h3><a href="/<?= $lang ?>/nature-pack"><?= $translations['key1'] ?></a></h3>
+		    					<div class="text p-3" id="pack">
+		    						<a href="/<?= $lang ?>/nature-pack"><?= $translations['key1'] ?></a>
 		    						<span class="listing" id="pack"><?= $translations['key2'] ?></span>
 		    					</div>
 		    				</div>
@@ -382,8 +406,8 @@ h5 {
 		    							<span class="icon-search2"></span>
 		    						</div>
 		    					</a>
-		    					<div class="text p-3">
-		    						<h3><a href="/<?= $lang ?>/tourisme-vert"><?= $translations['key3'] ?></a></h3>
+		    					<div class="text p-3" id="pack">
+		    						<a href="/<?= $lang ?>/tourisme-vert"><?= $translations['key3'] ?></a>
 		    						<span class="listing" id="pack"><?= $translations['key4'] ?></span>
 		    					</div>
 		    				</div>
@@ -395,8 +419,8 @@ h5 {
 		    							<span class="icon-search2"></span>
 		    						</div>
 		    					</a>
-		    					<div class="text p-3">
-		    						<h3><a href="/<?= $lang ?>/decouverte"><?= $translations['key5'] ?></a></h3>
+		    					<div class="text p-3" id="pack">
+		    						<a href="/<?= $lang ?>/decouverte"><?= $translations['key5'] ?></a>
 		    						<span class="listing" id="pack"><?= $translations['key6'] ?></span>
 		    					</div>
 		    				</div>
@@ -408,8 +432,8 @@ h5 {
 		    							<span class="icon-search2"></span>
 		    						</div>
 		    					</a>
-		    					<div class="text p-3">
-		    						<h3><a href="/<?= $lang ?>/circuit/tour-fosa"><?= $translations['key7'] ?></a></h3>
+		    					<div class="text p-3" id="pack">
+		    						<a href="/<?= $lang ?>/circuit/tour-fosa"><?= $translations['key7'] ?></a>
 		    						<span class="listing" id="pack"><?= $translations['key8'] ?></span>
 		    					</div>
 								
@@ -451,12 +475,11 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<p><b><a href="/<?= $lang ?>/excursions/peche-au-gros"><?= $translations['key10'] ?></a></b></p>
+											<a href="/<?= $lang ?>/excursions/peche-au-gros"><?= $translations['key10'] ?></a>
 										</div>
 									</div>
 									<p>
 										<?= $translations['key11'] ?>
-										
 									</p>
 									<p class="days"><span><?= $translations['key12'] ?></span></p>
 									<hr>
@@ -476,7 +499,7 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<p><b><a href="/<?= $lang ?>/excursions/croisiere-en-catamaran"><?= $translations['key13'] ?></a></b></p>
+											<a href="/<?= $lang ?>/excursions/croisiere-en-catamaran"><?= $translations['key13'] ?></a>
 										</div>
 									</div>
 									<p><?= $translations['key14'] ?></p>
@@ -498,7 +521,7 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<p><b><a href="/<?= $lang ?>/services#voyage-de-noce"><?= $translations['key16'] ?></a></b></p>
+											<a href="/<?= $lang ?>/services#voyage-de-noce"><?= $translations['key16'] ?></a>
 										</div>
 									</div>
 									<p>
@@ -522,7 +545,7 @@ h5 {
 								<div class="text p-3">
 									<div class="d-flex">
 										<div class="one">
-											<p><b><a href="/<?= $lang ?>/voyage-incentive"><?= $translations['key19'] ?> <span><?= $translations['key20'] ?></span> </a></b></p>
+											<a href="/<?= $lang ?>/voyage-incentive"><?= $translations['key19'] ?> <span><?= $translations['key20'] ?></span></a>
 											
 										</div>
 										
@@ -532,35 +555,13 @@ h5 {
 									</p>
 									<p class="days"><span style="visibility:hidden;"><?= $translations['key19'] ?>  <?= $translations['key20'] ?></span></p>
 									<hr>
-									<p class="bottom-area d-flex">
+									<p class="bottom-area d-flex" id="discover">
 										<span class="ml-auto"><a href="/<?= $lang ?>/voyage-incentive"><?= $translations['decouvrir'] ?></a></span>
 									</p>
 								</div>
     						</div>
 	    				</div>
-						<div class="item">
-							<div class="destination">
-								<a href="/<?= $lang ?>/sejour-plage-vierge" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url('/assets/images/plage.jpg');">
-									<div class="icon d-flex justify-content-center align-items-center">
-										<span class="icon-search2"></span>
-									</div>
-								</a>
-								<div class="text p-3">
-									<div class="d-flex">
-										<div class="one">
-											<p><b><a href="/<?= $lang ?>/sejour-plage-vierge"><?= $translations['key22'] ?></a></b></p>
-										</div>
-										
-									</div>
-									<p><?= $translations['key23'] ?></p>
-									<p class="days"><span><?= $translations['key24'] ?></span></p>
-									<hr>
-									<p class="bottom-area d-flex">
-										<span class="ml-auto"><a href="/<?= $lang ?>/sejour-plage-vierge"><?= $translations['decouvrir'] ?></a></span>
-									</p>
-								</div>
-    						</div>
-	    				</div> 
+						
     				</div>
     			</div>
     		</div>
@@ -583,26 +584,14 @@ h5 {
     		<div class="row">
     			<div class="col-md-12">
     				<div class="destination-slider owl-carousel ftco-animate">
-                        <div class="item">
-							<div class="destination">
-                                <div class="gallery-item" style="background-image: url('/assets/images/tour1.jpg')">
-                                    <div class="overlay">
-                                        <h2 class="mb-2"><?= $translations['key27'] ?></h2>
-                                        <p>
-                                            <?= $translations['key28']; ?>
-                                        </p>
-                                        <a href="/<?= $lang ?>/week-end-a-nosy-iranja" class="btn"><?= $translations['decouvrir']; ?></a>
-                                    </div>
-                                </div>
-							</div>
-	    				</div>
+                        
 
                         <div class="item">
 							<div class="destination">
                                 <div class="gallery-item" style="background-image: url('/assets/images/tour2.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2"><?= $translations['key29'] ?></h2>
-                                        <p>
+                                        <p class="text-white">
                                             <?= $translations['key30'] ?>
                                         </p>
                                         <a href="/<?= $lang ?>/tour-de-l-ile-en-helicot" class="btn"><?= $translations['decouvrir'] ?></a>
@@ -616,7 +605,7 @@ h5 {
                                 <div class="gallery-item" style="background-image: url('/assets/images/home/kit_surf.jpg')">
                                     <div class="overlay">
                                         <h2 class="mb-2"><?= $translations['key31'] ?></h2>
-                                        <p>
+                                        <p class="text-white">
                                         <?=$translations['key32']?>
                                         </p>
                                         <a href="/<?= $lang ?>/kite-surf-a-diego-suarez" class="btn"><?=$translations['decouvrir']?></a>
@@ -629,11 +618,25 @@ h5 {
                                 <div class="gallery-item" style="background-image: url('/assets/images/pack/rn-7.webp')">
                                     <div class="overlay">
                                         <h2 class="mb-2">Circuit RN7</h2>
-                                        <p>
+                                        <p class="text-white">
                                         	Explorez Madagascar avec le Circuit RN7 : Un voyage au cœur du Sud ! 
 											Plongez dans une aventure inoubliable à travers la célèbre Route Nationale 7. 
                                         </p>
-                                        <a href="/<?= $lang ?>/kite-surf-a-diego-suarez" class="btn"><?=$translations['decouvrir']?></a>
+                                        <a href="/<?= $lang ?>/circuit-sud" class="btn"><?=$translations['decouvrir']?></a>
+                                    </div>
+                                </div>
+							</div>
+	    				</div>
+						<div class="item">
+							<div class="destination">
+                                <div class="gallery-item" style="background-image: url('/assets/images/pack/m-1.webp')">
+                                    <div class="overlay">
+                                        <h2 class="mb-2">Évasion à Morondava </h2>
+                                        <p class="text-white">
+										Évasion à Morondava : Là où la nature raconte ses secrets ! 
+										Partez à la découverte de Morondava, terre d'aventure et de magie. 
+										</p>
+                                        <a href="/<?= $lang ?>/morondava" class="btn"><?=$translations['decouvrir']?></a>
                                     </div>
                                 </div>
 							</div>
@@ -642,12 +645,12 @@ h5 {
 							<div class="destination">
                                 <div class="gallery-item" style="background-image: url('/assets/images/pack/m-2.webp')">
                                     <div class="overlay">
-                                        <h2 class="mb-2">Évasion à Morondava </h2>
-                                        <p>
+                                        <h2 class="mb-2">Évasion à Morondava : long séjour </h2>
+                                        <p class="text-white">
 										Évasion à Morondava : Là où la nature raconte ses secrets ! 
 										Partez à la découverte de Morondava, terre d'aventure et de magie. 
 										</p>
-                                        <a href="/<?= $lang ?>/kite-surf-a-diego-suarez" class="btn"><?=$translations['decouvrir']?></a>
+                                        <a href="/<?= $lang ?>/morondava-long" class="btn"><?=$translations['decouvrir']?></a>
                                     </div>
                                 </div>
 							</div>

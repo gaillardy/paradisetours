@@ -7,9 +7,18 @@ use App\Core\View;
 
 class AuthController
 {
+    public function loginForm(){
+        $title = "Se connecter";
+
+        $flashMessages = FlashController::getFlashMessages();
+
+        View::render('login',[
+            'title' => $title,
+            'flashMessages' => $flashMessages
+        ]);
+    }
     public function login()
     {
-        $title = "Se connecter";
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $email = $_POST['email'] ?? '';
             $password = $_POST['password'] ?? '';
@@ -31,31 +40,16 @@ class AuthController
                 header('Location: /nbpt-admin/dashboard');
                 exit;
             } else {
-                $error = 'Mot de passe ou email incorrect';
-                View::render('login', ['error' => $error]);
-                return;
+                FlashController::addFlashMessage('error','Email ou mot de passe incorrect');
+                header("Location: /nbpt-admin/auth/login");
             }
+        }else {
+            FlashController::addFlashMessage('error','Une erreur est survenue');
+            header("Location: /fr/home");
         }
 
-        View::render('login',[
-            'title' => $title,
-        ]);
+        
     }
 
-    public function register()
-    {
-        if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-            $data = [
-                'username' => $_POST['username'] ?? '',
-                'email' => $_POST['email'] ?? '',
-                'password' => password_hash($_POST['password'] ?? '', PASSWORD_BCRYPT),
-            ];
-
-            Admin::create($data);
-            header('Location: /auth/login?registered=true');
-            exit;
-        }
-
-        View::render('auth/register');
-    }
+    
 }

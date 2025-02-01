@@ -93,11 +93,9 @@
             <h2>JOUR 5 : NOSY BE</h2>
             <b>SE DÉTENDRE</b>
             <p>
-                
                 Détendez-vous à l'hôtel.
                 Les clients sont libres de choisir une excursion ou du shopping qui sera en supplément.
                 Dîner et nuit à l’Hôtel à Nosy Be.
-
             </p>
             
 

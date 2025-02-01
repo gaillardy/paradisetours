@@ -39,25 +39,128 @@ class AdminController
         ]);
     }
 
-    public function analytique()
-    {
-        // Vérifie si l'administrateur est connecté
-        $this->checkAuthentication();
+    public function sendCodeReset() {
 
-        // Obtenir la route actuelle
-        $currentRoute = $_SERVER['REQUEST_URI'];
-        $title = 'Analytique';
 
-        View::render('analytique', [
-            'currentRoute' => $currentRoute,
-            'title'        => $title,
+        $flashMessages = FlashController::getFlashMessages();
+        View::render('email_for_reset',[
+            'flashMessages' =>$flashMessages,
         ]);
     }
 
+    /**
+     * Page pour entrer le code de reset pss
+     * @return void
+     */
+    public function set_code() {
 
-    
+
+        $flashMessages = FlashController::getFlashMessages();
+        View::render('set_code',[
+            'flashMessages' =>$flashMessages,
+        ]);
+    }
+
+    /**
+     * Page pour entrer le nouveau mdp
+     * @return void
+     */
+    public function reset_password() {
 
 
+        $flashMessages = FlashController::getFlashMessages();
+        View::render('reset_pass',[
+            'flashMessages' => $flashMessages,
+        ]);
+    }
+
+    public function changePassword(){
+
+        if (!empty($_POST['password']) && !empty($_POST['passwordConfirm']) ) {
+            $pass    = $_POST['password'];
+            $confirm = $_POST['passwordConfirm'];
+
+            if ($pass === $confirm) {
+                if (Admin::updatePassword($pass,$_SESSION['id'])) {
+                    Admin::updateCode(null,$_SESSION['id']);
+                    FlashController::addFlashMessage('success','Les mots de passes ont été modifiés avec succès, vous pouvez vous connecter');
+                    header("Location:/nbpt-admin/auth/login");
+                }
+            }else{
+                FlashController::addFlashMessage('error','Les mots de passes ne corresponde pas');
+                header("Location:/nbpt-admin/reset-password");
+            }
+        }else {
+            FlashController::addFlashMessage('error','Les champs obligatoires');
+            header("Location:/nbpt-admin/reset-password");
+        }
+    }
+
+    /**
+     * Vérification du code reset
+     * @return void
+     */
+    public function checking_code(){
+        if(!empty($_POST['code'])){
+            if(preg_match('/^[0-9]{4}/',$_POST['code'])){
+                $user = Admin::getByCode($_POST['code']);
+
+                $user = Admin::getByCode($_POST['code']);
+                if($user){
+                    $_SESSION['id'] = $user['id'];
+                    header("Location:/nbpt-admin/reset-password");
+                }else{
+                    FlashController::addFlashMessage('error','Ce code c\'est pas valide');
+                    header("Location:/nbpt-admin/set-code");
+                }
+            }else{
+                FlashController::addFlashMessage('error','Ce code c\'est pas valide');
+                header("Location:/nbpt-admin/set-code");
+            }
+        }else{
+            FlashController::addFlashMessage('error','Le champs est obligatoire');
+            header("Location:/nbpt-admin/set-code");
+        }
+    }
+
+    /**
+     * Envoi du code de réinitialisation par email
+     * @return void
+     */
+    public function ActionSendCodeReset() {
+        
+        if(!empty($_POST['email'])){
+            $email = $_POST['email'];
+            $code = [
+                random_int(0,9),
+                random_int(0,9),
+                random_int(0,9),
+                random_int(0,9),
+            ];
+
+            $code = join('', $code);
+            $message = "
+                Nous sommes désolé pour cette maivaise éxpérience. \n\n
+                Voici votre code pour réinitialiser votre mot de passe: <b>$code</b>
+            ";
+
+            if (Admin::getByEmail($email)) {
+                Admin::setCode($email,$code);
+
+                mail($email,'',$message,'');
+                header("Location:/nbpt-admin/set-code");
+            }else{
+                FlashController::addFlashMessage('error',"Aucun utilisateur trouvé avec cet email");
+                header("Location:/nbpt-admin/send-code");
+            }
+        }else {
+            FlashController::addFlashMessage('error',"Un email valide est requis");
+            header("Location:/nbpt-admin/code-reset");
+        }
+
+    }
+
+   
     public function actionCreateUser(){
         // Vérifie si l'administrateur est connecté
         $this->checkAuthentication();
@@ -542,7 +645,7 @@ class AdminController
     public function logout()
     {
         session_destroy();
-        header('Location: /auth/login');
+        header('Location: /nbpt-admin/auth/login');
         exit;
     }
 
@@ -556,7 +659,7 @@ class AdminController
     private function checkAuthentication()
     {
         if (empty($_SESSION['admin_id'])) {
-            header('Location: /auth/login');
+            header('Location: /nbpt-admin/auth/login');
             exit;
         }
     }

@@ -1,6 +1,6 @@
 <?php include 'templates/header.php'; ?>
 <style>
-    .flash-message {
+.flash-message {
   position: absolute;
   top: 10px;
   left: 50%;

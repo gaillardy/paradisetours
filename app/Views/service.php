@@ -201,55 +201,44 @@
       <div class="col-md-12" >
         <h3 class="text-center">Réception Croisières</h3>
         <p class="text-justify">
-        Par la qualité de ses infrastructures portuaires pouvant accueillir jusqu’à 2 
-        bateaux de croisières et de l’accueil chaleureux des ses habitants , 
-        Nosy Be est le 1er port de débarquement et 
-        d’escale de bateau de croisière à Madagascar avec ses 1 200 passagers croisiéristes.
-        Tout au long de l’année, 
-        les plus grandes compagnies de croisières 
-        proposent une large palette de voyages pour tous les goûts et pour tous les budgets :
-         festive, familiale, conviviale, curieuse, d’une durée de 14 jours.
-        N’oubliez pas une escale pour visiter Nosy Be et ses environs en 
-        tant que 1ère escale du bateau de croisière à Madagascar!Logistiques Disponible:
+          &nbsp;Une compagnie de croisière est une compagnie maritime spécialiste des croisières, soit une entreprise touristique proposant des voyages récréatifs à bord de navires de croisière. Par la qualité de ses infrastructures portuaires pouvant accueillir jusqu’à 2 bateaux de croisières et de l’accueil chaleureux de ses habitants, Nosy Be est le 1er port de débarquement et d’escale de bateau de croisière à Madagascar avec ses         1 200 passagers croisiéristes. Chaque saison de croisière voit plusieurs navires faire escale le long des côtes malgaches, renforçant ainsi la position de Madagascar en tant qu’étape incontournable des circuits touristiques. Le navire de croisière a réalisé une nouvelle escale à Antsiranana. Le bateau, offrant aux touristes une occasion unique de découvrir les trésors de cette destination de Nosy Be et le  Nord de Madagascar.
+          Parmi les moments forts de cette visite, l’exploration de la Montagne d’Ambre s’est imposée comme un incontournable. Située à 38 km de Diego-Suarez, cette destination offres une immersion dans la riche biodiversité de la réserve naturelle, tout en admirant des panoramas époustouflants en altitude. N’oubliez pas une escale pour visiter Nosy Be et ses environs en tant que 1ère escale du bateau de croisière à Madagascar! 
+          Nous pouvons vous proposer différents type de logistiques.
+
         </p>
       </div>
     </div>
 
-    <!-- Table 1: Service Details (5 columns) -->
+    <!-- Table 1: Service Details (3 columns) -->
     <div class="table-responsive">
       <table class="table table-hover table-bordered">
-        <caption class="text-center">Détails des Services</caption>
+        <caption class="text-center">En catamaran ou vedette rapide</caption>
         <thead class="table-dark">
           <tr>
-            <th scope="col">Service</th>
-            <th scope="col">Description</th>
-            <th scope="col">Durée</th>
-            <th scope="col">Tarif</th>
-            <th scope="col">Disponibilité</th>
+            <th scope="col">TYPE</th>
+            <th scope="col">NOMBRE  DE PLACES</th>
+            <th scope="col">ETAT</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Transfert Premium</td>
-            <td>Transport de luxe pour un voyage confortable.</td>
-            <td>2-3 heures</td>
-            <td>€200</td>
-            <td>Disponible toute l'année</td>
+            <td>Catamaran à voile et moteur</td>
+            <td>12 places</td>
+            <td>neuf</td>
           </tr>
+
           <tr>
-            <td>Service Traiteur</td>
-            <td>Repas gastronomiques adaptés à vos événements.</td>
-            <td>1-2 heures</td>
-            <td>€150</td>
-            <td>Disponible sur demande</td>
+            <td>Coque rapide à moteur</td>
+            <td>20 places</td>
+            <td>neuf</td>
           </tr>
+
           <tr>
-            <td>Réception Croisières</td>
-            <td>Réception sur bateau de luxe.</td>
-            <td>3-4 heures</td>
-            <td>€500</td>
-            <td>Disponible saisonnièrement</td>
+            <td>Catamaran rapide à moteur</td>
+            <td>50 places</td>
+            <td>neuf</td>
           </tr>
+          
         </tbody>
       </table>
     </div>
@@ -257,27 +246,44 @@
     <!-- Table 2: Service Packages (4 columns) -->
     <div class="table-responsive mt-4">
       <table class="table table-hover table-bordered">
-        <caption class="text-center">Nos Forfaits</caption>
+        <caption class="text-center">Autre moyens de transports </caption>
         <thead class="table-dark">
           <tr>
-            <th scope="col">Forfait</th>
-            <th scope="col">Services Inclus</th>
-            <th scope="col">Tarif</th>
-            <th scope="col">Durée</th>
+            <th scope="col">TYPE</th>
+            <th scope="col">NOMBRE  DE PLACES</th>
+            <th scope="col">ETAT</th>
           </tr>
         </thead>
-        <tbody>
+        <tr>
           <tr>
-            <td>Forfait Standard</td>
-            <td>Transfert standard + Service Traiteur</td>
-            <td>€150</td>
-            <td>4 heures</td>
+            <td>Grand bus</td>
+            <td>20 places</td>
+            <td>neuf</td>
           </tr>
           <tr>
-            <td>Forfait Premium</td>
-            <td>Transfert Premium + Service Traiteur + Réception Croisière</td>
-            <td>€700</td>
-            <td>6 heures</td>
+            <td>Mini bus (Starex)</td>
+            <td>9 places</td>
+            <td>neuf</td>
+          </tr>
+          <tr>
+            <td>4WD</td>
+            <td>4 places</td>
+            <td>bon état</td>
+          </tr>
+          <tr>
+            <td>4WD wagon</td>
+            <td>3 places</td>
+            <td>bon état</td>
+          </tr>
+          <tr>
+            <td>Tuk Tuk</td>
+            <td>2 places</td>
+            <td>neuf</td>
+          </tr>
+          <tr>
+            <td>Quad</td>
+            <td>2 places</td>
+            <td>bon état</td>
           </tr>
         </tbody>
       </table>
@@ -286,7 +292,10 @@
 
   <!-- Culture and Events Section -->
   <section id="culture-events" class="container py-5" data-aos="fade-up">
-    <h2 class="text-center mb-4">Culture et Événements</h2>
+    <h2 class="text-center mb-4">Événements</h2>
+    <p class="text-justify mb-4">
+      Nosy Be Paradise Tours, est aussi un organisateur  d’événements, prépare et coordonne des événements variés comme le mariage, baptême, fête de remise de diplôme et service traiteur aussi. Peut gérer l'événement du début à la fin, en fonction des besoins et de la demande du client. Les services que Nosy Be Paradise Tours varie selon budget donc nous acceptons tous type de clientèle et le  déplacement est possible partout à Madagascar.
+    </p>
     <div class="row">
       <!-- Event Block 1 -->
       <div class="col-md-6 mb-4" data-aos="fade-up">
@@ -364,6 +373,15 @@
           <p class="text-justify">La culture Tsangan-Tsaina est un aspect fondamental de la vie locale, mélangeant musique, arts et traditions ancestrales.</p>
         </div>
       </div>
+      <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="400">
+        <div class="event-block shadow-lg rounded overflow-hidden">
+          <h4>BAPTEME</h4>
+          <img src="/assets/images/services/15.jpg" alt="Culture Tsangan-Tsaina" class="img-fluid mb-3">
+          <p class="text-justify">
+          Le baptême est un évènement qui nécessite d'être préparé en amont afin de pouvoir l'organiser dans sa globalité et ainsi éviter tout problème le jour J. Il est souvent conseillé de préparer cette fête près de 3 mois en avance ! Si vous décidez de baptiser un bébé vous pouvez déjà réfléchir à son baptême dès sa naissance !
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -377,7 +395,7 @@
         <div class="event-block shadow-lg rounded overflow-hidden">
           
           <img src="/assets/images/services/s-1.jpg" alt="Festival Donia" class="img-fluid mb-3">
-          <br class="text-justify">
+          <p class="text-justify">
             Pour fêter ce qu’il y a de plus beau sur terre, l’AMOUR.
             Vous rêvez d’un mariage dans un cadre exceptionnel, hors du commun ou d’une lune de miel sur une île paradisiaque?
 
@@ -413,13 +431,7 @@
       <div class="col-md-12" >
         <h3 class="text-center">Service traiteur</h3>
         <p class="text-justify">
-          Anniversaire, Naissance, Séminaire ou autres occasions spéciales, 
-          il y a rien de mieux que voir ses invités se régaler sans avoir à le faire soi-même.
-
-          Quand il s’agit d’assurer un repas, les recettes de plats traditionnels n’ont pas leur pareil.
-
-          Nosy Be Paradise Tours met en avant la qualité de l’art culinaire malgache. 
-          Mais aussi la cuisine européenne et autre à la demande de la clientèle.
+          Le service traiteur est un terme technique qui désigne la fourniture de repas et de boissons à un groupe de personnes dans un lieu quelconque .Le service traiteur fait partie du segment catering et s'occupe généralement d'événements éphémères et festifs. En tant que traiteur, Nosy Be Paradise Tours  accorde en outre une grande importance à l'effet produit sur les invités. Nos services soutiennent et concrétisent les objectifs fixés par le client et visent à créer des souvenirs chaleureux que les invités garderont longtemps après l’événement.
         </p>
       </div>
     </div>

@@ -226,6 +226,17 @@ class Admin
         return $stmt->execute([$password,$id]);
     }
 
+    public static function updateCode($code,$id): bool
+    {
+        $db = Database::getInstance();
+        $query = "UPDATE admins SET 
+         reset_pass = ?
+        WHERE id = ?";
+        $stmt = $db->prepare($query);
+
+        return $stmt->execute([$code,$id]);
+    }
+
     public static function updateViewEmail($view,$id): bool
     {
         $db = Database::getInstance();
@@ -282,6 +293,58 @@ class Admin
         $stmt->execute();
 
         return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
+    }
+
+    /**
+     * Récupère un administrateur par son email.
+     *
+     * @param int $email
+     * @return array|null
+     */
+    public static function getByEmail(string $email): ?array
+    {
+        $db = Database::getInstance();
+        $query = "SELECT * FROM admins WHERE email = :email";
+        $stmt = $db->prepare($query);
+        $stmt->bindParam(':email', $email);
+        $stmt->execute();
+
+        return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
+    }
+
+
+    /**
+     * Récupère un administrateur par son email.
+     *
+     * @param int $code
+     * @return array|null
+     */
+    public static function getByCode(int $code): ?array
+    {
+        $db = Database::getInstance();
+        $query = "SELECT * FROM admins WHERE reset_pass = :code";
+        $stmt = $db->prepare($query);
+        $stmt->bindParam(':code', $code);
+        $stmt->execute();
+
+        return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
+    }
+
+    /**
+     * Summary of setCode : ajoute le code de réinitialisation du compte
+     * @param string $email
+     * @param string $code
+     */
+    public static function setCode(string $email,string $code){
+        $db = Database::getInstance();
+        $query = "UPDATE admins SET reset_pass = :code WHERE email = :email";
+        $stmt = $db->prepare($query);
+        $stmt->bindParam(':email', $email);
+        $stmt->bindParam(':code', $code);
+        $stmt->execute();
+
+        return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
+
     }
 
     /**

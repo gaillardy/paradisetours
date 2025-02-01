@@ -1,7 +1,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">  
 <link rel="icon" href="/assets/images/favicon.png">
 <link rel="stylesheet" href="/assets/styles/login.css">
-<title>Se connecter - NBPT Admin</title>
+<title>Demande de réinitialisation - NBPT Admin</title>
 <style>
     .back-link {
         display: flex;
@@ -54,8 +54,8 @@
         
         <div class="login-box">
             <h3 class="login-title">Administration</h3>
-            <p class="login-subtitle"></p>
-            <form action="/nbpt-admin/authentification" method="POST" id="loginForm">
+            <p class="login-subtitle">Entrer l'email de votre compte NBPT Admin</p>
+            <form action="/nbpt-admin/send-code-reset" method="POST" id="loginForm">
                 <div class="form-group">
                     <div class="input-wrapper">
                         <i class="icon fas fa-envelope"></i>
@@ -63,23 +63,9 @@
                     </div>
                     <div id="emailError" class="text-danger mt-2" style="display: none;">Please enter a valid email address.</div>
                 </div>
-                <div class="form-group">
-                    <div class="input-wrapper">
-                        <i class="icon fas fa-lock"></i>
-                        <input type="password" class="form-control" id="password" name="password" placeholder="Mot de passe" required>
-                    </div>
-                    <div id="passwordError" class="text-danger mt-2" style="display: none;">Password is required.</div>
-                </div>
-                <div class="d-flex justify-content-between align-items-center mb-4 remember-section">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="rememberMe" name="remember">
-                        <label class="form-check-label" for="rememberMe">Remember me</label>
-                    </div>
-                    <a href="/nbpt-admin/send-code" class="forgot-password">Mot de passe oublié ?</a>
-                </div>
-                <button type="submit" class="btn btn-primary btn-full-width">Log In</button>
+                <button type="submit" class="btn btn-primary btn-full-width">Envoyer</button>
             </form>
-            <a href="/fr/home" class="back-link"><i class="fa fa-arrow-left"></i>Retour</a>
+            <a href="/auth/login" class="back-link"><i class="fa fa-arrow-left"></i>Annuller</a>
         </div>
         <div class="image-section">
             <img src="/assets/images/cover/login.jpg" alt="Login">

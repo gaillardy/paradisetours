@@ -4196,6 +4196,7 @@ input[type="button"].btn-block {
   display: -ms-flexbox;
   display: flex;
   background:black;
+  color:#fff!important;
   
   -webkit-box-align: start;
   -ms-flex-align: start;
@@ -4205,7 +4206,7 @@ input[type="button"].btn-block {
   -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  color:#fff;
+  color:#fff!important;
     
 }
 
@@ -7902,8 +7903,8 @@ h1, h2, h3, h4, h5,
           .destination .text .bottom-area span:last-child {
             margin-left: 5px; } }
         .destination .text .bottom-area span:last-child a {
-          background: #8bc34a;
-          color: #fff;
+          background: #8bc34a!important;
+          color: #fff!important;
           -webkit-border-radius: 4px;
           -moz-border-radius: 4px;
           -ms-border-radius: 4px;
@@ -9225,7 +9226,7 @@ textarea.form-control {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animate: 0.2s;
+    animation: 0.2s;
     background: #f85959;
     border-radius: 1px;
     -webkit-box-shadow: none;
@@ -9248,7 +9249,7 @@ textarea.form-control {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animate: 0.2s;
+    animation: 0.2s;
     background: #f85959;
     border-radius: 1px;
     box-shadow: none;
@@ -9267,7 +9268,7 @@ textarea.form-control {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animate: 0.2s;
+    animation: 0.2s;
     background: transparent;
     border-color: transparent;
     color: transparent; }

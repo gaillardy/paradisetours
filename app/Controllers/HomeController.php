@@ -27,6 +27,174 @@ class HomeController
         ]);
     }
 
+    public function savoir($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Chose à savoir';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
+
+        $metaDescription = "évation à Morondava, là où la nature raconte ses secrets!";
+        $metaKeywords = "Morondava, Madagascar";
+
+        View::render('savoir', [
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+        ]);
+    }
+
+    public function nosybe($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Nosy be';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
+
+        $metaDescription = "évation à Morondava, là où la nature raconte ses secrets!";
+        $metaKeywords = "Morondava, Madagascar";
+
+        View::render('nosybe', [
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+        ]);
+    }
+
+    public function madagascar($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'madagascar';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
+
+        $metaDescription = "évation à Morondava, là où la nature raconte ses secrets!";
+        $metaKeywords = "Morondava, Madagascar";
+
+        View::render('madagascar', [
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+        ]);
+    }
+
+    public function morondava_long($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'morondava';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
+
+        $metaDescription = "évation à Morondava, là où la nature raconte ses secrets!";
+        $metaKeywords = "Morondava, Madagascar";
+
+        View::render('morondava_long', [
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+        ]);
+    }
+
+    public function morondava($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'morondava';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
+
+        $metaDescription = "évation à Morondava, là où la nature raconte ses secrets!";
+        $metaKeywords = "Morondava, Madagascar";
+
+        View::render('morondava', [
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+        ]);
+    }
+
+    public function sud($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Circuit RN7';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
+
+        $metaDescription = "Explorer Madagascar avec le Circuit RN7, un voyage au coeur du sud.";
+        $metaKeywords = "Sud Madagascar";
+
+        View::render('sud', [
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+        ]);
+    }
+
+    public function nord($lang)
+    {
+        $translations = Language::getTranslations($lang);
+
+        $title = 'Nosy Iranja';
+
+        // Obtenir la route actuelle
+        $currentRoute = $_SERVER['REQUEST_URI'];
+        $flashMessages = FlashController::getFlashMessages();
+
+        $metaDescription = "Visite : Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)";
+        $metaKeywords = "North Madagascar";
+
+        View::render('nord', [
+            'flashMessages' => $flashMessages,
+            'title'         => $title,
+            'lang'          => $lang,
+            'translations'  => $translations,
+            'currentRoute'  => $currentRoute,
+            'metaDescription' => $metaDescription,
+            'metaKeywords'    => $metaKeywords,
+        ]);
+    }
+
     public function w_iranja($lang)
     {
         $translations = Language::getTranslations($lang);
