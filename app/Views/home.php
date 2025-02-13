@@ -355,8 +355,8 @@ color: #fff;
 		    						</div>
 		    					</a>
 		    					<div class="text p-3" id="pack">
-		    						<a href="/<?= $lang ?>/north-mada">North Mada</a>
-		    						<span class="listing" id="pack">12 jours - 11 Nuits</span>
+		    						<a href="/<?= $lang ?>/north-mada"><?= $translations['55'] ?></a>
+		    						<span class="listing" id="pack">12 <?= $translations['jour'] ?> - 11 <?= $translations['nuit'] ?></span>
 		    					</div>
 		    				</div>
 	    				</div>
@@ -369,7 +369,7 @@ color: #fff;
 		    					</a>
 		    					<div class="text p-3" id="pack">
 		    						<a href="/<?= $lang ?>/green">Green</a>
-		    						<span class="listing" id="pack">6 jours - 5 Nuits</span>
+		    						<span class="listing" id="pack">6 <?= $translations['jour'] ?> - 5 <?= $translations['nuit'] ?></span>
 		    					</div>
 		    				</div>
 	    				</div>
@@ -382,7 +382,7 @@ color: #fff;
 		    					</a>
 		    					<div class="text p-3" id="pack">
 		    						<a href="/<?= $lang ?>/blue-tour">Blue tour</a>
-		    						<span class="listing" id="pack">5 jours - 4 Nuits</span>
+		    						<span class="listing" id="pack">5 <?= $translations['jour'] ?> - 4 <?= $translations['nuit'] ?></span>
 		    					</div>
 		    				</div>
 	    				</div>
@@ -617,10 +617,9 @@ color: #fff;
 							<div class="destination">
                                 <div class="gallery-item" style="background-image: url('/assets/images/pack/rn-7.webp')">
                                     <div class="overlay">
-                                        <h2 class="mb-2">Circuit RN7</h2>
+                                        <h2 class="mb-2"><?=$translations['56']?></h2>
                                         <p class="text-white">
-                                        	Explorez Madagascar avec le Circuit RN7 : Un voyage au cœur du Sud ! 
-											Plongez dans une aventure inoubliable à travers la célèbre Route Nationale 7. 
+                                        	<?= $translations['57'] ?>
                                         </p>
                                         <a href="/<?= $lang ?>/circuit-sud" class="btn"><?=$translations['decouvrir']?></a>
                                     </div>
@@ -631,10 +630,9 @@ color: #fff;
 							<div class="destination">
                                 <div class="gallery-item" style="background-image: url('/assets/images/pack/m-1.webp')">
                                     <div class="overlay">
-                                        <h2 class="mb-2">Évasion à Morondava </h2>
+                                        <h2 class="mb-2"><?= $translations['58'] ?></h2>
                                         <p class="text-white">
-										Évasion à Morondava : Là où la nature raconte ses secrets ! 
-										Partez à la découverte de Morondava, terre d'aventure et de magie. 
+											<?= $translations['59'] ?>
 										</p>
                                         <a href="/<?= $lang ?>/morondava" class="btn"><?=$translations['decouvrir']?></a>
                                     </div>
@@ -645,10 +643,9 @@ color: #fff;
 							<div class="destination">
                                 <div class="gallery-item" style="background-image: url('/assets/images/pack/m-2.webp')">
                                     <div class="overlay">
-                                        <h2 class="mb-2">Évasion à Morondava : long séjour </h2>
+                                        <h2 class="mb-2"><?= $translations['60'] ?></h2>
                                         <p class="text-white">
-										Évasion à Morondava : Là où la nature raconte ses secrets ! 
-										Partez à la découverte de Morondava, terre d'aventure et de magie. 
+										<?= $translations['59'] ?>
 										</p>
                                         <a href="/<?= $lang ?>/morondava-long" class="btn"><?=$translations['decouvrir']?></a>
                                     </div>
@@ -661,9 +658,7 @@ color: #fff;
     	</div>
 	</section>
 
-
-	
-
+	<!-- À propos  -->
 	<section class="ftco-section ftco-counter img" id="section-counter" 
 		style="background-image: url('/assets/images/bg_1.jpg');background-attachment: fixed;">
     	<div class="container">
