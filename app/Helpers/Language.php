@@ -7,6 +7,186 @@ class Language
     private static $translations = [
         'en' => [
             'english'   => 'English',
+            '105'        => "Departure from the hotel at 08:00, direction IRANJA ISLAND, from Ambatoloaka beach by speed boat, the journey lasts 1h15.
+                        Once arrived on IRANJA island, you will be greeted with a breathtaking landscape. A total immersion in nature will enhance your day. To start the day, 2 magnificent islets await you, connected by a 2 km long stretch of white sand. A white and immaculate beach is available to you for all your moments of relaxation, where you can sunbathe, swim and take a short walk to discover some varieties of ferns, all on a turquoise blue sea.
+                        At 00:30, a nice lunch consisting of seafood, dishes prepared with coconut and seasonal fruits will be served in the shade of the coconut trees.
+                        Around 16:00, return to the hotel.",
+            '106'        => "<h2>DAY 3: NOSY BE</h2>
+                <h5>NOSY KOMBA AND TANIKELY</h5>
+                <p>
+                (Lemur Island and Marine Park)
+                Nosy Komba is a volcanic island opposite Nosy Be. The village of Nosy Komba is decorated with its embroidery and wooden craft market. Nosy Komba is the sanctuary of macaco lemurs, Boa constrictor snakes, chameleons and various turtles.
+                Nosy Tanikely is located in the northern part of Madagascar; it is an amazing marine reserve with a white beach and a crystal clear sea surrounded by a coral reef. Tanikely is an exceptional destination for snorkeling and diving. At the top of this peak of the island, a lighthouse built in 1908 offers an exceptional panoramic view of Nosy-Be, NOSY-KOMBA and Madagascar.
+
+                <br>Visits: Nosy Komba or the lemur island, Nosy Tanikely or the Tanikely reserve.
+                Duration: one day <br>
+                Departure: Hell-ville port, Nosy Be
+
+                </p>
+
+                <h2>Description of the tours</h2>
+                <p>
+                Number of people: clients, guide, skipper, cook <br>
+                Type of boat: speed boat, 22 life jackets available
+                Lunch: picnic on the beach
+                Departure from Ambatoloaka beach at 8:30 a.m., direction Nosy Komba for a short 20-minute speed boat ride. On the program, visit the craft village with its embroidery and wood craft market. After that, visit the mini park in which you will appreciate the endemic species of the island such as the famous macaco lemurs, Boa constrictor snakes, chameleons and various land turtles. Then, from Nosy Komba direction Nosy Tanikely for a 15-minute drive. Tanikely is an amazing marine reserve with a white sand beach and a crystal clear sea surrounded by a coral reef. You can see lemurs, chameleons and bats in its forest. In addition, the marine reserve park is also full of diverse marine life such as sea turtles, starfish and clownfish. It is an ideal destination for lovers of swimming, sunbathing, relaxing and especially snorkeling.
+                Finally, at noon, typical and hearty dishes will be served with a fascinating view of the ocean. Return around 3:30 p.m.
+
+                </p>",
+            '107'        => "<h5>Included services:</h5>
+<p>
+Speedboat transfer, picnic lunch with seafood, mineral water and entrance to the parks
+
+</p>
+<h5> Services not included:</h5>
+<p>Drinks, Personal supplement, Dinner and overnight stay in a hotel in Nosy be</p>
+
+<h2>DAY 4: NOSY BE</h2>
+<b>RELAX</b>
+<p>
+Relax at the hotel.
+Guests are free to choose an excursion or shopping which will be at an additional cost.
+Dinner and overnight stay at the Hotel in Nosy Be.
+</p>
+
+<h2>DAY 5: DEPARTURE DAY</h2>
+<p>
+Transfer by spacious car from your hotel to Fascene International Airport with one of our staff accompanying you for check-in.
+
+<br>
+ GOOD FLIGHT
+ VELOMA, MISAOTRA…
+
+ </p>",
+            '108'        => "<div class='col-sm-6'>
+<div class='service-list' style='width: 100%;'>
+<h3>Included Services</h3>
+<ul>
+<li>Transfer from the hotel to the port: arrival and departure</li>
+<li>Accommodation: Typical Bungalow in Mahamasina – Hotel in Diego Suarez and Nosy Be</li>
+<li>Spacious and air-conditioned car</li>
+<li>Half-board (Lunches and breakfasts)</li>
+<li>Daily mineral water</li>
+<li>Guide</li>
+<li>Local guide</li>
+<li>Entrance fee</li>
+</ul>
+
+</div>
+</div>
+
+<div class='col-sm-6'>
+<div class='service-list'>
+<h3>Non-Included Services</h3>
+<ul>
+<li>Dinners</li>
+<li>Drinks</li>
+<li>Personal Extras</li>
+</ul>
+</div>
+</div>",
+            '109'        => "<h2>DAY 1: ARRIVAL IN NOSY BE</h2>
+<h2>DAY 2:</h2>
+<h4>OPTION 1: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h4>
+<p>Highlights: Marine reserve: snorkeling and scuba diving – Mini park – private island</p>
+
+<h4>OPTION 2: LOKOBE NATURE RESERVE</h4>
+<p>
+Highlights: Fishing village, cultural visit, traditional pirogue, nature reserve, meeting with the population
+</p>
+
+<h2>DAY 3:</h2>
+<h4>OPTION 1: TOUR OF THE ISLAND OF NOSY BE</h4>
+<p>
+Highlights: History and culture of Nosy Be, meeting with the population, cultural visit, folk entertainment, beach, distillery, sunset
+</p>
+
+<h4>OPTION 2: NOSY IRANJA</h4>
+<p>
+Highlights: landscape: sugar loaf, Antsoha, Ankazoberavina, white sand, lighthouse, meeting with the population,
+</p>
+
+<h2>DAY 4:</h2>
+<h4>OPTION 1: FREE DAY</h4>
+<h4>OPTION 2: NOSY SAKATIA</h4>
+<p>
+Highlights: Fishing village, cultural visit, snorkeling, meeting with the population
+</p>
+
+<h2>DAY 5: DEPARTURE DAY</h2>",
+            '110'        => "<div class='col-sm-6'>
+<div class='service-list' style='width: 100%;'>
+<h3>Included Services</h3>
+<ul>
+<li>Transfer from the airport to the hotel: arrival and departure</li>
+<li>Accommodation: Hotel in Nosy Be</li>
+<li>Spacious and air-conditioned vehicle</li>
+<li>All breakfasts</li>
+<li>Lunches during excursion days</li>
+<li>Dinner during excursion days</li>
+<li>Mineral water every day</li>
+<li>Guide</li>
+<li>Entrance fee to the sites</li>
+</ul>
+
+</div>
+</div>
+
+<div class='col-sm-6'>
+<div class='service-list'>
+<h3>Non-Included Services Included</h3>
+<ul>
+<li>Lunch: Day 4 if the client stays at the hotel</li>
+<li>Dinner: Day 4 if the client stays at the hotel</li>
+<li>Drinks</li>
+<li>Personal extras</li>
+</ul>
+</div>
+</div>",
+            '111'        => "<h3>Mini Necessary List</h3>
+<ul>
+<li>Personal Necessities</li>
+<li>Clothing suitable for warm weather, made of wool or polyester</li>
+<li>Medicine</li>
+<li>Backpack for cabin and travel cover</li>
+<li>Light or flashlight</li>
+<li>Trekking boots and pants</li>
+<li>Sandals or relaxing shoes</li>
+<li>Sunglasses</li>
+<li>Sunscreen</li>
+<li>Mosquito repellent spray</li>
+<li>Sun hat or hood</li>
+</ul>",
+            '112'        => "Download PDF",
+            '113'        => "Call Now",
+            '114'        => "",
+            '115'        => "",
+            '116'        => "",
+            '117'        => "",
+            '118'        => "",
+            '119'        => "",
+            '120'        => "",
+            '121'        => "",
+            '122'        => "",
+            '123'        => "",
+            '124'        => "",
+            '125'        => "",
+            '126'        => "",
+            '127'        => "",
+            '128'        => "",
+            '129'        => "",
+            '130'        => "",
+            '131'        => "",
+            '132'        => "",
+            '133'        => "",
+            '134'        => "",
+            '135'        => "",
+            '136'        => "",
+            '137'        => "",
+            '138'        => "",
+            '139'        => "",
+            '140'        => "",
+            '141'        => "",
             'jout'      => 'DAY',
             'inclus'    => 'Services Included',
             'non_inclus'=> 'Services Not Included',
@@ -81,8 +261,17 @@ class Language
                             <li>Dinner: Day 4 if guest stays at the hotel</li>
                             <li>Drinks</li>
                             <li>Extra staff</li>",
-            '103'        => "",
-            '104'        => "",
+            '103'        => "Images",
+            '104'        => "<h2>DAY 1: ARRIVAL IN NOSY BE</h2>
+                        <p>
+                        Welcome to the airport.
+                        Departure and transfer to the clients' hotel in a spacious air-conditioned car with a guide.
+                        Arrival at the hotel. Rest and relax.
+                        Dinner and overnight at the hotel in Nosy Be.
+                        </p>
+
+                        <h2>DAY 2: NOSY BE</h2>
+                        <h5>IRANIA</h5>",
             '57'        => "Explore Madagascar with the RN7 Tour: A journey to the heart of the South! Dive into an unforgettable adventure along the famous Route Nationale 7. ",
             '58'        => "Escape to Morondava",
             '59'        => "Escape to Morondava: where nature tells its secrets! Discover Morondava, a land of adventure and magic.",
@@ -184,6 +373,188 @@ class Language
 
         'fr' => [
             'français'  =>'fr',
+            '105'        => "Départ de l'hôtel à 08h00, direction IRANJA ISLAND, depuis la plage d'Ambatoloaka en speed boat, le trajet dure 1h15.
+                Une fois arrivé sur l'île IRANJA, vous serez accueilli avec un paysage à couper le souffle. Une immersion totale dans la nature embellira votre journée. Pour commencer la journée, 2 magnifiques îlots vous attendent, reliés par une étendue de sable blanc de 2 km de long. Une plage blanche et immaculée s'offre à vous pour tous vos moments de détente, où vous pourrez faire bronzette, baignade et petite promenade à la découverte de quelques variétés de fougères, le tout sur une mer bleu turquoise.
+                A 00h30, un joli déjeuner composé de fruits de mer, de plats préparés à base de noix de coco et de fruits de saison vous sera servi à l'ombre des cocotiers.
+                Vers 16h00, retour à l'hôtel.",
+            '106'        => "<h2>JOUR 3: NOSY BE</h2>
+            <h5>NOSY KOMBA  ET TANIKELY</h5>
+            <p>
+                (Île aux Lémuriens et Parc Marin)
+                Nosy Komba est une île volcanique face à Nosy Be. Le village de Nosy Komba est agrémenté de son marché de broderies et d'artisanat en bois. Nosy Komba est le sanctuaire des lémuriens macacos, des serpents Boa constrictor, des caméléons et diverses tortues.
+                Nosy Tanikely est située dans la partie nord de Madagascar ; c'est une réserve marine étonnante avec une plage blanche et une mer cristalline entourée d'un récif de corail. Tanikely est une destination exceptionnelle pour le snorkeling et la plongée. Au sommet de ce sommet de l'île, un phare construit en 1908 offre une vue panoramique exceptionnelle sur Nosy-Be, NOSY-KOMBA et Madagascar.
+                
+                <br>Visites : Nosy Komba ou l'île aux lémuriens, Nosy Tanikely ou la Réserve Tanikely.
+                Durée : Une journée <br>
+                Départ : Port de Hell-ville Nosy Be
+
+            </p>
+            
+            
+            <h2>Description des circuits</h2>
+            <p>
+                Nombre de personnes : Clients, Guide, Skipper, Cuisinier <br>
+                Type de bateau : Bateau rapide, 22 gilets de sauvetage disponibles
+                Déjeuner : Pique-nique sur la plage
+                Départ de la plage d'Ambatoloaka à 08h30, direction Nosy Komba pour une petite balade en speed boat de 20 minutes. Au programme, visite du village artisanal avec son marché de broderie et d'artisanat du bois. Après cela, visite du mini parc dans lequel vous apprécierez les espèces endémiques de l'île comme les célèbres lémuriens macaco, les serpents Boa constrictor, les caméléons et diverses tortues terrestres. Ensuite, de Nosy Komba direction Nosy Tanikely pour un trajet de 15 minutes. Tanikely est une étonnante réserve marine avec une plage de sable blanc et une mer cristalline entourée d'un récif de corail. On peut apercevoir dans sa forêt des lémuriens, des caméléons et des chauves-souris. De plus, le parc de la réserve marine regorge également d'une vie marine diversifiée telle que des tortues de mer, des étoiles de mer et des poissons-clowns. C'est une destination idéale pour les amateurs de baignade, de bronzage, de farniente et notamment de snorkeling.
+                Enfin à midi, des plats typiques et copieux vous seront servis avec une vue fascinante sur l'océan. Retour vers 15h30.
+
+            </p>",
+            '107'        => "<h5>Prestations incluses :</h5>
+            <p>
+                Transfert en hors-bord, déjeuner pique-nique avec fruits de mer, eau minérale et entrée aux parcs
+                
+            </p>
+            <h5> Prestations non incluses : </h5>
+           <p>Boissons, Supplément personnel, Dîner et nuit dans un hôtel à Nosy be</p> 
+
+
+            <h2>JOUR 4 : NOSY BE</h2>
+            <b>SE DÉTENDRE</b>
+            <p>
+                Détendez-vous à l'hôtel.
+                Les clients sont libres de choisir une excursion ou du shopping qui sera en supplément.
+                Dîner et nuit à l’Hôtel à Nosy Be.
+            </p>
+
+            <h2>JOUR 5 : JOUR DE DÉPART</h2>
+            <p>
+                Transfert en voiture spacieuse de votre hôtel à l'aéroport international de Fascene avec un de nos collaborateurs vous accompagnant pour l'enregistrement.
+                
+                <br>
+                BON VOL
+                VELOMA, MISAOTRA…
+
+            </p>",
+            '108'        => "<div class='col-sm-6'>
+                    <div class='service-list' style='width: 100%;'>
+                        <h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel au port: arrivée et départ</li>
+                            <li>Hébergement: Bungalow Typique à Mahamasina – Hôtel à Diego Suarez et Nosy Be</li>
+                            <li>Spacieux et climatisation de voiture </li>
+                            <li>Demi-pension (Déjeuners et petits-déjeuners)</li>
+                            <li>L'eau minérale au quotidien</li>
+                            <li>guide accompagnateur</li>
+                            <li>guide local</li>
+                            <li>Droit d'entrée</li>
+                        </ul>
+                        
+                    </div>
+                </div>
+
+                <div class='col-sm-6'>
+                    <div class='service-list'>
+                        <h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Dîners</li>
+                            <li>Boissons</li>
+                            <li>Extras personnels</li>
+                        </ul>
+                    </div>
+                </div>",
+            '109'        => "<h2>JOUR 1: ARRIVEE A NOSY BE</h2>
+            <h2>JOUR 2:</h2>
+            <h4>OPTION 1: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h4>
+            <p>Points fort: Reserve marine : snorkeling et plongée sous marine – Mini parc – île privée </p>
+            
+            <h4>OPTION 2: LA RESERVE NATUREL DE LOKOBE</h4>
+            <p>
+            Points fort: Village des pêcheurs, visite culturel, pirogue  traditionnel , reserve naturelle rencontre avec la population
+            </p>
+
+            <h2>JOUR 3:</h2>
+            <h4>OPTION  1 : TOUR DE L’ÏLE DE NOSY BE</h4>
+            <p>
+            Points fort: Histoire et culture de Nosy Be , rencontre avec la population , visite Culturelle , animation folklorique , plage , distillerie , couché du soleil
+            </p>
+            
+            <h4>OPTION 2: NOSY IRANJA</h4>
+            <p>
+            Points fort: paysage : pain de sucre , Antsoha , Ankazoberavina , sable blanc , phare , rencontre avec la population,
+            </p>
+
+            <h2>JOUR 4:</h2>
+            <h4>OPTION 1 : JOURNEE LIBRE</h4>
+            <h4>OPTION 2 : NOSY SAKATIA</h4>
+            <p>
+            Points fort: Village des pêcheurs, visite culturel, snorkeling , rencontre avec la population
+            </p>
+
+            <h2>JOUR 5: JOUR DE DEPART</h2>",
+            '110'        => "<div class='col-sm-6'>
+                    <div class='service-list' style='width: 100%;'>
+                        <h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’aéroport – l’hôtel: arrivée et départ</li>
+                            <li>Hébergement: Hôtel à Nosy Be</li>
+                            <li>Véhicule spacieux et climatisé</li>
+                            <li>Tous les petits déjeuners</li>
+                            <li>Déjeuners pendant les jours d’excursions</li>
+                            <li>Diner pendant les jours d’excursions</li>
+                            <li>Eau minérale de tous les jours</li>
+                            <li>Guide</li>
+                            <li>Droit d’entrée dans les sites</li>
+                        </ul>
+                        
+                    </div>
+                </div>
+
+                <div class='col-sm-6'>
+                    <div class='service-list'>
+                        <h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Déjeuner: jour 4 si le client reste à l’hôtel</li>
+                            <li>Dîner: jour 4 si le client séjourne à l’hôtel</li>
+                            <li>Boissons</li>
+                            <li>Extras personnels</li>
+                        </ul>
+                    </div>
+                </div>",
+            '111'        => "<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle</li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine</li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking</li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon</li>
+                        </ul>",
+            '112'        => "Télécharger le PDF",
+            '113'        => "Appeler Maintenant",
+            '114'        => "Chiama ora",
+            '115'        => "",
+            '116'        => "",
+            '117'        => "",
+            '118'        => "",
+            '119'        => "",
+            '120'        => "",
+            '121'        => "",
+            '122'        => "",
+            '123'        => "",
+            '124'        => "",
+            '125'        => "",
+            '126'        => "",
+            '127'        => "",
+            '128'        => "",
+            '129'        => "",
+            '130'        => "",
+            '131'        => "",
+            '132'        => "",
+            '133'        => "",
+            '134'        => "",
+            '135'        => "",
+            '136'        => "",
+            '137'        => "",
+            '138'        => "",
+            '139'        => "",
+            '140'        => "",
+            '141'        => "",
             'inclus'    => 'Services Inclus',
             'non_inclus'=> 'Services Non Inclus',
             '79'        => "catamaran Mitsio et RADAMA",
@@ -260,8 +631,19 @@ class Language
                             <li>Dîner : 4 jours si le client séjourne à l'hôtel</li>
                             <li>Boissons</li>
                             <li>Personnel supplémentaire</li>",
-            '103'        => "",
-            '104'        => "",
+            '103'        => "Images",
+            '104'        => "<h2>JOUR 1 : ARRIVÉE À NOSY BE</h2>
+            <p>
+                Accueil à l'aéroport. 
+                Départ et transfert à l’hôtel des clients dans une voiture spacieuse climatisée avec un guide.
+                Arrivée à l'hôtel. Reposez-vous et détendez-vous.
+                Dîner et nuit à l’hôtel à Nosy Be.
+            </p>
+
+
+
+            <h2>JOUR 2: NOSY BE</h2>
+            <h5>IRANJA</h5>",
             '57'        => "Explorez Madagascar avec le Circuit RN7 : Un voyage au cœur du Sud ! Plongez dans une aventure inoubliable à travers la célèbre Route Nationale 7. ",
             '58'        => "Évasion à Morondava",
             '59'        => "Évasion à Morondava : Là où la nature raconte ses secrets ! Partez à la découverte de Morondava, terre d'aventure et de magie.",
@@ -366,6 +748,188 @@ class Language
 
         'it' => [
             'italiano'  => 'italiano',
+            '105'        => "Partenza dall'hotel alle 08:00, direzione IRANJA ISLAND, dalla spiaggia di Ambatoloaka in motoscafo, il viaggio dura 1h15.
+                        Una volta arrivati ​​all'isola di IRANJA, sarete accolti da un paesaggio mozzafiato. Un'immersione totale nella natura allieterà la vostra giornata. Per iniziare la giornata vi aspettano 2 magnifici isolotti, collegati da una distesa di sabbia bianca lunga 2 km. Per i vostri momenti di relax vi aspetta una spiaggia bianca e immacolata, dove potrete prendere il sole, nuotare e fare una breve passeggiata alla scoperta di diverse varietà di felci, il tutto su un mare blu turchese.
+                        Alle 00:30 verrà servito un delizioso pranzo a base di frutti di mare, piatti a base di cocco e frutta di stagione all'ombra delle palme da cocco.
+                        Verso le 16:00, rientro in hotel.",
+            '106'        => "<h2>GIORNO 3: NOSY BE</h2>
+                    <h5>NOSY KOMBA E TANIKELY</h5>
+                    <p>
+                    (Isola dei Lemuri e Parco Marino)
+                    Nosy Komba è un'isola vulcanica di fronte a Nosy Be. Il villaggio di Nosy Komba è impreziosito dal suo mercato di ricami e di artigianato in legno. Nosy Komba è il santuario dei lemuri macaco, dei serpenti boa constrictor, dei camaleonti e di varie tartarughe.
+                    Nosy Tanikely si trova nella parte settentrionale del Madagascar; Si tratta di una meravigliosa riserva marina con una spiaggia bianca e un mare cristallino, circondata da una barriera corallina. Tanikely è una destinazione eccezionale per lo snorkeling e le immersioni. Sulla cima di questa vetta dell'isola, un faro costruito nel 1908 offre una vista panoramica eccezionale su Nosy-Be, NOSY-KOMBA e il Madagascar.
+
+                    <br>Visite: Nosy Komba o l'isola dei lemuri, Nosy Tanikely o la riserva di Tanikely.
+                    Durata: Un giorno <br>
+                    Partenza: Porto di Hell-ville Nosy Be
+
+                    </p>
+
+
+                    <h2>Descrizione dei circuiti</h2>
+                    <p>
+                    Numero di persone: Clienti, Guida, Skipper, Cuoco <br>
+                    Tipo di barca: Motoscafo, 22 giubbotti di salvataggio disponibili
+                    Pranzo: Picnic sulla spiaggia
+                    Partenza dalla spiaggia di Ambatoloaka alle 8:30, direzione Nosy Komba per un breve tragitto in motoscafo di 20 minuti. In programma c'è la visita al villaggio artigianale con il suo mercato del ricamo e dell'artigianato del legno. Successivamente, visitate il mini parco in cui potrete ammirare le specie endemiche dell'isola, come i famosi lemuri macaco, i serpenti boa constrictor, i camaleonti e varie tartarughe terrestri. Poi, da Nosy Komba dirigetevi verso Nosy Tanikely per un viaggio di 15 minuti. Tanikely è una meravigliosa riserva marina con una spiaggia di sabbia bianca e un mare cristallino circondato da una barriera corallina. Nella sua foresta si possono osservare lemuri, camaleonti e pipistrelli. Inoltre, il parco della riserva marina è ricco di una fauna marina molto varia, come tartarughe marine, stelle marine e pesci pagliaccio. È una meta ideale per gli amanti del nuoto, della tintarella, del relax e soprattutto dello snorkeling.
+                    Infine, a mezzogiorno, vi saranno serviti piatti tipici e sostanziosi, con una vista affascinante sull'oceano. Rientro verso le 15:30.
+
+                    </p>",
+            '107'        => "<h5>Servizi inclusi:</h5>
+ <p>
+ Trasferimento in motoscafo, pranzo al sacco con frutti di mare, acqua minerale e ingresso ai parchi
+
+ </p>
+ <h5>Servizi non inclusi:</h5>
+ <p>Bevande, Supplemento personale, Cena e pernottamento in hotel a Nosy Be</p>
+
+
+ <h2>GIORNO 4: NOSY BE</h2>
+ <b>RILASSATI</b>
+ <p>
+ Rilassatevi in ​​hotel.
+ Gli ospiti sono liberi di scegliere un'escursione o di fare shopping, il che comporterà un costo aggiuntivo.
+ Cena e pernottamento in Hotel a Nosy Be.
+ </p>
+
+ <h2>GIORNO 5: GIORNO DELLA PARTENZA</h2>
+ <p>
+ Trasferimento in auto spaziosa dal vostro hotel all'aeroporto internazionale di Fascene con un membro del nostro staff che vi accompagnerà per il check-in.
+
+ <br>
+ BUON VOLO
+ VELOMA, MISAOTRA…
+
+ </p>",
+            '108'        => "<div class='col-sm-6'>
+ <div class='elenco-servizi' style='larghezza: 100%;'>
+ <h3>Servizi inclusi</h3>
+ <ul>
+ <li>Trasferimento dall'hotel al porto: arrivo e partenza</li>
+ <li>Sistemazione: Bungalow tipico a Mahamasina – Hotel a Diego Suarez e Nosy Be</li>
+ <li>Auto spaziosa e climatizzata</li>
+ <li>Mezza pensione (pranzi e colazioni)</li>
+ <li>L'acqua minerale nella vita di tutti i giorni</li>
+ <li>guida di accompagnamento</li>
+ <li>guida locale</li>
+ <li>Quota di iscrizione</li>
+ </ul>
+
+ </div>
+ </div>
+
+ <div class='col-sm-6'>
+ <div class='elenco-servizi'>
+ <h3>Servizi non inclusi</h3>
+ <ul>
+ <li>Cene</li>
+ <li>Bevande</li>
+ <li>Extra personali</li>
+ </ul>
+ </div>
+ </div>",
+            '109'        => "<h2>GIORNO 1: ARRIVO A NOSY BE</h2>
+ <h2>GIORNO 2:</h2>
+ <h4>OPZIONE 1: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h4>
+ <p>In evidenza: Riserva marina: snorkeling e immersioni subacquee – Mini parco – isola privata</p>
+
+ <h4>OPZIONE 2: RISERVA NATURALE DI LOKOBE</h4>
+ <p>
+ Punti salienti: Villaggio di pescatori, visita culturale, piroga tradizionale, riserva naturale, incontro con la popolazione
+ </p>
+
+ <h2>GIORNO 3:</h2>
+ <h4>OPZIONE 1: TOUR DELL'ISOLA DI NOSY BE</h4>
+ <p>
+ Punti salienti: Storia e cultura di Nosy Be, incontro con la popolazione, visita culturale, animazione folkloristica, spiaggia, distilleria, tramonto
+ </p>
+
+ <h4>OPZIONE 2: NOSY IRANJA</h4>
+ <p>
+ Punti salienti: paesaggio: Pan di Zucchero, Antsoha, Ankazoberavina, sabbia bianca, faro, incontro con la popolazione,
+ </p>
+
+ <h2>GIORNO 4:</h2>
+ <h4>OPZIONE 1: GIORNO LIBERO</h4>
+ <h4>OPZIONE 2: NOSY SAKATIA</h4>
+ <p>
+ Punti salienti: Villaggio di pescatori, visita culturale, snorkeling, incontro con la popolazione
+ </p>
+
+ <h2>GIORNO 5: GIORNO DELLA PARTENZA</h2>",
+            '110'        => "<div class='col-sm-6'>
+ <div class='elenco-servizi' style='larghezza: 100%;'>
+ <h3>Servizi inclusi</h3>
+ <ul>
+ <li>Trasferimento dall'aeroporto all'hotel: arrivo e partenza</li>
+ <li>Alloggio: Hotel a Nosy Be</li>
+ <li>Veicolo spazioso e climatizzato</li>
+ <li>Tutte le colazioni</li>
+ <li>Pranzi durante le giornate di escursione</li>
+ <li>Cena durante le giornate di escursione</li>
+ <li>Acqua minerale quotidiana</li>
+ <li>Guida</li>
+ <li>Diritto di accesso ai siti</li>
+ </ul>
+
+ </div>
+ </div>
+
+ <div class='col-sm-6'>
+ <div class='elenco-servizi'>
+ <h3>Servizi non inclusi</h3>
+ <ul>
+ <li>Pranzo: giorno 4 se il cliente soggiorna in hotel</li>
+ <li>Cena: Giorno 4 se il cliente soggiorna in hotel</li>
+ <li>Bevande</li>
+ <li>Extra personali</li>
+ </ul>
+ </div>
+ </div>",
+            '111'        => "<h3>Mini elenco necessario</h3>
+ <ul>
+ <li>Necessità di ordine personale</li>
+ <li>Abbigliamento adatto al clima caldo, in lana o poliestere</li>
+ <li>Medicina</li>
+ <li>Zaino da cabina e telo copri-viaggio</li>
+ <li>Luce o torcia elettrica</li>
+ <li>Scarponi e pantaloni da trekking</li>
+ <li>Sandali o scarpe comode</li>
+ <li>Occhiali da sole</li>
+ <li>Protezione solare</li>
+ <li>Spray antizanzare</li>
+ <li>Cappello o cappuccio parasole</li>
+ </ul>",
+            '112'        => "Scarica PDF",
+            '113'        => "Jetzt anrufen",
+            '114'        => "",
+            '115'        => "",
+            '116'        => "",
+            '117'        => "",
+            '118'        => "",
+            '119'        => "",
+            '120'        => "",
+            '121'        => "",
+            '122'        => "",
+            '123'        => "",
+            '124'        => "",
+            '125'        => "",
+            '126'        => "",
+            '127'        => "",
+            '128'        => "",
+            '129'        => "",
+            '130'        => "",
+            '131'        => "",
+            '132'        => "",
+            '133'        => "",
+            '134'        => "",
+            '135'        => "",
+            '136'        => "",
+            '137'        => "",
+            '138'        => "",
+            '139'        => "",
+            '140'        => "",
+            '141'        => "",
             'inclus'    => 'Servizi inclusi',
             'non_inclus'=> 'Servizi non inclusi',
             '79'        => "catamarano Mitsio e RADAMA",
@@ -440,8 +1004,19 @@ class Language
                             <li>Cena: 4 giorni se il cliente soggiorna in hotel</li>
                             <li>Bevande</li>
                             <li>Personale aggiuntivo</li>",
-            '103'        => "",
-            '104'        => "",
+            '103'        => "Immagini",
+            '104'        => "<h2>GIORNO 1: ARRIVO A NOSY BE</h2>
+                        <p>
+                        Benvenuti all'aeroporto.
+                        Partenza e trasferimento all'hotel dei clienti in una spaziosa auto climatizzata con guida.
+                        Arrivo in hotel. Riposati e rilassati.
+                        Cena e pernottamento in hotel a Nosy Be.
+                        </p>
+
+
+
+                        <h2>GIORNO 2: NOSY BE</h2>
+                        <h5>IRANIA</h5>",
             '57'        => "Esplorate il Madagascar con il tour RN7: un viaggio nel cuore del Sud! Immergetevi in un'avventura indimenticabile lungo la famosa Route Nationale 7. ",
             '58'        => "Fuga a Morondava",
             '59'        => "Fuga a Morondava: dove la natura racconta i suoi segreti! Scoprite Morondava, una terra di avventura e magia.",
@@ -539,6 +1114,188 @@ class Language
         'de' => [
             
             'deutch'    => 'de',
+            '105'        => "Abfahrt vom Hotel um 08:00 Uhr in Richtung IRANJA ISLAND, vom Strand Ambatoloaka mit dem Schnellboot, die Fahrt dauert 1 Stunde und 15 Minuten.
+                    Sobald Sie auf der Insel IRANJA ankommen, werden Sie von einer atemberaubenden Landschaft begrüßt. Ein völliges Eintauchen in die Natur wird Ihren Tag erhellen. Zu Beginn des Tages erwarten Sie zwei herrliche kleine Inseln, die durch einen 2 km langen weißen Sandstrand verbunden sind. Für all Ihre Momente der Entspannung erwartet Sie ein weißer und makelloser Strand, an dem Sie am türkisblauen Meer ein Sonnenbad nehmen, schwimmen und bei einem kurzen Spaziergang verschiedene Farnarten entdecken können.
+                    Um 00:30 Uhr wird im Schatten der Kokosnussbäume ein herrliches Mittagessen mit Meeresfrüchten, Kokosnussgerichten und Früchten der Saison serviert.
+                    Gegen 16:00 Uhr Rückkehr zum Hotel.",
+            '106'        => "<h2>TAG 3: NOSY BE</h2>
+                        <h5>NOSY KOMBA UND TANIKELY</h5>
+                        <p>
+                        (Lemur Island und Meerespark)
+                        Nosy Komba ist eine Vulkaninsel gegenüber von Nosy Be. Das Dorf Nosy Komba schmückt sich mit seinem Markt für Stickereien und Holzhandwerk. Nosy Komba ist das Schutzgebiet von Makaken, Boa Constrictor-Schlangen, Chamäleons und verschiedenen Schildkröten.
+                        Nosy Tanikely liegt im nördlichen Teil Madagaskars. Es ist ein erstaunliches Meeresschutzgebiet mit einem weißen Strand und kristallklarem Meer, umgeben von einem Korallenriff. Tanikely ist ein außergewöhnliches Ziel zum Schnorcheln und Tauchen. Auf dem Gipfel dieses Inselgipfels bietet ein 1908 erbauter Leuchtturm einen außergewöhnlichen Panoramablick auf Nosy-Be, NOSY-KOMBA und Madagaskar.
+
+                        <br>Besuche: Nosy Komba oder die Lemureninsel, Nosy Tanikely oder das Tanikely-Reservat.
+                        Dauer: ein Tag <br>
+                        Abfahrt: Hafen von Hell-ville, Nosy Be
+
+                        </p>
+
+
+                        <h2>Beschreibung der Schaltkreise</h2>
+                        <p>
+                        Anzahl Personen: Kunden, Guide, Skipper, Koch <br>
+                        Bootstyp: Schnellboot, 22 Rettungswesten vorhanden
+                        Mittagessen: Picknick am Strand
+                        Abfahrt vom Strand von Ambatoloaka um 8:30 Uhr in Richtung Nosy Komba für eine kurze 20-minütige Fahrt mit dem Schnellboot. Auf dem Programm steht der Besuch des Handwerksdorfes mit seinem Stickerei- und Holzhandwerksmarkt. Besuchen Sie anschließend den Minipark, in dem Sie die endemischen Arten der Insel bewundern können, wie etwa die berühmten Makaken-Lemuren, Boa Constrictor-Schlangen, Chamäleons und verschiedene Landschildkröten. Von Nosy Komba aus fahren Sie dann 15 Minuten in Richtung Nosy Tanikely. Tanikely ist ein erstaunliches Meeresschutzgebiet mit einem weißen Sandstrand und kristallklarem Meer, umgeben von einem Korallenriff. In seinem Wald können Lemuren, Chamäleons und Fledermäuse beobachtet werden. Darüber hinaus wimmelt es im Meeresschutzgebiet von vielfältigen Meereslebewesen wie Meeresschildkröten, Seesternen und Clownfischen. Es ist ein ideales Reiseziel für Liebhaber des Schwimmens, Sonnenbadens, Entspannens und vor allem des Schnorchelns.
+                        Mittags werden Ihnen schließlich typische und herzhafte Gerichte bei einem faszinierenden Blick auf das Meer serviert. Rückkehr gegen 15.30 Uhr.
+
+                        </p>",
+            '107'        => "<h5>Inklusivleistungen:</h5>
+ <p>
+ Schnellboottransfer, Picknick-Mittagessen mit Meeresfrüchten, Mineralwasser und Eintritt in die Parks
+
+ </p>
+ <h5>Nicht enthaltene Leistungen:</h5>
+ <p>Getränke, persönlicher Zuschlag, Abendessen und Übernachtung in einem Hotel in Nosy Be</p>
+
+
+ <h2>TAG 4: NOSY BE</h2>
+ <b>ENTSPANNEN</b>
+ <p>
+ Entspannen Sie sich im Hotel.
+ Den Gästen steht es frei, an einem Ausflug oder Einkaufsbummel teilzunehmen, wofür zusätzliche Kosten anfallen.
+ Abendessen und Übernachtung im Hotel in Nosy Be.
+ </p>
+
+ <h2>TAG 5: ABREISETAG</h2>
+ <p>
+ Transfer im geräumigen Auto von Ihrem Hotel zum internationalen Flughafen Fascene. Einer unserer Mitarbeiter begleitet Sie beim Check-in.
+
+ <br>
+ GUTEN FLUG
+ VELOMA, MISAOTRA …
+
+ </p>",
+            '108'        => "<div class='col-sm-6'>
+ <div class = 'service-list' style = 'Breite: 100 %;'>
+ <h3>Inklusivleistungen</h3>
+ <ul>
+ <li>Transfer vom Hotel zum Hafen: Ankunft und Abreise</li>
+ <li>Unterkunft: Typischer Bungalow in Mahamasina – Hotel in Diego Suarez und Nosy Be</li>
+ <li>Geräumiges und klimatisiertes Auto</li>
+ <li>Halbpension (Mittagessen und Frühstück)</li>
+ <li>Mineralwasser im Alltag</li>
+ <li>Begleitführer</li>
+ <li>lokaler Reiseführer</li>
+ <li>Eintrittsgebühr</li>
+ </ul>
+
+ </div>
+ </div>
+
+ <div class='col-sm-6'>
+ <div class='Dienstliste'>
+ <h3>Nicht inbegriffene Leistungen</h3>
+ <ul>
+ <li>Abendessen</li>
+ <li>Getränke</li>
+ <li>Persönliche Extras</li>
+ </ul>
+ </div>
+ </div>",
+            '109'        => "<h2>TAG 1: ANKUNFT IN NOSY BE</h2>
+ <h2>TAG 2:</h2>
+ <h4>OPTION 1: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h4>
+ <p>Highlights: Meeresschutzgebiet: Schnorcheln und Tauchen – Minipark – Privatinsel</p>
+
+ <h4>OPTION 2: LOKOBE-NATURRESERVAT</h4>
+ <p>
+ Highlights: Fischerdorf, kultureller Besuch, traditionelle Piroge, Naturschutzgebiet, Treffen mit der Bevölkerung
+ </p>
+
+ <h2>TAG 3:</h2>
+ <h4>OPTION 1: RUNDFAHRT ÜBER DIE INSEL NOSY BE</h4>
+ <p>
+ Highlights: Geschichte und Kultur von Nosy Be, Treffen mit der Bevölkerung, kultureller Besuch, Volksunterhaltung, Strand, Brennerei, Sonnenuntergang
+ </p>
+
+ <h4>OPTION 2: NEUGIERIGES IRAN</h4>
+ <p>
+ Highlights: Landschaft: Zuckerhut, Antsoha, Ankazoberavina, weißer Sand, Leuchtturm, Treffen mit der Bevölkerung,
+ </p>
+
+ <h2>TAG 4:</h2>
+ <h4>OPTION 1: FREIER TAG</h4>
+ <h4>OPTION 2: NEUGIERIGE SAKATIA</h4>
+ <p>
+ Highlights: Fischerdorf, kultureller Besuch, Schnorcheln, Treffen mit der Bevölkerung
+ </p>
+
+ <h2>TAG 5: ABREISETAG</h2>",
+            '110'        => "<div class='col-sm-6'>
+ <div class = 'service-list' style = 'width: 100 %;'>
+ <h3>Inklusivleistungen</h3>
+ <ul>
+ <li>Transfer vom Flughafen zum Hotel: An- und Abreise</li>
+ <li>Unterkunft: Hotel in Nosy Be</li>
+ <li>Geräumiges, klimatisiertes Fahrzeug</li>
+ <li>Alle Frühstücke</li>
+ <li>Mittagessen an Ausflugstagen</li>
+ <li>Abendessen an Ausflugstagen</li>
+ <li>Mineralwasser für jeden Tag</li>
+ <li>Anleitung</li>
+ <li>Zutrittsrecht zu den Standorten</li>
+ </ul>
+
+ </div>
+ </div>
+
+ <div class='col-sm-6'>
+ <div class='service-list'>
+ <h3>Nicht inbegriffene Leistungen</h3>
+ <ul>
+ <li>Mittagessen: Tag 4, wenn der Kunde im Hotel übernachtet</li>
+ <li>Abendessen: Tag 4, wenn der Kunde im Hotel übernachtet</li>
+ <li>Getränke</li>
+ <li>Persönliche Extras</li>
+ </ul>
+ </div>
+ </div>",
+            '111'        => "<h3>Mini-Notwendigkeitsliste</h3>
+ <ul>
+ <li>Persönliche Bestellnotwendigkeit</li>
+ <li>Für warmes Wetter geeignete Kleidung aus Wolle oder Polyester</li>
+ <li>Medizin</li>
+ <li>Handgepäck-Rucksack und Reisehülle</li>
+ <li>Licht oder Taschenlampe</li>
+ <li>Trekkingstiefel und -hosen</li>
+ <li>Sandalen oder bequeme Schuhe</li>
+ <li>Sonnenbrille</li>
+ <li>Sonnenschutz</li>
+ <li>Anti-Mückenspray</li>
+ <li>Sonnenhut oder Kapuze</li>
+ </ul>",
+            '112'        => "PDF herunterladen",
+            '113'        => "Jetzt anrufen",
+            '114'        => "",
+            '115'        => "",
+            '116'        => "",
+            '117'        => "",
+            '118'        => "",
+            '119'        => "",
+            '120'        => "",
+            '121'        => "",
+            '122'        => "",
+            '123'        => "",
+            '124'        => "",
+            '125'        => "",
+            '126'        => "",
+            '127'        => "",
+            '128'        => "",
+            '129'        => "",
+            '130'        => "",
+            '131'        => "",
+            '132'        => "",
+            '133'        => "",
+            '134'        => "",
+            '135'        => "",
+            '136'        => "",
+            '137'        => "",
+            '138'        => "",
+            '139'        => "",
+            '140'        => "",
+            '141'        => "",
             'inclus'    => 'Enthaltene Dienstleistungen',
             'non_inclus'=> 'Nicht enthaltene Dienstleistungen',
             '79'        => "Katamaran Mitsio und RADAMA",
@@ -613,8 +1370,19 @@ class Language
                             <li>Abendessen: 4 Tage, wenn der Kunde im Hotel übernachtet</li>
                             <li>Getränke</li>
                             <li>Zusätzliches Personal</li>",
-            '103'        => "",
-            '104'        => "",
+            '103'        => "Bilder",
+            '104'        => "<h2>TAG 1: ANKUNFT IN NOSY BE</h2>
+                        <p>
+                        Willkommen am Flughafen.
+                        Abfahrt und Transfer zum Kundenhotel im geräumigen, klimatisierten Auto mit Reiseleiter.
+                        Ankunft im Hotel. Ausruhen und entspannen.
+                        Abendessen und Übernachtung in einem Hotel in Nosy Be.
+                        </p>
+
+
+
+                        <h2>TAG 2: NOSY BE</h2>
+                        <h5>IRANIEN</h5>",
             '57'        => "Erkunden Sie Madagaskar mit der Rundreise RN7: Eine Reise ins Herz des Südens! Tauchen Sie ein in ein unvergessliches Abenteuer auf der berühmten Route Nationale 7. ",
             '58'        => "Ausbruch in Morondava",
             '59'        => "Ausbruch in Morondava: Wo die Natur ihre Geheimnisse erzählt! Gehen Sie auf Entdeckungsreise in Morondava, einem Land voller Abenteuer und Magie.",
