@@ -230,13 +230,60 @@ Highlights: landscape: sugar loaf, Antsoha, Ankazoberavina, white sand, lighthou
                         <li>Mosquito repellent spray</li>
                         <li>Sun hat or hood</li>
                         </ul>",
-            '120'        => "",
-            '121'        => "",
-            '122'        => "",
-            '123'        => "",
-            '124'        => "",
-            '125'        => "",
-            '126'        => "",
+            '120'        => "About",
+            '121'        => "STATUS",
+            '122'        => "NOSY BE PARADISE TOURS is an individual company
+created in 2004 which operates in the tourism sector and whose main activity
+is the specialized tourist service in particular in
+the organization of excursions not only to Nosy Be and the many
+small islands around but also in the northern part
+of Madagascar up to the mainland side of the Big Island.",
+            '123'        => "Our information",
+            '124'        => "<tr>
+<th>Company name</th>
+<td>NOSY BE PARADISE TOURS</td>
+</tr>
+<tr>
+<th>Legal form</th>
+<td>Sole proprietorship</td>
+</tr>
+<tr>
+<th>Commercial sign</th>
+<td>NOSY BE PARADISE TOURS</td>
+</tr>
+<tr>
+<th>Activity</th>
+<td>Organization of Excursions and Tourist Circuits</td>
+</tr>
+<tr>
+<th>Statistical number</th>
+<td>No.: 79904 71 2014 0 00300 of 07/14/2006</td>
+</tr>
+<tr>
+<th>Tax identification number</th>
+<td>3000 444 434 of 06/24/2011</td>
+</tr>
+<tr>
+<th>RCS</th>
+<td>NB/2008/A/043</td>
+</tr>
+<tr>
+<th>MINTOUR Authorization</th>
+<td>No.: 035-10/MTA/EDBM…of 07/20/2010</td>
+</tr>
+<tr>
+<th>License Category</th>
+<td>License C</td>
+</tr>",
+            '125'        => "Identity of the promoter",
+            '126'        => "The first person in charge is the happy creator and owner, Mr. Narcisse TSIMPA.
+He is a young entrepreneur born in Nosy Be and who currently has 17 years of experience in the field of tourism as an organizer of excursions and tourist circuits. He is a considerable asset.
+in the evolution of the company and it is he who inspires the vision and long-term objective of the company.
+As a young person, he wants to contribute to positive change in his community in Nosy Be. Therefore,
+He participates in this change through his commitment, firstly with the Junior Chamber.
+International as a very active member and secondly by bringing his skills and leadership.
+in tourism development in Nosy Be and as a member at the board level
+of the Regional Tourism Office of Nosy Be.",
             '127'        => "",
             '128'        => "",
             '129'        => "",
@@ -664,13 +711,60 @@ Highlights: landscape: sugar loaf, Antsoha, Ankazoberavina, white sand, lighthou
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon</li>
                         </ul>",
-            '120'        => "",
-            '121'        => "",
-            '122'        => "",
-            '123'        => "",
-            '124'        => "",
-            '125'        => "",
-            '126'        => "",
+            '120'        => "À propos",
+            '121'        => "STATUS",
+            '122'        => "NOSY BE PARADISE TOURS est une entreprise individuelle 
+          créée en 2004 qui opère dans le secteur du tourisme et dont l’activité principale 
+          est la prestation touristique spécialisée notamment dans 
+          l’organisation des excursions non seulement à Nosy Be et aux nombreuses 
+          petites iles autour mais également dans la partie Nord 
+          de Madagascar jusque sur la coté grande terre de la Grande île.",
+            '123'        => "Nos renseignements",
+            '124'        => "<tr>
+                            <th>Raison social</th>
+                            <td>NOSY BE PARADISE TOURS</td>
+                        </tr>
+                        <tr>
+                            <th>Forme juridique</th>
+                            <td>Entreprise individuelle</td>
+                        </tr>
+                        <tr>
+                            <th>Enseigne Commercial</th>
+                            <td>NOSY BE PARADISE TOURS</td>
+                        </tr>
+                        <tr>
+                            <th>Activité</th>
+                            <td>Organisation d’Excursions et Circuits Touristiques</td>
+                        </tr>
+                        <tr>
+                            <th>Numéro Statistique</th>
+                            <td>N° : 79904 71 2014 0 00300 du 14/07/2006</td>
+                        </tr>
+                        <tr>
+                            <th>Numéro d’identification Fiscale</th>
+                            <td>3000 444 434 du 24/06/2011</td>
+                        </tr>
+                        <tr>
+                            <th>RCS</th>
+                            <td>NB/2008/A/043</td>
+                        </tr>
+                        <tr>
+                            <th>Autorisation MINTOUR</th>
+                            <td>N° : 035-10/MTA/EDBM…du 20/07/2010</td>
+                        </tr>
+                        <tr>
+                            <th>Catégorie Licence</th>
+                            <td>Licence C</td>
+                        </tr>",
+            '125'        => "Identité du promoteur",
+            '126'        => "Le premier responsable est l’heureux créateur et propriétaire, monsieur Narcisse TSIMPA. 
+            C’est un jeune entrepreneur natif de Nosy Be et qui a fait actuellement 17 années d’expériences dans le domaine du tourisme en tant qu’organisateur d’excursions et de circuits touristiques. Il constitue un atout considérable. 
+            dans l’évolution de l’entreprise et c’est lui qui inspire la vision et l’objectif à long terme de la société.
+            En tant que jeune, il veut contribuer au changement positif dans sa communauté à Nosy Be. De ce fait, 
+            Il participe à ce changement à travers son engagement, premièrement avec la Jeune Chambre. 
+            International en tant que membre très actif et deuxièmement en apportant sa compétence et son leadership.
+            dans le développement touristique à Nosy Be et en tant que membre au niveau du conseil d’administration 
+            de l’Office régional du tourisme de Nosy Be.",
             '127'        => "",
             '128'        => "",
             '129'        => "",
@@ -1105,13 +1199,60 @@ Highlights: landscape: sugar loaf, Antsoha, Ankazoberavina, white sand, lighthou
  <li>Spray antizanzare</li>
  <li>Cappello o cappuccio parasole</li>
  </ul>",
-            '120'        => "",
-            '121'        => "",
-            '122'        => "",
-            '123'        => "",
-            '124'        => "",
-            '125'        => "",
-            '126'        => "",
+            '120'        => "Di",
+            '121'        => "STATO",
+            '122'        => "NOSY BE PARADISE TOURS è una ditta individuale
+ creata nel 2004 che opera nel settore turistico e la cui attività principale
+ è il servizio turistico specializzato in particolare in
+ l'organizzazione di escursioni non solo a Nosy Be e alle numerose
+ piccole isole intorno ma anche nella parte settentrionale
+ dal Madagascar alla parte continentale della Grande Isola.",
+            '123'        => "Le nostre informazioni",
+            '124'        => "<traduzione>
+ <th>Nome dell'azienda</th>
+ <td>TOUR DEL PARADISO DI NOSY BE</td>
+ </tr>
+ <traduzione>
+ <th>Forma giuridica</th>
+ <td>Impresa individuale</td>
+ </tr>
+ <traduzione>
+ <th>Insegna commerciale</th>
+ <td>TOUR DEL PARADISO DI NOSY BE</td>
+ </tr>
+ <traduzione>
+ <th>Attività</th>
+ <td>Organizzazione di Escursioni e Circuiti Turistici</td>
+ </tr>
+ <traduzione>
+ <th>Numero statistico</th>
+ <td>N.: 79904 71 2014 0 00300 del 14/07/2006</td>
+ </tr>
+ <traduzione>
+ <th>Numero di identificazione fiscale</th>
+ <td>3000 444 434 del 24/06/2011</td>
+ </tr>
+ <traduzione>
+ <th>RCS</th>
+ <td>NB/2008/A/043</td>
+ </tr>
+ <traduzione>
+ <th>Autorizzazione MINTOUR</th>
+ <td>No.: 035-10/MTA/EDBM…datato 20/07/2010</td>
+ </tr>
+ <traduzione>
+ <th>Categoria di licenza</th>
+ <td>Licenza C</td>
+ </tr>",
+            '125'        => "Identità del promotore",
+            '126'        => "Il primo responsabile è il felice creatore e proprietario, il signor Narcisse TSIMPA.
+ È un giovane imprenditore nato a Nosy Be e che attualmente vanta 17 anni di esperienza nel settore del turismo come organizzatore di escursioni e circuiti turistici. Si tratta di una risorsa considerevole.
+ nell'evoluzione dell'azienda ed è lui che ispira la visione e l'obiettivo a lungo termine dell'azienda.
+ Da giovane, desidera contribuire a un cambiamento positivo nella sua comunità a Nosy Be. Per questo motivo,
+ Partecipa a questo cambiamento attraverso il suo impegno, in primo luogo con la Camera Bassa.
+ Internazionale in quanto membro molto attivo e, in secondo luogo, offrendo la propria competenza e leadership.
+ nello sviluppo del turismo a Nosy Be e come membro del consiglio di amministrazione
+ presso l'Ufficio Regionale del Turismo di Nosy Be.",
             '127'        => "",
             '128'        => "",
             '129'        => "",
@@ -1537,13 +1678,60 @@ Highlights: landscape: sugar loaf, Antsoha, Ankazoberavina, white sand, lighthou
  <li>Anti-Mückenspray</li>
  <li>Sonnenhut oder Kapuze</li>
  </ul>",
-            '120'        => "",
-            '121'        => "",
-            '122'        => "",
-            '123'        => "",
-            '124'        => "",
-            '125'        => "",
-            '126'        => "",
+            '120'        => "Um",
+            '121'        => "STATUS",
+            '122'        => "NOSY BE PARADISE TOURS ist ein Einzelunternehmen
+ gegründet im Jahr 2004, die im Tourismussektor tätig ist und deren Haupttätigkeit
+ ist der spezialisierte touristische Service insbesondere in
+ die Organisation von Ausflügen nicht nur nach Nosy Be und zu den vielen
+ kleine Inseln um, aber auch im nördlichen Teil
+ von Madagaskar zum Festland der Big Island.",
+            '123'        => "Unsere Informationen",
+            '124'        => "<tr>
+ <th>Firmenname</th>
+ <td>NOSY BE PARADISE TOURS</td>
+ </tr>
+ <tr>
+ <th>Rechtsform</th>
+ <td>Einzelunternehmen</td>
+ </tr>
+ <tr>
+ <th>Gewerbeschild</th>
+ <td>NOSY BE PARADISE TOURS</td>
+ </tr>
+ <tr>
+ <th>Aktivität</th>
+ <td>Organisation von Ausflügen und Touristenrundreisen</td>
+ </tr>
+ <tr>
+ <th>Statistische Zahl</th>
+ <td>Nr.: 79904 71 2014 0 00300 vom 14.07.2006</td>
+ </tr>
+ <tr>
+ <th>Steueridentifikationsnummer</th>
+ <td>3000 444 434 vom 24.06.2011</td>
+ </tr>
+ <tr>
+ <th>RCS</th>
+ <td>NB/2008/A/043</td>
+ </tr>
+ <tr>
+ <th>MINTOUR-Autorisierung</th>
+ <td>Nr.: 035-10/MTA/EDBM…vom 20.07.2010</td>
+ </tr>
+ <tr>
+ <th>Lizenzkategorie</th>
+ <td>Lizenz C</td>
+ </tr>",
+            '125'        => "Identität des Veranstalters",
+            '126'        => "Die erste verantwortliche Person ist der glückliche Schöpfer und Eigentümer, Herr Narcisse TSIMPA.
+ Er ist ein junger Unternehmer, der auf Nosy Be geboren wurde und derzeit über 17 Jahre Erfahrung im Tourismusbereich als Organisator von Ausflügen und Touristenrundreisen verfügt. Es ist ein erheblicher Vorteil.
+ Er ist an der Entwicklung des Unternehmens beteiligt und ist es, der die Vision und die langfristigen Ziele des Unternehmens inspiriert.
+ Als junger Mensch möchte er zu positiven Veränderungen in seiner Gemeinde in Nosy Be beitragen. Aus diesem Grund
+ An diesem Wandel beteiligt er sich durch sein Engagement zunächst bei den Wirtschaftsjunioren.
+ International als sehr aktives Mitglied und zweitens durch die Bereitstellung seines Fachwissens und seiner Führung.
+ in der Tourismusentwicklung in Nosy Be und als Mitglied auf Vorstandsebene
+ vom regionalen Tourismusbüro Nosy Be.",
             '127'        => "",
             '128'        => "",
             '129'        => "",
