@@ -136,26 +136,22 @@ button:hover {
                 <h2>Modifier le profil de <?= htmlspecialchars($user['username']) ?></h2>
                 <form action="/nbpt-admin/compte/edit/<?= $user['id'] ?>" method="post" id="editForm">
                     <div class="form-group">
-                        <label for="username">Nom d'utilisateur</label>
-                        <input type="text" id="username" name="username" value="<?= htmlspecialchars($user['username']) ?>" required>
+                        <input placeholder="Nom d'utilisateur" type="text" id="username" name="username" value="<?= htmlspecialchars($user['username']) ?>" required>
                         <small class="error-message" id="usernameError"></small>
                     </div>
 
                     <div class="form-group">
-                        <label for="nom">Nom</label>
-                        <input type="text" id="nom" name="nom" value="<?= $user['nom'] ?>" required minlength="2" maxlength="50">
+                        <input placeholder="Nom" type="text" id="nom" name="nom" value="<?= $user['nom'] ?>" required minlength="2" maxlength="50">
                         <small class="error-message" id="nomError"></small>
                     </div>
 
                     <div class="form-group">
-                        <label for="prenom">Prénom</label>
-                        <input type="text" id="prenom" name="prenom" value="<?= $user['prenom'] ?>" required minlength="2" maxlength="50">
+                        <input placeholder="Prénom" type="text" id="prenom" name="prenom" value="<?= $user['prenom'] ?>" required minlength="2" maxlength="50">
                         <small class="error-message" id="prenomError"></small>
                     </div>
 
                     <div class="form-group">
-                        <label for="email">Email</label>
-                        <input type="email" id="email" name="email" value="<?= htmlspecialchars($user['email']) ?>" required>
+                        <input placeholder="Email" type="email" id="email" name="email" value="<?= htmlspecialchars($user['email']) ?>" required>
                         <small class="error-message" id="emailError"></small>
                     </div>
 

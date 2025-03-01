@@ -116,7 +116,7 @@
                     <i class="fa fa-user"></i>
                 </a>
                 <div class="dropdown-menu">
-                    <a href="/nbpt-admin/user" class="dropdown-item">
+                    <a href="/nbpt-admin/user/<?= $_SESSION['admin_id'] ?>" class="dropdown-item">
                         <i class="fa fa-user-circle"></i> Voir profil
                     </a>
                     <a href="/nbpt-admin/logout" onclick="return confirm('Souhaitez-vous vraiment vous déconnecter ?')" class="dropdown-item">

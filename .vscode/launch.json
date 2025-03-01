@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        
+        {
+            "type": "antlr-debug",
+            "request": "launch",
+            "name": "Debug Current Grammar",
+            "input": "input.txt",
+            "visualParseTree": true
+        },
+        {
+            "type": "php",
+            "request": "launch",
+            "name": "Launch PHP Program",
+            "program": "${workspaceFolder}/${input:programPath}",
+            "cwd": "${workspaceFolder}"
+        }
+    ],
+    "inputs": [
+        {
+            "type": "promptString",
+            "id": "programPath",
+            "description": "Path to the PHP program"
+        }
+    ]
+}

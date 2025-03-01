@@ -132,48 +132,46 @@ small.error-message {
                 </div>
             </div>
         </header>
-        <section class="content">
-            <section class="ftco-section" id="guide">
-                <div class="container">
-                    <div class="row justify-content-center align-items-center min-vh-100">
-                        <div class="col-md-8 col-lg-6">
-                            <form id="contactForm" action="/nbpt-admin/send-new-message" method="post">
-                                <h2 class="mb-4 text-center">Rédiger votre message</h2>
+        <center>
+            <section class="content">
+                <section class="ftco-section" id="guide">
+                    <div class="container">
+                        <div class="row justify-content-center align-items-center min-vh-100">
+                            <div class="col-md-8 col-lg-6">
+                                <form id="contactForm" action="/nbpt-admin/send-new-message" method="post">
+                                    <h2 class="mb-4 text-center">Rédiger votre message</h2>
 
-                                <div class="form-group">
-                                    <label for="email">De</label>
-                                    <select name="email" id="email" required>
-                                        <option value="contact@nosybeparadisetours.com">contact@nosybeparadisetours.com</option>
-                                        <option value="direction@nosybeparadisetours.com">direction@nosybeparadisetours.com</option>
-                                    </select>
-                                </div>
+                                    <div class="form-group">
+                                        <select name="email" id="email" required>
+                                            <option value="contact@nosybeparadisetours.com">contact@nosybeparadisetours.com</option>
+                                            <option value="direction@nosybeparadisetours.com">direction@nosybeparadisetours.com</option>
+                                        </select>
+                                    </div>
 
-                                <div class="form-group">
-                                    <label for="dest">À</label>
-                                    <input type="email" name="dest" id="dest" placeholder="Entrez l'email du destinataire" required>
-                                    <small class="error-message" id="emailError"></small>
-                                </div>
+                                    <div class="form-group">
+                                        <input type="email" name="dest" id="dest" placeholder="Entrez l'email du destinataire" required>
+                                        <small class="error-message" id="emailError"></small>
+                                    </div>
 
-                                <div class="form-group">
-                                    <label for="sujet">Sujet</label>
-                                    <input type="text" name="sujet" id="sujet" placeholder="Entrez le sujet" required minlength="3" maxlength="255">
-                                    <small class="error-message" id="sujetError"></small>
-                                </div>
+                                    <div class="form-group">
+                                        <input type="text" name="sujet" id="sujet" placeholder="Objet" required minlength="3" maxlength="255">
+                                        <small class="error-message" id="sujetError"></small>
+                                    </div>
 
-                                <div class="form-group">
-                                    <label for="message">Message</label>
-                                    <textarea name="message" id="message" placeholder="Votre message ici..." required></textarea>
-                                </div>
+                                    <div class="form-group">
+                                        <textarea name="message" id="message" placeholder="Votre message ici..." required></textarea>
+                                    </div>
 
-                                <div class="text-center">
-                                    <button type="submit" class="btn-submit">Envoyer</button>
-                                </div>
-                            </form>
+                                    <div class="text-center">
+                                        <button type="submit" class="btn-submit">Envoyer</button>
+                                    </div>
+                                </form>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </section>
             </section>
-        </section>
+        </center>
     </div>
 </div>
 

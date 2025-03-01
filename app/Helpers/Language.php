@@ -284,8 +284,38 @@ He participates in this change through his commitment, firstly with the Junior C
 International as a very active member and secondly by bringing his skills and leadership.
 in tourism development in Nosy Be and as a member at the board level
 of the Regional Tourism Office of Nosy Be.",
-            '127'        => "",
-            '128'        => "",
+            '127'        => "Amber Mountain",
+            '128'        => "<h2>Specificity of the Park</h2>
+
+<p class='mb-4'>
+Terrestrial National Park and Special Reserve,
+dense humid forest with a very high rate of endemism including thousands of species of precious wood
+(Dalbergia chlorocarpa and Canarium madagascariensis)… which make the Montagne d’Ambre a true melting pot of biological diversity grouped in a small area of ​​relatively easy access.
+
+</p>
+
+<h2>How to get there</h2>
+
+<p>
+Antananarivo – Ambondromamy (410Km) on the RN4, turn right onto the RN6 to Antanamitarana (777Km).
+
+Antanamitarana – Montagne d’Ambre National Park 30km.
+The Montagne d’Ambre National Park is located 37km from Antsiranana.
+Antsiranana – Joffreville: 34 km and Joffreville – Parc: 3 km, secondary road
+</p>
+
+<h2>Geography</h2>
+
+<p>
+
+2,978 mm average annual rainfall.
+An aquatic ecosystem made up of five (05)
+Crater Lakes from which very dense networks of watercourses in the far North area start.
+</p>
+
+<p>
+23,010 Ha including 18,200 Ha for the Montagne d’Ambre National Park and 4,810 Ha for the Forêt d’Ambre Special Reserve.
+</p>",
             '129'        => "",
             '130'        => "",
             '131'        => "",
@@ -765,8 +795,42 @@ of the Regional Tourism Office of Nosy Be.",
             International en tant que membre très actif et deuxièmement en apportant sa compétence et son leadership.
             dans le développement touristique à Nosy Be et en tant que membre au niveau du conseil d’administration 
             de l’Office régional du tourisme de Nosy Be.",
-            '127'        => "",
-            '128'        => "",
+            '127'        => "Montagne d’Ambre",
+            '128'        => "<h2>Spécificité du Parc</h2>
+            
+            <p class='mb-4'>
+                Parc National Terrestre et Réserve Spéciale, 
+                forêt dense humide avec un taux d’endémisme très élevé dont des milliers d’espèces de bois précieux 
+                (Dalbergia chlorocarpa et le Canarium madagascariensis)…qui font de la Montagne 
+                d’Ambre un vrai creuset de diversités biologiques regroupées dans une petite aire d’accès relativement facile.
+            </p>
+
+            
+
+            <h2>Comment s’y rendre</h2>
+
+            <p>
+                Antananarivo – Ambondromamy (410Km) sur la RN4, bifurquer à droite sur la RN6 jusqu’à Antanamitarana (777Km). 
+                Antanamitarana – Parc National de Montagne d’Ambre 30km.
+                Le Parc National Montagne d’Ambre se situe à 37km d’Antsiranana.
+                Antsiranana – Joffreville : 34 km et Joffreville – Parc : 3 km, route secondaire
+            </p>
+
+           
+
+            <h2>Géographie</h2>
+
+            <p>
+                
+                2 978 mm en moyenne annuelle de pluviométrie.
+                Un écosystème aquatique constitué par cinq (05) 
+                Lacs de Cratère d’où partent des réseaux 
+                très denses des cours d’eau dans le domaine de l’extrême Nord.
+            </p>
+
+            <p>
+            23 010 Ha dont 18 200Ha pour le Parc National de la Montagne d’Ambre et 4 810 Ha pour la Réserve Spéciale de la Forêt d’Ambre.
+            </p>",
             '129'        => "",
             '130'        => "",
             '131'        => "",
@@ -1253,8 +1317,42 @@ of the Regional Tourism Office of Nosy Be.",
  Internazionale in quanto membro molto attivo e, in secondo luogo, offrendo la propria competenza e leadership.
  nello sviluppo del turismo a Nosy Be e come membro del consiglio di amministrazione
  presso l'Ufficio Regionale del Turismo di Nosy Be.",
-            '127'        => "",
-            '128'        => "",
+            '127'        => "Montagna d'ambra",
+            '128'        => "<h2>Specificità del Parco</h2>
+
+ <p class='mb-4'>
+ Parco Nazionale Terrestre e Riserva Speciale,
+ foresta umida e densa con un tasso molto elevato di endemismi, comprendente migliaia di specie di legno pregiato
+ (Dalbergia chlorocarpa e Canarium madagascariensis)…che costituiscono la Montagna
+ d’Ambre è un vero e proprio crogiolo di diversità biologica raggruppata in un’area piccola e relativamente facilmente accessibile.
+ </p>
+
+
+
+ <h2>Come arrivare</h2>
+
+ <p>
+ Antananarivo – Ambondromamy (410Km) sulla RN4, svoltare a destra sulla RN6 fino ad Antanamitarana (777Km).
+ Antanamitarana – Parco nazionale della Montagna d'Ambra 30 km.
+ Il Parco Nazionale Montagne d’Ambre si trova a 37 km da Antsiranana.
+ Antsiranana – Joffreville: 34 km e Joffreville – Parc: 3 km, strada secondaria
+ </p>
+
+
+
+ <h2>Geografia</h2>
+
+ <p>
+
+ 2.978 mm di precipitazioni medie annue.
+ Un ecosistema acquatico composto da cinque (05)
+ Laghi craterici da cui partono le reti
+ corsi d'acqua molto densi nella zona più a nord.
+ </p>
+
+ <p>
+ 23.010 ettari di cui 18.200 ettari per il Parco Nazionale della Montagne d’Ambre e 4.810 ettari per la Riserva Speciale della Forêt d’Ambre.
+ </p>",
             '129'        => "",
             '130'        => "",
             '131'        => "",
@@ -1732,8 +1830,42 @@ of the Regional Tourism Office of Nosy Be.",
  International als sehr aktives Mitglied und zweitens durch die Bereitstellung seines Fachwissens und seiner Führung.
  in der Tourismusentwicklung in Nosy Be und als Mitglied auf Vorstandsebene
  vom regionalen Tourismusbüro Nosy Be.",
-            '127'        => "",
-            '128'        => "",
+            '127'        => "Montagne d'Ambre (Bernsteinberg)",
+            '128'        => "<h2>Besonderheiten des Parks</h2>
+
+ <p classe='mb-4'>
+ Nationaler Landpark und Sonderreservat,
+ dichter feuchter Wald mit einem sehr hohen Anteil endemischer Arten, darunter Tausende von Edelholzarten
+ (Dalbergia chlorocarpa und Canarium madagascariensis)…die den Berg
+ d’Ambre ist ein wahrer Schmelztiegel der biologischen Vielfalt, vereint in einem kleinen, relativ leicht zugänglichen Gebiet.
+ </p>
+
+
+
+ <h2>Anfahrt</h2>
+
+ <p>
+ Antananarivo – Ambondromamy (410 km) auf der RN4, rechts abbiegen auf die RN6 bis Antanamitarana (777 km).
+ Antanamitarana – Nationalpark Montagne d’Ambre 30 km.
+ Der Nationalpark Montagne d’Ambre liegt 37 km von Antsiranana entfernt.
+ Antsiranana – Joffreville: 34 km und Joffreville – Parc: 3 km, Nebenstraße
+ </p>
+
+
+
+ <h2>Geographie</h2>
+
+ <p>
+
+ 2.978 mm durchschnittlicher Jahresniederschlag.
+ Ein aquatisches Ökosystem aus fünf (05)
+ Kraterseen, von denen Netzwerke ausgehen
+ sehr dichte Wasserläufe im äußersten Norden.
+ </p>
+
+ <p>
+ 23.010 ha, davon 18.200 ha für den Nationalpark Montagne d’Ambre und 4.810 ha für das Sonderreservat Forêt d’Ambre.
+ </p>",
             '129'        => "",
             '130'        => "",
             '131'        => "",
