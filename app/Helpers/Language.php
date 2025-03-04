@@ -316,8 +316,105 @@ Crater Lakes from which very dense networks of watercourses in the far North are
 <p>
 23,010 Ha including 18,200 Ha for the Montagne d’Ambre National Park and 4,810 Ha for the Forêt d’Ambre Special Reserve.
 </p>",
-            '129'        => "",
-            '130'        => "",
+            '129'        => "Andohahela Park",
+            '130'        => '<h2>Specificity of the Park</h2>
+
+<p class="mb-4">
+Terrestrial National Park classified as a World Heritage Site,
+Andohahela represents the biological diversity of the extreme South-East of Madagascar.
+It is the only protected area in Madagascar with
+a dense humid forest south of the Tropic of Capricorn that is rare worldwide;
+as well as a transitional "formation" between the Eastern and Southern ecoregions. As Andohahela is a considerable water reservoir, it represents great economic potential for the region for the development of ecotourism.
+The following species must be monitored as a priority: Eulemur fulvus collaris,
+ Hapalemur griseus meridionalis, Lemur catta, Propithecus verreauxi verreauxi
+ </p>
+
+
+
+ <h2>The Flores of Andohahela National Park</h2>
+
+ <p>
+ More than a thousand plant species:
+ </p>
+
+ <ul>
+ <li class="mb-3">
+ Five of the 11 species of Didieraceae endemic to southern Madagascar exist in the Andohahela National Park
+ (Decarya madagascariensis, Alluaudia humbertii, Alluaudia procera, Alluaudia dumosa, Alluaudia ascendes).
+ </li>
+<li class="mb-3">
+Local and regional endemic species such as the trihedral palm or Dypsis decaryi and the Hapalemur griseus meridionalis
+</li>
+</ul>
+
+<h2>Faunas of the Andohahela National Park:</h2>
+
+<ul>
+<li>
+207 species and varieties of ferns, more than 90% of which are in the humid forest
+</li>
+<li>12 species of lemur, including 5 in the dry forest,</li>
+<li> 129 species of birds,</li>
+<li> 65 species of reptiles,</li>
+<li>50 species of amphibians, including 4 in the dry forest</li>
+</ul>
+
+<h2>How to get there</h2>
+
+<p>
+National Road No. 7 (towards Tuléar), junction at Ihosy (PK 593) on RN 13, then on Amboasary for Ankazofotsy, Ranomainty for Mangatsiaka, Ankariera for Tsimelahy Manambaro for Malio and RIP 118 for Manangotry.
+Road condition: secondary, passable in all seasons.
+Approximate travel time from Antananarivo: 3 days.
+</p>
+
+<h2>Location of the Park</h2>
+
+<p>
+
+GPS: Between 24º30′ – 25º02′ South latitude and 46º32′ – 46°54′ East longitude.
+The park is located in the extreme South-East of Madagascar,
+40 km North-West of Fort Dauphin and 30 km as the crow flies to the West of the Indian Ocean.
+It is located in the Anosy Region and straddles the two districts of Fort-Dauphin and Amboasary-Sud.
+It is surrounded by the villages of Tsimelahy, Mangatsiaka, Malio, Ihazofotsy and Manangotry
+Area: 76,020 ha
+Region: Anosy
+</p>
+
+<h2>Geography</h2>
+<h4>Hydrography</h4>
+
+<p>
+The Andohahela NP, with its very important hydrographic network,
+constitutes a water tower for the Anosy and Androy region.
+The main rivers and streams of the region have their source there. </p>
+
+<h4>Altitude</h4>
+
+<p>
+120 to 1972 meters
+Hot and humid climate for the eastern slope of the rainforest
+with an annual precipitation of 1500-2000 mm;
+dry climate in the plot of the thorny Bush and finally the climate of the forest
+transition between the extreme climates of the first two plots.
+</p>
+
+<h2>Ideal period for the visit</h2>
+
+<p>
+November to January
+Opening hours: 8 a.m. to 4 p.m.
+</p>
+
+<h2>History</h2>
+<p>
+The Park was created in 1939, under the status of Integral Natural Reserve (RNI nº 11).
+In 1999, the Andohahela National Park was promoted to Laureate of the Best New Ecotourism Projects,
+which made it win the Silver Otter Award, in London.
+</p>
+
+<h2>Population</h2>
+
+<p>Dominantly Antanosy and Antandroy tribes</p>',
             '131'        => "",
             '132'        => "",
             '133'        => "",
@@ -831,8 +928,111 @@ Crater Lakes from which very dense networks of watercourses in the far North are
             <p>
             23 010 Ha dont 18 200Ha pour le Parc National de la Montagne d’Ambre et 4 810 Ha pour la Réserve Spéciale de la Forêt d’Ambre.
             </p>",
-            '129'        => "",
-            '130'        => "",
+            '129'        => "Parc Andohahela",
+            '130'        => '<h2>Spécificité du Parc</h2>
+            
+            
+            <p class="mb-4">
+                Parc National Terrestre classé Site Patrimonial Mondial, 
+                Andohahela représente la diversité biologique de l’extrême Sud-Est de Madagascar.
+                Il est l’unique aire protégée de Madagascar présentant 
+                une forêt dense humide au sud du Tropique du Capricorne qui est rare au niveau mondial ; 
+                ainsi qu’une « formation » de transition entre l’écorégion de l’Est et celle du Sud. Comme Andohahela est un réservoir d’eau considérable, elle représente un grand potentiel économique de la région pour le développement de l’écotourisme.
+                Les espèces suivantes doivent faire l’objet de suivi en priorité :Eulemur fulvus collaris, 
+                Hapalemur griseus meridionalis, Lemur catta, Propithecus verreauxi verreauxi
+            </p>
+
+
+
+            <h2>Les Flores du Parc National d’Andohahela</h2>
+
+            <p>
+                Plus d’un millier d’espèces de plantes:
+            </p>
+
+            <ul>
+                <li class="mb-3">
+                Cinq des 11 espèces de Didieraceae endémiques du sud malgache existent dans le Parc National Andohahela 
+                (Decarya madagascariensis, Alluaudia humbertii, Alluaudia procera, Alluaudia dumosa, Alluaudia ascendes).
+                </li>
+                <li class="mb-3">
+                    Des espèces endémiques locales et régionales telles le palmier trièdre ou Dypsis decaryi et l’Hapalemur griseus meridionalis
+                </li>
+            </ul>
+            
+            
+            <h2>Les Faunes du Parc National d’Andohahela :</h2>
+
+
+            <ul>
+                <li>
+                207 espèces et variétés de fougères dont plus de 90 % en forêt humide
+                </li>
+                <li>12 espèces de lémurien dont 05 en forêt sèche,</li>
+                <li> 129 espèces d’oiseau,</li>
+                <li> 65 espèces de reptile,</li>
+                <li>50 espèces d’amphibiens dont 04 en forêt sèche</li>
+            </ul>
+
+            <h2>Comment s’y rendre</h2>
+
+            <p>
+                Route Nationale N°7 (vers Tuléar), bifurcation à Ihosy (PK 593) sur RN 13, puis sur Amboasary pour Ankazofotsy, Ranomainty pour Mangatsiaka, Ankariera pour Tsimelahy Manambaro pour Malio et le RIP 118 pour Manangotry.
+                Etat de la route : secondaire, praticable en toute saison.
+                Durée approximative du trajet à partir d’Antananarivo : 3 jours.
+            </p>
+
+           
+
+            <h2>Localisation du Parc</h2>
+
+            <p>
+
+                GPS: Entre 24º30′ – 25º02′ de latitude Sud et 46º32′ – 46°54′ de longitude Est.
+                Le parc est localisé dans l’extrême Sud-Est de Madagascar, 
+                à 40 km au Nord-Ouest de Fort Dauphin et à 30 km à vol d’oiseau à l’Ouest de l’Océan Indien. 
+                Il est situé dans la Région Anosy et chevauche les deux districts de Fort-Dauphin et d’Amboasary-Sud.
+                Il est entouré des villages de Tsimelahy, de Mangatsiaka, de Malio, d’Ihazofotsy et de Manangotry
+                Superficie : 76 020 ha
+                Région : Anosy
+            </p>
+
+            <h2>Géographie</h2>
+            <h4>Hydrographie</h4>
+
+            <p>
+                Le PN d’Andohahela, avec son réseau hydrographique très important, 
+                constitue un château d’eau pour la région de l’Anosy et de l’Androy.
+                Les principales rivières et fleuves de la région y prennent source.
+            </p>
+
+            <h4>Altitude</h4>
+
+            <p>
+                120 à 1972 mètres
+                Climat chaud et humide pour le versant Est de la forêt humide 
+                avec une précipitation annuelle de 1500-2000 mm ; 
+                climat sec dans la parcelle du Bush épineux et enfin le climat de la forêt 
+                de transition entre les climats extrêmes des deux premières parcelles.
+            </p>
+
+            <h2>Période idéale pour la visite</h2>
+
+            <p>
+            Novembre à janvier
+            Heures d’ouvertures: 8h à 16h
+            </p>
+
+            <h2>Historique</h2>
+            <p>
+                Le Parc a été créé en 1939, sous le statut de Réserve Naturelle Intégrale (RNI nº 11).
+                En 1999, le Parc National d’Andohahela a été promu Lauréat des Meilleurs Nouveaux Projets Ecotouristiques,
+                qui lui a fait conquérir le Prix du Silver Otter Award, à Londres.
+            </p>
+
+            <h2>Population</h2>
+
+            <p>À dominance tribu Antanosy et Antandroy</p>',
             '131'        => "",
             '132'        => "",
             '133'        => "",
@@ -1353,8 +1553,111 @@ Crater Lakes from which very dense networks of watercourses in the far North are
  <p>
  23.010 ettari di cui 18.200 ettari per il Parco Nazionale della Montagne d’Ambre e 4.810 ettari per la Riserva Speciale della Forêt d’Ambre.
  </p>",
-            '129'        => "",
-            '130'        => "",
+            '129'        => "Parco Andohahela",
+            '130'        => '<h2>Specificità del Parco</h2>
+
+
+ <p class="mb-4">
+ Parco Nazionale Terrestre classificato come Patrimonio dell\'Umanità,
+ Andohahela rappresenta la diversità biologica dell\'estremo sud-est del Madagascar.
+ È l\'unica area protetta del Madagascar con
+ una foresta densa e umida a sud del Tropico del Capricorno, rara in tutto il mondo;
+ nonché una “formazione” di transizione tra le ecoregioni orientali e meridionali. Poiché Andohahela è una notevole riserva idrica, rappresenta un grande potenziale economico per la regione in termini di sviluppo dell\'ecoturismo.
+ Le seguenti specie dovrebbero essere monitorate in via prioritaria: Eulemur fulvus collaris,
+ Lemure griseus meridionalis, Lemure catta, Propithecus verreauxi verreauxi
+ </p>
+
+
+
+ <h2>La flora del Parco Nazionale di Andohahela</h2>
+
+ <p>
+ Più di mille specie di piante:
+ </p>
+
+ <ul>
+ <li class="mb-3">
+ Cinque delle 11 specie di Didieraceae endemiche del Madagascar meridionale sono presenti nel Parco Nazionale di Andohahela
+ (Alluaudia madagascariensis, Alluaudia humbertii, Alluaudia procera, Alluaudia dumosa, Alluaudia ascendes).
+ </li>
+ <li class="mb-3">
+ Specie endemiche locali e regionali come la palma triedrica o Dypsis decaryi e l\'Hapalemur griseus meridionalis
+ </li>
+ </ul>
+
+
+ <h2>Fauna del Parco Nazionale Andohahela:</h2>
+
+
+ <ul>
+ <li>
+ 207 specie e varietà di felci, di cui oltre il 90% si trovano nelle foreste umide
+ </li>
+ <li>12 specie di lemuri di cui 5 nella foresta secca,</li>
+ <li>129 specie di uccelli,</li>
+ <li>65 specie di rettili,</li>
+ <li>50 specie di anfibi di cui 4 nella foresta secca</li>
+ </ul>
+
+ <h2>Come arrivare</h2>
+
+ <p>
+ Strada nazionale n. 7 (direzione Tuléar), bivio a Ihosy (PK 593) sulla RN 13, poi su Amboasary per Ankazofotsy, Ranomainty per Mangatsiaka, Ankariera per Tsimelahy Manambaro per Malio e RIP 118 per Manangotry.
+ Condizioni della strada: secondaria, percorribile in tutte le stagioni.
+ Durata approssimativa del viaggio da Antananarivo: 3 giorni.
+ </p>
+
+
+
+ <h2>Posizione del parco</h2>
+
+ <p>
+
+ GPS: Tra 24º30′ – 25º02′ di latitudine sud e 46º32′ – 46°54′ di longitudine est.
+ Il parco si trova nell\'estremo sud-est del Madagascar,
+ 40 km a nord-ovest di Fort Dauphin e 30 km in linea d\'aria a ovest dell\'Oceano Indiano.
+ Si trova nella regione di Anosy e comprende i due distretti di Fort-Dauphin e Amboasary-Sud.
+ È circondato dai villaggi di Tsimelahy, Mangatsiaka, Malio, Ihazofotsy e Manangotry
+ Superficie: 76.020 ha
+ Regione: Anosy
+ </p>
+
+ <h2>Geografia</h2>
+ <h4>Idrografia</h4>
+
+ <p>
+ Il Parco Nazionale Andohahela, con la sua importantissima rete idrografica,
+ costituisce una torre idrica per la regione di Anosy e Androy.
+ Da qui nascono i principali fiumi e corsi d\'acqua della regione.
+ </p>
+
+ <h4>Altitudine</h4>
+
+ <p>
+ Da 120 a 1972 metri
+ Clima caldo e umido per il versante orientale della foresta pluviale
+ con una precipitazione annua di 1500-2000 mm;
+ clima secco nella macchia spinosa e infine clima forestale
+ transizione tra i climi estremi dei primi due appezzamenti.
+ </p>
+
+ <h2>Momento ideale per visitare</h2>
+
+ <p>
+ Da novembre a gennaio
+ Orari di apertura: dalle 8:00 alle 16:00.
+ </p>
+
+ <h2>Storia</h2>
+ <p>
+ Il Parco fu creato nel 1939, con lo status di Riserva Naturale Integrale (RNI nº 11).
+ Nel 1999, il Parco Nazionale Andohahela è stato promosso a Vincitore dei migliori nuovi progetti di ecoturismo,
+ che gli è valso il Silver Otter Award a Londra.
+ </p>
+
+ <h2>Popolazione</h2>
+
+ <p>Tribù predominantemente Antanosy e Antandroy</p>',
             '131'        => "",
             '132'        => "",
             '133'        => "",
@@ -1866,8 +2169,111 @@ Crater Lakes from which very dense networks of watercourses in the far North are
  <p>
  23.010 ha, davon 18.200 ha für den Nationalpark Montagne d’Ambre und 4.810 ha für das Sonderreservat Forêt d’Ambre.
  </p>",
-            '129'        => "",
-            '130'        => "",
+            '129'        => "Andohahela-Park",
+            '130'        => '<h2>Besonderheiten des Parks</h2>
+
+
+ <p class="mb-4">
+ Nationaler Terrestrischer Park, der zum Weltkulturerbe erklärt wurde,
+ Andohahela repräsentiert die biologische Vielfalt im äußersten Südosten Madagaskars.
+ Es ist das einzige Schutzgebiet in Madagaskar mit
+ ein dichter, feuchter Wald südlich des südlichen Wendekreises, der weltweit selten ist;
+ sowie eine Übergangsformation zwischen den östlichen und südlichen Ökoregionen. Da Andohahela ein bedeutendes Wasserreservoir ist, stellt es für die Entwicklung des Ökotourismus ein großes wirtschaftliches Potenzial der Region dar.
+ Folgende Arten sollten vorrangig überwacht werden: Eulemur fulvus collaris,
+ Hapalemur griseus meridionalis, Lemur catta, Propithecus verreauxi verreauxi
+ </p>
+
+
+
+ <h2>Die Flora des Andohahela Nationalparks</h2>
+
+ <p>
+ Mehr als tausend Pflanzenarten:
+ </p>
+
+ <ul>
+ <li class="mb-3">
+ Fünf der elf im Süden Madagaskars endemischen Arten der Didieraceae kommen im Andohahela-Nationalpark vor.
+ (Decarya madagascariensis, Alluaudia humbertii, Alluaudia procera, Alluaudia dumosa, Alluaudia ascendes).
+ </li>
+ <li class="mb-3">
+ Lokale und regionale endemische Arten wie die Dreiblattpalme oder Dypsis decaryi und die Hapalemur griseus meridionalis
+ </li>
+ </ul>
+
+
+ <h2>Fauna des Andohahela Nationalparks:</h2>
+
+
+ <ul>
+ <li>
+ 207 Arten und Sorten von Farnen, von denen mehr als 90 % in feuchten Wäldern vorkommen
+ </li>
+ <li>12 Lemurenarten, darunter 5 im Trockenwald,</li>
+ <li>129 Vogelarten,</li>
+ <li>65 Reptilienarten,</li>
+ <li>50 Amphibienarten, darunter 4 in Trockenwäldern</li>
+ </ul>
+
+ <h2>Anfahrt</h2>
+
+ <p>
+ Nationalstraße Nr. 7 (Richtung Tuléar), Abzweigung bei Ihosy (PK 593) auf RN 13, dann auf Amboasary nach Ankazofotsy, Ranomainty nach Mangatsiaka, Ankariera nach Tsimelahy, Manambaro nach Malio und RIP 118 nach Manangotry.
+ Straßenzustand: sekundär, zu jeder Jahreszeit befahrbar.
+ Ungefähre Reisezeit von Antananarivo: 3 Tage.
+ </p>
+
+
+
+ <h2>Lage des Parks</h2>
+
+ <p>
+
+ GPS: Zwischen 24º30′ – 25º02′ südlicher Breite und 46º32′ – 46°54′ östlicher Länge.
+ Der Park liegt im äußersten Südosten Madagaskars,
+ 40 km nordwestlich von Fort Dauphin und 30 km Luftlinie westlich des Indischen Ozeans.
+ Es liegt in der Region Anosy und erstreckt sich über die beiden Bezirke Fort-Dauphin und Amboasary-Sud.
+ Es ist umgeben von den Dörfern Tsimelahy, Mangatsiaka, Malio, Ihazofotsy und Manangotry
+ Fläche: 76.020 ha
+ Region: Anosy
+ </p>
+
+ <h2>Geographie</h2>
+ <h4>Hydrographie</h4>
+
+ <p>
+ Der Andohahela Nationalpark mit seinem sehr wichtigen hydrografischen Netzwerk,
+ stellt einen Wasserturm für die Region Anosy und Androy dar.
+ Die wichtigsten Flüsse und Bäche der Region entspringen dort.
+ </p>
+
+ <h4>Höhe</h4>
+
+ <p>
+ 120 bis 1972 Meter
+ Heißes und feuchtes Klima für den Osthang des Regenwaldes
+ mit einem jährlichen Niederschlag von 1500–2000 mm;
+ trockenes Klima im Dornbuschgebiet und schließlich das Waldklima
+ Übergang zwischen den extremen Klimazonen der ersten beiden Parzellen.
+ </p>
+
+ <h2>Ideale Reisezeit</h2>
+
+ <p>
+ November bis Januar
+ Öffnungszeiten: 8 bis 16 Uhr
+ </p>
+
+ <h2>Geschichte</h2>
+ <p>
+ Der Park wurde 1939 mit dem Status eines integralen Naturreservats (RNI Nr. 11) gegründet.
+ Im Jahr 1999 wurde der Andohahela Nationalpark zum Preisträger der besten neuen Ökotourismusprojekte ernannt.
+ wofür er in London den Silver Otter Award erhielt.
+ </p>
+
+ <h2>Bevölkerung</h2>
+
+ <p>Vorwiegend Antanosy- und Antandroy-Stämme</p>',
             '131'        => "",
             '132'        => "",
             '133'        => "",
@@ -2071,7 +2477,7 @@ Crater Lakes from which very dense networks of watercourses in the far North are
      */
     public static function getTranslations($lang)
     {
-        if (!array_key_exists($lang, self::$translations)) {
+        if (!\array_key_exists($lang, self::$translations)) {
             throw new \Exception("Langue non prise en charge.");
         }
         return self::$translations[$lang];
