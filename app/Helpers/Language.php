@@ -415,8 +415,95 @@ which made it win the Silver Otter Award, in London.
 <h2>Population</h2>
 
 <p>Dominantly Antanosy and Antandroy tribes</p>',
-            '131'        => "",
-            '132'        => "",
+            '131'        => "Andringitra Park",
+            '132'        => '<h2>Specificity of the Park</h2>
+
+<p class="mb-4">
+Terrestrial National Park classified as a World Heritage Site,
+refuge of plants and animals of the forest massif of the Middle East of Madagascar,
+low-altitude forest, mountain forest, high-altitude grassland,
+population of lemurs, population of Ravenea glauca palm.
+</p>
+
+<h2> The Fauna of Andrigitra Park</h2>
+
+<p>
+108 species of birds, 29 species of Micromammals, 15 species of lemurs,
+79 species of amphibians, and 50 species of reptiles,
+8 species of carnivores, 50 species of non-voting mammals.
+</p>
+
+<h2>The Flora of Andrigitra Park</h2>
+
+<p>
+1000 species of plants are known within the Andringitra National Park.
+The vegetation differs depending on the forest, dense humid at low altitude or at medium altitude.
+But the vegetation of the mountains is the most interesting:
+the trees are small, more branched with a tendency to sclerophylly.
+</p>
+
+<h2>How to get there</h2>
+
+<p>
+By the RN7 (towards Tuléar), turnoff at Ambalavao or Tanambao (35 km from Ambalavao towards Ihosy along the RN7), then 47 km from Ambalavao or 25 km from Tanambao-on a secondary road, passable all year round, but with the existence of a rain barrier. The road can be closed until 12H after a heavy rain.
+A toll has been set up by the local population to ensure its maintenance.
+Approximate travel time from Antananarivo: 10 hours of driving minimum
+</p>
+
+<h2>Location of the Park</h2>
+
+<p>
+
+GPS: between 22°07’South – 22°21’South and 46°47’ – 47°02’East.
+Its central part is approximately 140 km from the Tropic of Capricorn. The Andringitra National Park is located in the Haute-Matsiatra Region, the regional capital of which is Fianarantsoa.
+Area:
+31,160 ha
+Region:
+Ihorombe
+</p>
+
+<h2>Geography</h2>
+<h4>Hydrography</h4>
+
+<p>
+Zomandao, Menarahaka, Iatara and Rienena rivers.
+</p>
+
+<h4>Altitude</h4>
+
+<p>
+Gradient ranging from 650 to 2658m
+</p>
+
+<h2>Climate</h2>
+
+<p>
+Humid tropical with high rainfall on the eastern slope with an average annual temperature of 21°C,
+tropical at high altitudes with temperatures from -7°C to 25°C,
+seasonal climate towards the west with an average temperature of 24.5°C.
+</p>
+
+<h2>Relief</h2>
+
+<p>
+Located on a very high crystalline plateau, made up of magmatic granite to the east and Amboropotsy gneiss to the west.
+</p>
+
+<h2>Ideal time to visit</h2>
+
+<p>
+All year round
+Opening hours: 6:30 a.m. to 3:30 p.m.
+</p>
+
+<h2>History</h2>
+<p>
+A Strict Nature Reserve in 1927, it was given the status of National Park in 1999.
+It is one of the six parks classified in 2007 as World Natural Heritage of the Atsinanana forests.
+</p>
+
+<h2>Population</h2>
+<p>Betsileo in the North, Barabosy in the West, Baraharonga in the East.</p>',
             '133'        => "",
             '134'        => "",
             '135'        => "",
@@ -1033,8 +1120,104 @@ which made it win the Silver Otter Award, in London.
             <h2>Population</h2>
 
             <p>À dominance tribu Antanosy et Antandroy</p>',
-            '131'        => "",
-            '132'        => "",
+            '131'        => "Parc Andringitra",
+            '132'        => '<h2>Spécificité du Parc</h2>
+            
+            
+            <p class="mb-4">
+                Parc National Terrestre classé Site Patrimoine Mondial, 
+                refuge des plantes et animaux du massif forestier du Moyen Est de Madagascar,
+                forêt à basse altitude, forêt de montagne, prairie altimontante,
+                population de lémuriens, population de palmier Ravenea glauca.
+            </p>
+
+
+
+            <h2>Les Faunes du Parc d’Andrigitra</h2>
+
+            <p>
+                108 espèces d’oiseaux, 29 espèces de Micromammifère, 15 espèces de lémuriens, 
+                79 espèces d’amphibiens, et 50 espèces de reptiles, 
+                8 espèces de carnivores, 50 espèces de mammifères non-votants.
+            </p>
+
+            
+            <h2>Les Flores du Parc d’Andrigitra</h2>
+
+
+           <p>
+                1000 espèces de plantes sont connues à l’intérieur du Parc National d’Andringitra. 
+                La végétation diffère selon la forêt, dense humide de basse altitude ou de moyenne altitude. 
+                Mais la végétation des montagnes est la plus intéressante : 
+                les arbres y sont petits, plus ramifiés avec une tendance à la sclérophyllie.
+           </p>
+
+            <h2>Comment s’y rendre</h2>
+
+            <p>
+                Par la RN7 (vers Tuléar), bifurcation à Ambalavao ou à Tanambao (35 km d’Ambalavao vers Ihosy en longeant la RN7), puis sur 47 km d’Ambalavao ou 25 km de Tanambao-sur route secondaire, praticable toute l’année, mais avec l’existence de barrière de pluie.
+                La route peut être fermée jusqu’à 12H après une grosse pluie.
+                Un droit de péage a été mis en place par la population locale afin d’en assurer l’entretien.
+                Durée approximative du trajet à partir d’Antananarivo: 10 heures de route minimum
+            </p>
+
+           
+
+            <h2>Localisation du Parc</h2>
+
+            <p>
+
+            GPS: entre 22°07’Sud – 22°21’Sud et 46°47’ – 47°02’Est.
+            Sa partie centrale se trouve à environ 140 km du Tropique du Capricorne. Le Parc National Andringitra est situé dans la Région de la Haute-Matsiatra dont le Chef-Lieu de Région est Fianarantsoa.
+            Superficie:
+            31 160ha
+            Région :
+            Ihorombe
+            </p>
+
+            <h2>Géographie</h2>
+            <h4>Hydrographie</h4>
+
+            <p>
+            Fleuves Zomandao, Menarahaka, Iatara et Rienena.
+            </p>
+
+            <h4>Altitude</h4>
+
+            <p>
+            Gradient allant de 650 à 2658m
+            </p>
+
+            <h2>Climat</h2>
+
+            <p>
+                Tropical humide à forte pluviosité sur le versant Est avec une température moyenne annuelle de 21°C, 
+                tropical des hautes altitudes avec des températures de -7°C à 25°C,
+                climat saisonnier vers l’Ouest avec une température moyenne de 24,5°C.
+            </p>
+
+            <h2>Relief</h2>
+
+            <p>
+                Situé sur un plateau cristallin très élevé, constitué à l’Est 
+                par du granit magmatique et à l’Ouest par le gneiss d’Amboropotsy.
+            </p>
+
+            <h2>Période idéale pour la visite</h2>
+
+            <p>
+                Toute l’année
+                Heures d’ouvertures: 6h30 à 15h30
+            </p>
+
+            <h2>Historique</h2>
+            <p>
+            Réserve Naturelle Intégrale en 1927, il est passé au statut de Parc National à partir de 1999. 
+            Il est l’un des six parcs classés, en 2007, au Patrimoine naturel mondial des forêts de l’Atsinanana.
+            </p>
+
+            <h2>Population</h2>
+            <p>Betsileo au Nord, Barabosy à l’Ouest, Baraharonga à l’Est.</p>',
             '133'        => "",
             '134'        => "",
             '135'        => "",
@@ -1658,8 +1841,104 @@ which made it win the Silver Otter Award, in London.
  <h2>Popolazione</h2>
 
  <p>Tribù predominantemente Antanosy e Antandroy</p>',
-            '131'        => "",
-            '132'        => "",
+            '131'        => "Parco Andringitra",
+            '132'        => '<h2>Specificità del Parco</h2>
+
+
+ <p class="mb-4">
+ Parco Nazionale Terrestre classificato come Patrimonio dell\'Umanità,
+ rifugio per piante e animali nel massiccio forestale del Medio Oriente del Madagascar,
+ foresta di pianura, foresta di montagna, prato di altopiano,
+ popolazione di lemuri, popolazione di palme Ravenea glauca.
+ </p>
+
+
+
+ <h2>La fauna del parco di Andrigitra</h2>
+
+ <p>
+ 108 specie di uccelli, 29 specie di micromammiferi, 15 specie di lemuri,
+ 79 specie di anfibi e 50 specie di rettili,
+ 8 specie di carnivori, 50 specie di mammiferi senza diritto di voto.
+ </p>
+
+
+ <h2>I fiori del parco di Andrigitra</h2>
+
+
+ <p>
+ Nel Parco Nazionale Andringitra sono note 1000 specie di piante.
+ La vegetazione varia a seconda della foresta: densa e umida a bassa quota o a media quota.
+ Ma la vegetazione montana è la più interessante:
+ gli alberi sono piccoli, più ramificati e con tendenza alla sclerofillità.
+ </p>
+
+ <h2>Come arrivare</h2>
+
+ <p>
+ Dalla RN7 (direzione Tuléar), bivio per Ambalavao o Tanambao (35 km da Ambalavao verso Ihosy lungo la RN7), poi 47 km da Ambalavao o 25 km da Tanambao - su una strada secondaria, percorribile tutto l\'anno, ma con barriera antipioggia.
+ In caso di forti piogge la strada potrebbe restare chiusa fino a mezzogiorno.
+ Per garantirne la manutenzione la popolazione locale ha imposto un pedaggio.
+ Tempo di percorrenza approssimativo da Antananarivo: minimo 10 ore di guida
+ </p>
+
+
+
+ <h2>Posizione del parco</h2>
+
+ <p>
+
+ GPS: tra 22°07’Sud – 22°21’Sud e 46°47’ – 47°02’Est.
+ La sua parte centrale si trova a circa 140 km dal Tropico del Capricorno. Il Parco nazionale Andringitra si trova nella regione dell\'Alta Matsiatra, il cui capoluogo è Fianarantsoa.
+ Zona:
+ 31.160 ettari
+ Regione:
+ Ihorombe
+ </p>
+
+ <h2>Geografia</h2>
+ <h4>Idrografia</h4>
+
+ <p>
+ Fiumi Zomandao, Menarahaka, Iatara e Rienena.
+ </p>
+
+ <h4>Altitudine</h4>
+
+ <p>
+ Pendenza che va da 650 a 2658 m
+ </p>
+
+ <h2>Clima</h2>
+
+ <p>
+ Tropicale umido con elevata piovosità sul versante orientale con una temperatura media annuale di 21°C,
+ alte quote tropicali con temperature da -7°C a 25°C,
+ clima stagionale verso ovest con una temperatura media di 24,5°C.
+ </p>
+
+ <h2>sollievo</h2>
+
+ <p>
+ Situato su un altissimo altopiano cristallino, formatosi ad Est
+ dal granito magmatico e ad ovest dallo gneiss di Amboropotsy.
+ </p>
+
+ <h2>Momento ideale per visitare</h2>
+
+ <p>
+ Tutto l\'anno
+ Orari di apertura: dalle 6:30 alle 15:30.
+ </p>
+
+ <h2>Storia</h2>
+ <p>
+ Riserva naturale integrale nel 1927, nel 1999 ha ottenuto lo status di Parco nazionale.
+ È uno dei sei parchi classificati, nel 2007, come Patrimonio Naturale dell\'Umanità delle foreste di Atsinanana.
+ </p>
+
+ <h2>Popolazione</h2>
+ <p>Betsileo a nord, Barabosy a ovest, Baraharonga a est.</p>',
             '133'        => "",
             '134'        => "",
             '135'        => "",
@@ -2274,8 +2553,104 @@ which made it win the Silver Otter Award, in London.
  <h2>Bevölkerung</h2>
 
  <p>Vorwiegend Antanosy- und Antandroy-Stämme</p>',
-            '131'        => "",
-            '132'        => "",
+            '131'        => "Der Andringitra-Park",
+            '132'        => '<h2>Besonderheiten des Parks</h2>
+
+
+ <p class="mb-4">
+ Nationaler Terrestrischer Park, der zum Weltkulturerbe erklärt wurde,
+ Zufluchtsort für Pflanzen und Tiere im Waldmassiv des Nahen Ostens Madagaskars,
+ Tieflandwald, Bergwald, Hochwiese,
+ Lemurenpopulation, Ravenea glauca-Palmenpopulation.
+ </p>
+
+
+
+ <h2>Die Fauna des Andrigitra-Parks</h2>
+
+ <p>
+ 108 Vogelarten, 29 Arten von Kleinsäugern, 15 Arten von Lemuren,
+ 79 Amphibienarten und 50 Reptilienarten,
+ 8 Arten von Fleischfressern, 50 Arten von nicht stimmberechtigten Säugetieren.
+ </p>
+
+
+ <h2>Die Blumen des Andrigitra-Parks</h2>
+
+
+ <p>
+ Im Andringitra-Nationalpark sind 1000 Pflanzenarten bekannt.
+ Die Vegetation ist je nach Wald unterschiedlich, dicht und feucht in niedrigen Höhenlagen oder in mittleren Höhenlagen.
+ Am interessantesten ist jedoch die Bergvegetation:
+ Die Bäume dort sind klein, stärker verzweigt und neigen zur Hartlaubigkeit.
+ </p>
+
+ <h2>Anfahrt</h2>
+
+ <p>
+ Über die RN7 (Richtung Tuléar), Abzweigung bei Ambalavao oder Tanambao (35 km von Ambalavao in Richtung Ihosy auf der RN7), dann 47 km von Ambalavao oder 25 km von Tanambao – auf einer Nebenstraße, die das ganze Jahr über befahrbar ist, allerdings mit einer Regenbarriere.
+ Nach starkem Regen kann die Straße bis 12.00 Uhr gesperrt sein.
+ Um den Unterhalt zu gewährleisten, wurde von der örtlichen Bevölkerung eine Maut erhoben.
+ Ungefähre Reisezeit von Antananarivo: Mindestens 10 Stunden Fahrt
+ </p>
+
+
+
+ <h2>Lage des Parks</h2>
+
+ <p>
+
+ GPS: zwischen 22°07’Süd – 22°21’Süd und 46°47’ – 47°02’Ost.
+ Sein zentraler Teil liegt etwa 140 km vom südlichen Wendekreis des Steinbocks entfernt. Der Andringitra-Nationalpark liegt in der Region Haute-Matsiatra, deren Regionalhauptstadt Fianarantsoa ist.
+ Bereich:
+ 31.160 ha
+ Region:
+ Ihorombe
+ </p>
+
+ <h2>Geographie</h2>
+ <h4>Hydrographie</h4>
+
+ <p>
+ Flüsse Zomandao, Menarahaka, Iatara und Rienena.
+ </p>
+
+ <h4>Höhe</h4>
+
+ <p>
+ Höhenunterschied von 650 bis 2658 m
+ </p>
+
+ <h2>Klima</h2>
+
+ <p>
+ Feuchtes Tropenklima mit hohen Niederschlägen am Osthang und einer durchschnittlichen Jahrestemperatur von 21°C,
+ tropische Höhenlagen mit Temperaturen von -7°C bis 25°C,
+ saisonales Klima im Westen mit einer Durchschnittstemperatur von 24,5 °C.
+ </p>
+
+ <h2>Erleichterung</h2>
+
+ <p>
+ Gelegen auf einem sehr hohen kristallinen Plateau, gebildet im Osten
+ durch magmatisches Granit und im Westen durch den Amboropotsy-Gneis.
+ </p>
+
+ <h2>Ideale Reisezeit</h2>
+
+ <p>
+ Das ganze Jahr über
+ Öffnungszeiten: 6:30 bis 15:30 Uhr
+ </p>
+
+ <h2>Geschichte</h2>
+ <p>
+ 1927 wurde es zum vollständigen Naturschutzgebiet erklärt und 1999 erhielt es den Status eines Nationalparks.
+ Es ist einer der sechs Parks, die 2007 zum Weltnaturerbe der Atsinanana-Wälder erklärt wurden.
+ </p>
+
+ <h2>Bevölkerung</h2>
+ <p>Betsileo im Norden, Barabosy im Westen, Baraharonga im Osten.</p>',
             '133'        => "",
             '134'        => "",
             '135'        => "",
