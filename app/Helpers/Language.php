@@ -504,8 +504,105 @@ It is one of the six parks classified in 2007 as World Natural Heritage of the A
 
 <h2>Population</h2>
 <p>Betsileo in the North, Barabosy in the West, Baraharonga in the East.</p>',
-            '133'        => "",
-            '134'        => "",
+            '133'        => "Ankarafantsika Park",
+            '134'        => '<h2>Specificity of the Park</h2>
+
+<p class="mb-4">
+Ankarafantsika includes a unique floristic formation on a sandy massif in which there are
+faunal species with a very high rate of endemicity and not represented in other protected areas.
+Ankarafantsika contributes to the representativeness
+of biodiversity in the network of parks and reserves of Madagascar.
+The Park also presents varied and contrasting landscapes,
+such as the different types of forests, the savannah,
+the lakes or the "lavaka" of Ankarokaroka.
+Result of a gigantic erosion.
+</p>
+
+<h2>The landscapes of the Ankarafantsika National Park</h2>
+
+<p>
+The Park presents varied and contrasting landscapes such as the different types of forests,
+the savannah or the lakes which constitute the habitats of different species.
+</p>
+
+<h4>The Fauna of Ankarafantsika National Park</h4>
+
+<p>
+The diversity of lemurs highlights the importance of Ankarafantsika National Park for the conservation
+
+of Madagascar\'s biodiversity. Eight (8) species of lemurs have been observed.
+The Ankarafantsika region is known to be home to more than one hundred and twenty\-nine (129) species of birds,
+
+of which seventy-five (75) are endemic
+</p>
+
+<h4>The Flora of Ankarafantsika National Park</h4>
+
+<p>
+Ankarafantsika National Park is home to a rich and diverse flora.
+Eight hundred and twenty-three (823) species have been inventoried.
+The endemicity rate is high, ranging from 82% for herbaceous plants
+
+to 92% for woody plants, and therefore deserves special attention in terms of conservation.
+</p>
+
+<h2>How to get there</h2>
+
+<ul>
+<li>
+Ankarafantsika National Park is located on National Road 4 (RN4) connecting Antananarivo-Mahajanga
+</li>
+<li>
+Driving time: 8 hours
+</li>
+<li>
+Distance: 450 km from Antananarivo and 115 km south of Mahajanga
+The road is in good condition, passable all year round. </li>
+
+</ul>
+
+<h2>Location of the Park</h2>
+
+<p>
+• Fifty (50) species of mollusks and a large number of tsingy snails
+• Half of Madagascar\'s bat species, fourteen (14) species
+• Sixty (60) species of reptiles and amphibians
+• Eleven (11) species of lemurs
+• Sixty (60) species of reptiles and amphibians
+• Ninety-six (96) species of birds
+</p>
+
+<p>
+The Ankarafantsika National Park is located in the Boina region,
+it straddles the districts of Marovoay and Ambato-Boeni.
+It is bordered to the East by the Mahajamba River and to the West by the Betsiboka.
+GPS: 16°09 South and 46°57 East.
+Area: 136,513 ha
+Region: Boeny
+</p>
+
+<h2>Ideal period for visiting</h2>
+
+<p>
+Between October and November
+Opening hours: 8 a.m. to 4 p.m.
+</p>
+
+<h2>History</h2>
+<p>
+The term "Ankarafantsika" is a transformation of the name
+"Garafantsy" which means
+"thorny mountain" and evokes the time when these forests
+inspired terror and mystery, due to the presence of Ravelobe,
+a patriot who became a highwayman, who attacked travelers.
+"Garafantsy" also refers to a cunning and frightening man.
+</p>
+
+<h2>Population</h2>
+<p>
+The population of the peripheral zone is very heterogeneous, mainly consisting of farmers. Estimated at 37,456 inhabitants,
+the Peripheral Zone contains 133 villages and hamlets Dominant ethnic group: Sakalava
+</p>',
             '135'        => "",
             '136'        => "",
             '137'        => "",
@@ -1218,8 +1315,108 @@ It is one of the six parks classified in 2007 as World Natural Heritage of the A
 
             <h2>Population</h2>
             <p>Betsileo au Nord, Barabosy à l’Ouest, Baraharonga à l’Est.</p>',
-            '133'        => "",
-            '134'        => "",
+            '133'        => "Parc Ankarafantsika",
+            '134'        => '<h2>Spécificité du Parc</h2>
+            
+            
+            <p class="mb-4">
+                Ankarafantsika comprend une formation floristique unique sur massif sableux dans laquelle se trouvent 
+                des espèces faunistiques à un taux d’endémicité
+                très élevé et non représentés dans d’autres aires protégées.
+                Ankarafantsika contribue à la représentativité 
+                de la biodiversité dans le réseau de parcs et réserves de Madagascar.
+                Le Parc présente également des paysages variés et contrastés, 
+                comme les différents types de forêts, la savane, 
+                les lacs ou les « lavaka » d’Ankarokaroka. 
+                Résultat d’une gigantesque érosion.
+            </p>
+
+
+            <h2>Les paysages du Parc  National Ankarafantsika</h2>
+
+            <p>
+                Le Parc présente des paysages variés et contrastés comme les différents types de forêts,
+                la savane ou les lacs qui constituent les habitats de différentes espèces.
+            </p>
+
+            <h4>Les Faunes du Parc National Ankarafantsika</h4>
+
+           <p>
+            La diversité des lémuriens souligne l’importance du Parc National Ankarafantsika pour la conservation 
+            de la biodiversité de Madagascar.Huit (8) espèces de lémuriens ont été observées. 
+            La région d’Ankarafantsika est connue pour abriter plus de cent vingt neuf (129) espèces d’oiseaux,
+                dont soixante quinze (75) sont endémiques
+           </p>
+
+            <h4>Les Flores du Parc National Ankarafantsika</h4>
+
+            <p>
+                Le Parc National Ankarafantsika abrite une flore riche et diversifiée.
+                Huit cent vingt trois (823) espèces ont été inventoriées. 
+                Le taux d’endémicité est important allant de 82% pour les plantes herbacées 
+                à 92% pour les plantes ligneuses et mérite donc une attention particulière en termes de conservation.
+            </p>
+
+            
+            <h2>Comment s’y rendre</h2>
+
+            <ul>
+                <li>
+                    Le Parc National Ankarafantsika se trouve sur la Route Nationale 4 (RN4) reliant Antananarivo-Mahajanga
+                </li>
+                <li>
+                    Durée de route : 8 heures
+                </li>
+                <li>
+                Distance : 450 km d’Antananarivo et à 115 km au Sud de Mahajanga
+                La route est en bon état, praticable toute l’année.
+                </li>
+                
+            </ul>
+
+            <h2>Localisation du Parc</h2>
+
+            <p>
+                • Cinquante (50) espèces de mollusques et un grand nombre d’escargots des tsingy
+                • La moitié des espèces de chauves-souris de Madagascar, quatorze (14) espèces
+                • Soixante (60) espèces de reptiles et amphibiens
+                • Onze (11) espèces de lémuriens
+                • Soixante (60) espèces de reptiles et amphibiens
+                • Quatre vingt seize (96) espèces d’oiseaux
+            </p>
+
+            <p>
+                Le Parc National d’Ankarafantsika est situé dans la région du Boina,
+                 il est à cheval sur les districts de Marovoay et Ambato-Boeni. 
+                 Il est limité à l’Est par la rivière de Mahajamba et à l’Ouest par la Betsiboka.
+                GPS: 16°09 Sud et 46°57 Est.
+                Superficie: 136 513 ha
+                Région : Boeny
+            </p>
+
+            <h2>Période idéale pour la visite</h2>
+
+            <p>
+                Entre octobre et novembre
+                Heures d’ouvertures: 8h à 16h
+            </p>
+
+            <h2>Historique</h2>
+            <p>
+            Le terme « Ankarafantsika » est une transformation du nom 
+            « Garafantsy » qui signifie 
+            « montagne épineux » et évoque l’époque où ces forêts 
+            inspiraient la terreur et le mystère, dû à la présence de Ravelobe,
+             un patriote devenu bandit de grand chemin, qui attaquait les voyageurs. 
+            « Garafantsy » désigne également un homme rusé et effrayant.
+            </p>
+
+            <h2>Population</h2>
+            <p>
+                La population de la zone périphérique est très hétérogène qui constitue principalement les agriculteurs. 
+                Estimée à 37.456 d’habitant, 
+                la Zone Périphérique renferme 133 villages et hameaux Ethnie dominante : Sakalava
+            </p>',
             '135'        => "",
             '136'        => "",
             '137'        => "",
@@ -1939,8 +2136,108 @@ It is one of the six parks classified in 2007 as World Natural Heritage of the A
 
  <h2>Popolazione</h2>
  <p>Betsileo a nord, Barabosy a ovest, Baraharonga a est.</p>',
-            '133'        => "",
-            '134'        => "",
+            '133'        => "Parco Ankarafantsika",
+            '134'        => '<h2>Specificità del Parco</h2>
+
+
+ <p class="mb-4">
+ Ankarafantsika comprende una formazione floristica unica su un massiccio sabbioso in cui si trovano
+ specie faunistiche a tasso di endemicità
+ molto elevata e non rappresentata in altre aree protette.
+ Ankarafantsika contribuisce alla rappresentatività
+ della biodiversità nella rete dei parchi e delle riserve del Madagascar.
+ Il Parco presenta inoltre paesaggi vari e contrastanti,
+ come i diversi tipi di foreste, savana,
+ i laghi o “lavaka” di Ankarokaroka.
+ Risultato di un\'erosione gigantesca.
+ </p>
+
+
+ <h2>I paesaggi del Parco Nazionale di Ankarafantsika</h2>
+
+ <p>
+ Il Parco presenta paesaggi vari e contrastanti come diversi tipi di foreste,
+ la savana o i laghi che costituiscono l\'habitat di diverse specie.
+ </p>
+
+ <h4>La fauna del Parco Nazionale di Ankarafantsika</h4>
+
+ <p>
+ La diversità dei lemuri evidenzia l\'importanza della conservazione del Parco nazionale di Ankarafantsika
+ della biodiversità del Madagascar. Sono state osservate otto (8) specie di lemuri.
+ La regione di Ankarafantsika è nota per ospitare più di centoventinove (129) specie di uccelli,
+ di cui settantacinque (75) sono endemiche
+ </p>
+
+ <h4>La flora del Parco Nazionale di Ankarafantsika</h4>
+
+ <p>
+ Il Parco Nazionale Ankarafantsika ospita una flora ricca e diversificata.
+ Sono state inventariate ottocentoventitré (823) specie.
+ Il tasso di endemicità è elevato, variando dall\'82% per le piante erbacee
+ 92% per le piante legnose e pertanto merita particolare attenzione in termini di conservazione.
+ </p>
+
+
+ <h2>Come arrivare</h2>
+
+ <ul>
+ <li>
+ Il Parco Nazionale Ankarafantsika si trova sulla Strada Nazionale 4 (RN4) che collega Antananarivo-Mahajanga
+ </li>
+ <li>
+ Tempo di guida: 8 ore
+ </li>
+ <li>
+ Distanza: 450 km da Antananarivo e 115 km a sud di Mahajanga
+ La strada è in buone condizioni e percorribile tutto l\'anno.
+ </li>
+
+ </ul>
+
+ <h2>Posizione del parco</h2>
+
+ <p>
+ • Cinquanta (50) specie di molluschi e un gran numero di lumache tsingy
+ • Metà delle specie di pipistrelli del Madagascar, quattordici (14) specie
+ • Sessanta (60) specie di rettili e anfibi
+ • Undici (11) specie di lemuri
+ • Sessanta (60) specie di rettili e anfibi
+ • Novantasei (96) specie di uccelli
+ </p>
+
+ <p>
+ Il Parco Nazionale Ankarafantsika si trova nella regione di Boina,
+ Si estende sui distretti di Marovoay e Ambato-Boeni.
+ Confina a est con il fiume Mahajamba e a ovest con il fiume Betsiboka.
+ GPS: 16°09 Sud e 46°57 Est.
+ Superficie: 136.513 ha
+ Regione: Boeny
+ </p>
+
+ <h2>Momento ideale per visitare</h2>
+
+ <p>
+ Tra ottobre e novembre
+ Orari di apertura: dalle 8:00 alle 16:00.
+ </p>
+
+ <h2>Storia</h2>
+ <p>
+ Il termine "Ankarafantsika" è una trasformazione del nome
+ "Garafantsy" che significa
+ "montagna spinosa" ed evoca il tempo in cui queste foreste
+ ispirava terrore e mistero, a causa della presenza di Ravelobe,
+ un patriota trasformatosi in brigante che attaccava i viaggiatori.
+ "Garafantsy" significa anche uomo astuto e spaventoso.
+ </p>
+
+ <h2>Popolazione</h2>
+ <p>
+ La popolazione della zona periferica è molto eterogenea e composta principalmente da agricoltori.
+ Stimato in 37.456 abitanti,
+ La zona periferica contiene 133 villaggi e frazioni. Gruppo etnico dominante: Sakalava
+ </p>',
             '135'        => "",
             '136'        => "",
             '137'        => "",
@@ -2651,8 +2948,108 @@ It is one of the six parks classified in 2007 as World Natural Heritage of the A
 
  <h2>Bevölkerung</h2>
  <p>Betsileo im Norden, Barabosy im Westen, Baraharonga im Osten.</p>',
-            '133'        => "",
-            '134'        => "",
+            '133'        => "Ankarafantsika-Park",
+            '134'        => '<h2>Besonderheiten des Parks</h2>
+
+
+ <p class="mb-4">
+ Ankarafantsika umfasst eine einzigartige floristische Formation auf einem Sandmassiv, in der sich befinden
+ Tierarten mit einer Rate der Endemie
+ sehr hoch und in anderen Schutzgebieten nicht vertreten.
+ Ankarafantsika trägt zur Repräsentativität bei
+ der Artenvielfalt im Netzwerk der Parks und Reservate Madagaskars.
+ Der Park bietet auch abwechslungsreiche und kontrastreiche Landschaften,
+ wie die verschiedenen Arten von Wäldern, Savannen,
+ die Seen oder „Lavaka“ von Ankarokaroka.
+ Ergebnis gigantischer Erosion.
+ </p>
+
+
+ <h2>Die Landschaften des Ankarafantsika-Nationalparks</h2>
+
+ <p>
+ Der Park präsentiert abwechslungsreiche und kontrastreiche Landschaften wie verschiedene Arten von Wäldern,
+ die Savanne oder Seen, die den Lebensraum verschiedener Arten bilden.
+ </p>
+
+ <h4>Die Fauna des Ankarafantsika-Nationalparks</h4>
+
+ <p>
+ Artenvielfalt der Lemuren unterstreicht die Bedeutung des Ankarafantsika-Nationalparks für den Naturschutz
+ der Artenvielfalt Madagaskars. Acht (8) Lemurenarten wurden beobachtet.
+ Die Region Ankarafantsika ist bekannt als Heimat für mehr als einhundertneunundzwanzig (129) Vogelarten.
+ davon sind fünfundsiebzig (75) endemisch
+ </p>
+
+ <h4>Die Flora des Ankarafantsika-Nationalparks</h4>
+
+ <p>
+ Der Ankarafantsika-Nationalpark beherbergt eine reiche und vielfältige Flora.
+ Achthundertdreiundzwanzig (823) Arten wurden inventarisiert.
+ Die Endemierate ist hoch und reicht von 82 % bei krautigen Pflanzen
+ Der Bestand liegt bei Gehölzen zu ca. 92 % und verdient daher aus naturschutzfachlicher Sicht eine besondere Beachtung.
+ </p>
+
+
+ <h2>Anfahrt</h2>
+
+ <ul>
+ <li>
+ Der Ankarafantsika Nationalpark liegt an der Nationalstraße 4 (RN4), die Antananarivo-Mahajanga verbindet
+ </li>
+ <li>
+ Fahrzeit: 8 Stunden
+ </li>
+ <li>
+ Entfernung: 450 km von Antananarivo und 115 km südlich von Mahajanga
+ Die Straße ist in gutem Zustand und das ganze Jahr über befahrbar.
+ </li>
+
+ </ul>
+
+ <h2>Lage des Parks</h2>
+
+ <p>
+ • Fünfzig (50) Arten von Weichtieren und eine große Anzahl von Tsingy-Schnecken
+ • Die Hälfte der Fledermausarten Madagaskars, vierzehn (14) Arten
+ • Sechzig (60) Arten von Reptilien und Amphibien
+ • Elf (11) Lemurenarten
+ • Sechzig (60) Arten von Reptilien und Amphibien
+ • Sechsundneunzig (96) Vogelarten
+ </p>
+
+ <p>
+ Der Ankarafantsika Nationalpark liegt in der Region Boina,
+ Es erstreckt sich über die Distrikte Marovoay und Ambato-Boeni.
+ Es grenzt im Osten an den Fluss Mahajamba und im Westen an den Betsiboka.
+ GPS: 16°09 Süd und 46°57 Ost.
+ Fläche: 136.513 ha
+ Region: Boeny
+ </p>
+
+ <h2>Ideale Reisezeit</h2>
+
+ <p>
+ Zwischen Oktober und November
+ Öffnungszeiten: 8 bis 16 Uhr
+ </p>
+
+ <h2>Geschichte</h2>
+ <p>
+ Der Begriff "Ankarafantsika" ist eine Abwandlung des Namens
+ "Garafantsy", was bedeutet
+ "dorniger Berg" und erinnert an die Zeit, als diese Wälder
+ inspirierte Terror und Mysterium, aufgrund der Anwesenheit von Ravelobe,
+ ein Patriot, der zum Straßenräuber wurde und Reisende angriff.
+ „Garafantsy“ bedeutet auch ein gerissener und furchteinflößender Mann.
+ </p>
+
+ <h2>Bevölkerung</h2>
+ <p>
+ Die Bevölkerung der Randregion ist sehr heterogen und besteht überwiegend aus Landwirten.
+ Geschätzte 37.456 Einwohner,
+ Die Randzone umfasst 133 Dörfer und Weiler. Dominante ethnische Gruppe: Sakalava
+ </p>',
             '135'        => "",
             '136'        => "",
             '137'        => "",
