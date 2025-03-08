@@ -603,13 +603,177 @@ a patriot who became a highwayman, who attacked travelers.
 The population of the peripheral zone is very heterogeneous, mainly consisting of farmers. Estimated at 37,456 inhabitants,
 the Peripheral Zone contains 133 villages and hamlets Dominant ethnic group: Sakalava
 </p>',
-            '135'        => "",
-            '136'        => "",
-            '137'        => "",
-            '138'        => "",
-            '139'        => "",
-            '140'        => "",
-            '141'        => "",
+            '135'        => "Ankarana Park",
+            '136'        => '<h2>Specificity of the Park</h2>
+
+<p class="mb-4">
+Special Reserve, Dense Dry Forest, the Tsingy and its population and the Canyons Forest.
+</p>
+
+<h2>The landscapes of the Ankarana Special Reserve</h2>
+
+<p>
+Landscape composed of a spectacular expanse of Tsingy in a formation of the dense dry deciduous forest.
+</p>
+
+<h4>The fauna of the Ankarana Special Reserve</h4>
+
+<ul>
+<li>Fifty (50) species of mollusks and a large number of tsingy snails</li>
+<li>Half of Madagascar\'s bat species, fourteen (14) species</li>
+<li>Sixty (60) species of reptiles and amphibians</li>
+<li>Eleven (11) species of lemurs</li>
+<li>Sixty (60) species of reptiles and amphibians</li>
+<li>Ninety-six (96) species of birds</li>
+</ul>
+
+<h4>The flora of the Ankarana Special Reserve</h4>
+
+<p>
+At least three hundred and thirty (330) species in seventy-seven (77) families. Most of the trees have deciduous leaves and many flower from September to November.
+</p>
+
+<h2>How to get there</h2>
+
+<ul>
+<li>
+From Antananarivo: On RN4 to Ambondromamy (410Km), turn right on RN6 to Ambilobe (609Km),
+continue to the village of Mahamasina (entrance to the Park) located 29 km from Antsiranana.
+</li>
+<li>From Antsiranana: on RN6 at 108 km</li>
+<li>
+From Ankify: take RN6 at Ambalavelona (Ambanja)
+for 15 km and continue to Mahamasina for 129 km via Ambilobe.
+</li>
+<li>From Mahajanga: On RN4 to Ambondromamy, then RN6</li>
+</ul>
+
+<h2>Location of the Park</h2>
+
+<p>
+The Ankarana National Park is located in the DIANA region in the Ambilobe district.
+04 peripheral rural communes: Marivorahona, Antsaravibe, Anivorano-Nord and Ambondrona
+Area: 18,225 ha
+Region: Diana
+</p>',
+            '137'        => '<h2>Geography</h2>
+<h4>Hydrography</h4>
+
+<p>
+11 rivers have their source inside the Park.
+Altitude
+2,132m
+Climate
+Humid tropical type
+Relief
+Complex forest reliefs with steep and irregular ridges and slopes.
+</p>
+
+<h2>Relief</h2>
+
+<p>
+Located on a very high crystalline plateau, made up of magmatic granite to the east and Amboropotsy gneiss to the west.
+</p>
+
+<h2>Ideal period for visiting</h2>
+
+<p>
+All year round
+Opening hours: 8 a.m. to 4 p.m.
+</p>
+
+<h2>History</h2>
+<p>
+The Ankarana is said to have been used as a refuge by the Antakarana people. A cave in Ankarana served as a tomb for the Antakarana Kings.
+</p>
+
+<h2>Population</h2>
+<p> Antankarana, Tsimihety, Antemoro and Antandroy.</p>',
+            '138'        => "Whale and dolphin watching",
+            '139'        => "humpback whales, dolphins (Stenella, Thursiop, humpback)",
+            '140'        => "<h2>Circuit Description</h2>
+<p>
+Whale watching on Nosy Be is one of the marine shows not to be missed every year.
+Humpback whales, whale sharks and dolphins will be there
+in the open sea of ​​Ampasindava Bay
+and the Mozambique Channel between August - September - October and November.
+</p>
+
+<p>
+At 8:30 am: Briefing and departure for the observation of Humpback Whales.
+However, the morning is devoted to the search and observation of humpback whales and dolphins.
+However, it is an opportunity to witness an extraordinary spectacle:
+Mother / calf couple resting on the surface, tail and pectoral strikes and often spectacular jumps! </p>
+
+<p>
+This outing is an opportunity for us to raise awareness among travelers
+about the value and importance of protecting
+these marine mammals. At 1:30 p.m., a typical and hearty meal will be served on the beach of Nosy Sakatia.
+To continue, at 2:30 p.m.: it's time to do free Snorkeling in front of the beach to observe the turtles (depending on the tide).
+Finally, return at 3:30 p.m.
+</p>",
+            '141'        => "<li><b>Visit:</b> Observation of humpback whales, dolphins (Stenelle, Thursiop, humpback), green turtle</li>
+<li><b>Duration:</b> One day</li>
+<li><b>Departure:</b> Madirokely Beach</li>
+<li><b>Number of pax:</b> Customers, Accompanying Guide, Skipper</li>
+<li><b>Means of transport:</b> Fast boat, Life jackets available</li>
+<li><b>Lunch:</b> in Nosy Sakatia</li>",
+            '142'       => '<h3>Highlights</h3>
+<ul>
+<li>Emotional experience</li>
+<li>Meeting with mammals</li>
+<li>Relaxation</li>
+<li>Swimming with a sea turtle</li>
+</ul>',
+            '143'       => '<h3>Included Services</h3>
+<ul>
+<li>Guide</li>
+<li>Lunch</li>
+<li>Snorkeling equipment</li>
+<li>Mineral water</li>
+<li>Visit fees.</li>
+</ul>',
+            '144'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal extras</li>
+</ul>',
+            '145'       => '',
+            '146'       => '',
+            '147'       => '',
+            '148'       => '',
+            '149'       => '',
+            '150'       => '',
+            '151'       => '',
+            '152'       => '',
+            '153'       => '',
+            '154'       => '',
+            '155'       => '',
+            '156'       => '',
+            '157'       => '',
+            '158'       => '',
+            '159'       => '',
+            '160'       => '',
+            '161'       => '',
+            '162'       => '',
+            '163'       => '',
+            '164'       => '',
+            '165'       => '',
+            '166'       => '',
+            '167'       => '',
+            '168'       => '',
+            '169'       => '',
+            '170'       => '',
+            '171'       => '',
+            '172'       => '',
+            '173'       => '',
+            '174'       => '',
+            '175'       => '',
+            '176'       => '',
+            '177'       => '',
+            '178'       => '',
+            '179'       => '',
+            '180'       => '',
             'jout'      => 'DAY',
             'inclus'    => 'Services Included',
             'non_inclus'=> 'Services Not Included',
@@ -1417,13 +1581,188 @@ the Peripheral Zone contains 133 villages and hamlets Dominant ethnic group: Sak
                 Estimée à 37.456 d’habitant, 
                 la Zone Périphérique renferme 133 villages et hameaux Ethnie dominante : Sakalava
             </p>',
-            '135'        => "",
-            '136'        => "",
-            '137'        => "",
-            '138'        => "",
-            '139'        => "",
-            '140'        => "",
-            '141'        => "",
+            '135'        => " Parc Ankarana",
+            '136'        => '<h2>Spécificité du Parc</h2>
+            
+            
+            <p class="mb-4">
+            Réserve Spéciale, Forêt dense sèche, le Tsingy et son peuplement et la Forêt des canyons.
+            </p>
+
+
+
+            <h2>Les paysages de la Réserve Spéciale Ankarana</h2>
+
+            <p>
+            Paysage composé d’une étendu de Tsingy spectaculaire dans une formation de la forêt dense sèche caducifoliée.
+            </p>
+
+            <h4>Les faunes de la Réserve Spéciale Ankarana</h4>
+
+            <ul>
+                <li>Cinquante (50) espèces de mollusques et un grand nombre d’escargots des tsingy</li>
+                <li>La moitié des espèces de chauves-souris de Madagascar, quatorze (14) espèces</li>
+                <li> Soixante (60) espèces de reptiles et amphibiens</li>
+                <li>Onze (11) espèces de lémuriens</li>
+                <li>Soixante (60) espèces de reptiles et amphibiens</li>
+                <li>Quatre vingt seize (96) espèces d’oiseaux</li>
+            </ul>
+
+            <h4>Les flores de la Réserve Spéciale Ankarana</h4>
+
+            <p>
+                Au moins trois cent trente (330) espèces dans soixante dix sept (77) familles. 
+                La plupart des arbres portent des feuilles caduques et beaucoup fleurissent de Septembre en Novembre.
+            </p>
+
+            
+            <h2>Comment s’y rendre</h2>
+
+            <ul>
+                <li>
+                    D’Antananarivo: Sur RN4 jusqu’à Ambondromamy (410Km), bifurquer à droite sur la RN6 jusqu’à Ambilobe (609Km),
+                    continuer jusqu’au village de Mahamasina (entrée du Parc) situé à 29 km d’Antsiranana.
+                </li>
+                <li>D’Antsiranana : sur RN6 à 108 km</li>
+                <li>
+                    D’Ankify : prendre la RN6 à Ambalavelona (Ambanja)
+                    sur 15 km et continuer jusqu’à Mahamasina sur 129 km en passant par Ambilobe.
+                </li>
+                <li>De Mahajanga : Sur RN4 jusqu’à Ambondromamy, puis la RN6</li>
+            </ul>
+
+            <h2>Localisation du Parc</h2>
+
+            <p>
+                Le Parc National de l’Ankarana se trouve dans la région DIANA dans le district d’Ambilobe.
+                 04 communes rurales périphériques: Marivorahona, Antsaravibe, Anivorano-Nord et Ambondrona
+                Superficie: 18 225 ha
+                Région : Diana
+            </p>',
+            '137'        => "<h2>Géographie</h2>
+            <h4>Hydrographie</h4>
+
+            <p>
+                11 cours d’eau prennent source à l’intérieur du Parc.
+                Altitude
+                2 132m
+                Climat
+                Type tropical humide
+                Relief
+                Reliefs forestiers accidentés de forme complexe avec des crêtes et des pentes raides et irrégulières.
+            </p>
+
+           
+          
+
+            <h2>Relief</h2>
+
+            <p>
+                Situé sur un plateau cristallin très élevé, constitué à l’Est 
+                par du granit magmatique et à l’Ouest par le gneiss d’Amboropotsy.
+            </p>
+
+            <h2>Période idéale pour la visite</h2>
+
+            <p>
+            Toute l’année
+            Heures d’ouvertures: 8h à 16h
+            </p>
+
+            <h2>Historique</h2>
+            <p>
+                L’Ankarana aurait été utilisé comme refuge par le peuple Antakarana.
+                 Une grotte de l’Ankarana servait de tombeau pour les Rois Antakarana.
+            </p>
+
+            <h2>Population</h2>
+            <p> Antankarana, Tsimihety, Antemoro et Antandroy.</p>",
+            '138'        => "Observation de baleines et de dauphins",
+            '139'        => "baleines à bosse, Dauphins (Stenelle, Thursiop, à bosse)",
+            '140'        => "<h2>Description du Circuit</h2>
+            <p>
+                Observation baleine sur Nosy Be est l’une des spectacles marines à ne pas rater chaque année. 
+                Les Baleines à bosse, les requins baleines et les dauphins  seront au rendez vous  
+                dans le large  de la baie d’Ampasindava 
+                et le canal de Mozambique  entre Août – Septembre – Octobre et Novembre.
+            </p>
+
+            <p>
+                A 8h30: Briefing et départ pour l’observation des Baleines à Bosse. 
+                Cependant, la matinée est consacrée à la recherche et à l’observation des baleines à bosse et des dauphins.
+                Pourtant c’est l’occasion d’assister à un spectacle extraordinaire : 
+                Couple mère/baleineau se reposant en surface, frappes de caudale et pectorales et souvent des sauts spectaculaires !
+            </p>
+
+            <p>
+                Cette sortie est une opportunité pour nous de sensibiliser les voyageurs 
+                sur la valeur et l’importance de protéger 
+                ces mammifères marins. A 13h30, un repas typique et copieux vous sera servi sur la plage de Nosy Sakatia. 
+                Pour continuer, à 14h30 : c’est le temps pour faire le Snorkeling libre devant la plage pour observer les tortues (selon la marée).
+                Finalement, retour à 15h30.
+            </p>",
+            '141'        => "<li><b>Visite : </b> Observation des baleines à bosse, Dauphins (Stenelle, Thursiop, à bosse), tortue verte</li>
+                <li><b>Durée : </b>  Une journée</li>
+                <li><b>Départ :</b> Plage Madirokely</li>
+                <li><b>Nombre de pax : </b> Les Clients , Guide Accompagnateur, Skippeur</li>
+                <li><b>Moyen de transport : </b> Bateau Rapide, Gilet sauvetages disponible</li>
+                <li><b>Déjeuner :</b>  à Nosy Sakatia</li>",
+            '142'       => '<h3>Points fort</h3>
+                        <ul>
+                            <li>expérience riche en émotion</li>
+                            <li>Rencontre avec les mammifères</li>
+                            <li>Farniente</li>
+                            <li>Nager avec tortue de mer</li>
+                        </ul>',
+            '143'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Accompagnateur</li>
+                            <li>Déjeuner</li>
+                            <li>Matériel pour snorkeling</li>
+                            <li>Eau minéral</li>
+                            <li>Droit des visites.</li>
+                        </ul>',
+            '144'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                        </ul>',
+            '145'       => '',
+            '146'       => '',
+            '147'       => '',
+            '148'       => '',
+            '149'       => '',
+            '150'       => '',
+            '151'       => '',
+            '152'       => '',
+            '153'       => '',
+            '154'       => '',
+            '155'       => '',
+            '156'       => '',
+            '157'       => '',
+            '158'       => '',
+            '159'       => '',
+            '160'       => '',
+            '161'       => '',
+            '162'       => '',
+            '163'       => '',
+            '164'       => '',
+            '165'       => '',
+            '166'       => '',
+            '167'       => '',
+            '168'       => '',
+            '169'       => '',
+            '170'       => '',
+            '171'       => '',
+            '172'       => '',
+            '173'       => '',
+            '174'       => '',
+            '175'       => '',
+            '176'       => '',
+            '177'       => '',
+            '178'       => '',
+            '179'       => '',
+            '180'       => '',
             'inclus'    => 'Services Inclus',
             'non_inclus'=> 'Services Non Inclus',
             '79'        => "catamaran Mitsio et RADAMA",
@@ -2238,13 +2577,188 @@ the Peripheral Zone contains 133 villages and hamlets Dominant ethnic group: Sak
  Stimato in 37.456 abitanti,
  La zona periferica contiene 133 villaggi e frazioni. Gruppo etnico dominante: Sakalava
  </p>',
-            '135'        => "",
-            '136'        => "",
-            '137'        => "",
-            '138'        => "",
-            '139'        => "",
-            '140'        => "",
-            '141'        => "",
+            '135'        => "Parco Ankarana",
+            '136'        => '<h2>Specificità del Parco</h2>
+
+
+ <p class="mb-4">
+ Riserva speciale, foresta secca densa, gli Tsingy e la loro popolazione e la foresta dei Canyon.
+ </p>
+
+
+
+ <h2>I paesaggi della Riserva Speciale dell\'Ankarana</h2>
+
+ <p>
+ Paesaggio composto da una spettacolare distesa di Tsingy in una formazione di fitta foresta decidua secca.
+ </p>
+
+ <h4>La fauna della Riserva Speciale dell\'Ankarana</h4>
+
+ <ul>
+ <li>Cinquanta (50) specie di molluschi e un gran numero di lumache tsingy</li>
+ <li>Metà delle specie di pipistrelli del Madagascar, quattordici (14) specie</li>
+ <li>Sessanta (60) specie di rettili e anfibi</li>
+ <li>Undici (11) specie di lemuri</li>
+ <li>Sessanta (60) specie di rettili e anfibi</li>
+ <li>Novanta sei (96) specie di uccelli</li>
+ </ul>
+
+ <h4>La flora della Riserva Speciale dell\'Ankarana</h4>
+
+ <p>
+ Almeno trecentotrenta (330) specie in settantasette (77) famiglie.
+ La maggior parte degli alberi sono decidui e molti fioriscono da settembre a novembre.
+ </p>
+
+
+ <h2>Come arrivare</h2>
+
+ <ul>
+ <li>
+ Da Antananarivo: sulla RN4 fino ad Ambondromamy (410 km), svoltare a destra sulla RN6 fino ad Ambilobe (609 km),
+ proseguire fino al villaggio di Mahamasina (ingresso del Parco) situato a 29 km da Antsiranana.
+ </li>
+ <li>Da Antsiranana: sulla RN6 al km 108</li>
+ <li>
+ Da Ankify: prendere la RN6 per Ambalavelona (Ambanja)
+ per 15 km e proseguire verso Mahamasina per 129 km passando per Ambilobe.
+ </li>
+ <li>Da Mahajanga: sulla RN4 fino ad Ambondromamy, poi sulla RN6</li>
+ </ul>
+
+ <h2>Posizione del parco</h2>
+
+ <p>
+ Il Parco nazionale di Ankarana si trova nella regione di DIANA, nel distretto di Ambilobe.
+ 04 comuni rurali periferici: Marivorahona, Antsaravibe, Anivorano-Nord e Ambondrona
+ Superficie: 18.225 ha
+ Regione: Diana
+ </p>',
+            '137'        => "<h2>Geografia</h2>
+ <h4>Idrografia</h4>
+
+ <p>
+ All'interno del Parco nascono 11 fiumi.
+ Altitudine
+ 2.132 milioni
+ Clima
+ Tipo tropicale umido
+ Sollievo
+ Forme forestali accidentate, dalla forma complessa, con creste e pendii ripidi e irregolari.
+ </p>
+
+
+
+
+ <h2>sollievo</h2>
+
+ <p>
+ Situato su un altissimo altopiano cristallino, formatosi ad Est
+ dal granito magmatico e ad ovest dallo gneiss di Amboropotsy.
+ </p>
+
+ <h2>Momento ideale per visitare</h2>
+
+ <p>
+ Tutto l'anno
+ Orari di apertura: dalle 8:00 alle 16:00.
+ </p>
+
+ <h2>Storia</h2>
+ <p>
+ Si dice che l'Ankarana fosse utilizzato come rifugio dal popolo Antakarana.
+ Una grotta ad Ankarana fungeva da tomba per i re Antakarana.
+ </p>
+
+ <h2>Popolazione</h2>
+ <p>Antankarana, Tsimihety, Antemoro e Antandroy.</p>",
+            '138'        => "Osservazione di balene e delfini",
+            '139'        => "balene megattere, delfini (Stenella, Thursiop, megattere)",
+            '140'        => "<h2>Descrizione del circuito</h2>
+ <p>
+ L'osservazione delle balene a Nosy Be è uno degli spettacoli marini da non perdere ogni anno.
+ Saranno presenti balene megattere, squali balena e delfini
+ nel mare aperto della baia di Ampasindava
+ e il Canale del Mozambico tra agosto – settembre – ottobre e novembre.
+ </p>
+
+ <p>
+ Ore 8:30: Briefing e partenza per l'osservazione delle Megattere.
+ La mattinata è invece dedicata alla ricerca e all'osservazione delle megattere e dei delfini.
+ Eppure è un'occasione per assistere ad uno spettacolo straordinario:
+ Coppia madre/vitello riposa in superficie, colpi di coda e pettorali e salti spesso spettacolari!
+ </p>
+
+ <p>
+ Questa gita è un'opportunità per sensibilizzare i viaggiatori
+ sul valore e l'importanza della protezione
+ questi mammiferi marini. Alle ore 13:30 vi verrà servito un pasto tipico e sostanzioso sulla spiaggia di Nosy Sakatia.
+ Per proseguire, ore 14:30: è il momento di fare snorkeling libero di fronte alla spiaggia per osservare le tartarughe (a seconda della marea).
+ Infine, ritorno alle 15:30.
+ </p>",
+            '141'        => "<li><b>Visita:</b> Osservazione delle megattere, delfini (Stenella, Thursiop, megattere), tartaruga verde</li>
+ <li><b>Durata:</b> Un giorno</li>
+ <li><b>Partenza:</b> Madirokely Beach</li>
+ <li><b>Numero di passeggeri:</b> Clienti, Guida accompagnatrice, Skipper</li>
+ <li><b>Mezzi di trasporto:</b> Barca veloce, Giubbotti di salvataggio disponibili</li>
+ <li><b>Pranzo:</b> a Nosy Sakatia</li>",
+            '142'       => '<h3>Punti di forza</h3>
+ <ul>
+ <li>esperienza ricca di emozioni</li>
+ <li>Incontro con i mammiferi</li>
+ <li>Ozio</li>
+ <li>Nuotare con la tartaruga marina</li>
+ </ul>',
+            '143'       => '<h3>Servizi inclusi</h3>
+ <ul>
+ <li>Accompagnatore</li>
+ <li>Pranzo</li>
+ <li>Attrezzatura per lo snorkeling</li>
+ <li>Acqua minerale</li>
+ <li>Diritti di visita.</li>
+ </ul>',
+            '144'       => '<h3>Servizi non inclusi</h3>
+ <ul>
+ <li>Bevande</li>
+ <li>Extra personali</li>
+ </ul>',
+            '145'       => '',
+            '146'       => '',
+            '147'       => '',
+            '148'       => '',
+            '149'       => '',
+            '150'       => '',
+            '151'       => '',
+            '152'       => '',
+            '153'       => '',
+            '154'       => '',
+            '155'       => '',
+            '156'       => '',
+            '157'       => '',
+            '158'       => '',
+            '159'       => '',
+            '160'       => '',
+            '161'       => '',
+            '162'       => '',
+            '163'       => '',
+            '164'       => '',
+            '165'       => '',
+            '166'       => '',
+            '167'       => '',
+            '168'       => '',
+            '169'       => '',
+            '170'       => '',
+            '171'       => '',
+            '172'       => '',
+            '173'       => '',
+            '174'       => '',
+            '175'       => '',
+            '176'       => '',
+            '177'       => '',
+            '178'       => '',
+            '179'       => '',
+            '180'       => '',
             'inclus'    => 'Servizi inclusi',
             'non_inclus'=> 'Servizi non inclusi',
             '79'        => "catamarano Mitsio e RADAMA",
@@ -3050,13 +3564,188 @@ the Peripheral Zone contains 133 villages and hamlets Dominant ethnic group: Sak
  Geschätzte 37.456 Einwohner,
  Die Randzone umfasst 133 Dörfer und Weiler. Dominante ethnische Gruppe: Sakalava
  </p>',
-            '135'        => "",
-            '136'        => "",
-            '137'        => "",
-            '138'        => "",
-            '139'        => "",
-            '140'        => "",
-            '141'        => "",
+            '135'        => "Der Ankarana-Park",
+            '136'        => '<h2>Besonderheiten des Parks</h2>
+
+
+ <p class="mb-4">
+ Sonderreservat, dichter Trockenwald, die Tsingy und ihre Bevölkerung und der Canyon-Wald.
+ </p>
+
+
+
+ <h2>Die Landschaften des Ankarana-Sonderreservats</h2>
+
+ <p>
+ Die Landschaft besteht aus einer spektakulären Weite der Tsingy in einer Formation aus dichtem, trockenem Laubwald.
+ </p>
+
+ <h4>Die Fauna des Ankarana-Sonderreservats</h4>
+
+ <ul>
+ <li>Fünfzig (50) Arten von Weichtieren und eine große Anzahl von Tsingy-Schnecken</li>
+ <li>Die Hälfte der Fledermausarten Madagaskars, vierzehn (14) Arten</li>
+ <li>Sechzig (60) Arten von Reptilien und Amphibien</li>
+ <li>Elf (11) Lemurenarten</li>
+ <li>Sechzig (60) Arten von Reptilien und Amphibien</li>
+ <li>Sechsundneunzig (96) Vogelarten</li>
+ </ul>
+
+ <h4>Die Flora des Ankarana-Sonderreservats</h4>
+
+ <p>
+ Mindestens dreihundertdreißig (330) Arten in siebenundsiebzig (77) Familien.
+ Die meisten Bäume sind Laubbäume und viele blühen von September bis November.
+ </p>
+
+
+ <h2>Anfahrt</h2>
+
+ <ul>
+ <li>
+ Von Antananarivo: Auf der RN4 nach Ambondromamy (410 km), dann rechts abbiegen auf die RN6 nach Ambilobe (609 km),
+ Weiter geht es zum Dorf Mahamasina (Eingang zum Park), 29 km von Antsiranana entfernt.
+ </li>
+ <li>Von Antsiranana: auf der RN6 bei km 108</li>
+ <li>
+ Von Ankify: Nehmen Sie die RN6 nach Ambalavelona (Ambanja)
+ für 15 km und weiter nach Mahamasina für 129 km über Ambilobe.
+ </li>
+ <li>Von Mahajanga: Auf der RN4 nach Ambondromamy, dann auf der RN6</li>
+ </ul>
+
+ <h2>Lage des Parks</h2>
+
+ <p>
+ Der Ankarana-Nationalpark liegt in der Region DIANA im Distrikt Ambilobe.
+ 04 periphere ländliche Gemeinden: Marivorahona, Antsaravibe, Anivorano-Nord und Ambondrona
+ Fläche: 18.225 ha
+ Region: Diana
+ </p>',
+            '137'        => "<h2>Geographie</h2>
+ <h4>Hydrographie</h4>
+
+ <p>
+ 11 Flüsse entspringen im Park.
+ Höhe
+ 2.132 m
+ Klima
+ Feuchter tropischer Typ
+ Erleichterung
+ Schroffe Waldlandschaften mit komplexer Gestalt und steilen, unregelmäßigen Bergrücken und Hängen.
+ </p>
+
+
+
+
+ <h2>Erleichterung</h2>
+
+ <p>
+ Liegt auf einem sehr hohen kristallinen Plateau, gebildet im Osten
+ durch magmatisches Granit und im Westen durch den Amboropotsy-Gneis.
+ </p>
+
+ <h2>Ideale Reisezeit</h2>
+
+ <p>
+ Das ganze Jahr über
+ Öffnungszeiten: 8 bis 16 Uhr
+ </p>
+
+ <h2>Geschichte</h2>
+ <p>
+ Ankarana soll vom Volk der Antakarana als Zufluchtsort genutzt worden sein.
+ Eine Höhle in Ankarana diente den Königen von Antakarana als Grabstätte.
+ </p>
+
+ <h2>Bevölkerung</h2>
+ <p>Antankarana, Tsimihety, Antemoro und Antandroy.</p>",
+            '138'        => "Wal- und Delfinbeobachtung",
+            '139'        => "Buckelwale, Delfine (Stenella, Thursiop, Buckelwal)",
+            '140'        => "<h2>Schaltungsbeschreibung</h2>
+ <p>
+ Die Walbeobachtung auf Nosy Be ist eines der Meeresspektakel, das man jedes Jahr nicht verpassen sollte.
+ Buckelwale, Walhaie und Delfine werden dort sein
+ im offenen Meer der Ampasindava Bucht
+ und der Kanal von Mosambik zwischen August – September – Oktober und November.
+ </p>
+
+ <p>
+ Um 8:30 Uhr: Briefing und Abfahrt zur Buckelwalbeobachtung.
+ Der Vormittag ist jedoch der Suche und Beobachtung von Buckelwalen und Delfinen gewidmet.
+ Dennoch ist es die Gelegenheit, Zeuge eines außergewöhnlichen Schauspiels zu werden:
+ Mutter-Kalb-Paar ruht an der Oberfläche, Schwanz- und Brustschläge und oft spektakuläre Sprünge!
+ </p>
+
+ <p>
+ Dieser Ausflug ist für uns eine Gelegenheit, das Bewusstsein der Reisenden zu schärfen
+ über den Wert und die Bedeutung des Schutzes
+ diese Meeressäugetiere. Um 13.30 Uhr wird Ihnen am Strand von Nosy Sakatia ein typisches und herzhaftes Essen serviert.
+ Weiter geht es um 14:30 Uhr: Zeit zum kostenlosen Schnorcheln vor dem Strand, um die Schildkröten zu beobachten (je nach Gezeiten).
+ Endlich zurück, um 15.30 Uhr.
+ </p>",
+            '141'        => "<li><b>Besuch:</b> Beobachtung von Buckelwalen, Delfinen (Stenella, Thursiop, Buckelwal), Suppenschildkröte</li>
+ <li><b>Dauer:</b> Ein Tag</li>
+ <li><b>Abfahrt:</b> Madirokely Beach</li>
+ <li><b>Anzahl der Passagiere:</b> Kunden, Begleitführer, Skipper</li>
+ <li><b>Transportmittel:</b> Schnellboot, Schwimmwesten vorhanden</li>
+ <li><b>Mittagessen:</b> in Nosy Sakatia</li>",
+            '142'       => '<h3>Stärken</h3>
+ <ul>
+ <li>Erlebnis voller Emotionen</li>
+ <li>Begegnung mit Säugetieren</li>
+ <li>Müßiggang</li>
+ <li>Schwimmen mit Meeresschildkröten</li>
+ </ul>',
+            '143'       => '<h3>Inklusivleistungen</h3>
+ <ul>
+ <li>Begleiter</li>
+ <li>Mittagessen</li>
+ <li>Schnorchelausrüstung</li>
+ <li>Mineralwasser</li>
+ <li>Besuchsrecht.</li>
+ </ul>',
+            '144'       => '<h3>Nicht inbegriffene Leistungen</h3>
+ <ul>
+ <li>Getränke</li>
+ <li>Persönliche Extras</li>
+ </ul>',
+            '145'       => '',
+            '146'       => '',
+            '147'       => '',
+            '148'       => '',
+            '149'       => '',
+            '150'       => '',
+            '151'       => '',
+            '152'       => '',
+            '153'       => '',
+            '154'       => '',
+            '155'       => '',
+            '156'       => '',
+            '157'       => '',
+            '158'       => '',
+            '159'       => '',
+            '160'       => '',
+            '161'       => '',
+            '162'       => '',
+            '163'       => '',
+            '164'       => '',
+            '165'       => '',
+            '166'       => '',
+            '167'       => '',
+            '168'       => '',
+            '169'       => '',
+            '170'       => '',
+            '171'       => '',
+            '172'       => '',
+            '173'       => '',
+            '174'       => '',
+            '175'       => '',
+            '176'       => '',
+            '177'       => '',
+            '178'       => '',
+            '179'       => '',
+            '180'       => '',
             'inclus'    => 'Enthaltene Dienstleistungen',
             'non_inclus'=> 'Nicht enthaltene Dienstleistungen',
             '79'        => "Katamaran Mitsio und RADAMA",
