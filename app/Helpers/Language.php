@@ -738,8 +738,97 @@ Finally, return at 3:30 p.m.
 <li>Drinks</li>
 <li>Personal extras</li>
 </ul>',
-            '145'       => '',
-            '146'       => '',
+            '145'       => 'Ankarana Park',
+            '146'       => '<h2>Specificity of the Park</h2>
+
+<p class="mb-4">
+National Terrestrial Reserve classified as World Heritage in the Tsingy landscape of different shapes
+where lemurs, land and water birds, bats, amphibians, reptiles, endemic mammals and a flora of more than 650
+species of plants are listed.
+It constitutes a water tower for the entire downstream part of the Bemaraha plateau,
+especially at the level of the Manambolomaty complex, which is one of the three RAMSAR sites in Madagascar,
+and at the level of the rice granary of the region.
+</p>
+
+<h2>The landscapes of Bemaraha National Park</h2>
+
+<p>
+Limestone rocks formed by a deposit of fossils and dead shells under the sea 200 million years ago,
+and subsequently shaped by rainwater 5 million years ago,
+the Tsingy offer one of the most spectacular landscapes on the Big Island.
+
+</p>
+
+<h4>The Fauna of Bemaraha Park</h4>
+
+<p>
+376 species including 3 species of insectivores, 5 species of Rodents,
+16 species of Bats,
+4 species of carnivores, 11 species of primates, 1 species of Ungulates, 103 species of birds,
+84 species of reptiles, 34 species of amphibians and 112 species of Rhopalocera.
+</p>
+
+ <h4>The Flores of Bemaraha Park</h4>
+
+ <p>
+ 833 species including 817 species of Angiosperms and 16 species of Pteridophytes.
+ </p>
+
+
+ <h2>How to get there</h2>
+
+ <ul>
+ <li>
+ Antananarivo – Morondava: 600km. Then Morondava – Belo on Tsiribihina –
+ Bekopaka (South entrance to the park): 200km in
+ dirt track, accessible from May to November.
+ 4X4s are recommended for this 8-hour stretch of road with at least 1 hour of crossing
+ by ferry on the Tsiribihina river (100 km north of Morondava).
+ </li>
+<li>Antsalova – Bekopaka: secondary road of 100km, accessible from May to November for 4 hours of driving in 4X4.</li>
+
+</ul>
+
+<h2>Location of the Park</h2>
+
+<p>
+GPS: between 44°34’ to 44°57’ of longitude East and 18°12’ to 19°09’ of latitude South.
+The Bemaraha National Park is located in the Center – West of Madagascar, in the Melaky Region.
+Area:
+157,710 ha with 100 km long from North to South and 10 to 40 km wide from East to West
+Region:
+Melaky
+</p>
+
+<h2>Geography</h2>
+
+<p>
+Lake Bemamba, obtained by the ecological function of the Antsingy forest, which re-reads rainwater and filters it little by little throughout the year,
+constitutes the largest source of water in the region. Rivers and streams are also fed by this forest cover on a limestone plateau.
+The watercourses that drain the Antsingy are permanent watercourses.
+</p>
+
+<h2>Ideal period for the visit</h2>
+
+<p>
+May to November
+Opening hours:
+Visiting hours: 6:30 a.m. to 4:30 p.m. – Park ticket sales points:
+Andadoany reception office – Wearing a harness is mandatory for any visit to the Tsingy
+</p>
+
+<h2>History</h2>
+<p>
+In 1927, thanks to the biological, geological,
+and archaeological characteristics of the Antsingy, it was classified as Integral Nature Reserve No. 9. It was declared a UNESCO World Heritage Site in 1990 and a National Cultural Heritage Site in 1991,
+a part of the Reserve was changed status to a National Park in August 1997.
+</p>
+
+<h2>Population</h2>
+<p>
+Heterogeneous but with a Sakalava majority, which is an ethnic group with
+a nature conservation character through regulations on the rational use of biodiversity and through the "Fady".
+</p>',
             '147'       => '',
             '148'       => '',
             '149'       => '',
@@ -1727,8 +1816,107 @@ Finally, return at 3:30 p.m.
                             <li>Boissons</li>
                             <li>Les extras à caractère personnel</li>
                         </ul>',
-            '145'       => '',
-            '146'       => '',
+            '145'       => 'Parc Ankarana',
+            '146'       => '<h2>Spécificité du Parc</h2>
+            
+            
+            <p class="mb-4">
+                Réserve National Terrestre classée Patrimoine Mondial au paysage de Tsingy de différentes formes 
+                où lémuriens, oiseaux terrestres et aquatiques, chauves-souris, amphibiens, 
+                reptiles, des mammifères endémiques et une flore de plus de 650 
+                espèces de plantes sont répertoriés.
+                Il constitue un château d’eau pour toute la partie en aval du plateau de Bemaraha,
+                 surtout au niveau du complexe 
+                Manambolomaty, qui est l’un des trois sites RAMSAR de Madagascar, 
+                et au niveau du grenier à riz de la région.
+            </p>
+
+
+
+            <h2>Les paysages du Parc National Bemaraha</h2>
+
+            <p>
+            Roches calcaires formées par un dépôt de fossiles et de 
+            coquillages morts sous la mer il y a 200 millions d’années, 
+            et par la suite façonnées par l’eau des pluies il y a 5 millions d’années,
+             les Tsingy offrent l’un des paysages les plus spectaculaires de la Grande Île.
+            </p>
+
+            <h4>Les Faunes du Parc Bemaraha</h4>
+
+           <p>
+                376 espèces dont 3 espèces d’insectivores, 5 espèces de Rodentes, 
+                16 espèces de Chiroptères,
+                    4 espèces de carnivores, 11 espèces de primates, 1 espèce d’Ongulés, 103 espèces d’oiseaux, 
+                84 espèces de reptiles, 34 espèces d’amphibiens et 112 espèces de Rhopalocères.
+           </p>
+
+            <h4>Les Flores du Parc Bemaraha</h4>
+
+            <p>
+                833 espèces dont 817 espèces d’Angiospermes et 16 espèces de Ptéridophytes.
+            </p>
+
+            
+            <h2>Comment s’y rendre</h2>
+
+            <ul>
+                <li>
+                    Antananarivo – Morondava: 600km. Puis Morondava – Belo sur Tsiribihina – 
+                    Bekopaka (entrée Sud du parc): 200km en
+                    piste terre, accessible de mai à novembre. 
+                    Les 4X4 sont recommandés pour ce tronçon de 8h de route avec au moins 1h de traversée 
+                    en bac sur le fleuve de Tsiribihina (à 100 km au nord de Morondava).
+                </li>
+                <li>Antsalova – Bekopaka: route secondaire de 100km, accessible de mai à novembre pour 4h de route en 4X4.</li>
+                
+            </ul>
+
+            <h2>Localisation du Parc</h2>
+
+            <p>
+                GPS: entre 44°34’ à 44°57’ de longitude Est et 18°12’ à 19°09’ de latitude Sud.
+                Le Parc National Bemaraha est situé dans le Centre – Ouest de Madagascar, dans la Région Melaky.
+                Superficie:
+                157.710 ha avec 100 km de long de Nord au Sud et 10 à 40 km de large d’Est en Ouest
+                Région :
+                Melaky
+            </p>
+
+           
+            <h2>Géographie</h2>
+
+            <p>
+                Le lac Bemamba, obtenu par la fonction écologique de la forêt 
+                de l’Antsingy qui relit les eaux de pluie et les filtre petit à petit tout au long de l’année,
+                constitue la plus grande source d’eau de la région. Des rivières et des fleuves sont 
+                également alimentés par cette couverture forestière sur plateau calcaire. 
+                Les cours d’eau qui drainent l’Antsingy sont des cours d’eau permanents.
+            </p>
+
+            <h2>Période idéale pour la visite</h2>
+
+            <p>
+                Mai à Novembre
+                Heures d’ouvertures:
+                Horaire de visite : 6h 30 à 16h30 – Points de vente des tickets du parc : 
+                Bureau d’accueil Andadoany – Port de baudrier obligatoire pour toute visite des Tsingy
+            </p>
+
+            <h2>Historique</h2>
+            <p>
+                En 1927, grâce aux caractéristiques biologiques, géologiques, 
+                et archéologiques de l’Antsingy, il a été classé en Réserve Naturelle Intégrale n°9. 
+                Il est déclaré site du Patrimoine Mondial de l’UNESCO en 1990 et Patrimoine Culturel National en 1991, 
+                une partie de la Réserve a été changée de statut en Parc National en août 1997.
+            </p>
+
+            <h2>Population</h2>
+            <p>
+                Hétéroclite mais à majorité Sakalava qui est une ethnie ayant
+                un caractère conservateur de la nature par des 
+                réglementations de l’utilisation rationnelle de la biodiversité et par le biais des « Fady ».
+            </p>',
             '147'       => '',
             '148'       => '',
             '149'       => '',
@@ -2723,8 +2911,107 @@ Finally, return at 3:30 p.m.
  <li>Bevande</li>
  <li>Extra personali</li>
  </ul>',
-            '145'       => '',
-            '146'       => '',
+            '145'       => 'Parco Ankarana',
+            '146'       => '<h2>Specificità del Parco</h2>
+
+
+ <p class="mb-4">
+ Riserva terrestre nazionale classificata come patrimonio mondiale con il paesaggio Tsingy dalle diverse forme
+ dove vivono lemuri, uccelli terrestri e acquatici, pipistrelli, anfibi,
+ rettili, mammiferi endemici e una flora di oltre 650
+ sono elencate le specie vegetali.
+ Costituisce un serbatoio idrico per tutta la parte a valle dell\'altopiano di Bemaraha,
+ soprattutto a livello complesso
+ Manambolomaty, che è uno dei tre siti RAMSAR in Madagascar,
+ e a livello del granaio del riso della regione.
+ </p>
+
+
+
+ <h2>I paesaggi del Parco Nazionale di Bemaraha</h2>
+
+ <p>
+ Rocce calcaree formate da un deposito di fossili e
+ conchiglie morte sotto il mare 200 milioni di anni fa,
+ e successivamente modellato dall\'acqua piovana 5 milioni di anni fa,
+ Gli Tsingy offrono uno dei paesaggi più spettacolari della Grande Isola.
+ </p>
+
+ <h4>La fauna del parco Bemaraha</h4>
+
+ <p>
+ 376 specie tra cui 3 specie di insettivori, 5 specie di roditori,
+ 16 specie di pipistrelli,
+ 4 specie di carnivori, 11 specie di primati, 1 specie di ungulati, 103 specie di uccelli,
+ 84 specie di rettili, 34 specie di anfibi e 112 specie di Ropaloceri.
+ </p>
+
+ <h4>I fiori del parco Bemaraha</h4>
+
+ <p>
+ 833 specie, tra cui 817 specie di Angiosperme e 16 specie di Pteridofite.
+ </p>
+
+
+ <h2>Come arrivare</h2>
+
+ <ul>
+ <li>
+ Antananarivo – Morondava: 600 km. Poi Morondava – Belo sur Tsiribihina –
+ Bekopaka (ingresso meridionale del parco): 200 km in
+ strada sterrata, percorribile da maggio a novembre.
+ Per questo viaggio di 8 ore, con una traversata di almeno 1 ora, si consigliano veicoli 4x4.
+ in traghetto sul fiume Tsiribihina (100 km a nord di Morondava).
+ </li>
+ <li>Antsalova – Bekopaka: strada secondaria di 100 km, percorribile da maggio a novembre per 4 ore di guida in fuoristrada.</li>
+
+ </ul>
+
+ <h2>Posizione del parco</h2>
+
+ <p>
+ GPS: tra 44°34’ e 44°57’ di longitudine est e 18°12’ e 19°09’ di latitudine sud.
+ Il Parco Nazionale Bemaraha si trova nel centro-ovest del Madagascar, nella regione di Melaky.
+ Zona:
+ 157.710 ettari con 100 km di lunghezza da nord a sud e 10-40 km di larghezza da est a ovest
+ Regione:
+ Melaky
+ </p>
+
+
+ <h2>Geografia</h2>
+
+ <p>
+ Lago Bemamba, ottenuto dalla funzione ecologica della foresta
+ dell\'Antsingy che rilegge l\'acqua piovana e la filtra poco a poco durante tutto l\'anno,
+ costituisce la più grande fonte d\'acqua della regione. I fiumi e i torrenti sono
+ alimentata anche da questa copertura forestale sull\'altopiano calcareo.
+ I corsi d\'acqua che drenano l\'Antsingy sono corsi d\'acqua permanenti.
+ </p>
+
+ <h2>Momento ideale per visitare</h2>
+
+ <p>
+ Da maggio a novembre
+ Orari di apertura:
+ Orari di visita: dalle 6:30 alle 16:30 – Punti vendita biglietti parco:
+ Ufficio Accoglienza Andadoany – Indossare l’imbracatura è obbligatorio per qualsiasi visita al Tsingy
+ </p>
+
+ <h2>Storia</h2>
+ <p>
+ Nel 1927, grazie alle caratteristiche biologiche e geologiche,
+ e i siti archeologici di Antsingy, è stata classificata come Riserva Naturale Integrale n. 9.
+ Nel 1990 è stato dichiarato Patrimonio dell\'umanità dall\'UNESCO e nel 1991 Patrimonio culturale nazionale.
+ Nell\'agosto del 1997 una parte della riserva è stata trasformata in parco nazionale.
+ </p>
+
+ <h2>Popolazione</h2>
+ <p>
+ Eterogeneo ma prevalentemente Sakalava, che è un gruppo etnico avente
+ un carattere conservativo della natura da
+ regolamenti sull’uso razionale della biodiversità e attraverso il “Fady”.
+ </p>',
             '147'       => '',
             '148'       => '',
             '149'       => '',
@@ -3710,8 +3997,107 @@ Finally, return at 3:30 p.m.
  <li>Getränke</li>
  <li>Persönliche Extras</li>
  </ul>',
-            '145'       => '',
-            '146'       => '',
+            '145'       => 'Der Ankarana-Park',
+            '146'       => '<h2>Besonderheiten des Parks</h2>
+
+
+ <p Klasse="mb-4">
+ Zum Weltkulturerbe erklärtes nationales terrestrisches Reservat mit der Tsingy-Landschaft unterschiedlicher Formen
+ wo Lemuren, Land- und Wasservögel, Fledermäuse, Amphibien,
+ Reptilien, endemische Säugetiere und eine Flora von mehr als 650
+ Pflanzenarten sind aufgelistet.
+ Es ist ein Wasserturm für den gesamten stromabwärts gelegenen Teil des Bemaraha-Plateaus,
+ insbesondere auf der komplexen Ebene
+ Manambolomaty, eines der drei RAMSAR-Gebiete in Madagaskar,
+ und auf der Ebene der Reisspeicher der Region.
+ </p>
+
+
+
+ <h2>Die Landschaften des Bemaraha Nationalparks</h2>
+
+ <p>
+ Kalksteinfelsen, gebildet durch eine Ablagerung von Fossilien und
+ Muscheln, die vor 200 Millionen Jahren unter dem Meer starben,
+ und anschließend vor 5 Millionen Jahren durch Regenwasser geformt,
+ Die Tsingy bieten eine der spektakulärsten Landschaften auf der Big Island.
+ </p>
+
+ <h4>Die Fauna des Bemaraha-Parks</h4>
+
+ <p>
+ 376 Arten, darunter 3 Arten von Insektenfressern, 5 Arten von Nagetieren,
+ 16 Fledermausarten,
+ 4 Arten von Fleischfressern, 11 Arten von Primaten, 1 Art von Huftieren, 103 Arten von Vögeln,
+ 84 Reptilienarten, 34 Amphibienarten und 112 Rhopalocera-Arten.
+ </p>
+
+ <h4>Die Blumen des Bemaraha Parks</h4>
+
+ <p>
+ 833 Arten, darunter 817 Arten der Angiospermen und 16 Arten der Farne.
+ </p>
+
+
+ <h2>Anfahrt</h2>
+
+ <ul>
+ <li>
+ Antananarivo – Morondava: 600 km. Dann Morondava – Belo sur Tsiribihina –
+ Bekopaka (südlicher Eingang zum Park): 200 km in
+ Feldweg, befahrbar von Mai bis November.
+ Für diese 8-stündige Fahrt mit mindestens einer einstündigen Überfahrt werden Allradfahrzeuge empfohlen.
+ mit der Fähre auf dem Fluss Tsiribihina (100 km nördlich von Morondava).
+ </li>
+ <li>Antsalova – Bekopaka: 100 km lange Nebenstraße, von Mai bis November in 4 Stunden mit dem Geländewagen erreichbar.</li>
+
+ </ul>
+
+ <h2>Lage des Parks</h2>
+
+ <p>
+ GPS: zwischen 44°34’ und 44°57’ östlicher Länge und 18°12’ und 19°09’ südlicher Breite.
+ Der Bemaraha-Nationalpark liegt im Zentrum West-Madagaskars in der Region Melaky.
+ Bereich:
+ 157.710 ha mit 100 km Länge von Nord nach Süd und 10 bis 40 km Breite von Ost nach West
+ Region:
+ Melaky
+ </p>
+
+
+ <h2>Geographie</h2>
+
+ <p>
+ Der Bemamba-See, entstanden durch die ökologische Funktion des Waldes
+ des Antsingy, der das Regenwasser wiederverwertet und es das ganze Jahr über nach und nach filtert,
+ stellt die größte Wasserquelle der Region dar. Flüsse und Bäche sind
+ wird auch von dieser Waldbedeckung auf Kalksteinplateaus gespeist.
+ Die Wasserläufe, die den Antsingy entwässern, sind permanente Wasserläufe.
+ </p>
+
+ <h2>Ideale Reisezeit</h2>
+
+ <p>
+ Mai bis November
+ Öffnungszeiten:
+ Besuchszeiten: 6.30 bis 16.30 Uhr – Parkticket-Verkaufsstellen:
+ Andadoany Empfangsbüro – Das Tragen eines Klettergurtes ist bei jedem Besuch der Tsingy Pflicht
+ </p>
+
+ <h2>Geschichte</h2>
+ <p>
+ Im Jahr 1927, dank der biologischen, geologischen Eigenschaften,
+ und die archäologischen Stätten von Antsingy wurden als Integrales Naturreservat Nr. 9 eingestuft.
+ Es wurde 1990 zum UNESCO-Weltkulturerbe und 1991 zum Nationalen Kulturerbe erklärt.
+ Im August 1997 wurde für einen Teil des Reservats der Status eines Nationalparks geändert.
+ </p>
+
+ <h2>Bevölkerung</h2>
+ <p>
+ Heterogene, aber überwiegend Sakalava, eine ethnische Gruppe mit
+ ein konservativer Charakter der Natur durch
+ Vorschriften zur rationalen Nutzung der Biodiversität und durch das „Fady“.
+ </p>',
             '147'       => '',
             '148'       => '',
             '149'       => '',
