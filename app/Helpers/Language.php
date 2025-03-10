@@ -829,11 +829,54 @@ a part of the Reserve was changed status to a National Park in August 1997.
 Heterogeneous but with a Sakalava majority, which is an ethnic group with
 a nature conservation character through regulations on the rational use of biodiversity and through the "Fady".
 </p>',
-            '147'       => '',
-            '148'       => '',
-            '149'       => '',
-            '150'       => '',
-            '151'       => '',
+            '147'       => 'Bemaraha Park',
+            '148'       => 'Catamaran crui',
+            '149'       => '<h2><a href="#" download="/assets/documents/archipel_mitsio_radama.pdf">ARCHIPELAGO OF MITSIO <small>Download PDF</small></a> </h2>
+
+ <p class="mb-4">
+ Visits: Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, the 4 brothers <br>
+ Duration: 3 days – 2 nights <br>
+ Departure: Nosy Be
+ </p>
+
+ <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> RADAMA ARCHIPELAGO <small>Download PDF</small></a></h2>
+
+ <p>
+ Visits: Nosy Kalakajoro, Russe Bay, Antany Mora, Baramamahay, Nosy Iranja, Nosy Tanikely <br>
+ Duration: 5 days – 4 nights
+ </p>
+
+ <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> ARCHIPELAGO DE MITSIO ET DE RADAMA <small>Download PDF</small></a></h2>
+
+<p>
+Visits: Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, the 4 brothers, Nosy Sakatia, Nosy Kalakajoro, Baie de Russe, Antany Mora Baramamahay, Nosy Iranja, Nosy Tanikely <br>
+Duration: 11 days – 10 nights.
+</p>
+
+<b>All departures: Nosy Be</b>
+
+<p>Highlight</p>
+
+<ul>
+<li>paradisiacal and calm beaches</li>
+<li>discovery of several types of fishing</li>
+<li>a real discovery of nature in its pure state</li>
+<li>a fauna and flora rich in content</li>
+</ul>',
+            '150'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel reception</li>
+<li>Full board</li>
+<li>Mineral water</li>
+<li>Snorkeling equipment</li>
+<li>Fishing equipment.</li>
+</ul>',
+            '151'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>Tip</li>
+</ul>',
             '152'       => '',
             '153'       => '',
             '154'       => '',
@@ -1917,11 +1960,54 @@ a nature conservation character through regulations on the rational use of biodi
                 un caractère conservateur de la nature par des 
                 réglementations de l’utilisation rationnelle de la biodiversité et par le biais des « Fady ».
             </p>',
-            '147'       => '',
-            '148'       => '',
-            '149'       => '',
-            '150'       => '',
-            '151'       => '',
+            '147'       => 'parc bemaraha',
+            '148'       => 'Croisière en catamaran',
+            '149'       => '<h2><a href="#" download="/assets/documents/archipel_mitsio_radama.pdf">ARCHIPEL DE MITSIO <small>Download PDF</small></a> </h2>
+            
+            <p class="mb-4">
+                Visites:  Nosy Tsarabanjina , Grand Mitsio, Nosy Ankarea, les 4 frères <br>
+                Durée: 3jours – 2nuits <br>
+                Départ: Nosy Be
+            </p>
+
+            <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> ARCHIPEL DE RADAMA <small>Download PDF</small></a></h2>
+
+            <p>
+                Visites: Nosy Kalakajoro, Baie de Russe, Antany Mora, Baramamahay, Nosy Iranja, Nosy Tanikely <br>
+                Durée: 5jours – 4nuits
+            </p>
+
+            <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> ARCHIPEL DE MITSIO ET DE RADAMA <small>Download PDF</small></a></h2>
+
+            <p>
+            Visites: Nosy Tsarabanjina , Grand Mitsio, Nosy Ankarea, les 4 frères, Nosy Sakatia, Nosy Kalakajoro, Baie de Russe, Antany Mora Baramamahay, Nosy Iranja, Nosy Tanikely <br>
+            Durée: 11jours – 10nuits.
+            </p>
+
+            <b>Tous les départs : Nosy Be</b>
+
+            <p>Point Fort</p>
+
+            <ul>
+                <li>des plages paradisiaques et calmes</li>
+                <li>découverte de plusieurs types de pêches</li>
+                <li>une vrai découverte de la nature à l’Etat pur</li>
+                <li>une faune et flore riche en contenu</li>
+            </ul>',
+            '150'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Accueil à l’hôtel</li>
+                            <li>Pension Complet</li>
+                            <li>Eau minérale</li>
+                            <li>Équipement de plongée apnée</li>
+                            <li>Équipement de pêche.</li>
+                        </ul>',
+            '151'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Les boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboire</li>
+                        </ul>',
             '152'       => '',
             '153'       => '',
             '154'       => '',
@@ -3012,11 +3098,54 @@ a nature conservation character through regulations on the rational use of biodi
  un carattere conservativo della natura da
  regolamenti sull’uso razionale della biodiversità e attraverso il “Fady”.
  </p>',
-            '147'       => '',
-            '148'       => '',
-            '149'       => '',
-            '150'       => '',
-            '151'       => '',
+            '147'       => 'Parco Bemaraha',
+            '148'       => 'Crociera in catamarano',
+            '149'       => '<h2><a href="#" download="/assets/documents/archipel_mitsio_radama.pdf">ARCHIPELAGO DI MITSIO <small>Scarica PDF</small></a> </h2>
+
+ <p class="mb-4">
+ Visite: Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, i 4 fratelli <br>
+ Durata: 3 giorni – 2 notti <br>
+ Partenza: Nosy Be
+ </p>
+
+ <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> ARCIPELAGO RADAMA <small>Scarica PDF</small></a></h2>
+
+ <p>
+ Visite: Nosy Kalakajoro, Russian Bay, Antany Mora, Baramamahay, Nosy Iranja, Nosy Tanikely <br>
+ Durata: 5 giorni – 4 notti
+ </p>
+
+ <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> ARCIPELAGO DI MITSIO E RADAMA <small>Scarica PDF</small></a></h2>
+
+ <p>
+ Visite: Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, i 4 fratelli, Nosy Sakatia, Nosy Kalakajoro, Baie de Russe, Antany Mora Baramamahay, Nosy Iranja, Nosy Tanikely <br>
+ Durata: 11 giorni – 10 notti.
+ </p>
+
+ <b>Tutte le partenze: Nosy Be</b>
+
+ <p>Punto di forza</p>
+
+ <ul>
+ <li>spiagge paradisiache e tranquille</li>
+ <li>scoperta di diversi tipi di pesca</li>
+ <li>una vera scoperta della natura allo stato puro</li>
+ <li>una fauna e una flora ricche di contenuti</li>
+ </ul>',
+            '150'       => '<h3>Servizi inclusi</h3>
+ <ul>
+ <li>Reception dell\'hotel</li>
+ <li>Pensione completa</li>
+ <li>Acqua minerale</li>
+ <li>Attrezzatura per lo snorkeling</li>
+ <li>Attrezzatura da pesca.</li>
+ </ul>',
+            '151'       => '<h3>Servizi non inclusi</h3>
+ <ul>
+ <li>Bevande</li>
+ <li>Extra personali</li>
+ <li>Suggerimento</li>
+ </ul>',
             '152'       => '',
             '153'       => '',
             '154'       => '',
@@ -4098,11 +4227,54 @@ a nature conservation character through regulations on the rational use of biodi
  ein konservativer Charakter der Natur durch
  Vorschriften zur rationalen Nutzung der Biodiversität und durch das „Fady“.
  </p>',
-            '147'       => '',
-            '148'       => '',
-            '149'       => '',
-            '150'       => '',
-            '151'       => '',
+            '147'       => 'Bemaraha-Park',
+            '148'       => 'Katamaranfahrt',
+            '149'       => '<h2><a href="#" download="/assets/documents/archipel_mitsio_radama.pdf">ARCHIPEL VON MITSIO <small>PDF herunterladen</small></a> </h2>
+
+ <p class="mb-4">
+ Besuche: Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, die 4 Brüder <br>
+ Dauer: 3 Tage – 2 Nächte <br>
+ Abfahrt: Nosy Be
+ </p>
+
+ <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> RADAMA-ARCHIPEL <small>PDF herunterladen</small></a></h2>
+
+ <p>
+ Besuche: Nosy Kalakajoro, Russische Bucht, Antany Mora, Baramamahay, Nosy Iranja, Nosy Tanikely <br>
+ Dauer: 5 Tage – 4 Nächte
+ </p>
+
+ <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> ARCHIPEL VON MITSIO UND RADAMA <small>PDF herunterladen</small></a></h2>
+
+ <p>
+ Besuche: Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, die 4 Brüder, Nosy Sakatia, Nosy Kalakajoro, Baie de Russe, Antany Mora Baramamahay, Nosy Iranja, Nosy Tanikely <br>
+ Dauer: 11 Tage – 10 Nächte.
+ </p>
+
+ <b>Alle Abfahrten: Nosy Be</b>
+
+ <p>Stärke</p>
+
+ <ul>
+ <li>paradiesische und ruhige Strände</li>
+ <li>Entdeckung verschiedener Angelarten</li>
+ <li>eine wahre Entdeckung der Natur in ihrem reinen Zustand</li>
+ <li>eine inhaltsreiche Fauna und Flora</li>
+ </ul>',
+            '150'       => '<h3>Inklusivleistungen</h3>
+ <ul>
+ <li>Hotelrezeption</li>
+ <li>Vollpension</li>
+ <li>Mineralwasser</li>
+ <li>Schnorchelausrüstung</li>
+ <li>Angelausrüstung.</li>
+ </ul>',
+            '151'       => '<h3>Nicht inbegriffene Leistungen</h3>
+ <ul>
+ <li>Getränke</li>
+ <li>Persönliche Extras</li>
+ <li>Tipp</li>
+ </ul>',
             '152'       => '',
             '153'       => '',
             '154'       => '',

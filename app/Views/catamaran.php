@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-9 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-                    <h1 class="mf-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Croisière en catamaran</h1>
+                    <h1 class="mf-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><?= $translations['148'] ?> </h1>
                 </div>
             </div>
         </div>
@@ -56,67 +56,20 @@
 
     <main>
         <section class="content-section">
-            <h2><a href="#" download="/assets/documents/archipel_mitsio_radama.pdf">ARCHIPEL DE MITSIO <small>Download PDF</small></a> </h2>
-            
-            <p class="mb-4">
-                Visites:  Nosy Tsarabanjina , Grand Mitsio, Nosy Ankarea, les 4 frères <br>
-                Durée: 3jours – 2nuits <br>
-                Départ: Nosy Be
-            </p>
-
-            <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> ARCHIPEL DE RADAMA <small>Download PDF</small></a></h2>
-
-            <p>
-                Visites: Nosy Kalakajoro, Baie de Russe, Antany Mora, Baramamahay, Nosy Iranja, Nosy Tanikely <br>
-                Durée: 5jours – 4nuits
-            </p>
-
-            <h2><a href="#" download="/assets/documents/archipel_radama.pdf"> ARCHIPEL DE MITSIO ET DE RADAMA <small>Download PDF</small></a></h2>
-
-            <p>
-            Visites: Nosy Tsarabanjina , Grand Mitsio, Nosy Ankarea, les 4 frères, Nosy Sakatia, Nosy Kalakajoro, Baie de Russe, Antany Mora Baramamahay, Nosy Iranja, Nosy Tanikely <br>
-            Durée: 11jours – 10nuits.
-            </p>
-
-            <b>Tous les départs : Nosy Be</b>
-
-            <p>Point Fort</p>
-
-            <ul>
-                <li>des plages paradisiaques et calmes</li>
-                <li>découverte de plusieurs types de pêches</li>
-                <li>une vrai découverte de la nature à l’Etat pur</li>
-                <li>une faune et flore riche en contenu</li>
-            </ul>
-
-
-            
+            <?= $translations['149'] ?>
         </section>
 
         <section class="services-section-incl">
             <div class="row">
                 <div class="col-sm-6">
                     <div class="service-list" style="width: 100%;">
-                        <h3>Services Inclus </h3>
-                        <ul>
-                            <li>Accueil à l’hôtel</li>
-                            <li>Pension Complet</li>
-                            <li>Eau minérale</li>
-                            <li>Équipement de plongée apnée</li>
-                            <li>Équipement de pêche.</li>
-                        </ul>
-                        
+                        <?= $translations['150'] ?>
                     </div>
                 </div>
 
                 <div class="col-sm-6">
                     <div class="service-list">
-                        <h3>Services Non Inclus</h3>
-                        <ul>
-                            <li>Les boissons</li>
-                            <li>Les extras à caractère personnel</li>
-                            <li>Pourboire</li>
-                        </ul>
+                        <?= $translations['151'] ?>
                     </div>
                 </div>
             </div>
