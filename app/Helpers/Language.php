@@ -877,29 +877,102 @@ Duration: 11 days – 10 nights.
 <li>Personal Extras</li>
 <li>Tip</li>
 </ul>',
-            '152'       => '',
-            '153'       => '',
-            '154'       => '',
-            '155'       => '',
-            '156'       => '',
-            '157'       => '',
-            '158'       => '',
-            '159'       => '',
-            '160'       => '',
-            '161'       => '',
-            '162'       => '',
-            '163'       => '',
-            '164'       => '',
-            '165'       => '',
-            '166'       => '',
-            '167'       => '',
-            '168'       => '',
-            '169'       => '',
-            '170'       => '',
-            '171'       => '',
-            '172'       => '',
-            '173'       => '',
-            '174'       => '',
+            '152'       => 'Madagascar Circuit',
+            '153'       => '<h2 class="mb-2">Madagascar Tours</h2>
+<div class="text">
+<span>
+NOSY BE PARADISE TOURS organizes and offers multi-day excursions,
+catamaran cruises, and bivouacs in Nosy-Be and its archipelago.
+It also offers a Safari Discovery Tour of the Northern Madagascar circuit or a
+visit to National Parks such as:
+Ankarana National Park and Amber Mountain National Park. Discover the Red Tsingy,
+as well as a unique biodiversity.
+Exceptional flora and fauna with many endemic species.
+</span>
+</div>',
+            '154'       => 'Northern circuits',
+            '155'       => 'Fosa Tower',
+            '156'       => '<p>
+Duration: 14 days 13 nights
+Departure: Nosy Be
+</p>',
+            '157'       => '<h2 class="mb-2">Tour Meva</h2>
+<p>
+Duration: 5 days 4 nights
+Departure: Nosy Be
+</p>',
+            '158'       => '<h2 class="mb-2">Bemaraha Park</h2>
+<p>
+National Terrestrial Reserve, classified as a World Heritage Site, with a Tsingy landscape of varying shapes.
+</p>',
+            '159'       => '<h2 class="mb-2">Ankarana Park</h2>
+<p>
+Special Reserve, Dense Dry Forest, the Tsingy and its population, and the Canyon Forest.
+</p>',
+            '160'       => '<h2 class="mb-2">Marojejy Park</h2>
+<p>
+A terrestrial National Park listed as a World Heritage Site, an impressive massif,
+a dense, lowland rainforest, home to
+the Propithecus candidus or Simpona fotsy.
+</p>',
+            '161'       => '<h2 class="mb-2">Ankarafantsika Park</h2>
+<p>
+Ankarafantsika includes a unique floristic formation on a sandy massif in which faunal species are found with a very high rate of endemicity.
+</p>',
+            '162'       => '<h2 class="mb-2">Salama Tour</h2>
+<p>
+Duration: 6 days 5 nights
+Departure: Nosy Be
+</p>',
+            '163'       => '<h2 class="mb-2">Tour Soa</h2>
+<p>
+Duration: One Day
+Departure: Nosy Be
+
+</p>',
+            '164'       => '<h2 class="mb-2">TSANGATSANGANA</h2>
+<p>Visit: Ankarana Special Reserve (Grey Tsingy – River Loss – Lemurs)</p>',
+            '165'       => '<h2 class="mb-2">TSARABE</h2>
+<p>Ankarana Special Reserve, town of Ambilobe and its surroundings</p>',
+            '166'       => '<h2 class="mb-2">Veloma</h2>
+<p>Ankarana Special Reserve (Grey Tsingy – River Loss – Lemurs)</p>',
+            '167'       => '<h2 class="mb-2">Mantadia National Park</h2>
+<p>
+A terrestrial national park with a dense evergreen rainforest where amphibian species, reptiles, and lemurs have chosen to live.
+
+</p>',
+            '168'       => '<h2 class="mb-2">Ambre Mountain</h2>
+<p>
+National Terrestrial Park and Special Reserve,
+dense rainforest with a very high rate of endemism,
+including thousands of species of precious wood.
+</p>',
+            '169'       => 'RN7 circuits',
+            '170'       => '<h2 class="mb-2">Isalo National Park</h2>
+<p>
+Isalo National Park is a unique ecological representation within the Madagascar National Parks network.
+</p>',
+            '171'       => '<h2 class="mb-2">Andringitra Park</h2>
+<p>
+Terrestrial National Park, a World Heritage Site,
+a refuge for plants and animals from the forest massif of mid-eastern Madagascar.
+</p>',
+            '172'       => '<h2 class="mb-2">Zombitse Park</h2>
+ <p>
+ The Zombitse Vohibasia complex is renowned for
+ its wealth of rare bird species,
+ endemic to Madagascar and/or the area.
+ </p>',
+            '173'       => '<h2 class="mb-2">Ranomafana Park</h2>
+<p>
+Terrestrial National Park, a World Heritage Site, with its dense, lowland rainforest (600-800m).
+</p>',
+            '174'       => '<h2 class="mb-2">Andohahela Park</h2>
+<p>
+A terrestrial national park classified as a World Heritage Site,
+Andohahela represents the biological diversity
+of the far southeast of Madagascar.
+</p>',
             '175'       => '',
             '176'       => '',
             '177'       => '',
@@ -2008,29 +2081,111 @@ Duration: 11 days – 10 nights.
                             <li>Les extras à caractère personnel</li>
                             <li>Pourboire</li>
                         </ul>',
-            '152'       => '',
-            '153'       => '',
-            '154'       => '',
-            '155'       => '',
-            '156'       => '',
-            '157'       => '',
-            '158'       => '',
-            '159'       => '',
-            '160'       => '',
-            '161'       => '',
-            '162'       => '',
-            '163'       => '',
-            '164'       => '',
-            '165'       => '',
-            '166'       => '',
-            '167'       => '',
-            '168'       => '',
-            '169'       => '',
-            '170'       => '',
-            '171'       => '',
-            '172'       => '',
-            '173'       => '',
-            '174'       => '',
+            '152'       => 'Circuit de Madagascar',
+            '153'       => '<h2 class="mb-2">Circuits  de Madagascar</h2>
+                            <div class="text">
+                                <span>
+                                    NOSY BE PARADISE TOURS organise et offre des excursions sur plusieurs jours, 
+                                    des croisières en catamaran ou Bivouac sur Nosy-Be et son archipel. 
+                                    Il propose aussi une découverte Safari sur la partie circuit Nord de Madagascar ou une 
+                                    visite des parc National comme :
+                                    Parc National de l’Ankarana, Parc National de la Montagne d’Ambre. Découvrir les Tsingy Rouges,
+                                    ainsi qu’une biodiversité unique au monde. 
+                                    Une faune et flore exceptionnelles avec plein d’espèces endémiques.
+                                </span>
+                            </div>',
+            '154'       => 'Circuits nord',
+            '155'       => 'Tour Fosa',
+            '156'       => '<p>
+                                            Durée : 14 jours 13 nuits
+                                            Départ : Nosy Be
+                                        </p>',
+            '157'       => '<h2 class="mb-2">Tour Meva</h2>
+                                        <p>
+                                            Durée  : 5 jours 4 nuits
+                                            Départ : Nosy Be
+                                        </p>',
+            '158'       => '<h2 class="mb-2">Parc Bemaraha</h2>
+                                        <p>
+                                        Réserve National Terrestre classée Patrimoine Mondial au paysage de Tsingy de différentes formes.
+                                        </p>',
+            '159'       => '<h2 class="mb-2">Parc Ankarana</h2>
+                                        <p>
+                                        Réserve Spéciale, Forêt dense sèche, le Tsingy et son peuplement et la Forêt des canyons.
+                                        </p>',
+            '160'       => '<h2 class="mb-2">Parc Marojejy </h2>
+                                        <p>
+                                            Parc National Terrestre classé Patrimoine Mondial, massif impressionnant, 
+                                            forêt dense humide de basse altitude habitat 
+                                            du Propithecus candidus ou Simpona fotsy.
+                                        </p>',
+            '161'       => '
+                                        <h2 class="mb-2">Parc Ankarafantsika</h2>
+                                        <p>
+                                        Ankarafantsika comprend une formation 
+                                        floristique unique sur massif sableux dans laquelle 
+                                        se trouvent des espèces faunistiques à un taux d’endémicité très élevé.
+                                        </p>',
+            '162'       => '
+                                        <h2 class="mb-2">Tour salama</h2>
+                                        <p>
+                                            Durée  : 6 jours 5 nuits
+                                            Départ : Nosy Be
+                                        </p>',
+            '163'       => '<h2 class="mb-2">Tour Soa</h2>
+                                        <p>
+                                            Durée : Une Journée 
+                                            Départ : Nosy be
+
+                                        </p>',
+            '164'       => '<h2 class="mb-2">TSANGATSANGANA </h2>
+                                        <p>Visite : Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)</p>',
+            '165'       => '<h2 class="mb-2">TSARABE</h2>
+                                        <p>Réserve spéciale de l’Ankarana, ville d’Ambilobe   et ses alentours </p>',
+            '166'       => '<h2 class="mb-2">Veloma</h2>
+                                        <p>Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)</p>',
+            '167'       => '<h2 class="mb-2">Parc Mantadia</h2>
+                                        <p>
+                                        Parc National Terrestre avec une forêt dense
+                                         humide sempervirente où des espèces d’amphibiens, 
+                                        de reptiles et des lémuriens ont élu habitat.
+
+                                        </p>',
+            '168'       => '<h2 class="mb-2">Montagne d’Ambre</h2>
+                                        <p>
+                                        Parc National Terrestre et Réserve Spéciale, 
+                                        forêt dense humide avec un taux d’endémisme 
+                                        très élevé dont des milliers d’espèces de bois précieux .
+                                        </p>',
+            '169'       => 'Circuits RN7',
+            '170'       => '<h2 class="mb-2">Parc Isalo</h2>
+                                        <p>
+                                            Le Parc National Terrestre Isalo est 
+                                            une représentation écologique unique au sein du réseau
+                                            Parc Nationaux Madagascar.
+                                        </p>',
+            '171'       => '<h2 class="mb-2">Parc Andringitra</h2>
+                                        <p>
+                                            Parc National Terrestre classé Site Patrimoine Mondial, 
+                                            refuge des plantes et animaux du massif forestier du Moyen Est de Madagascar.
+                                        </p>',
+            '172'       => '<h2 class="mb-2">Parc Zombitse</h2>
+                                        <p>
+                                        Le complexe Zombitse Vohibasia est réputé par 
+                                        sa richesse en espèce d’oiseaux rares, 
+                                        endémiques de Madagascar et / ou de la zone.
+                                        </p>',
+            '173'       => '<h2 class="mb-2">Parc Ranomafana</h2>
+                                        <p>
+                                            Parc National Terrestre classé Site Patrimoine Mondial avec 
+                                            sa forêt dense humide de basse altitude (600-800m).
+                                        </p>',
+            '174'       => '<h2 class="mb-2">Parc Andohahela</h2>
+                                        <p>
+                                        Parc National Terrestre classé Site Patrimonial Mondial, 
+                                        Andohahela représente la diversité biologique 
+                                        de l’extrême Sud-Est de Madagascar.
+                                        </p>',
             '175'       => '',
             '176'       => '',
             '177'       => '',
@@ -3146,29 +3301,109 @@ Duration: 11 days – 10 nights.
  <li>Extra personali</li>
  <li>Suggerimento</li>
  </ul>',
-            '152'       => '',
-            '153'       => '',
-            '154'       => '',
-            '155'       => '',
-            '156'       => '',
-            '157'       => '',
-            '158'       => '',
-            '159'       => '',
-            '160'       => '',
-            '161'       => '',
-            '162'       => '',
-            '163'       => '',
-            '164'       => '',
-            '165'       => '',
-            '166'       => '',
-            '167'       => '',
-            '168'       => '',
-            '169'       => '',
-            '170'       => '',
-            '171'       => '',
-            '172'       => '',
-            '173'       => '',
-            '174'       => '',
+            '152'       => 'Circuito del Madagascar',
+            '153'       => '<h2 class="mb-2">Tour in Madagascar</h2>
+ <div class="text">
+ <span>
+ NOSY BE PARADISE TOURS organizza e propone escursioni di più giorni,
+ crociere in catamarano o bivacchi a Nosy-Be e nel suo arcipelago.
+ Offre anche un safari alla scoperta della parte settentrionale del circuito del Madagascar o un
+ visitare i parchi nazionali come:
+ Parco nazionale di Ankarana, Parco nazionale della Montagna d\'Ambra. Scopri il Tsingy Rosso,
+ nonché una biodiversità unica al mondo.
+ Flora e fauna eccezionali con numerose specie endemiche.
+ </span>
+ </div>',
+            '154'       => 'Circuiti del Nord',
+            '155'       => 'Torre Fosa',
+            '156'       => '<p>
+ Durata: 14 giorni 13 notti
+ Partenza: Nosy Be
+ </p>',
+            '157'       => '<h2 class="mb-2">Torre Meva</h2>
+ <p>
+ Durata: 5 giorni 4 notti
+ Partenza: Nosy Be
+ </p>',
+            '158'       => '<h2 class="mb-2">Parco Bemaraha</h2>
+ <p>
+ Riserva terrestre nazionale classificata Patrimonio dell\'umanità con il paesaggio degli Tsingy dalle diverse forme.
+ </p>',
+            '159'       => '<h2 class="mb-2">Parco Ankarana</h2>
+ <p>
+ Riserva speciale, foresta secca densa, gli Tsingy e la loro popolazione e la foresta dei Canyon.
+ </p>',
+            '160'       => '<h2 class="mb-2">Parco Marojejy</h2>
+ <p>
+ Parco Nazionale Terrestre classificato Patrimonio dell\'Umanità, massiccio impressionante,
+ habitat di foresta umida di pianura densa
+ di Propithecus candidus o Simpona fotsy.
+ </p>',
+            '161'       => '<h2 class="mb-2">Parco Ankarafantsika</h2>
+ <p>
+ Ankarafantsika include la formazione
+ floristica unica su massiccio sabbioso in cui
+ sono presenti specie faunistiche con un tasso di endemicità molto elevato.
+ </p>',
+            '162'       => '<h2 class="mb-2">Torre Salama</h2>
+ <p>
+ Durata: 6 giorni 5 notti
+ Partenza: Nosy Be
+ </p>',
+            '163'       => '<h2 class="mb-2">Torre Soa</h2>
+ <p>
+ Durata: un giorno
+ Partenza: Nosy Be
+
+ </p>',
+            '164'       => '<h2 class="mb-2">TSANGATSANGANA</h2>
+ <p>Visita: Riserva speciale di Ankarana (Tsingy grigi – River Loss – Lemuri)</p>',
+            '165'       => '<h2 class="mb-2">SARABO</h2>
+ <p>Riserva speciale di Ankarana, città di Ambilobe e dintorni</p>',
+            '166'       => '<h2 class="mb-2">Veloma</h2>
+ <p>Riserva speciale di Ankarana (Tsingy grigi – River Loss – Lemuri)</p>',
+            '167'       => '<h2 class="mb-2">Parco Mantadia</h2>
+ <p>
+ Parco nazionale terrestre con fitta foresta
+ zona umida sempreverde dove vivono specie di anfibi,
+ rettili e lemuri hanno scelto di vivere lì.
+
+ </p>',
+            '168'       => '<h2 class="mb-2">Montagna d\'Ambra</h2>
+ <p>
+ Parco Nazionale Terrestre e Riserva Speciale,
+ foresta umida e densa con un tasso di endemismo
+ molto elevato comprendente migliaia di specie di legno pregiato.
+ </p>',
+            '169'       => 'Circuiti RN7',
+            '170'       => '<h2 class="mb-2">Parco Isalo</h2>
+ <p>
+ Il Parco Nazionale Terrestre di Isalo è
+ una rappresentazione ecologica unica all\'interno della rete
+ Parchi nazionali del Madagascar.
+ </p>',
+            '171'       => '<h2 class="mb-2">Parco Andringitra</h2>
+ <p>
+ Parco Nazionale Terrestre classificato come Patrimonio dell\'Umanità,
+ rifugio per piante e animali nel massiccio forestale del Medio Oriente del Madagascar.
+ </p>',
+            '172'       => '<h2 class="mb-2">Parco Zombitse</h2>
+ <p>
+ Il complesso Zombitse Vohibasia è rinomato per
+ la sua ricchezza di specie di uccelli rari,
+ endemica del Madagascar e/o della zona.
+ </p>',
+            '173'       => '<h2 class="mb-2">Parco Ranomafana</h2>
+ <p>
+ Parco Nazionale Terrestre classificato come Patrimonio dell\'Umanità con
+ la sua fitta foresta umida a bassa quota (600-800 m).
+ </p>',
+            '174'       => '<h2 class="mb-2">Parco Andohahela</h2>
+ <p>
+ Parco Nazionale Terrestre classificato come Patrimonio dell\'Umanità,
+ Andohahela rappresenta la diversità biologica
+ dall\'estremo sud-est del Madagascar.
+ </p>',
             '175'       => '',
             '176'       => '',
             '177'       => '',
@@ -4275,29 +4510,109 @@ Duration: 11 days – 10 nights.
  <li>Persönliche Extras</li>
  <li>Tipp</li>
  </ul>',
-            '152'       => '',
-            '153'       => '',
-            '154'       => '',
-            '155'       => '',
-            '156'       => '',
-            '157'       => '',
-            '158'       => '',
-            '159'       => '',
-            '160'       => '',
-            '161'       => '',
-            '162'       => '',
-            '163'       => '',
-            '164'       => '',
-            '165'       => '',
-            '166'       => '',
-            '167'       => '',
-            '168'       => '',
-            '169'       => '',
-            '170'       => '',
-            '171'       => '',
-            '172'       => '',
-            '173'       => '',
-            '174'       => '',
+            '152'       => 'Madagaskar-Rundreise',
+            '153'       => '<h2 class="mb-2">Madagaskar-Touren</h2>
+ <div class="text">
+ <span>
+ NOSY BE PARADISE TOURS organisiert und bietet mehrtägige Ausflüge an,
+ Katamaranfahrten oder Biwaks auf Nosy-Be und seinem Archipel.
+ Es bietet auch eine Safari Entdeckung auf dem nördlichen Teil von Madagaskar oder eine
+ Besuchen Sie Nationalparks wie:
+ Ankarana-Nationalpark, Nationalpark Montagne d’Ambre. Entdecken Sie die Roten Tsingy,
+ sowie eine weltweit einzigartige Artenvielfalt.
+ Außergewöhnliche Flora und Fauna mit vielen endemischen Arten.
+ </span>
+ </div>',
+            '154'       => 'Nördliche Rundstrecken',
+            '155'       => 'Fosa-Turm',
+            '156'       => '<p>
+ Dauer: 14 Tage 13 Nächte
+ Abfahrt: Nosy Be
+ </p>',
+            '157'       => '<h2 class="mb-2">Meva-Turm</h2>
+ <p>
+ Dauer: 5 Tage 4 Nächte
+ Abfahrt: Nosy Be
+ </p>',
+            '158'       => '<h2 class="mb-2">Bemaraha-Park</h2>
+ <p>
+ Zum Weltkulturerbe gehörendes nationales Landreservat mit der Tsingy-Landschaft unterschiedlicher Formen.
+ </p>',
+            '159'       => '<h2 class="mb-2">Ankarana-Park</h2>
+ <p>
+ Sonderreservat, dichter Trockenwald, die Tsingy und ihre Bevölkerung und der Canyonwald.
+ </p>',
+            '160'       => '<h2 class="mb-2">Marojejy-Park</h2>
+ <p>
+ Nationaler Terrestrischer Park, klassifiziert als Weltkulturerbe, beeindruckendes Massiv,
+ dichter, feuchter Tieflandwaldlebensraum
+ von Propithecus candidus oder Simpona fotsy.
+ </p>',
+            '161'       => '<h2 class="mb-2">Ankarafantsika-Park</h2>
+ <p>
+ Ankarafantsika umfasst Schulungen
+ einzigartige Floristik auf Sandmassiv, in dem
+ Es gibt Tierarten mit einer sehr hohen Endemierate.
+ </p>',
+            '162'       => '<h2 class="mb-2">Salama-Turm</h2>
+ <p>
+ Dauer: 6 Tage 5 Nächte
+ Abfahrt: Nosy Be
+ </p>',
+            '163'       => '<h2 class="mb-2">Soa-Turm</h2>
+ <p>
+ Dauer: Ein Tag
+ Abfahrt: Nosy Be
+
+ </p>',
+            '164'       => '<h2 class="mb-2">TSANGATSANGANA</h2>
+ <p>Besuch: Ankarana-Sonderreservat (Graue Tsingy – Flussmakis – Lemuren)</p>',
+            '165'       => '<h2 class="mb-2">TSARABE</h2>
+ <p>Ankarana-Sonderreservat, Stadt Ambilobe und Umgebung</p>',
+            '166'       => '<h2 class="mb-2">Veloma</h2>
+ <p>Ankarana-Sonderreservat (Graue Tsingy – Flussmoräne – Lemuren)</p>',
+            '167'       => '<h2 class="mb-2">Mantadia-Park</h2>
+ <p>
+ Terrestrischer Nationalpark mit dichtem Wald
+ immergrünes Feuchtgebiet, in dem Amphibienarten,
+ Reptilien und Lemuren haben sich dort als Lebensraum entschieden.
+
+ </p>',
+            '168'       => '<h2 class="mb-2">Montagne d\'Ambre</h2>
+ <p>
+ Nationaler Landpark und Sonderreservat,
+ dichter feuchter Wald mit einer Endemismusrate
+ sehr hoch, darunter Tausende von Edelholzarten.
+ </p>',
+            '169'       => 'RN7-Schaltungen',
+            '170'       => '<h2 class="mb-2">Isalo Park</h2>
+ <p>
+ Der Isalo National Terrestrial Park ist
+ eine einzigartige ökologische Repräsentation innerhalb des Netzwerks
+ Nationalparks Madagaskars.
+ </p>',
+            '171'       => '<h2 class="mb-2">Andringitra-Park</h2>
+ <p>
+ Nationaler Terrestrischer Park, der zum Weltkulturerbe gehört,
+ Zufluchtsort für Pflanzen und Tiere im Waldmassiv des Nahen Ostens Madagaskars.
+ </p>',
+            '172'       => '<h2 class="mb-2">Zombitse-Park</h2>
+ <p>
+ Der Zombitse Vohibasia-Komplex ist bekannt für
+ seinen Reichtum an seltenen Vogelarten,
+ endemisch in Madagaskar und/oder der Region.
+ </p>',
+            '173'       => '<h2 class="mb-2">Ranomafana-Park</h2>
+ <p>
+ Terrestrischer Nationalpark, der zum Weltkulturerbe gehört, mit
+ sein dichter, feuchter Wald in geringer Höhe (600–800 m).
+ </p>',
+            '174'       => '<h2 class="mb-2">Andohahela-Park</h2>
+ <p>
+ Nationaler Terrestrischer Park, der zum Weltkulturerbe gehört,
+ Andohahela steht für biologische Vielfalt
+ aus dem äußersten Südosten Madagaskars.
+ </p>',
             '175'       => '',
             '176'       => '',
             '177'       => '',
