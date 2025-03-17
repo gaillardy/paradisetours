@@ -215,23 +215,23 @@
         </div>
         <div class="col-md-6 ftco-animate p-md-5">
             <div class="jumbotron">
-            <h1><i class="fas fa-info-circle"></i> Informations de Contact</h1>
-            <p class="mb-4"><i class="fas fa-globe"></i> <strong>Site :</strong> <a href="/<?= $lang ?>/home"> Nosy Be Paradise Tour</a></p>
-            <p class="mb-4"><i class="fas fa-map-marker-alt"></i> <strong><a href="https://maps.app.goo.gl/mRbRfNy5W71xW7YU9" target="_blank" id="loc"> Localisation :</strong> À côté de la pharmacie Tsarajoro, Rue Boulevard Raymond Poincaré, Hell-Ville, Nosy Be 207, Madagascar</a></p>
+            <h1><i class="fas fa-info-circle"></i><?= $translations['175']  ?> </h1>
+            <p class="mb-4"><i class="fas fa-globe"></i> <strong><?= $translations['176']  ?> :</strong> <a href="/<?= $lang ?>/home"> Nosy Be Paradise Tour</a></p>
+            <p class="mb-4"><i class="fas fa-map-marker-alt"></i> <strong><a href="https://maps.app.goo.gl/mRbRfNy5W71xW7YU9" target="_blank" id="loc"><?= $translations['178']  ?>  :</strong> <?= $translations['179'] ?></a></p>
             <p class="mb-4"><i class="fab fa-whatsapp"></i> <strong>WhatsApp :</strong><a href="tel:+261320712758">+261 32 07 127 58</a></p>
             <p><i class="fas fa-envelope"></i> <strong>Email :</strong> <a href="mailto:contact@nosybeparadisetour.com">contact@nosybeparadisetour.com</a></p>
-            <p><i class="fas fa-paper-plane"></i>Newletter : <a href="javascript:avoid(0)" onclick="openModal('forwardModal')">S'inscrire</a></p>
+            <p><i class="fas fa-paper-plane"></i>Newletter : <a href="javascript:avoid(0)" onclick="openModal('forwardModal')"><?= $translations['177']  ?></a></p>
             </div>
         </div>
         <!-- Modale pour Newsletter -->
         <div id="forwardModal" class="modal hidden">
             <div class="modal-content">
-                <h3>S'abonner</h3>
+                <h3><?= $translations['180'] ?></h3>
                 <form action="/<?= $lang ?>/subscribe" method="post" id="contactForm" >
                     <input type="email" name="email" id="email" placeholder="Votre Adresse email " class="modal-input-email">
-                    <div class="error-message" id="emailError">Veuillez entrer un email valide.</div>
-                    <button id="btn-mod" class="modal-close" onclick="closeModal('forwardModal')" type="button">Annuler</button>
-                    <button id="btn-mod" class="modal-submit" type="submit">Envoyer</button>
+                    <div class="error-message" id="emailError"><?= $translations['181'] ?></div>
+                    <button id="btn-mod" class="modal-close" onclick="closeModal('forwardModal')" type="button"><?= $translations['182'] ?></button>
+                    <button id="btn-mod" class="modal-submit" type="submit"><?= $translations['183'] ?></button>
                 </form>
             </div>
         </div>
