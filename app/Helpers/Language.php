@@ -6,6 +6,92 @@ class Language
 {
     private static $translations = [
         'en' => [
+            '194'       => 'THE MITSIO ARCHIPELAGO in bivouac',            
+            '195'       => '<h2>Description</h2>
+
+<p class="mb-3">
+<b>Visits:</b> Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, the 4 brothers <br>
+<b>Duration:</b> 3 days 2 nights <br>
+<b>Departure:</b> Nosy-Be
+</p>
+
+<p class="mb-3">
+<b>Highlight:</b> Clean, turquoise sea, perfect for snorkeling, spearfishing or trolling, and meeting the villagers.
+</p>
+
+<h2>Day 1: Nosy Be – Nosy Tsarabanjina – Grand Mitsio</h2>
+
+<p class="mb-3">
+Departure: 7:30 a.m. <br>
+Discover the white-sand island. You will enjoy the beautiful Tsarabanjina beach to relax and enjoy the turquoise waters. At noon, lunch will be served at the CONSTANCE TSARABANJINA Restaurant. Around 3:00 p.m., the boat will take you to Mitsio Island, where you will spend the night. The evening will be enhanced by meeting the island\'s locals.
+
+</p>
+
+<h2>Day 2: Grand Mitsio – Nosy Ankarea – Grand Mitsio</h2>
+<p class="mb-3"><b>Visit:</b> Organ fish camp, trolling, spearfishing, grilled fish lunch at noon</p>
+
+<p class="mb-3">
+Departure: 8:00 a.m. <br>
+After breakfast, head to Ankarea Island to observe the basalt columns. You will have the opportunity to go trolling. Once on the island, you\'ll have the opportunity to go snorkeling or longline fishing. Return to Mitsio Island in the late afternoon. In the evening, you\'ll hear talks about the island\'s culture and environment, allowing you to meet the locals.
+
+</p>
+
+<h2>Day 3: Grand Mitsio – The Four Brothers – Nosy Fanihy – Sakatia – Nosy Be</h2>
+<p class="mb-3">
+Departure at 7:00 a.m.: <br>
+Discover the Four Brothers (monolithic islands inhabited exclusively by seabirds).
+</p\>',            
+            '196'       => '<h2>NOSY FANIHY</h2>
+
+<p class="mb-3"><b>Highlights:</b> Relaxation – sunbathing – swimming – snorkeling</p>
+
+<p class="mb-3">
+Departing from Nosy Mitsio with our guide, we head to Nosy Fanihy or Shell Island, a half-hour sail away. You\'ll find a deserted island with a turquoise sea and a beautiful shell beach. There\'s a chance to encounter ospreys and dolphins. You\'ll spend a pleasant moment of relaxation and enjoyment along the beach. You\'ll also enjoy snorkeling on the seabed. </p>
+
+<h2>NOSY SAKATIA</h2>
+
+<p class="mb-3">
+Highlights: Fishing village, snorkeling, swimming with turtles, relaxing on the beach, visiting a spice plantation
+</p>
+
+<p class="mb-3">
+From Nosy Fanihy, continue to Nosy Sakatia, or the island of orchids. A day dedicated to relaxation and tranquility on a magnificent deserted beach, enjoying a pleasant swim in the emerald sea before you.
+Inland, you can take a stroll to connect with nature and its inhabitants, discovering orchids and the spice plantations that cover the island, as well as the fishing villages that inhabit it.
+At noon, a traditional Malagasy lunch will be prepared for you in Sakatia by our chef.
+Return to Nosy Be in the late afternoon.
+</p>',            
+            '197'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel Welcome</li>
+<li>Full Board</li>
+<li>Mineral Water</li>
+<li>Snorkeling Equipment and Fishing Gear.</li>
+</ul>',            
+            '198'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks and personal extras.</li>
+</ul>',            
+            '199'       => '',            
+            '200'       => '',            
+            '201'       => '',            
+            '202'       => '',            
+            '203'       => '',            
+            '204'       => '',            
+            '205'       => '',            
+            '206'       => '',            
+            '207'       => '',            
+            '208'       => '',            
+            '209'       => '',            
+            '210'       => '',            
+            '211'       => '',            
+            '212'       => '',            
+            '213'       => '',            
+            '214'       => '',            
+            '215'       => '',            
+            '216'       => '',            
+            '217'       => '',            
+            '218'       => '',            
+            '219'       => '',
             'english'   => 'English',
             '105'        => "Departure from the hotel at 08:00, direction IRANJA ISLAND, from Ambatoloaka beach by speed boat, the journey lasts 1h15.
                         Once arrived on IRANJA island, you will be greeted with a breathtaking landscape. A total immersion in nature will enhance your day. To start the day, 2 magnificent islets await you, connected by a 2 km long stretch of white sand. A white and immaculate beach is available to you for all your moments of relaxation, where you can sunbathe, swim and take a short walk to discover some varieties of ferns, all on a turquoise blue sea.
@@ -1497,6 +1583,92 @@ Airport assistance and HAVE A GREAT FLIGHT.
 
 
         'fr' => [
+            '194'       => ' L’ARCHIPEL DE MITSIO en bivouac',            
+            '195'       => '<h2>Description</h2>
+           
+            <p class="mb-3">
+                <b>Visites :</b> Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, les 4 frères  <br>
+                <b>Durée :</b> 3 jours 2 nuits <br>
+                <b>Départ :</b> Nosy-Be
+            </p>
+
+            <p class="mb-3">
+               <b> Point fort :</b> Mer turquoise et propre, parfait pour de la plongée apnée, Chasse sous-marine ou pêche à la traîne et rencontre avec les villageois.
+            </p>
+
+            <h2>Jour 1: Nosy Be – Nosy Tsarabanjina – Grand Mitsio</h2>
+
+            <p class="mb-3">
+                Départ : 07h 30  <br>
+                Découverte de l’île au sable blanc. Vous profiterez de la très belle plage de Tsarabanjina pour vous adonner au farniente et profiter des eaux turquoise. A midi, un déjeuner vous sera servi au Restaurant CONSTANCE TSARABANJINA. Vers 15h le bateau vous amènera sur l’île de MITSIO où vous vous installerez pour la nuit.  La soirée sera agrémentée de rencontre avec les habitants de l’ile.  
+            </p>
+
+            <h2>Jour 2: Grand Mitsio – Nosy Ankarea – Grand Mitsio </h2>
+            <p class="mb-3"><b> Visite :</b> camp d’orgue, pêche à la traine, chasse sous marine, déjeuner poisson à la grillade à midi</p>
+
+            <p class="mb-3">
+                Départ : 8h00 <br>
+                Apres le petit déjeuner, direction vers l’île d’Ankarea pour observer des orgues basaltiques. Vous aurez l’occasion de pratiquer la pêche à la traine. Une fois sur l’île, il vous sera possible de faire du snorkeling ou pêche à la palangrotte. Fin d’après midi retour à l’île de Mitsio. En soirée, des conférences sur leur culture, leur environnement permettront de rencontrer les habitants.
+
+            </p>
+
+            <h2>Jour 3 : Grand Mitsio – Les 4 frères –Nosy Fanihy- Sakatia - Nosy Be </h2>
+            <p class="mb-3">
+                Départ à 07h00 : <br>   
+                Découverte des Quatre frères (îles monolithiques exclusivement habitées par des oiseaux marins). 
+            </p>',            
+            '196'       => '<h2>NOSY FANIHY</h2>
+
+            <p class="mb-3"><b> Points forts :</b> Farniente – bain de soleil – baignade – snorkeling </p>
+
+            <p class="mb-3">
+                Partant de Nosy MITSIO en compagnie de notre guide direction vers Nosy Fanihy ou l’ile aux coquillages en demi-heure de navigation. Vous trouverez une île déserte avec une mer turquoise et une belle plage de coquillages. Possibilité de rencontrer des aigles pêcheurs et des Dauphins. Vous y passerez un agréable moment de relax et de plaisir le long de la plage. Vous vous donner du plaisir à faire de la plongée apnée dans son fond marin.
+            </p>
+
+            <h2>NOSY SAKATIA</h2>
+
+            <p class="mb-3">
+            Points forts : Village de pêcheur, plongée apnée, nager avec tortue, farniente à la plage, visite plantation d’épice 
+            </p>
+
+            <p class="mb-3">
+                De Nosy Fanihy continuation à Nosy Sakatia ou l’ile aux orchidées, Une journée dédiée au relax et à la tranquillité sur une magnifique plage déserte en profitant d’une agréable baignade sur la mer d’émeraude devant vous. 
+                À l’intérieur de l’ile, possibilité d’une balade à la contacte de la nature et de ses habitants en découvrant des orchidées et les plantations d’épices qui la recouvrent et les villages de pêcheurs qui y habite. 
+                À midi, un déjeuner plat traditionnel malgache vous sera préparé à Sakatia par notre cuisinier.
+                Retour à Nosy Be en fin d’après-midi. 
+            </p>',            
+            '197'       => '<h3>Services Inclus</h3>
+                        <ul>
+                            <li>Accueil à l’hôtel </li>
+                            <li>Pension Complète</li>
+                            <li>Eau minérale</li>
+                            <li>Équipement de plongée apnée et Équipement de pêche.</li>
+                        </ul>',            
+            '198'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Les boissons et extras à caractères personnels.</li>
+                        </ul>',            
+            '199'       => '',            
+            '200'       => '',            
+            '201'       => '',            
+            '202'       => '',            
+            '203'       => '',            
+            '204'       => '',            
+            '205'       => '',            
+            '206'       => '',            
+            '207'       => '',            
+            '208'       => '',            
+            '209'       => '',            
+            '210'       => '',            
+            '211'       => '',            
+            '212'       => '',            
+            '213'       => '',            
+            '214'       => '',            
+            '215'       => '',            
+            '216'       => '',            
+            '217'       => '',            
+            '218'       => '',            
+            '219'       => '',
             'français'  =>'fr',
             '105'        => "Départ de l'hôtel à 08h00, direction IRANJA ISLAND, depuis la plage d'Ambatoloaka en speed boat, le trajet dure 1h15.
                 Une fois arrivé sur l'île IRANJA, vous serez accueilli avec un paysage à couper le souffle. Une immersion totale dans la nature embellira votre journée. Pour commencer la journée, 2 magnifiques îlots vous attendent, reliés par une étendue de sable blanc de 2 km de long. Une plage blanche et immaculée s'offre à vous pour tous vos moments de détente, où vous pourrez faire bronzette, baignade et petite promenade à la découverte de quelques variétés de fougères, le tout sur une mer bleu turquoise.
@@ -2877,7 +3049,7 @@ Airport assistance and HAVE A GREAT FLIGHT.
                             <li>Crème solaire</li>
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon</li>
-                        </ul>',
+                        </ul>',            
             'inclus'    => 'Services Inclus',
             'non_inclus'=> 'Services Non Inclus',
             '79'        => "catamaran Mitsio et RADAMA",
@@ -3070,6 +3242,92 @@ Airport assistance and HAVE A GREAT FLIGHT.
         ],
 
         'it' => [
+            '194'       => 'L\'ARCIPELAGO MITSIO in bivacco',            
+            '195'       => '<h2>Descrizione</h2>
+
+ <p class="mb-3">
+ <b>Visite:</b> Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, i 4 fratelli <br>
+ <b>Durata:</b> 3 giorni 2 notti <br>
+ <b>Partenza:</b> Nosy-Be
+ </p>
+
+ <p class="mb-3">
+ <b>In evidenza:</b> Mare pulito e turchese, perfetto per lo snorkeling, la pesca subacquea o la traina e per incontrare gli abitanti del villaggio.
+ </p>
+
+ Giorno 1: Nosy Be – Nosy Tsarabanjina – Grand Mitsio
+
+ <p class="mb-3">
+ Partenza: 7:30 a.m. <br>
+ Scoperta dell\'isola di sabbia bianca. Potrete rilassarvi e godervi le acque turchesi della splendida spiaggia di Tsarabanjina. A mezzogiorno il pranzo verrà servito al ristorante CONSTANCE TSARABANJINA. Verso le 15:00 la barca vi porterà all\'isola di MITSIO, dove alloggerete per la notte. La serata sarà arricchita da incontri con gli abitanti dell\'isola.
+ </p>
+
+ Giorno 2: Grand Mitsio – Nosy Ankarea – Grand Mitsio
+ <p class="mb-3"><b>Visita:</b> Campo di organi, pesca a traina, pesca subacquea, pranzo a base di pesce alla griglia a mezzogiorno</p>
+
+ <p class="mb-3">
+ Partenza: ore 8:00 <br>
+ Dopo la colazione, dirigetevi all\'isola di Ankarea per osservare gli organi di basalto. Avrete l\'opportunità di esercitarvi nel trolling. Una volta sull\'isola, potrete fare snorkeling o pescare con palangari. Rientro nel tardo pomeriggio all\'isola di Mitsio. La sera, conferenze sulla cultura e l\'ambiente vi consentiranno di incontrare la gente del posto.
+
+ </p>
+
+ Giorno 3: Grand Mitsio – I 4 fratelli – Nosy Fanihy – Sakatia – Nosy Be
+ <p class="mb-3">
+ Partenza alle ore 7:00: <br>
+ Scoperta dei Quattro Fratelli (isole monolitiche abitate esclusivamente da uccelli marini).
+ </p>',            
+            '196'       => '<h2>FANETTINA ficcanaso</h2>
+
+ <p class="mb-3"><b>Punti salienti:</b> Relax – bagni di sole – nuoto – snorkeling</p>
+
+ <p class="mb-3">
+ Partendo da Nosy MITSIO con la nostra guida, ci dirigiamo verso Nosy Fanihy, ovvero l\'isola dei molluschi, in una navigazione di mezz\'ora. Troverete un\'isola deserta con un mare turchese e una bellissima spiaggia di conchiglie. Possibilità di incontrare falchi pescatori e delfini. Trascorrerete un piacevole momento di relax e piacere lungo la spiaggia. Potrete divertirvi facendo snorkeling nei suoi fondali marini.
+ </p>
+
+ <h2>NOSY SAKATIA</h2>
+
+ <p class="mb-3">
+ Punti salienti: villaggio di pescatori, snorkeling, nuoto con le tartarughe, relax sulla spiaggia, visita a una piantagione di spezie
+ </p>
+
+ <p classe="mb-3">
+ Da Nosy Fanihy si prosegue per Nosy Sakatia, ovvero l\'isola delle orchidee, una giornata dedicata al relax e alla tranquillità su una magnifica spiaggia deserta, godendosi un piacevole bagno nel mare color smeraldo di fronte a voi.
+ All\'interno dell\'isola è possibile passeggiare a contatto con la natura e i suoi abitanti, scoprendo le piantagioni di orchidee e spezie che la ricoprono e i villaggi di pescatori che la abitano.
+ A mezzogiorno, il nostro cuoco preparerà per voi un pranzo tradizionale malgascio a Sakatia.
+ Rientro a Nosy Be nel tardo pomeriggio.
+ </p>',            
+            '197'       => '<h3>Servizi inclusi</h3>
+ <ul>
+ <li>Reception dell\'hotel</li>
+ <li>Pensione completa</li>
+ <li>Acqua minerale</li>
+ <li>Attrezzatura per lo snorkeling e attrezzatura per la pesca.</li>
+ </ul>',            
+            '198'       => '<h3>Servizi non inclusi</h3>
+ <ul>
+ <li>Bevande ed extra personali.</li>
+ </ul>',            
+            '199'       => '',            
+            '200'       => '',            
+            '201'       => '',            
+            '202'       => '',            
+            '203'       => '',            
+            '204'       => '',            
+            '205'       => '',            
+            '206'       => '',            
+            '207'       => '',            
+            '208'       => '',            
+            '209'       => '',            
+            '210'       => '',            
+            '211'       => '',            
+            '212'       => '',            
+            '213'       => '',            
+            '214'       => '',            
+            '215'       => '',            
+            '216'       => '',            
+            '217'       => '',            
+            '218'       => '',            
+            '219'       => '',
             'italiano'  => 'italiano',
             '105'        => "Partenza dall'hotel alle 08:00, direzione IRANJA ISLAND, dalla spiaggia di Ambatoloaka in motoscafo, il viaggio dura 1h15.
                         Una volta arrivati ​​all'isola di IRANJA, sarete accolti da un paesaggio mozzafiato. Un'immersione totale nella natura allieterà la vostra giornata. Per iniziare la giornata vi aspettano 2 magnifici isolotti, collegati da una distesa di sabbia bianca lunga 2 km. Per i vostri momenti di relax vi aspetta una spiaggia bianca e immacolata, dove potrete prendere il sole, nuotare e fare una breve passeggiata alla scoperta di diverse varietà di felci, il tutto su un mare blu turchese.
@@ -4631,6 +4889,92 @@ Airport assistance and HAVE A GREAT FLIGHT.
             'key1'      => 'Natura',
         ],
         'de' => [
+            '194'       => 'DAS MITSIO-ARCHIPEL im Biwak',            
+            '195'       => '<h2>Beschreibung</h2>
+
+ <p class="mb-3">
+ <b>Besuche:</b> Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, die 4 Brüder <br>
+ <b>Dauer:</b> 3 Tage 2 Nächte <br>
+ <b>Abfahrt:</b> Nosy-Be
+ </p>
+
+ <p class="mb-3">
+ <b>Highlight:</b> Sauberes, türkisfarbenes Meer, perfekt zum Schnorcheln, Speerfischen oder Schleppangeln und um die Dorfbewohner kennenzulernen.
+ </p>
+
+ Tag 1: Nosy Be – Nosy Tsarabanjina – Grand Mitsio
+
+ <p class="mb-3">
+ Abfahrt: 7:30 Uhr <br>
+ Entdeckung der weißen Sandinsel. Sie werden den wunderschönen Strand von Tsarabanjina genießen, um zu entspannen und das türkisfarbene Wasser zu genießen. Mittags wird im Restaurant CONSTANCE TSARABANJINA ein Mittagessen serviert. Gegen 15:00 Uhr bringt Sie das Boot zur Insel MITSIO, wo Sie sich für die Nacht einrichten. Der Abend wird durch Begegnungen mit den Inselbewohnern bereichert.
+ </p>
+
+ Tag 2: Grand Mitsio – Nosy Ankarea – Grand Mitsio
+ <p class="mb-3"><b>Besuch:</b> Orgelcamp, Trolling, Speerfischen, gegrilltes Fischmittagessen</p>
+
+ <p class="mb-3">
+ Abfahrt: 8:00 Uhr <br>
+ Nach dem Frühstück fahren Sie zur Insel Ankarea, um Basaltorgeln zu beobachten. Sie haben die Möglichkeit, das Trolling zu üben. Sobald Sie auf der Insel sind, können Sie schnorcheln oder mit der Langleine fischen. Am späten Nachmittag kehren Sie zur Insel Mitsio zurück. Abends haben Sie bei Konferenzen über ihre Kultur und ihre Umgebung die Möglichkeit, die Einheimischen kennenzulernen.
+
+ </p>
+
+ Tag 3: Grand Mitsio – Die 4 Brüder – Nosy Fanihy – Sakatia – Nosy Be
+ <p class="mb-3">
+ Abfahrt um 7:00 Uhr: <br>
+ Entdeckung der Vier Brüder (monolithische Inseln, die ausschließlich von Seevögeln bewohnt werden).
+ </p>',            
+            '196'       => '<h2>Neugierige Fanatiker</h2>
+
+ <p class="mb-3"><b>Highlights:</b> Entspannen – Sonnenbaden – Schwimmen – Schnorcheln</p>
+
+ <p class="mb-3">
+ Von Nosy MITSIO aus starten wir mit unserem Reiseleiter und fahren in einer halbstündigen Segeltour in Richtung Nosy Fanihy oder der Muschelinsel. Sie finden eine einsame Insel mit türkisfarbenem Meer und einem wunderschönen Muschelstrand. Möglichkeit, Fischadler und Delfine zu treffen. Sie werden einen angenehmen Moment der Entspannung und des Vergnügens am Strand verbringen. Sie werden das Schnorcheln auf dem Meeresboden genießen.
+ </p>
+
+ <h2>NOSY SAKATIA</h2>
+
+ <p class="mb-3">
+ Highlights: Fischerdorf, Schnorcheln, Schwimmen mit Schildkröten, Entspannen am Strand, Besuch einer Gewürzplantage
+ </p>
+
+ <p class="mb-3">
+ Von Nosy Fanihy geht es weiter nach Nosy Sakatia oder der Insel der Orchideen. Verbringen Sie einen Tag im Zeichen der Entspannung und Ruhe an einem herrlichen, einsamen Strand und genießen Sie ein angenehmes Bad im smaragdgrünen Meer vor Ihnen.
+ Im Inneren der Insel können Sie bei einem Spaziergang die Natur und ihre Bewohner kennenlernen und dabei die Orchideen- und Gewürzplantagen sowie die Fischerdörfer entdecken, die sie bewohnen.
+ Mittags wird in Sakatia von unserem Koch ein traditionelles madagassisches Mittagsgericht für Sie zubereitet.
+ Am späten Nachmittag kehren Sie nach Nosy Be zurück.
+ </p>',            
+            '197'       => '<h3>Inklusivleistungen</h3>
+ <ul>
+ <li>Hotelrezeption</li>
+ <li>Vollpension</li>
+ <li>Mineralwasser</li>
+ <li>Schnorchelausrüstung und Angelausrüstung.</li>
+ </ul>',            
+            '198'       => '<h3>Nicht inbegriffene Leistungen</h3>
+ <ul>
+ <li>Getränke und persönliche Extras.</li>
+ </ul>',            
+            '199'       => '',            
+            '200'       => '',            
+            '201'       => '',            
+            '202'       => '',            
+            '203'       => '',            
+            '204'       => '',            
+            '205'       => '',            
+            '206'       => '',            
+            '207'       => '',            
+            '208'       => '',            
+            '209'       => '',            
+            '210'       => '',            
+            '211'       => '',            
+            '212'       => '',            
+            '213'       => '',            
+            '214'       => '',            
+            '215'       => '',            
+            '216'       => '',            
+            '217'       => '',            
+            '218'       => '',            
+            '219'       => '',
             
             'deutch'    => 'de',
             '105'        => "Abfahrt vom Hotel um 08:00 Uhr in Richtung IRANJA ISLAND, vom Strand Ambatoloaka mit dem Schnellboot, die Fahrt dauert 1 Stunde und 15 Minuten.
