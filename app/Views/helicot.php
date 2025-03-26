@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-9 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-                    <h1 class="mf-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Tour de l'ile en helicot</h1>
+                    <h1 class="mf-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><?= $translations['207'] ?></h1>
                 </div>
             </div>
         </div>
@@ -26,20 +26,7 @@
 
     <main>
         <section class="content-section">
-            <h4>Tour de l'ile en helicot</h4>
-            
-            <p class="mb-4">
-                Il est toujours rafraichissant de changer de point de vue.
-                Nous vous proposons une balade verticale : contemplez Nosy –Be comme le font les oiseaux, depuis le ciel. Entre sa côte, ses montagnes et sa campagne verdoyante, c’est tout un monde à (re)découvrir. Un vol en hélicoptère est une expérience physique. L’ascension rapide,
-                les vibrations de l’air et du vent sont une source d’émotions intenses.
-            </p>
-
-            <p>
-                Découvrir Nosy be à travers des excursions vous permet de découvrir L’île,
-                sa population et sa culture. 
-                Mais prendre de la hauteur vous permet de voir encore plus. Un paysage époustouflant et unique : 
-                plages, 7 lacs, anciens volcans, magnifique cratère,  et sa verdure. 
-            </p>
+            <?= $translations['208'] ?>
         </section>
 
 

@@ -138,8 +138,21 @@ Somaroho showcases various Malagasy musical genres, such as salegy, tsapiky, reg
  <li><strong>Marna\'s kitchen</strong></li>
  <li><strong> Karibo </strong></li>
  <li><strong>Alexander’s Table</strong></li>',            
-            '207'       => '',            
-            '208'       => '',            
+            '207'       => 'Helicopter tour of the island',            
+            '208'       => '<h4>Helicopter Tour of the Island</h4>
+
+<p class="mb-4">
+It\'s always refreshing to change your perspective.
+We offer a vertical tour: admire Nosy-Be as birds do, from the sky. Between its coast, its mountains, and its verdant countryside, it\'s a whole world to (re)discover. A helicopter flight is a physical experience. The rapid ascent,
+the vibrations of the air and the wind are a source of intense emotions.
+</p>
+
+<p>
+Discovering Nosy-Be through excursions allows you to discover the island,
+its people, and its culture.
+But gaining height allows you to see even more. A breathtaking and unique landscape:
+beaches, seven lakes, ancient volcanoes, a magnificent crater, and its greenery.
+</p>',            
             '209'       => '',            
             '210'       => '',            
             '211'       => '',            
@@ -1794,8 +1807,21 @@ Airport assistance and HAVE A GREAT FLIGHT.
                       <li><strong> La cuisine de Marna</strong></li>
                       <li><strong> Karibo </strong></li>
                       <li><strong> Table d’Alexandre</strong></li>',            
-            '207'       => '',            
-            '208'       => '',            
+            '207'       => 'Tour de l\'ile en helicot',            
+            '208'       => '<h4>Tour de l\'ile en helicot</h4>
+            
+            <p class="mb-4">
+                Il est toujours rafraichissant de changer de point de vue.
+                Nous vous proposons une balade verticale : contemplez Nosy –Be comme le font les oiseaux, depuis le ciel. Entre sa côte, ses montagnes et sa campagne verdoyante, c’est tout un monde à (re)découvrir. Un vol en hélicoptère est une expérience physique. L’ascension rapide,
+                les vibrations de l’air et du vent sont une source d’émotions intenses.
+            </p>
+
+            <p>
+                Découvrir Nosy be à travers des excursions vous permet de découvrir L’île,
+                sa population et sa culture. 
+                Mais prendre de la hauteur vous permet de voir encore plus. Un paysage époustouflant et unique : 
+                plages, 7 lacs, anciens volcans, magnifique cratère,  et sa verdure. 
+            </p>',            
             '209'       => '',            
             '210'       => '',            
             '211'       => '',            
@@ -3532,8 +3558,21 @@ Nosy Fanihy, Nosy Sakatia, Nosy Iranja, Nosy Tanikely e gli arcipelaghi Mitsio e
  <li><strong>La cucina di Marna</strong></li>
  <li><strong>Karibo</strong></li>
  <li><strong>La tavola di Alessandro</strong></li>',            
-            '207'       => '',            
-            '208'       => '',            
+            '207'       => 'Tour dell\'isola in elicottero',            
+            '208'       => '<h4>Giro dell\'isola in elicottero</h4>
+
+<p classe="mb-4">
+È sempre stimolante cambiare prospettiva.
+Vi proponiamo una passeggiata verticale: contemplate Nosy-Be come lo fanno gli uccelli, dal cielo. Tra la sua costa, le sue montagne e la sua campagna verdeggiante, è tutto un mondo da (ri)scoprire. Un volo in elicottero è un\'esperienza fisica. La rapida ascesa,
+Le vibrazioni dell’aria e del vento sono fonte di emozioni intense.
+</p>
+
+<p>
+Scoprire Nosy Be attraverso le escursioni permette di scoprire l\'isola,
+la sua popolazione e la sua cultura.
+Ma salendo di quota si riesce a vedere ancora di più. Un paesaggio mozzafiato e unico:
+spiagge, 7 laghi, antichi vulcani, magnifico cratere e il suo verde.
+</p>',            
             '209'       => '',            
             '210'       => '',            
             '211'       => '',            
@@ -5258,8 +5297,21 @@ Somaroho hebt verschiedene madagassische Musikgenres hervor, wie Salegy, Tsapiky
 <li><strong>Marnas Küche</strong></li>
 <li><strong>Karibo</strong></li>
 <li><strong>Alexanders Tisch</strong></li>',            
-            '207'       => '',            
-            '208'       => '',            
+            '207'       => 'Hubschrauberrundflug über die Insel',            
+            '208'       => '<h4>Helikopterrundflug über die Insel</h4>
+
+<p Klasse="mb-4">
+Es ist immer erfrischend, die Perspektive zu ändern.
+Wir bieten Ihnen einen vertikalen Spaziergang an: Betrachten Sie Nosy-Be wie die Vögel es tun, vom Himmel aus. Zwischen seiner Küste, seinen Bergen und seiner grünen Landschaft gibt es eine ganze Welt zu (wieder)entdecken. Ein Helikopterflug ist ein körperliches Erlebnis. Der rasante Aufstieg,
+Die Schwingungen der Luft und des Windes sind eine Quelle intensiver Emotionen.
+</p>
+
+<p>
+Entdecken Sie Nosy Be durch Ausflüge ermöglicht es Ihnen, die Insel zu entdecken,
+seine Bevölkerung und seine Kultur.
+Doch durch die größere Höhe können Sie noch mehr sehen. Eine atemberaubende und einzigartige Landschaft:
+Strände, 7 Seen, alte Vulkane, herrliche Krater und viel Grün.
+</p>',            
             '209'       => '',            
             '210'       => '',            
             '211'       => '',            
