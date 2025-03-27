@@ -35,7 +35,7 @@
     	<div class="container">
     		<div class="row justify-content-start mf-5 pf-3">
             <div class="col-md-7 heading-section ftco-animate">
-                <h4 class="mf-4">Images</h4>
+                <h4 class="mf-4"><?= $translations['103'] ?></h4>
             </div>
         </div>
     		<div class="row">

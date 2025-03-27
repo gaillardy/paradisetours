@@ -153,13 +153,59 @@ its people, and its culture.
 But gaining height allows you to see even more. A breathtaking and unique landscape:
 beaches, seven lakes, ancient volcanoes, a magnificent crater, and its greenery.
 </p>',            
-            '209'       => '',            
-            '210'       => '',            
-            '211'       => '',            
-            '212'       => '',            
-            '213'       => '',            
-            '214'       => '',            
-            '215'       => '',            
+            '209'       => 'Iranja Island',            
+            '210'       => 'Turtle Island',            
+            '211'       => '<h2>Tour Description</h2>
+<p>
+Departure from Ambatoloaka beach, southwest of Nosy Be, at 8:45 a.m.
+During a fast boat ride lasting approximately 1 hour and 15 minutes, let yourself be captivated by the excitement of a day in this corner of paradise.
+</p>
+<p>
+
+Once you arrive on the island,
+you\'ll be immersed in a fishing village and also visit the two islets connected
+by a 2-kilometer-long white sandbar.
+At low tide, a pristine white beach is available for all your moments of pleasure,
+sunbathing, swimming, and a short stroll to discover some varieties of ferns,
+all set against a turquoise blue sea.
+At noon, a pleasant seafood lunch prepared on site in the shade of coconut trees will be served.
+Return around 3:15 p.m. </p>
+<ul class="unstyled-list">
+<li><b>Visit:</b> Sugarloaf Mountain, Little Iranja, Great Iranja, The Lighthouse, The White Sands</li>
+<li><b>Duration:</b> One day</li>
+<li><b>Departure:</b> Ambatoloaka</li>
+<li><b>Number of passengers:</b> Guests, Guide, 1 Skipper, Cook</li>
+<li><b>Means of transport:</b> Speedboat, Life jackets available</li>
+<li><b>Lunch:</b> Picnic</li>
+</ul>',            
+            '212'       => '<h2>History of <strong>Nosy Iranja</strong></h2>
+<p>
+Nosy Iranja, the most charming island of Nosy Be, consists of two islets connected by a pristine sandbar,
+which is completely submerged at high tide. Nosy Iranja Be is home to a fishing village and Nosy Iranja Kely,
+a private cove, accessible only at low tide.
+Nosy Iranja offers an idyllic, authentic, and unique Indian Ocean landscape.
+</p>',            
+            '213'       => '<h3>Highlights: Nosy Iranja</h3>
+<ul>
+<li>A strip of fine white sand connecting two islets (unique in the world)</li>
+<li>Relaxation</li>
+<li>Clear, turquoise waters for a great swim</li>
+<li>Sea turtle</li>
+</ul>',            
+            '214'       => '<h3>Included Services</h3>
+<ul>
+<li>Sea Transportation: Speedboat</li>
+<li>Seafood Picnic Lunch</li>
+<li>Mineral Water</li>
+<li>Visitors\' Fees</li>
+</ul>',            
+            '215'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+<li>Optional Activities</li>
+</ul>',            
             '216'       => '',            
             '217'       => '',            
             '218'       => '',            
@@ -1822,13 +1868,61 @@ Airport assistance and HAVE A GREAT FLIGHT.
                 Mais prendre de la hauteur vous permet de voir encore plus. Un paysage époustouflant et unique : 
                 plages, 7 lacs, anciens volcans, magnifique cratère,  et sa verdure. 
             </p>',            
-            '209'       => '',            
-            '210'       => '',            
-            '211'       => '',            
-            '212'       => '',            
-            '213'       => '',            
-            '214'       => '',            
-            '215'       => '',            
+            '209'       => 'île Iranja',            
+            '210'       => 'L’île aux tortues',            
+            '211'       => '<h2>Description du Circuit</h2>
+            <p>
+                Départ de la plage d’Ambatoloaka au sud-ouest de Nosy Be à 08h45. 
+                Au cours d’une traversée en bateau 
+                rapide d’environ 1h15 minutes laissez-vous gagner par l’émotion qu’offre une journée dans ce coin de paradis.
+            </p>
+            <p>
+            
+                Une fois arrivée sur l’île,
+                une immersion totale dans un village de pêcheur vous sera offerte et aussi la visite des 2 îlots reliés 
+                par un long banc de sable blanc de 2 kilomètres vous accueille.
+                À marée basse, une plage blanche et intacte est disponible pour tous vos moments de plaisir,
+                bain de soleil, baignade et petite balade pour découvrir quelques variétés de fougères, 
+                le tout sur une mer bleue turquoise. 
+                À midi un agréable déjeuner à base de fruit de mer préparé sur place à l’ombre des cocotiers vous sera servi. 
+                Retour vers 15 h15.
+            </p>
+            <ul class="unstyled-list">
+                <li><b>Visite : </b> Pain de Sucre, Petite Iranja, Grande Iranja, Le phare, la langue de sable blanc</li>
+                <li><b>Durée : </b>  Une journée</li>
+                <li><b>Départ :</b> Ambatoloaka</li>
+                <li><b>Nombre de pax : </b> Les clients, Guide Accompagnateur, 1 Skippeur, Cuisinière</li>
+                <li><b>Moyen de transport : </b> Bateau Rapide, Gilet sauvetages disponible</li>
+                <li><b>Déjeuner :</b>  Pique-Nique</li>
+            </ul>',            
+            '212'       => '<h2>Histoire de <strong>Nosy Iranja </strong></h2>
+            <p>
+                Nosy Iranja  la plus charmante île de Nosy be composée de deux îlots reliées par un banc de sable immaculé, 
+                qui est totalement submergé à marée haute, Nosy iranja be rassemble un village de pêcheur et Nosy Iranja kely 
+                 une anse privée, accessible uniquement à marée basse, 
+                Nosy iranja offre un paysage idylllique, authentique et unique de l’Océan Indien.
+            </p>',            
+            '213'       => '<h3>Points fort : Nosy Iranja</h3>
+                        <ul>
+                            <li>Langue de sable blancs et fin reliant deux îlots ( unique au monde)</li>
+                            <li>Farniente</li>
+                            <li>Mer au eaux limpides et turquoise pour une bonne baignade</li>
+                            <li>Tortue de mer</li>
+                        </ul>',            
+            '214'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transport maritime :  Bateau rapide</li>
+                            <li>Déjeuner pique nique à base des fruits de mer</li>
+                            <li>Eau minéral</li>
+                            <li>Droit des visites.</li>
+                        </ul>',            
+            '215'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboires</li>
+                            <li>Activités optionnelles</li>
+                        </ul>',            
             '216'       => '',            
             '217'       => '',            
             '218'       => '',            
@@ -3573,13 +3667,61 @@ la sua popolazione e la sua cultura.
 Ma salendo di quota si riesce a vedere ancora di più. Un paesaggio mozzafiato e unico:
 spiagge, 7 laghi, antichi vulcani, magnifico cratere e il suo verde.
 </p>',            
-            '209'       => '',            
-            '210'       => '',            
-            '211'       => '',            
-            '212'       => '',            
-            '213'       => '',            
-            '214'       => '',            
-            '215'       => '',            
+            '209'       => 'Isola di Iranja',            
+            '210'       => 'Isola delle tartarughe',            
+            '211'       => '<h2>Descrizione del circuito</h2>
+<p>
+Partenza dalla spiaggia di Ambatoloaka a sud-ovest di Nosy Be alle 8:45.
+Durante una traversata in barca
+breve di circa 1 ora e 15 minuti, lasciatevi conquistare dall\'emozione che una giornata in questo angolo di paradiso sa regalare.
+</p>
+<p>
+
+Una volta arrivati ​​sull\'isola,
+vi verrà offerta un\'immersione totale in un villaggio di pescatori e anche la visita dei 2 isolotti collegati
+vi accoglie un lungo banco di sabbia bianca lungo 2 chilometri.
+Con la bassa marea, una spiaggia bianca e incontaminata è a vostra disposizione per tutti i vostri momenti di piacere,
+bagni di sole, nuotate e una breve passeggiata alla scoperta di alcune varietà di felci,
+tutto su un mare blu turchese.
+A mezzogiorno verrà servito un piacevole pranzo a base di pesce preparato sul posto, all\'ombra delle palme da cocco.
+Rientro previsto per le 15:15.
+</p>
+<ul class="unstyled-list">
+<li><b>Visita:</b> Pan di Zucchero, Piccola Iranja, Grande Iranja, Il faro, la striscia di sabbia bianca</li>
+<li><b>Durata:</b> Un giorno</li>
+<li><b>Partenza:</b> Ambatoloaka</li>
+<li><b>Numero di pax:</b> Ospiti, Guida, 1 Skipper, Cuoco</li>
+<li><b>Mezzi di trasporto:</b> Barca veloce, giubbotti di salvataggio disponibili</li>
+<li><b>Pranzo:</b> Picnic</li>
+</ul>',            
+            '212'       => '<h2>Storia di <strong>Nosy Iranja</strong></h2>
+<p>
+Nosy Iranja è l\'isola più affascinante di Nosy Be, composta da due isolotti collegati da un banco di sabbia incontaminato,
+che è completamente sommersa durante l\'alta marea, Nosy Iranja è un villaggio di pescatori e Nosy Iranja Kely
+una baia privata, accessibile solo con la bassa marea,
+Nosy Iranja offre un paesaggio idilliaco, autentico e unico nell\'Oceano Indiano.
+</p>',            
+            '213'       => '<h3>In evidenza: Nosy Iranja</h3>
+<ul>
+<li>Lingua di sabbia bianca e fine che collega due isolotti (unica al mondo)</li>
+<li>Ozio</li>
+<li>Mare limpido e turchese per una bella nuotata</li>
+<li>Tartaruga marina</li>
+</ul>',            
+            '214'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasporto marittimo: Barca veloce</li>
+<li>Pranzo al sacco a base di pesce</li>
+<li>Acqua minerale</li>
+<li>Diritti di visita.</li>
+</ul>',            
+            '215'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Suggerimenti</li>
+<li>Attività facoltative</li>
+</ul>',            
             '216'       => '',            
             '217'       => '',            
             '218'       => '',            
@@ -5312,13 +5454,61 @@ seine Bevölkerung und seine Kultur.
 Doch durch die größere Höhe können Sie noch mehr sehen. Eine atemberaubende und einzigartige Landschaft:
 Strände, 7 Seen, alte Vulkane, herrliche Krater und viel Grün.
 </p>',            
-            '209'       => '',            
-            '210'       => '',            
-            '211'       => '',            
-            '212'       => '',            
-            '213'       => '',            
-            '214'       => '',            
-            '215'       => '',            
+            '209'       => 'Iranja-Insel',            
+            '210'       => 'Schildkröteninsel',            
+            '211'       => '<h2>Schaltkreisbeschreibung</h2>
+<p>
+Abfahrt vom Strand Ambatoloaka südwestlich von Nosy Be um 8:45 Uhr.
+Während einer Bootsüberfahrt
+Lassen Sie sich in einer kurzen Zeit von etwa 1 Stunde und 15 Minuten von den Emotionen mitreißen, die ein Tag in dieser Ecke des Paradieses bietet.
+</p>
+<p>
+
+Einmal auf der Insel angekommen,
+Ihnen wird ein vollständiges Eintauchen in ein Fischerdorf sowie der Besuch der beiden miteinander verbundenen Inseln angeboten
+Eine 2 Kilometer lange weiße Sandbank heißt Sie willkommen.
+Bei Ebbe steht Ihnen ein weißer und unberührter Strand für all Ihre Momente des Vergnügens zur Verfügung.
+Sonnenbaden, Schwimmen und ein kurzer Spaziergang, um einige Farnarten zu entdecken,
+alles auf einem türkisblauen Meer.
+Mittags wird ein angenehmes Mittagessen mit Meeresfrüchten serviert, das vor Ort im Schatten der Kokosnussbäume zubereitet wird.
+Rückkehr gegen 15:15 Uhr.
+</p>
+<ul class="unstyled-list">
+<li><b>Besuchen Sie:</b> Zuckerhut, Klein-Iranja, Groß-Iranja, den Leuchtturm, den weißen Sandstreifen</li>
+<li><b>Dauer:</b> Ein Tag</li>
+<li><b>Abflug:</b> Ambatoloaka</li>
+<li><b>Anzahl der Personen:</b> Gäste, Guide, 1 Skipper, Koch</li>
+<li><b>Transportmittel:</b> Schnellboot, Schwimmwesten vorhanden</li>
+<li><b>Mittagessen:</b> Picknick</li>
+</ul>',            
+            '212'       => '<h2>Geschichte von <strong>Nosy Iranja</strong></h2>
+<p>
+Nosy Iranja, die charmanteste Insel von Nosy Be, besteht aus zwei kleinen Inseln, die durch eine unberührte Sandbank verbunden sind.
+die bei Flut vollständig unter Wasser ist, Nosy Iranja vereint ein Fischerdorf und Nosy Iranja kely
+eine private Bucht, die nur bei Ebbe zugänglich ist,
+Nosy Iranja bietet eine idyllische, authentische und einzigartige Landschaft des Indischen Ozeans.
+</p>',            
+            '213'       => '<h3>Highlights: Nosy Iranja</h3>
+<ul>
+<li>Zunge aus feinem weißen Sand, die zwei Inselchen verbindet (einzigartig auf der Welt)</li>
+<li>Müßiggang</li>
+<li>Klares, türkisfarbenes Meer zum Schwimmen</li>
+<li>Meeresschildkröte</li>
+</ul>',            
+            '214'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Seetransport: Schnellboot</li>
+<li>Meeresfrüchte-Picknick-Mittagessen</li>
+<li>Mineralwasser</li>
+<li>Besuchsrecht.</li>
+</ul>',            
+            '215'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipps</li>
+<li>Optionale Aktivitäten</li>
+</ul>',            
             '216'       => '',            
             '217'       => '',            
             '218'       => '',            
