@@ -206,9 +206,67 @@ Nosy Iranja offers an idyllic, authentic, and unique Indian Ocean landscape.
 <li>Tips</li>
 <li>Optional Activities</li>
 </ul>',            
-            '216'       => '',            
-            '217'       => '',            
-            '218'       => '',            
+            '216'       => 'Isalo Park',            
+            '217'       => '<h2>Specificity of the Park</h2>
+
+<p class="mb-4">
+The Isalo Terrestrial National Park is a unique ecological representation within the Madagascar National Parks network:
+a ruiniform massif of continental sandstone dating from the Jurassic period
+with its typical geomorphology and endemic rock-covered vegetation
+(Aloe, Euphorbia, Pachypodium, Kalanchoe, etc.)
+and the specific fauna of this exceptional habitat
+(rock-dwelling reptiles, the vast majority of which are endemic). </p>
+
+<h2>The landscapes of Isalo National Park</h2>
+
+<p>Eroded massif on a vast bed of grass dotted with tapia forest with landforms affected by erosion.</p>
+
+<h4>The flora of the Isalo Reserve</h4>
+
+<p>
+400 plant species, including some endemic to Madagascar, such as Pachypodium rosulatum,
+the medicinal plant Catharantus ovalis
+endemic to the Ihorombe region and the entire Zomandao plain, the Isalo palm.
+</p>
+
+<h4>The fauna of the Isalo Reserve</h4>
+
+<p>
+77 bird species, including one endemic to Madagascar, the Benson\'s Blackbird Pseudocosyphus bensoni. 39 reptiles, including 2 endemic ones, and 14 primate species
+</p>
+
+<h2>Park Location</h2>
+
+<p>
+Isalo National Park is located 269 km from Fianarantsoa and 80 km from Ihosy, in the commune of Ranohira.
+GPS: 22º22’ – 22º40’ South latitude and 45º11’ – 45º23’ East longitude
+</p>',            
+            '218'       => '<h2>How to get there</h2>
+
+<p>
+Antananarivo – Ambondromamy (410 km) on the RN4, turn right onto the RN6 to Antanamitarana (777 km).
+Antanamitarana – Montagne d\'Ambre National Park 30 km.
+The Montagne d\'Ambre National Park is located 37 km from Antsiranana.
+Antsiranana – Joffreville: 34 km and Joffreville – Park: 3 km, secondary road.
+</p>
+
+<h2>Geography</h2>
+
+<p>
+Area: 81,540 ha. The average length of the Park is 59 km from north to south
+and the average width is 22 km from east to west.
+The Park\'s perimeter is 164 km.
+</p>
+
+<p>Region: Ihorombe</p>
+
+<h2>Ideal time to visit</h2>
+
+<p>
+All year round
+Opening hours:
+6:30 a.m. to 4:30 p.m. (all hours)
+</p>',            
             '219'       => '',
             'english'   => 'English',
             '105'        => "Departure from the hotel at 08:00, direction IRANJA ISLAND, from Ambatoloaka beach by speed boat, the journey lasts 1h15.
@@ -1923,9 +1981,71 @@ Airport assistance and HAVE A GREAT FLIGHT.
                             <li>Pourboires</li>
                             <li>Activités optionnelles</li>
                         </ul>',            
-            '216'       => '',            
-            '217'       => '',            
-            '218'       => '',            
+            '216'       => 'Parc Isalo',            
+            '217'       => '<h2>Spécificité du Parc</h2>
+            
+            <p class="mb-4">
+                Le Parc National Terrestre Isalo est une représentation écologique unique au sein du réseau Parc Nationaux Madagascar : 
+                un massif ruiniforme de grès continental datant du jurassique
+                avec sa géomorphologie typique et sa végétation rupicole endémique
+                (Aloès, Euphorbes, Pachypodes, Kalanchoe …) 
+                et la faune spécifique de cet habitat exceptionnel 
+                (reptiles de rochers dont la grande majorité sont endémiques).
+            </p>
+
+            <h2>Les paysages du Parc National Isalo</h2>
+
+            <p>Massif érodé sur un vaste lit d’herbe parsemé de forêt de « tapia » avec des formes du terrain attaquées par l’érosion.</p>
+
+            <h4>Les flores de la Réserve Isalo</h4>
+
+            <p>
+                400 espèces floristiques dont certaines endémiques de Madagascar comme le pachypodium rosulatum, 
+                la plante médicinale Catharantus ovalis 
+                endémique à la région Ihorombe et de toute la plaine de Zomandao le palmier de l’Isalo.
+            </p>
+
+            <h4>Les faunes de la Réserve Isalo</h4>
+
+            <p>
+                77 espèces avifaunes dont une espèce endémique de Madagascar, le Merle de Benson Pseudocosyphus bensoni.
+                39 reptiles dont 2 endémiques, 14 espèces de primates
+            </p>
+
+            <h2>Localisation du Parc</h2>
+
+            <p>
+                Le Parc National Isalo est situé à 269 km de Fianarantsoa et à 80 km d’Ihosy, il se trouve dans la Commune de Ranohira.
+                GPS: 22º22’ – 22º40’ latitude Sud et 45º11’ – 45º23’ longitude Est
+            </p>',            
+            '218'       => '<h2>Comment s’y rendre</h2>
+
+            <p>
+                Antananarivo – Ambondromamy (410Km) sur la RN4, bifurquer à droite sur la RN6 jusqu’à Antanamitarana (777Km). 
+                Antanamitarana – Parc National de Montagne d’Ambre 30km.
+                Le Parc National Montagne d’Ambre se situe à 37km d’Antsiranana.
+                Antsiranana – Joffreville : 34 km et Joffreville – Parc : 3 km, route secondaire
+            </p>
+
+           
+
+            <h2>Géographie</h2>
+
+            <p>
+                Superficie: 81.540 ha. La longueur moyenne du Parc est de 59 km du Nord au Sud 
+                et la largeur moyenne est de 22 km d’Est en Ouest,
+                le périmètre du Parc est de 164 Km.
+            </p>
+
+            <p>Région : Ihorombe</p>
+
+           <h2>Période idéale pour la visite</h2>
+
+            <p>
+                Toute l’année
+                Heures d’ouvertures:
+                06h30 à 16h30 (heure continue)
+            </p>',            
             '219'       => '',
             'français'  =>'fr',
             '105'        => "Départ de l'hôtel à 08h00, direction IRANJA ISLAND, depuis la plage d'Ambatoloaka en speed boat, le trajet dure 1h15.
@@ -3722,9 +3842,71 @@ Nosy Iranja offre un paesaggio idilliaco, autentico e unico nell\'Oceano Indiano
 <li>Suggerimenti</li>
 <li>Attività facoltative</li>
 </ul>',            
-            '216'       => '',            
-            '217'       => '',            
-            '218'       => '',            
+            '216'       => 'Parco dell\'Isalo',            
+            '217'       => '<h2>Specificità del Parco</h2>
+
+<p classe="mb-4">
+Il Parco Nazionale Terrestre dell\'Isalo è una rappresentazione ecologica unica all\'interno della rete dei Parchi Nazionali del Madagascar:
+un massiccio ruiniforme di arenaria continentale risalente al periodo Giurassico
+con la sua tipica geomorfologia e vegetazione rupestre endemica
+(Aloe, Euphorbia, Pachypodium, Kalanchoe, ecc.)
+e la fauna specifica di questo habitat eccezionale
+(rettili delle rocce, la maggior parte dei quali sono endemici).
+</p>
+
+<h2>I paesaggi del Parco Nazionale dell\'Isalo</h2>
+
+<p>Massiccio eroso su un vasto letto di erba punteggiato dalla foresta di "tapia" con forme del terreno attaccate dall\'erosione.</p>
+
+<h4>La flora della riserva dell\'Isalo</h4>
+
+<p>
+400 specie di piante, alcune delle quali sono endemiche del Madagascar, come il Pachypodium rosulatum,
+la pianta medicinale Catharantus ovalis
+endemica della regione di Ihorombe e dell\'intera pianura di Zomandao, la palma Isalo.
+</p>
+
+<h4>La fauna della riserva dell\'Isalo</h4>
+
+<p>
+77 specie di uccelli, tra cui una specie endemica del Madagascar, il merlo di Benson, Pseudocosyphus bensoni.
+39 rettili di cui 2 endemici, 14 specie di primati
+</p>
+
+<h2>Posizione del parco</h2>
+
+<p>
+Il Parco Nazionale Isalo si trova a 269 km da Fianarantsoa e a 80 km da Ihosy, nel comune di Ranohira.
+GPS: 22º22’ – 22º40’ latitudine sud e 45º11’ – 45º23’ longitudine est
+</p>',            
+            '218'       => '<h2>Come arrivare</h2>
+
+<p>
+Antananarivo – Ambondromamy (410Km) sulla RN4, svoltare a destra sulla RN6 fino ad Antanamitarana (777Km).
+Antanamitarana – Parco nazionale della Montagna d\'Ambra 30 km.
+Il Parco Nazionale Montagne d’Ambre si trova a 37 km da Antsiranana.
+Antsiranana – Joffreville: 34 km e Joffreville – Parc: 3 km, strada secondaria
+</p>
+
+
+
+<h2>Geografia</h2>
+
+<p>
+Superficie: 81.540 ha. La lunghezza media del Parco è di 59 km da Nord a Sud
+e la larghezza media è di 22 km da est a ovest,
+Il perimetro del Parco è di 164 km.
+</p>
+
+<p>Regione: Ihorombe</p>
+
+<h2>Momento ideale per visitare</h2>
+
+<p>
+Tutto l\'anno
+Orari di apertura:
+dalle 6:30 alle 16:30 (ora continua)
+</p>',            
             '219'       => '',
             'italiano'  => 'italiano',
             '105'        => "Partenza dall'hotel alle 08:00, direzione IRANJA ISLAND, dalla spiaggia di Ambatoloaka in motoscafo, il viaggio dura 1h15.
@@ -5509,9 +5691,71 @@ Nosy Iranja bietet eine idyllische, authentische und einzigartige Landschaft des
 <li>Tipps</li>
 <li>Optionale Aktivitäten</li>
 </ul>',            
-            '216'       => '',            
-            '217'       => '',            
-            '218'       => '',            
+            '216'       => 'Der Isalo-Park',            
+            '217'       => '<h2>Besonderheiten des Parks</h2>
+
+<p Klasse="mb-4">
+Der Isalo Terrestrial National Park ist eine einzigartige ökologische Repräsentation innerhalb des Netzwerks der Nationalparks Madagaskars:
+ein ruinenförmiges Massiv aus kontinentalem Sandstein aus der Jurazeit
+mit seiner typischen Geomorphologie und endemischen Felsvegetation
+(Aloe, Wolfsmilch, Pachypodium, Kalanchoe usw.)
+und die spezifische Fauna dieses außergewöhnlichen Lebensraums
+(Felsreptilien, von denen die überwiegende Mehrheit endemisch ist).
+</p>
+
+<h2>Die Landschaften des Isalo-Nationalparks</h2>
+
+<p>Erodiertes Massiv auf einer weitläufigen Grasfläche, übersät mit „Tapia“-Wäldern und von Erosion angegriffenen Landformen.</p>
+
+<h4>Die Flora des Isalo-Reservats</h4>
+
+<p>
+400 Pflanzenarten, von denen einige auf Madagaskar endemisch sind, wie Pachypodium rosulatum,
+die Heilpflanze Catharantus ovalis
+Die Isalo-Palme ist in der Region Ihorombe und der gesamten Zomandao-Ebene endemisch.
+</p>
+
+<h4>Die Fauna des Isalo-Reservats</h4>
+
+<p>
+77 Vogelarten, darunter eine auf Madagaskar endemische Art, die Benson-Amsel Pseudocosyphus bensoni.
+39 Reptilien, darunter 2 endemische, 14 Primatenarten
+</p>
+
+<h2>Lage des Parks</h2>
+
+<p>
+Der Isalo-Nationalpark liegt 269 km von Fianarantsoa und 80 km von Ihosy in der Gemeinde Ranohira.
+GPS: 22º22’ – 22º40’ südlicher Breite und 45º11’ – 45º23’ östlicher Länge
+</p>',            
+            '218'       => '<h2>Anfahrt</h2>
+
+<p>
+Antananarivo – Ambondromamy (410 km) auf der RN4, rechts abbiegen auf die RN6 bis Antanamitarana (777 km).
+Antanamitarana – Nationalpark Montagne d’Ambre 30 km.
+Der Nationalpark Montagne d’Ambre liegt 37 km von Antsiranana entfernt.
+Antsiranana – Joffreville: 34 km und Joffreville – Parc: 3 km, Nebenstraße
+</p>
+
+
+
+<h2>Geographie</h2>
+
+<p>
+Fläche: 81.540 ha. Die durchschnittliche Länge des Parks beträgt 59 km von Nord nach Süd
+und die durchschnittliche Breite beträgt 22 km von Ost nach West,
+Der Umfang des Parks beträgt 164 km.
+</p>
+
+<p>Region: Ihorombe</p>
+
+<h2>Ideale Reisezeit</h2>
+
+<p>
+Das ganze Jahr über
+Öffnungszeiten:
+6:30 bis 16:30 Uhr (durchgehende Stunde)
+</p>',            
             '219'       => '',
             
             'deutch'    => 'de',
