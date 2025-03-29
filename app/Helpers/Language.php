@@ -267,7 +267,156 @@ All year round
 Opening hours:
 6:30 a.m. to 4:30 p.m. (all hours)
 </p>',            
-            '219'       => '',
+            '219'       => 'Kite Surfing in Diego-Suarez',
+            '220'       => '<h4>DAY 1: ARRIVAL IN DIEGO SUAREZ: AIRPORT – HOTEL TRANSFER</h4>
+
+<p class="mb-4">
+Airport – Hotel Transfer
+</p>
+
+<h4>DAY 2: INTRODUCTORY KITE SURFING COURSE / KITE SURFING</h4>
+
+<ul>
+<li>Wind Theory</li>
+<li>Safety Theory</li>
+<li>Setting Up an Inflatable Kite</li>
+<li>Kite Control</li>
+<li>Equipment Setup</li>
+<li>Beginning the Landing</li>
+<li>Body Drag</li>
+<li>Water Departure</li>
+</ul>
+
+<h4>DAY 3 – 4: KITE SURFING + THE 3 BAYS</h4>
+
+<p>
+Highlights : Meeting with farmers, Sakalava Bay, Dune Bay and Pigeon Bay, military ruins, beaches.
+</p>
+
+<h4>DAY 5: KITE SURFING + EMERALD SEA</h4>
+
+<p>
+Highlights: crystal clear water, snorkeling, spearfishing, water sports: kite surfing
+</p>
+
+<h4>DAY 6: DIEGO SUAREZ – AMBILOBE – ANKIFY – NOSY BE</h4>
+
+<p>
+Transfer from Diego Suarez to Ankify port by vehicle and speedboat to Nosy Be.
+</p>
+
+<h4>DAY 7: DEPARTURE DAY</h4>
+
+<p>
+Hotel – airport transfer
+</p>',
+            '221'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel to Airport Transfer: Arrival and Departure</li>
+<li>Accommodation: Hotel in Diego Suarez</li>
+<li>Spacious, Air-conditioned Vehicle</li>
+<li>Lunches During Excursions</li>
+<li>Some Dinners</li>
+<li>Daily Mineral Water</li>
+<li>Guide</li>
+<li>Site Entrance Fees</li>
+</ul>',
+            '222'       => 'Services Not Included
+
+<h3>
+<ul>
+<li>Kitesurfing Equipment</li>
+<li>Snorkeling Equipment</li>
+<li>Lunch: Days 1 – 2 – 7</li>
+<li>Dinner: Days 6 – 7</li>
+<li>Drinks</li>
+<li>Personal Extras</li>
+</ul>',
+            '223'       => 'Lemur Island and Marine Park',
+            '224'       => 'Nosy Komba and Nosy Tanikely',
+            '225'       => '<h2>Tour Description</h2>
+<p>
+Nosy Komba for a short 20-minute crossing by speedboat.
+On land, a magnificent discovery of the island will be organized through a visit to the craft village with its embroidery and wooden craft market and a visit to the mini park where you will admire the island\'s endemic species such as the famous local lemur, the black-tailed lemur, boa constrictor snakes, chameleons, and various tortoises. Then, from Nosy Komba to Nosy Tanikely, a 15-minute drive away,
+this is the marine reserve with a white beach bordered by a crystal-clear sea surrounded by a coral reef,
+an islet whose summit, a 1908 lighthouse, offers exceptional views of Nosy-Be,
+NOSY-KOMBA, and Madagascar. Inside, a small forest of bat trees is just waiting to be admired,
+a marine park where you can observe, a few meters below the surface, varied and colorful marine animals such as sea turtles,
+starfish, and clownfish.
+</p>
+<p>
+
+An ideal place for lovers of swimming, sunbathing, and relaxing on the beach, especially snorkeling.
+At noon, a typical and hearty lunch will be served on the beach. </p>
+<ul class="unstyled-list">
+<li><b>Visit:</b> Nosy Komba or Lemur Island, Nosy Tanikely or the Tanikely Marine Reserve</li>
+<li><b>Duration:</b> One day</li>
+<li><b>Departure:</b> Ambatoloaka</li>
+<li><b>Number of passengers:</b> Guests, Guide, 1 Skipper, Cook</li>
+<li><b>Means of transportation:</b> Speedboat, Life jackets available</li>
+<li><b>Lunch:</b> Picnic on the beach</li>
+</ul>',
+            '226'       => '<h2>History of <strong>Nosy Komba</strong> and <strong>Nosy Tanikely</strong></h2>
+<p>
+Nosy Komba is a beautiful island just across from Nosy Be.
+Its village is adorned with an embroidery and wooden craft market.
+The island is home to several endemic species such as the famous local lemur, the black-tailed lemur,
+boa constrictor snakes, chameleons, and various tortoises.
+</p>
+<p class="mb-3">
+Nosy Tanikely is a marine reserve with a white beach bordered by a crystal-clear sea and surrounded by a coral reef. It is an islet whose
+top boasts a lighthouse dating from 1908, offering exceptional views of Nosy Be, Nosy Komba, and Madagascar.
+</p>',
+            '227'       => '<h3>Strong points: Nosy Komba</h3>
+<ul>
+<li>Artisanal market with lots of artisanal products and souvenirs</li>
+<li>Macaco lemurs and other endemic species</li>
+<li>Turtles</li>
+<li>Boa Constrictor Snake</li>
+</ul>',
+            '228'       => '<h3>Strengths: Nosy Tanikely</h3>
+<ul>
+<li>Coral reef</li>
+<li>Sea turtle</li>
+<li>The lighthouse and its panoramic view</li>
+<li>Snorkeling</li>
+</ul>',
+            '229'       => '<h3>Included Services</h3>
+<ul>
+<li>Maritime Transportation: Speedboat</li>
+<li>Seafood Picnic Lunch</li>
+<li>Mineral Water</li>
+<li>Park Entrance</li>
+</ul>',
+            '230'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+<li>Optional Activities</li>
+</ul>',
+            '231'       => '',
+            '232'       => '',
+            '233'       => '',
+            '234'       => '',
+            '235'       => '',
+            '236'       => '',
+            '237'       => '',
+            '238'       => '',
+            '239'       => '',
+            '240'       => '',
+            '241'       => '',
+            '242'       => '',
+            '243'       => '',
+            '244'       => '',
+            '245'       => '',
+            '246'       => '',
+            '247'       => '',
+            '248'       => '',
+            '249'       => '',
+            '250'       => '',
+            '251'       => '',
+            '252'       => '',
             'english'   => 'English',
             '105'        => "Departure from the hotel at 08:00, direction IRANJA ISLAND, from Ambatoloaka beach by speed boat, the journey lasts 1h15.
                         Once arrived on IRANJA island, you will be greeted with a breathtaking landscape. A total immersion in nature will enhance your day. To start the day, 2 magnificent islets await you, connected by a 2 km long stretch of white sand. A white and immaculate beach is available to you for all your moments of relaxation, where you can sunbathe, swim and take a short walk to discover some varieties of ferns, all on a turquoise blue sea.
@@ -2046,7 +2195,165 @@ Airport assistance and HAVE A GREAT FLIGHT.
                 Heures d’ouvertures:
                 06h30 à 16h30 (heure continue)
             </p>',            
-            '219'       => '',
+            '219'       => 'Kite Surf à Diego-Suarez',
+            '220'       => '<h4>JOUR 1: ARRIVEE A DIEGO  SUAREZ :TRANSFERT AEROPORT – HOTEL </h4>
+            
+            <p class="mb-4">
+            Transfert aéroport – hôtel
+            </p>
+
+            <h4>JOUR 2 :   COURS D’INITIATION EN KITE SURF / KITE SURF</h4>
+
+            <ul>
+                <li>Théorie venteuse</li>
+                <li>Théorie de la sécurité</li>
+                <li>Mise en place d’un cerf-volant gonflable</li>
+                <li>Contrôle de l’aile</li>
+                <li>Mise en place de l’équipement</li>
+                <li>Début de l’atterrissage</li>
+                <li>Traînée corporelle</li>
+                <li>Départ d’eau</li>
+            </ul>
+
+            <h4>JOUR 3 – 4 :   KITE SURF   + LES 3 BAIES</h4>
+
+            <p>
+            Points fort : rencontre avec les paysans, Baie de Sakalava , Baies de Dune et Baie des Pigeons , Ruine militaire , plages.
+            </p>
+
+            <h4>JOUR 5 : KITE SURF   +   MER D’EMERAUDE</h4>
+
+            <p>
+            Points fort: eau cristallisé , snorkeling , chasse sous marine , sport de  glisse : Kite Surf
+            </p>
+
+            <h4>JOUR 6:  DIEGO SUAREZ  – AMBILOBE – ANKIFY – NOSY BE</h4>
+
+
+            <p>
+            Transfert de Diego Suarez vers le port Ankify en véhicule et en bateau rapide vers Nosy Be
+            </p>
+
+            <h4>JOUR 7 :   JOUR DE DEPART </h4>
+
+            <p>
+            Transfert hôtel – aéroport
+            </p>',
+            '221'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel à l’aéroport : arrivée et départ</li>
+                            <li>Hébergement: Hôtel à Diego Suarez</li>
+                            <li>Véhicule spacieux et climatisé</li>
+                            <li>Déjeuners durant les excursions</li>
+                            <li>Quelques dîner</li>
+                            <li>Eau minérale de tous les jours</li>
+                            <li>Guide</li>
+                            <li>Droits d’entrée aux sites</li>
+                        </ul>',
+            '222'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Matériel de Kite surf</li>
+                            <li>Matériel de snorkeling</li>
+                            <li>Déjeuner: jour 1 – 2 – 7</li>
+                            <li>Dîner: jour 6 – 7</li>
+                            <li>Boissons</li>
+                            <li>Extras personnels</li>
+                        </ul>',
+            '223'       => ' L’île aux lémuriens et Le Parc marin',
+            '224'       => 'Nosy Komba et Nosy Tanikely',
+            '225'       => '<h2>Description du Circuit</h2>
+            <p>
+                Nosy Komba pour une petite traversée de 20 minutes en bateau rapide. 
+                A terre, un magnifique découvert de l’île vous sera organisé à travers 
+                la visite du village artisanal avec son marché de broderie et d’artisanat 
+                en bois et la visite du mini parc dans lequel vous apprécierez les espèces
+                 endémiques de l’île tels que le célèbre lémurien local les lémuriens macaco, 
+                 les serpents BOA constrictor, les caméléons et diverses tortues terrestres.
+                 Ensuite, de Nosy Komba destination à Nosy Tanikely en 15 minutes de trajet, 
+                 c’est la réserve marine avec une plage blanche bordé d’une mer cristalline entouré d’une barrière corallienne,
+                  un ilot dont au sommet un phare de 1908 vous offre une vue exceptionnelle sur Nosy-Be, 
+                  NOSY –KOMBA et Madagascar, à l’intérieur un petit foret à arbres à Chauve-souris ne demandant qu’à être contempler, 
+                  un parc marin dans laquelle vous pouvez observer à quelques mètres de profondeur des animaux marins 
+                  variés et multicolores tels que tortues marins,
+                 étoile de mer ou poisson clown.
+            </p>
+            <p>
+            
+                Un endroit idéal pour les amateurs de la baignade, du bain de soleil et du farniente à la plage et notamment du snorkeling.
+                A midi, un déjeuner typique et copieux vous sera servi sur la plage.
+            
+            </p>
+            <ul class="unstyled-list">
+                <li><b>Visite : </b> Nosy Komba ou l’île aux lémuriens, Nosy Tanikely ou la Réserve marine de Tanikely</li>
+                <li><b>Durée : </b>  Une journée</li>
+                <li><b>Départ :</b> Ambatoloaka</li>
+                <li><b>Nombre de pax : </b> Les Clients, Guide Accompagnateur, 1 Skippeur, Cuisinière</li>
+                <li><b>Moyen de transport : </b> Bateau Rapide, Gilet sauvetages disponible</li>
+                <li><b>Déjeuner :</b>  Pique-Nique sur la plage</li>
+            </ul>',
+            '226'       => '<h2>Histoire de <strong>Nosy Komba </strong> et <strong>Nosy Tanikely </strong></h2>
+            <p>
+                Nosy Komba est une magnifique île  juste en face de Nosy Be . 
+                Son village est orné par un marché de broderie et d’artisanat en bois. 
+                l’île abrite quelques espèces endémiques tels que le célèbre lémurien local les lémuriens macaco,
+                les serpents BOA constrictor, les caméléons et diverses tortues terrestres.
+            </p>
+            <p class="mb-3">
+                Nosy Tanikely est une réserve marine avec une plage blanche bordée d’une mer 
+                cristalline et entourée d’une barrière corallienne. C’est  est  un ilot dont 
+                le sommet a un phare datant de 1908 
+                qui vous offre une vue exceptionnelle sur Nosy-Be, NOSY –KOMBA et Madagascar.
+            </p>',
+            '227'       => '<h3>Points fort : Nosy Komba</h3>
+                        <ul>
+                            <li> Marché artisanale avec plein de produits  et souvenirs artisanaux</li>
+                            <li>Lémuriens macaco et d’autres espèces endémiques</li>
+                            <li>Tortues</li>
+                            <li>Serpent Boa Constrictor</li>
+                        </ul>',
+            '228'       => '<h3>Points forts : Nosy Tanikely</h3>
+                        <ul>
+                            <li>Barrière corallienne</li>
+                            <li>Tortue de mer</li>
+                            <li>Le phare et sa vue panoramique</li>
+                            <li>Snorkelling</li>
+                        </ul>',
+            '229'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transport maritime :  Bateau rapide</li>
+                            <li>Déjeuner pique nique à base des fruits de mer</li>
+                            <li>Eau minéral</li>
+                            <li>Entrée parcs</li>
+                        </ul>',
+            '230'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboires</li>
+                            <li>Activités optionnelles</li>
+                        </ul>',
+            '231'       => '',
+            '232'       => '',
+            '233'       => '',
+            '234'       => '',
+            '235'       => '',
+            '236'       => '',
+            '237'       => '',
+            '238'       => '',
+            '239'       => '',
+            '240'       => '',
+            '241'       => '',
+            '242'       => '',
+            '243'       => '',
+            '244'       => '',
+            '245'       => '',
+            '246'       => '',
+            '247'       => '',
+            '248'       => '',
+            '249'       => '',
+            '250'       => '',
+            '251'       => '',
+            '252'       => '',
             'français'  =>'fr',
             '105'        => "Départ de l'hôtel à 08h00, direction IRANJA ISLAND, depuis la plage d'Ambatoloaka en speed boat, le trajet dure 1h15.
                 Une fois arrivé sur l'île IRANJA, vous serez accueilli avec un paysage à couper le souffle. Une immersion totale dans la nature embellira votre journée. Pour commencer la journée, 2 magnifiques îlots vous attendent, reliés par une étendue de sable blanc de 2 km de long. Une plage blanche et immaculée s'offre à vous pour tous vos moments de détente, où vous pourrez faire bronzette, baignade et petite promenade à la découverte de quelques variétés de fougères, le tout sur une mer bleu turquoise.
@@ -3907,7 +4214,165 @@ Tutto l\'anno
 Orari di apertura:
 dalle 6:30 alle 16:30 (ora continua)
 </p>',            
-            '219'       => '',
+            '219'       => 'Kitesurf a Diego-Suarez',
+            '220'       => '<h4>GIORNO 1: ARRIVO A DIEGO SUAREZ: TRASFERIMENTO AEROPORTO – HOTEL</h4>
+
+<p classe="mb-4">
+Trasferimento aeroporto-hotel
+</p>
+
+<h4>GIORNO 2: CORSO INTRODUTTIVO AL KITE SURF / KITE SURF</h4>
+
+<ul>
+<li>Teoria del vento</li>
+<li>Teoria della sicurezza</li>
+<li>Montaggio di un aquilone gonfiabile</li>
+<li>Controllo delle ali</li>
+<li>Impostazione dell\'attrezzatura</li>
+<li>Inizio dell\'atterraggio</li>
+<li>Trascinamento corporeo</li>
+<li>Presa d\'acqua</li>
+</ul>
+
+<h4>GIORNO 3 – 4: KITE SURF + LE 3 BAIE</h4>
+
+<p>
+Punti salienti: incontro con gli agricoltori, baia di Sakalava, baia delle Dune e baia dei Piccioni, rovine militari, spiagge.
+</p>
+
+<h4>GIORNO 5: KITE SURF + MARE SMERALDO</h4>
+
+<p>
+Punti salienti: acqua cristallina, snorkeling, pesca subacquea, sport acquatici: kite surf
+</p>
+
+GIORNO 6: DIEGO SUAREZ – AMBILOBE – ANKIFY – NOSY BE
+
+
+<p>
+Trasferimento da Diego Suarez al porto di Ankify in veicolo e motoscafo per Nosy Be
+</p>
+
+<h4>GIORNO 7: GIORNO DELLA PARTENZA</h4>
+
+<p>
+Trasferimento dall\'hotel all\'aeroporto
+</p>',
+            '221'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento dall\'hotel all\'aeroporto: arrivo e partenza</li>
+<li>Alloggio: Hotel a Diego Suarez</li>
+<li>Veicolo spazioso e climatizzato</li>
+<li>Pranzi durante le escursioni</li>
+<li>Qualche cena</li>
+<li>Acqua minerale quotidiana</li>
+<li>Guida</li>
+<li>Costi di ingresso ai siti</li>
+</ul>',
+            '222'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Attrezzatura per il kitesurf</li>
+<li>Attrezzatura per lo snorkeling</li>
+<li>Pranzo: Giorno 1 – 2 – 7</li>
+<li>Cena: Giorno 6 – 7</li>
+<li>Bevande</li>
+<li>Extra personali</li>
+</ul>',
+            '223'       => 'Isola dei Lemuri e Parco Marino',
+            '224'       => 'Nosy Komba e Nosy Tanikely',
+            '225'       => '<h2>Descrizione del circuito</h2>
+<p>
+Nosy Komba per una breve traversata di 20 minuti in motoscafo.
+Sulla terraferma, vi verrà organizzata una magnifica scoperta dell\'isola attraverso
+una visita al villaggio artigianale con il suo mercato del ricamo e dell\'artigianato
+in legno e la visita del mini parco in cui potrete apprezzare le specie
+endemici dell\'isola come il famoso lemure locale, il lemure macaco,
+Serpenti BOA constrictor, camaleonti e varie tartarughe terrestri.
+Poi, dalla destinazione Nosy Komba a Nosy Tanikely in 15 minuti di viaggio,
+Si tratta di una riserva marina con una spiaggia bianca delimitata da un mare cristallino circondato da una barriera corallina,
+un isolotto con un faro del 1908 in cima che vi offre una vista eccezionale su Nosy-Be,
+NOSY –KOMBA e Madagascar, all’interno di una piccola foresta di alberi pipistrello che aspettano solo di essere contemplati,
+un parco marino dove è possibile osservare animali marini a pochi metri di profondità
+vari e multicolori come le tartarughe marine,
+stelle marine o pesci pagliaccio.
+</p>
+<p>
+
+Un luogo ideale per gli amanti del nuoto, della tintarella e del relax in spiaggia, in particolare per gli amanti dello snorkeling.
+A mezzogiorno vi verrà servito un pranzo tipico e sostanzioso sulla spiaggia.
+
+</p>
+<ul class="unstyled-list">
+<li><b>Visita:</b> Nosy Komba o l\'isola dei lemuri, Nosy Tanikely o la riserva marina di Tanikely</li>
+<li><b>Durata:</b> Un giorno</li>
+<li><b>Partenza:</b> Ambatoloaka</li>
+<li><b>Numero di pax:</b> Ospiti, Guida, 1 Skipper, Cuoco</li>
+<li><b>Mezzi di trasporto:</b> Barca veloce, giubbotti di salvataggio disponibili</li>
+<li><b>Pranzo:</b> Picnic sulla spiaggia</li>
+</ul>',
+            '226'       => '<h2>Storia di <strong>Nosy Komba</strong> e <strong>Nosy Tanikely</strong></h2>
+<p>
+Nosy Komba è una bellissima isola proprio di fronte a Nosy Be.
+Il suo villaggio è impreziosito da un mercato di ricami e di artigianato in legno.
+L\'isola ospita alcune specie endemiche come il famoso lemure locale, il lemure macaco,
+Serpenti BOA constrictor, camaleonti e varie tartarughe terrestri.
+</p>
+<p classe="mb-3">
+Nosy Tanikely è una riserva marina con una spiaggia bianca delimitata da un mare
+cristallino e circondato da una barriera corallina. È un\'isola di cui
+la cima ha un faro risalente al 1908
+che vi offre una vista eccezionale su Nosy-Be, NOSY-KOMBA e il Madagascar.
+</p>',
+            '227'       => '<h3>Punti di forza: Nosy Komba</h3>
+<ul>
+<li>Mercato artigianale con tantissimi prodotti artigianali e souvenir</li>
+<li>Lemuri dalla coda nera e altre specie endemiche</li>
+<li>Tartarughe</li>
+<li>Serpente Boa Constrictor</li>
+</ul>',
+            '228'       => '<h3>In evidenza: Nosy Tanikely</h3>
+<ul>
+<li>Barriera corallina</li>
+<li>Tartaruga marina</li>
+<li>Il faro e la sua vista panoramica</li>
+<li>Snorkeling</li>
+</ul>',
+            '229'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasporto marittimo: Barca veloce</li>
+<li>Pranzo al sacco a base di pesce</li>
+<li>Acqua minerale</li>
+<li>Ingresso del parco</li>
+</ul>',
+            '230'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Suggerimenti</li>
+<li>Attività facoltative</li>
+</ul>',
+            '231'       => '',
+            '232'       => '',
+            '233'       => '',
+            '234'       => '',
+            '235'       => '',
+            '236'       => '',
+            '237'       => '',
+            '238'       => '',
+            '239'       => '',
+            '240'       => '',
+            '241'       => '',
+            '242'       => '',
+            '243'       => '',
+            '244'       => '',
+            '245'       => '',
+            '246'       => '',
+            '247'       => '',
+            '248'       => '',
+            '249'       => '',
+            '250'       => '',
+            '251'       => '',
+            '252'       => '',
             'italiano'  => 'italiano',
             '105'        => "Partenza dall'hotel alle 08:00, direzione IRANJA ISLAND, dalla spiaggia di Ambatoloaka in motoscafo, il viaggio dura 1h15.
                         Una volta arrivati ​​all'isola di IRANJA, sarete accolti da un paesaggio mozzafiato. Un'immersione totale nella natura allieterà la vostra giornata. Per iniziare la giornata vi aspettano 2 magnifici isolotti, collegati da una distesa di sabbia bianca lunga 2 km. Per i vostri momenti di relax vi aspetta una spiaggia bianca e immacolata, dove potrete prendere il sole, nuotare e fare una breve passeggiata alla scoperta di diverse varietà di felci, il tutto su un mare blu turchese.
@@ -5756,7 +6221,165 @@ Das ganze Jahr über
 Öffnungszeiten:
 6:30 bis 16:30 Uhr (durchgehende Stunde)
 </p>',            
-            '219'       => '',
+            '219'       => 'Kitesurfen in Diego-Suarez',
+            '220'       => '<h4>TAG 1: ANKUNFT IN DIEGO SUAREZ: FLUGHAFEN – HOTELTRANSFER</h4>
+
+<p class="mb-4">
+Flughafen – Hotel Transfer
+</p>
+
+<h4>TAG 2: EINFÜHRUNGSKURS KITESURF / KITESURF</h4>
+
+<ul>
+<li>Windy-Theorie</li>
+<li>Sicherheitstheorie</li>
+<li>Aufbau eines aufblasbaren Drachens</li>
+<li>Flügelsteuerung</li>
+<li>Einrichten der Ausrüstung</li>
+<li>Beginn der Landung</li>
+<li>Bodydrag</li>
+<li>Wasserauslass</li>
+</ul>
+
+<h4>TAG 3 – 4: KITESURFING + DIE 3 BUCHTEN</h4>
+
+<p>
+Highlights: Treffen mit Bauern, Sakalava Bay, Dune Bay und Pigeon Bay, Militärruine, Strände.
+</p>
+
+<h4>TAG 5: KITESURFING + SMARAGDMEER</h4>
+
+<p>
+Highlights: kristallklares Wasser, Schnorcheln, Speerfischen, Wassersport: Kitesurfen
+</p>
+
+TAG 6: DIEGO SUAREZ – AMBILOBE – ANKIFY – NOSY BE
+
+
+<p>
+Transfer von Diego Suarez zum Hafen von Ankify mit dem Auto und dem Schnellboot nach Nosy Be
+</p>
+
+<h4>TAG 7: ABREISETAG</h4>
+
+<p>
+Hotel – Flughafentransfer
+</p>',
+            '221'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer vom Hotel zum Flughafen: Ankunft und Abreise</li>
+<li>Unterkunft: Hotel in Diego Suarez</li>
+<li>Geräumiges, klimatisiertes Fahrzeug</li>
+<li>Mittagessen während der Ausflüge</li>
+<li>Etwas Abendessen</li>
+<li>Mineralwasser für jeden Tag</li>
+<li>Anleitung</li>
+<li>Eintrittsgebühren für Sehenswürdigkeiten</li>
+</ul>',
+            '222'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Kitesurfing-Ausrüstung</li>
+<li>Schnorchelausrüstung</li>
+<li>Mittagessen: Tag 1 – 2 – 7</li>
+<li>Abendessen: Tag 6 – 7</li>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+</ul>',
+            '223'       => 'Die Insel in Lemurs und dem Marine Park',
+            '224'       => 'Nosy Komba und Nosy Tanikely',
+            '225'       => '<h2>Schaltkreisbeschreibung</h2>
+<p>
+Nosy Komba für eine kurze 20-minütige Überfahrt mit dem Schnellboot.
+An Land wird für Sie eine großartige Entdeckung der Insel organisiert durch
+ein Besuch des Handwerkerdorfes mit seinem Stickerei- und Kunsthandwerksmarkt
+im Wald und der Besuch des Miniparks, in dem Sie die Arten schätzen werden
+auf der Insel endemische Arten wie der berühmte einheimische Lemur, der Macaco-Lemur,
+Boa-Constrictor-Schlangen, Chamäleons und verschiedene Landschildkröten.
+Dann von Nosy Komba nach Nosy Tanikely in 15 Minuten Fahrt,
+Es ist ein Meeresschutzgebiet mit einem weißen Strand, der von einem kristallklaren Meer begrenzt wird, das von einem Korallenriff umgeben ist.
+eine kleine Insel mit einem Leuchtturm aus dem Jahr 1908 auf der Spitze, der Ihnen einen außergewöhnlichen Blick auf Nosy-Be bietet,
+NOSY –KOMBA und Madagaskar, in einem kleinen Wald von Fledermausbäumen, die nur darauf warten, betrachtet zu werden,
+ein Meerespark, in dem Sie Meerestiere in einigen Metern Tiefe beobachten können
+vielfältig und bunt wie Meeresschildkröten,
+Seesterne oder Clownfische.
+</p>
+<p>
+
+Ein idealer Ort für Liebhaber des Schwimmens, Sonnenbadens und Entspannens am Strand, insbesondere des Schnorchelns.
+Mittags wird Ihnen am Strand ein typisches und herzhaftes Mittagessen serviert.
+
+</p>
+<ul class="unstyled-list">
+<li><b>Besuchen Sie:</b> Nosy Komba oder die Lemureninsel, Nosy Tanikely oder das Tanikely-Meeresschutzgebiet</li>
+<li><b>Dauer:</b> Ein Tag</li>
+<li><b>Abflug:</b> Ambatoloaka</li>
+<li><b>Anzahl der Personen:</b> Gäste, Guide, 1 Skipper, Koch</li>
+<li><b>Transportmittel:</b> Schnellboot, Schwimmwesten vorhanden</li>
+<li><b>Mittagessen:</b> Picknick am Strand</li>
+</ul>',
+            '226'       => '<h2>Geschichte von <strong>Nosy Komba</strong> und <strong>Nosy Tanikely</strong></h2>
+<p>
+Nosy Komba ist eine wunderschöne Insel direkt gegenüber von Nosy Be.
+Das Dorf ist mit einem Markt für Stickereien und Holzhandwerk geschmückt.
+Die Insel ist die Heimat einiger endemischer Arten wie dem berühmten einheimischen Lemur, dem Macaco Lemur,
+Boa-Constrictor-Schlangen, Chamäleons und verschiedene Landschildkröten.
+</p>
+<p Klasse="mb-3">
+Nosy Tanikely ist ein Meeresschutzgebiet mit einem weißen Strand, der von einem Meer begrenzt wird
+kristallin und von einem Korallenriff umgeben. Es ist eine Insel, von der
+Auf dem Gipfel steht ein Leuchtturm aus dem Jahr 1908
+von wo aus Sie einen außergewöhnlichen Blick auf Nosy-Be, NOSY-KOMBA und Madagaskar haben.
+</p>',
+            '227'       => '<h3>Stärken: Nosy Komba</h3>
+<ul>
+<li>Kunsthandwerksmarkt mit vielen handgefertigten Produkten und Souvenirs</li>
+<li>Schwarzschwanzmakis und andere endemische Arten</li>
+<li>Schildkröten</li>
+<li>Boa Constrictor-Schlange</li>
+</ul>',
+            '228'       => '<h3>Highlights: Nosy Tanikely</h3>
+<ul>
+<li>Korallenbarriere</li>
+<li>Meeresschildkröte</li>
+<li>Der Leuchtturm und sein Panoramablick</li>
+<li>Schnorcheln</li>
+</ul>',
+            '229'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Seetransport: Schnellboot</li>
+<li>Meeresfrüchte-Picknick-Mittagessen</li>
+<li>Mineralwasser</li>
+<li>Parkeingang</li>
+</ul>',
+            '230'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipps</li>
+<li>Optionale Aktivitäten</li>
+</ul>',
+            '231'       => '',
+            '232'       => '',
+            '233'       => '',
+            '234'       => '',
+            '235'       => '',
+            '236'       => '',
+            '237'       => '',
+            '238'       => '',
+            '239'       => '',
+            '240'       => '',
+            '241'       => '',
+            '242'       => '',
+            '243'       => '',
+            '244'       => '',
+            '245'       => '',
+            '246'       => '',
+            '247'       => '',
+            '248'       => '',
+            '249'       => '',
+            '250'       => '',
+            '251'       => '',
+            '252'       => '',
             
             'deutch'    => 'de',
             '105'        => "Abfahrt vom Hotel um 08:00 Uhr in Richtung IRANJA ISLAND, vom Strand Ambatoloaka mit dem Schnellboot, die Fahrt dauert 1 Stunde und 15 Minuten.
