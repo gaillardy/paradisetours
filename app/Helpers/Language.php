@@ -4668,41 +4668,41 @@ spiagge e barriere coralline.",
 <li><strong>Continente:</strong> Africa</li>
 <li><strong>Valuta:</strong> Ariary</li>
 <li><strong>Lingue ufficiali:</strong> malgascio, francese</li>',
-            '243'       => '<h2 class="guide-heading">Tourismus in Madagaskar</h2>
+            '243'       => '<h2 class="guide-heading">Turismo in Madagascar</h2>
 <p>
-Der Tourismus ist einer der wichtigsten Wirtschaftszweige Madagaskars, insbesondere von Nosy Be. Es ist eine der wichtigsten Devisenquellen des Landes. Der Schwerpunkt liegt auf den Naturparks des Landes. Tatsächlich sind die Fauna und Flora Madagaskars die am besten erhaltenen der Welt. Auf der Big Island leben zahlreiche endemische Arten, von denen der Lemur die bekannteste ist. Auch entlang der Küste bleibt die Meeresfauna nicht unbemerkt.
-Auch der Sporttourismus wächst. Viele Wassersportler treffen sich in der Nähe von Diego-Suarez oder Nosy-Be im Norden des Landes, um Kitesurfen und Windsurfen zu üben. Die jährliche Windsaison dauert von Ende März bis Ende November. Es gehört zu den längsten und stärksten der Welt.
+Il turismo è una delle attività economiche più importanti del Madagascar, in particolare di Nosy Be. È una delle fonti di valuta più importanti del Paese. La punta della spada si trova nel Parco naturale delle Landes. Infatti, la fauna e la flora del Madagascar sono le meglio conservate al mondo. Sulla Grande Isola vivono molti animali endemici, il più famoso dei quali è il lemure. Anche la fauna marina resta incontaminata lungo la costa.
+Anche turismo sportivo. Nella parte settentrionale delle Landes, nei pressi di Diego-Suarez o di Nosy Be, si possono praticare numerosi sport acquatici, tra cui kitesurf e windsurf. La stagione annuale del vento dura da fine marzo a fine novembre. È il più lungo e il più forte del mondo.
 
 </p>
 
 
-<h2 class="guide-heading">Die 23 Regionen Madagaskars:</h2>
+<h2 class="guide-heading">Le 23 regioni del Madagascar:</h2>
 
 <p>
-Jede Region Madagaskars bietet atemberaubende Landschaften, reiche Traditionen und faszinierende Geschichten. Von der Nordspitze bis zu den südlichen Ausläufern bietet jede Region ein einzigartiges Erlebnis, das Sie mit Sicherheit begeistern wird. Dies sind: Diego/Suarez, Sambava, Itasy, Analamanga, Vakinankaratra, Bongolava, Sofia, Boeny, Betsiboka, Melaky, Alaotra, Mangoro, Atsinanana, Analanjorofo, Amoron’iMania, Haute Matsiatra, Vatovavy Fitovinany, Androy, Atsimo Atsinanana, Ihorombe, Menabe, Atsimo Andrefana, Tôlagnaro.
+Ogni regione del Madagascar offre paesaggi ricchi, tradizioni ricche e storie affascinanti. Dalla Cima Nord alle vette più meridionali, ogni regione offre un\'esperienza unica, garantita dalla sicurezza. Sono: Diego/Suarez, Sambava, Itasy, Analamanga, Vakinankaratra, Bongolava, Sofia, Boeny, Betsiboka, Melaky, Alaotra, Mangoro, Atsinanana, Analanjorofo, Amoron’iMania, Haute Matsiatra, Vatovavy Fitovinany, Androy, Atsimo Atsinanana, Ihorombe, Menabe, Atsimo Andrefana, Tôlagnaro.
 </p>
 
-<h2 class="guide-heading">Die 18 ethnischen Gruppen Madagaskars:</h2>
+<h2 class="guide-heading">I 18 gruppi etnici del Madagascar:</h2>
 
 <p>
-In Magagaskar gibt es verschiedene ethnische Gruppen: Merina, Betsileo, Betsimisaraka, Sakalava, Antaisaka, Antandroy, Mahafaly, Vezo, Bara, Antakarana, Antemoro, Antaifasy, Masikoro, Antambahoaka, Tsimihety, Tanala, Bezanozano, Sihanaka.
+In Madagascar sono presenti vari gruppi etnici: Merina, Betsileo, Betsimisaraka, Sakalava, Antaisaka, Antandroy, Mahafaly, Vezo, Bara, Antakarana, Antemoro, Antaifasy, Masikoro, Antambahoaka, Tsimihety, Tanala, Bezanozano, Sihanaka.
 </p>
 
-<h2 class="guide-heading">Geschichte, Kultur und Bräuche:</h2>
+<h2 class="guide-heading">Storia, cultura e matrimonio:</h2>
 
 <p>
-Die Kultur Madagaskars bezieht sich in erster Linie auf die kulturellen Praktiken seiner riesigen Bevölkerung. Diese Kultur spiegelt die verschiedenen Besiedlungswellen der Jahrhunderte wider. Dennoch üben alle Madagassen mit ihren heterogenen Kulturen die gleiche Geste des Respekts aus, wenn sie aneinander vorbeigehen: Sie verbeugen sich.
-Das Land mit seinen rund 32,7 Millionen Einwohnern ist daher kulturell sehr vielfältig. Es gibt 18 verschiedene ethnische Gruppen, die dieselbe Sprache, aber unterschiedliche Dialekte sprechen. Es ist nicht überraschend, dass jede ethnische Gruppe unterschiedliche Tabus und Verbote (Fady) hat, die von Generation zu Generation weitergegeben werden. Hier tragen wir die Farbe Rot nicht bei starkem Regen, wenn es donnert und blitzt.
-Die Beschneidung ist auf der ganzen Insel eine echte Tradition. Dabei wird einem kleinen Jungen die Vorhaut abgetrennt, damit er wirklich als Mann gilt.
-Madagaskar ist das einzige Land, in dem „FAMADIHANA oder die Totenumkehr“ praktiziert wird. Obwohl sie aufgrund ihrer Kosten verloren geht, dauert die Famadihana-Saison im Hochland von Juni bis September.
+La cultura del Madagascar è in prima linea nelle pratiche culturali la sua vera trasformazione. Questa cultura riflette i vari sviluppi dei secoli. Dennoch parla del Madagascar con le sue culture eterogenee, lo stesso gesto di rispetto, se anche tu ne sei consapevole: ne sei consapevole.
+Il Paese, con i suoi 32,7 milioni di abitanti, è quindi culturalmente molto diversificato. Esistono 18 diversi gruppi etnici che parlano lingue diesel, ma anche diversi dialetti. Non sorprende che ogni gruppo etnico abbia tabù e divieti (Fady) non correlati tra loro, che vengono osservati da generazioni e generazioni. Qui abbiamo il colore rosso non nella pioggia forte, quando cede e lampeggia.
+Tutta l\'isola è una vera tradizione. Quindi, da quello precedente verrà rimosso un ragazzino, ma sarà comunque come un uomo.
+Il Madagascar è l\'unico paese in cui si usa praticamente il termine "FAMADIHANA o Totem". Naturalmente, perderai i costi, che dureranno fino alla stagione delle famiglie sugli altopiani, da giugno a settembre.
 
 </p>
 
 <h2 class="guide-heading">Zoll</h2>
 <p>
-Die madagassische Kultur stammt größtenteils von anderen Kontinenten. Der Glaube an Vintana – das Schicksal – könnte aus der islamischen Kosmologie stammen, während die religiöse Symbolik und der Status, der dem Vieh zugeschrieben wird, an das afrikanische Erbe erinnern.
-Die wichtigsten madagassischen Bräuche betreffen die Ahnenverehrung, die sich sowohl auf die Vorfahren als auch auf den Respekt vor ihnen bezieht und aus einem komplexen System von Fady- und Bestattungsriten besteht. Fady ist ein System lokaler Tabus, das die Vorfahren besänftigen soll. Ein Fady kann beispielsweise das Pfeifen an einem Strand in der Nähe eines Dorfes oder das Gehen vor einem heiligen Baum verbieten. Es gibt Tausende solcher Aberglauben, und viele davon reichen nicht über die Grenzen eines Dorfes hinaus.
-Das Zebu ist ein Zeichen des Reichtums und daher sehr wichtig. Neben Reis ist es eines der beiden Symbole des Landes. Die Zahl dieser Rinder, deren Fleisch in großen Mengen verzehrt wird, entspricht fast der menschlichen Bevölkerung.
+La cultura del Madagascar è in gran parte quella di altri continenti. Il barlume di speranza in Vintana – il pungiglione della speranza – può essere visto nella cosmologia islamica, quando il simbolismo religioso e lo status, che sono scritti nella vita, sono considerati dagli animali africani.
+I più importanti birrifici del Madagascar sono soggetti all\'accordo, che è sia conforme alle regole che conforme al loro rispetto ed è supportato da un complesso sistema di certificazioni e regole di certificazione. Fady è un sistema locale di tabù, che ne costituiscono i prerequisiti. Una fata può suonare la cornamusa su una spiaggia vicino a un villaggio o nel luogo in cui si trova un albero sacro. Si tratta di un ritiro solenne e tausende, e non siamo nemmeno vicini ai confini di un villaggio.
+Lo Zebù è il simbolo del Reich e quindi riveste una grande importanza. Accanto al Reis si trova uno dei due simboli delle Landes. Il prezzo di questa scorza, consumata in grandi quantità, elimina rapidamente l\'intossicazione umana.
 
 </p>',
             '244'       => "<h2 class=\"guide-heading\">Cucina malgascia:</h2>
