@@ -395,20 +395,163 @@ top boasts a lighthouse dating from 1908, offering exceptional views of Nosy Be,
 <li>Tips</li>
 <li>Optional Activities</li>
 </ul>',
-            '231'       => '',
-            '232'       => '',
-            '233'       => '',
-            '234'       => '',
-            '235'       => '',
-            '236'       => '',
-            '237'       => '',
-            '238'       => '',
-            '239'       => '',
-            '240'       => '',
-            '241'       => '',
-            '242'       => '',
-            '243'       => '',
-            '244'       => '',
+            '231'       => 'Lokobe Nature Reserve',
+            '232'       => 'Calm and peaceful landscape of Ampasipohy.',
+            '233'       => '<h2>Tour Description</h2>
+<p>
+Departure from your hotel at 8:30 a.m.,
+a car will take you to the fishing village
+of Ambatozavavy, a 30-minute drive southeast of Nosy-Be.
+</p>
+<p>
+Once in the village, you will continue the tour by canoe
+for a 45-minute crossing during which a mangrove forest,
+traveler\'s tree (Ravinala), and a wild forest will offer magnificent scenery
+while you enjoy the pleasure of a stroll accompanied by the guide and the rower.
+</p>
+<p>
+Upon arrival at the village of Ampasipohy, the entrance to the park, you will be given a 15-minute break
+to give you the opportunity to prepare for the journey. Within the forest, a rich array of flora and fauna awaits your eyes, which our expert guides will be happy to share with you. The medicinal properties of our plants and the endemic flora of our fauna are all worth exploring, with encounters with macaque lemurs, boa constrictors, chameleons, and more. </p>
+<ul class="unstyled-list">
+<li><b>Visit:</b> Chameleon, Uroplatus Gecko, Boa constrictor snake, Macaco lemurs</li>
+<li><b>Duration:</b> One day</li>
+<li><b>Departure:</b> From your hotel</li>
+<li><b>Number of people:</b> Guests, Guide, and canoeists</li>
+<li><b>Means of transportation:</b> Car and traditional canoe</li>
+<li><b>Lunch:</b> Dishes specially prepared by a young women\'s association</li>
+</ul>',
+            '234'       => '<h2> About the <strong>Lokobe Nature Reserve</strong></h2>
+<p>
+Lokobe Nature Reserve is unique on the island of Nosy Be, where lush forests
+and mangroves combine with the calm and peaceful landscape of Ampasipohy.
+Reaching the Lokobe Nature Reserve from Ambatozavavy by traditional pirogue
+makes this excursion the most authentic among many others.
+</p>',
+            '235'       => '<h3>Highlights</h3>
+<ul>
+<li>Experience a typical local canoe trip</li>
+<li>Nocturnal lemurs and chameleons</li>
+<li>Largest wood carving site</li>
+<li>Medicinal plant</li>
+</ul>',
+            '236'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel Pickup</li>
+<li>Transfer by car and canoe</li>
+<li>Seafood Lunch</li>
+<li>Mineral Water</li>
+<li>Guest Access Fees</li>
+</ul>',
+            '237'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+<li>Optional Activities</li>
+</ul>',
+            '238'       => 'Traveling can be both exciting and stressful,
+especially when it\'s a new destination. However, it\'s always wise to know where you\'re going.
+We have the \"guide\" for you. Find all the essential information you need to know before visiting Madagascar.
+Useful information, especially for those who have never been there.',
+            '239'       => 'Good to know',
+            '240'       => 'The island of Madagascar is a country in the Indian Ocean off southeast Africa, divided into six autonomous provinces.
+The majority of the population follows traditional faiths, with a Muslim or Christian minority.
+The island is home to thousands of endemic animal species such as lemurs, as well as tropical forests,
+beaches, and coral reefs.',
+            '241'       => 'Description',
+            '242'       => '<li><strong>Capital:</strong> Antananarivo</li>
+<li><strong>President:</strong> Andry Nirina Rajoelina</li>
+<li><strong>Population:</strong> 32.7 million</li>
+<li><strong>Continent:</strong> Africa</li>
+<li><strong>Currency:</strong> Ariary</li>
+<li><strong>Official Languages:</strong> Malagasy, French</li>',
+            '243'       => '<h2 class="guide-heading">Tourism in Madagascar</h2>
+<p>
+Tourism is one of the most important economic activities for Madagascar, particularly Nosy Be. It is one of the country\'s primary sources of foreign currency. It focuses on the country\'s natural parks. Madagascar\'s flora and fauna are indeed the best preserved in the world. The Big Island is home to numerous endemic species, the most famous of which is the lemur, and along the coast, the marine fauna does not go unnoticed.
+
+Sports tourism is also growing. Many water sports enthusiasts flock to the areas around Diego-Suarez or Nosy-Be in the north of the country to practice kitesurfing and windsurfing. The annual wind season lasts from late March to late November. It is among the longest and strongest in the world.
+
+</p> 
+
+
+<h2 class="guide-heading">The 23 Regions of Madagascar:</h2> 
+
+<p> 
+Each of the regions of Madagascar offers its share of breathtaking landscapes, rich traditions, and fascinating stories. From the northern tip to the southern reaches, each region offers a unique experience that is sure to seduce you. They are: Diégo/Suarez, Sambava, Itasy, Analamanga, Vakinankaratra, Bongolava, Sofia, Boeny, Betsiboka, Melaky, Alaotra, Mangoro, Atsinanana, Analanjorofo, Amoron’iMania, Haute Matsiatra, Vatovavy Fitovinany, Androy, Atsimo Atsinanana, Ihorombe, Menabe, Atsimo Andrefana, Tôlagnaro. 
+</p>
+
+<h2 class="guide-heading">The 18 Ethnic Groups of Madagascar:</h2>
+
+<p>
+Madagascar has several ethnic groups: Merina, Betsileo, Betsimisaraka, Sakalava, Antaisaka, Antandroy, Mahafaly, Vezo, Bara, Antakarana, Antemoro, Antaifasy, Masikoro, Antambahoaka, Tsimihety, Tanala, Bezanozano, and Sihanaka.
+</p>
+
+<h2 class="guide-heading">History, Culture, and Customs:</h2>
+
+<p>
+The culture of Madagascar primarily refers to the cultural practices of its vast population. This culture reflects the different waves of settlement over the centuries. Nevertheless, all these Malagasy people, with their diverse cultures, observe the same gesture of respect when they meet: they bow. This country of approximately 32.7 million inhabitants is therefore very culturally diverse. It is home to 18 distinct ethnic groups, speaking the same language but different dialects. It is not surprising to learn that each ethnic group has different taboos and prohibitions (fady) that are passed down from generation to generation. Here, people do not wear the color red during heavy rain when there is thunder and lightning.
+Circumcision is a real tradition throughout the island; it involves cutting a little boy\'s foreskin in order to be truly considered a man.
+Madagascar is the only country where "FAMADIHANA" or turning of the dead is practiced. In the Highlands, although it is becoming less common due to its cost, the famadihana season runs from June to September.
+
+</p>
+
+<h2 class="guide-heading">Customs</h2>
+<p>
+Madagascan culture originates largely from other continents. The belief in vintana—destiny—may derive from Islamic cosmology, while the religious symbolism and status conferred on cattle recall African heritage.
+The main Malagasy customs concern ancestor worship, which designates both ancestors and the respect accorded them. It consists of a complex system of fady and funeral rites. The fady corresponds to a system of local taboos intended to appease the ancestors. For example, a fady might prohibit whistling on a beach near a village, or walking in front of a sacred tree. There are thousands of such superstitions, many of which do not extend beyond the confines of a village.
+The zebu is a sign of wealth and therefore very important. Along with rice, it is one of the two symbols of the country. These cattle, whose meat is consumed in abundance, are almost as numerous as the human population.
+
+</p>',
+            '244'       => '<h2 class="guide-heading">Malagasy Cuisine:</h2>
+
+<p>
+Rice is the staple of the Malagasy diet, grown on the island. Malagasy cuisine brings together all the varied culinary traditions of the Indian Ocean and Creole cuisine: hearty and spicy dishes.
+<b>The main dishes are:</b> meat stewed with garlic and ginger, pounded cassava leaves mixed with coconut milk, and zebu steak, fish, or shrimp. Zebu broth with greens, free-range chicken stewed with garlic, fried fish, not to mention local pastries and various types of fritters.
+
+</p>
+
+<h2 class="guide-heading">Means of Transportation:</h2>
+
+<p>
+There are various means of transportation in Madagascar: The bush taxi is the most commonly used means of transportation on the island, along with planes, car rentals, trains, canoes, dhows, ferries, and cars.
+</p>
+
+<h2 class="guide-heading">Madagascar\'s Festivals and Festivities:</h2>
+
+<p class="mb-2">
+<b>January-February-March:</b> The first three months of the year mark the beginning of the cyclone season in the Indian Ocean, which extends until March. Cyclones primarily affect the coasts. The rainy season has now begun throughout the country, with varying intensity depending on the region. It is accompanied by intense heat during the day. January marks the beginning of the "lean season": the previous year\'s rice stocks are exhausted and the new plants have not yet been harvested. This critical time of year lasts until March.
+</p>
+<p class="mb-2">
+<b>March (March 8):</b> International Women\'s Day is celebrated with numerous events in cities across the country. Mother\'s Day and Father\'s Day are also important on the island. Uprising Day: Every March 29, the country commemorates the rebellion against the French in 1947.
+</p>
+<p class="mb-2">
+<b>April (Santabary):</b> The Santabary Festival celebrates the first rice harvest of the year, in April and May. This is a time of abundance in the countryside, with bustling markets. </p>
+
+<p class="mb-2">
+<b>June (June 26):</b> This day, marked by official and festive celebrations, is also a key date for political demands. June signals the start of numerous circumcision festivals across the island.
+</p>
+<p class="mb-2">
+<b>July: In the countryside, this is the beginning of the "kabary period," or "palaver period." Until September, this is the time of year when money from the rice harvest is spent, and preparations for festivals, weddings, and famadihana are made.
+
+<b>Vanilla:</b> The SAVA triangle (Sambava, Antalaha, Vohémar, Andapa) lives between July and early August to the rhythm of the vanilla harvest, whose glistening pods dry in the sun and fill the towns with their scent. </p>
+
+<p class="mb-2">
+<b>August:</b> The Somarôho Festival is the grand annual carnival that lights up Nosy Be in early August. This iconic event plays a crucial role in promoting tourism in Nosy Be. Somarôho is the largest festival in the Indian Ocean. Don\'t miss this unique opportunity to discover the soul of Nosy Be and enjoy an unforgettable experience at the heart of the Somarôho Festival!
+</p>
+
+<p class="mb-2">
+<b>September:</b> Great travelers, humpback whales migrate every year from Antarctica to tropical regions where they can mate and give birth. They are found around Sainte-Marie Island and Nosy Be, where they put on a truly spectacular show.
+</p>
+<p class="mb-2">
+<b>October:</b> It\'s mango season. Tasty and available in a dozen varieties, they are appearing on tables and in markets. Another gift of nature: the jacaranda trees are in bloom.
+</p>
+<p class="mb-2">
+<b>November:</b> The month of lychee harvest. Madagascar\'s lychees are particularly juicy and delicious... The rainy season begins, preventing traffic on some seasonal roads. Some years, clouds wait patiently until December.
+</p>
+
+<p class="mb-2">
+<b>December:</b> This is the time of abundance on the lush east coast, with the harvest of numerous fruits.
+</p>',
             '245'       => '',
             '246'       => '',
             '247'       => '',
@@ -2332,19 +2475,118 @@ Airport assistance and HAVE A GREAT FLIGHT.
                             <li>Pourboires</li>
                             <li>Activités optionnelles</li>
                         </ul>',
-            '231'       => '',
-            '232'       => '',
-            '233'       => '',
-            '234'       => '',
-            '235'       => '',
-            '236'       => '',
-            '237'       => '',
-            '238'       => '',
-            '239'       => '',
-            '240'       => '',
-            '241'       => '',
-            '242'       => '',
-            '243'       => '',
+            '231'       => 'La Réserve Naturelle de Lokobe',
+            '232'       => 'Paysage calme et paisible d’Ampasipohy.',
+            '233'       => '<h2>Description du Circuit</h2>
+            <p>
+                Départ de votre hôtel à 08h30, 
+                une voiture vous amène jusqu’ au village de pêcheurs
+                 d’Ambatozavavy en 30 minutes de trajet au Sud Est de Nosy-Be.
+            </p>
+            <p>
+                Une fois au village, vous continuez le circuit en pirogue 
+                pour une traversée de 45 minutes durant laquelle une forêt de mangrove, 
+                d’arbre de voyageur (Ravinala) et une forêt sauvage offrira un magnifique paysage 
+                à vos yeux tout en jouissant d’un plaisir de balade en compagnie du guide et du rameur.
+            </p>
+            <p>
+                À l’arrivée au village d’Ampasipohy l’entrée du parc, 15 mn 
+                de pause vous sera donnée afin de vous donner l’occasion de vous préparer tranquillement pour le trajet.
+                À l’intérieur de la forêt, une faune et flore riche en espèces s’ouvre à vos yeux dont nos guides 
+                spécialistes se feront un plaisir à vous les faire apprécier. Comme, les vertus de nos plantes médicinales
+                pour les flores et l’endémicité de nos 
+                faunes sont tous à explorer avec la rencontre des lémuriens macaco, des serpents boa, des caméléons, ….
+            </p>
+            <ul class="unstyled-list">
+                <li><b>Visite : </b>Caméléon, Gecko uroplatus, Boa constrictor serpent, lémuriens macaco</li>
+                <li><b>Durée : </b>  Une journée</li>
+                <li><b>Départ :</b> De votre Hôtel</li>
+                <li><b>Nombre de pax : </b> Les clients, Guide Accompagnateur, des piroguiers</li>
+                <li><b>Moyen de transport : </b> Voiture et pirogue traditionnelle</li>
+                <li><b>Déjeuner :</b> plats spécialement préparés par une association de jeune femmes</li>
+            </ul>',
+            '234'       => '<h2> À propos de la <strong> Réserve naturelle de Lokobe</strong></h2>
+            <p>
+                Réserve naturelle de Lokobe  est unique sur l’île de Nosy Be où forêt luxuriants 
+                et mangroves riment avec paysage calme et paisible d’Ampasipohy. 
+                Rejoindre la réserve naturelle de Lokobe au départ d’Ambatozavavy en pirogue traditionnel
+                fait de cette excursion la plus authentique parmi tant d’autres.
+            </p>',
+            '235'       => '<h3>Points fort</h3>
+                        <ul>
+                            <li>expérience d’une traversée en pirogue typiquement locale</li>
+                            <li>Lémuriens nocturnes et Caméléons</li>
+                            <li>Plus grand chantier de sculpture sur bois</li>
+                            <li>Plante médicinale</li>
+                        </ul>',
+            '236'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li> Accueil à l’hôtel</li>
+                            <li>Transfert en voiture et pirogue</li>
+                            <li>Déjeuner à base des fruits de mer</li>
+                            <li>Eau minérale</li>
+                            <li>Droit des visites.</li>
+                        </ul>',
+            '237'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboires</li>
+                            <li>Activités optionnelles</li>
+                        </ul>',
+            '238'       => 'Voyager peut-être excitant et stressant à la fois, 
+          surtout lorsqu’il s’agit d’une nouvelle destination. Cependant, il est toujours plus prudent de savoir où on va.
+          Nous avons le « guide » pour vous. Retrouvez-y toutes les informations primordiales à savoir avant de visiter Madagascar.
+          Des informations utiles surtout pour ceux qui n’y ont jamais été.',
+            '239'       => 'Bon à savoir',
+            '240'       => "L'Île de Madagascar est un pays de l'océan Indien au sud-est de l'Afrique, divisé en six provinces autonomes. 
+            La majorité de la population suit des confessions traditionnelles, avec une minorité musulmane ou chrétienne. 
+            L'île abrite des milliers d’espèces animales endémiques comme les lémuriens, ainsi que des forêts tropicales, 
+            des plages et des récifs coralliens.",
+            '241'       => 'Description',
+            '242'       => '<li><strong>Capitale :</strong> Tananarive</li>
+            <li><strong>Président :</strong> Andry Nirina Rajoelina</li>
+            <li><strong>Population :</strong> 32.7 millions</li>
+            <li><strong>Continent :</strong> Afrique</li>
+            <li><strong>Devise :</strong> Ariary</li>
+            <li><strong>Langues officielles :</strong> Malagasy, Français</li>',
+            '243'       => '<h2 class="guide-heading">Tourisme à Madagascar</h2>
+                    <p>
+                      Le tourisme est une des activités économiques les plus importantes pour Madagascar, notamment Nosy Be. Il est une des premières sources de devises du pays. Il se concentre sur les parcs naturels du pays. La faune et la flore de Madagascar sont en effet les mieux préservées au monde. La Grande île abrite en effet de nombreuses espèces endémiques dont le plus connu est le lémurien et dans les côtes de , les faunes marines ne passent pas inaperçues. 
+                      Le tourisme sportif se développe également. De nombreux amoureux de sports nautiques se donnent rendez-vous dans les environs de Diégo-Suarez ou de Nosy-Be dans le Nord du Pays, pour pratiquer kitesurf et au windsurf. La saison annuelle de vent dure de fin mars à fin novembre. Elle figure parmi les plus longues et les plus fortes au monde.
+
+                    </p>
+
+
+                    <h2 class="guide-heading">Les 23 Régions de Madagascar :</h2>
+
+                    <p>
+                      Chacune des régions de Madagascar offre son lot de paysages époustouflants, de traditions riches, et d’histoires fascinantes. De la pointe nord aux confins du sud, , chaque région offre une expérience unique qui ne manquera pas de vous séduire. Ce sont : Diégo/Suarez, Sambava, Itasy, Analamanga, Vakinankaratra ,Bongolava ,Sofia ,Boeny, Betsiboka ,Melaky ,Alaotra, Mangoro ,Atsinanana, Analanjorofo, Amoron’iMania, Haute Matsiatra, Vatovavy Fitovinany,	Androy, Atsimo Atsinanana, Ihorombe, Menabe ,Atsimo Andrefana , Tôlagnaro.
+                    </p>
+
+                    <h2 class="guide-heading">Les 18 ethnies de Madagascar :</h2>
+
+                    <p>
+                      Magagascar possede differents ethnies : Merina, Betsileo, Betsimisaraka, Sakalava ,Antaisaka ,Antandroy , Mahafaly, Vezo ,Bara, Antakarana ,Antemoro, Antaifasy  ,Masikoro , Antambahoaka, Tsimihety , Tanala  ,Bezanozano , Sihanaka. 
+                    </p>
+
+                    <h2 class="guide-heading">Histoire, culture et coutume :</h2>
+
+                    <p>
+                      La culture de Madagascar désigne d’abord les pratiques culturelles patentes de sa vaste population. Cette culture reflète les différentes vagues de peuplement à travers les siècles. Néanmoins, tous ces Malgaches aux cultures hétérogènes observent le même geste de respect lorsqu’ils se croisent : ils s’inclinent. 
+                      Ce pays d’environ 32.7 millions d’habitants est donc très divers sur le plan culturel. Il compte 18 ethnies distinctes, parlant la même langue mais différents dialectes. Il n’est pas étonnant d’apprendre que chaque ethnie a des tabous et des interdits différents tabous (fady) qui se transmettent de génération en génération. Ici, on ne porte pas la couleur rouge pendant une forte pluie où il y a le tonnerre et la foudre. 
+                      La circoncision est une réelle tradition sur toute l’île, il s’agit d’inciser le prépuce d’un petit garçon par cette tradition pour être réellement considérés comme des hommes.
+                      Madagascar est le seul pays où l’on pratique le « FAMADIHANA ou retournement des morts ». Sur les Hautes Terres, même si cela se perd à cause de son coût, la saison des famadihana se déroule de juin à septembre. 
+
+                    </p>
+
+                    <h2 class="guide-heading">Coutumes</h2>
+                    <p>
+                      La culture malgache provient en grande partie d\'autres continents. La croyance dans le vintana – destin – pourrait découler de la cosmologie islamique, tandis que le symbolisme religieux et le statut conférés au bétail rappellent l\'héritage africain.
+                      Les principales coutumes malgaches concernent le culte des ancêtres, qui désigne à la fois les ancêtres et le respect qui leur est accordé, consiste en un système complexe de fady et de rites funèbres. Le fady correspond à un système de tabous locaux destiné à apaiser les ancêtres. Un fady peut par exemple prohiber le sifflement sur une plage près d\'un village, ou la marche devant un arbre sacré. Il existe ainsi des milliers de superstitions de ce genre, dont un certain nombre ne dépasse pas le cadre d\'un village.
+                      Le zébu est un signe de richesse et donc il est très important. Avec le riz, c’est un des deux symboles du pays. Ces bovins, dont la viande est consommée en abondance, sont presque aussi nombreux que la population humaine.
+
+                    </p>',
             '244'       => '',
             '245'       => '',
             '246'       => '',
@@ -4351,20 +4593,171 @@ che vi offre una vista eccezionale su Nosy-Be, NOSY-KOMBA e il Madagascar.
 <li>Suggerimenti</li>
 <li>Attività facoltative</li>
 </ul>',
-            '231'       => '',
-            '232'       => '',
-            '233'       => '',
-            '234'       => '',
-            '235'       => '',
-            '236'       => '',
-            '237'       => '',
-            '238'       => '',
-            '239'       => '',
-            '240'       => '',
-            '241'       => '',
-            '242'       => '',
-            '243'       => '',
-            '244'       => '',
+            '231'       => 'Riserva naturale di Lokobe',
+            '232'       => 'Paesaggio calmo e pacifico di Ampasipohy.',
+            '233'       => '<h2>Descrizione del circuito</h2>
+<p>
+Partenza dal vostro hotel alle ore 8:30,
+un\'auto ti porta al villaggio dei pescatori
+da Ambatozavavy in 30 minuti di auto a sud-est di Nosy-Be.
+</p>
+<p>
+Una volta arrivati ​​al villaggio si prosegue il giro in canoa
+per una traversata di 45 minuti durante la quale una foresta di mangrovie,
+l\'albero del viaggiatore (Ravinala) e una foresta selvaggia offriranno un paesaggio magnifico
+nei vostri occhi mentre vi godete il piacere di una pedalata in compagnia della guida e del vogatore.
+</p>
+<p>
+All\'arrivo al villaggio di Ampasipohy, l\'ingresso del parco, 15 minuti
+Ti verrà concessa una pausa per darti l\'opportunità di prepararti al viaggio.
+All\'interno della foresta si apre ai vostri occhi una ricca flora e fauna, comprese le nostre guide
+Gli specialisti saranno lieti di aiutarvi ad apprezzarli. Come le virtù delle nostre piante medicinali
+per la flora e l\'endemicità del nostro
+la fauna è tutta da esplorare con l\'incontro con i lemuri macaco, i serpenti boa, i camaleonti, ecc.
+</p>
+<ul class="unstyled-list">
+<li><b>Visita:</b> Camaleonte, Geco uroplatus, Serpente boa constrictor, Lemuri macaco</li>
+<li><b>Durata:</b> Un giorno</li>
+<li><b>Partenza:</b> dal tuo Hotel</li>
+<li><b>Numero di pax:</b> Clienti, Guida, Canoisti</li>
+<li><b>Mezzi di trasporto:</b> Auto e canoa tradizionale</li>
+<li><b>Pranzo:</b> piatti preparati appositamente da un\'associazione di giovani donne</li>
+</ul>',
+            '234'       => "<h2>Informazioni sulla <strong>Riserva naturale di Lokobe</strong></h2>
+<p>
+La riserva naturale di Lokobe è unica sull'isola di Nosy Be, dove foreste lussureggianti
+e le mangrovie fanno rima con il paesaggio calmo e pacifico di Ampasipohy.
+Raggiungi la riserva naturale di Lokobe da Ambatozavavy a bordo di una piroga tradizionale
+rende questa escursione la più autentica tra tante altre.
+</p>",
+            '235'       => "<h3>Punti di forza</h3>
+<ul>
+<li>esperienza di una traversata in una tipica canoa locale</li>
+<li>Lemuri e camaleonti notturni</li>
+<li>Il più grande sito di intaglio del legno</li>
+<li>Pianta medicinale</li>
+</ul>",
+            '236'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Reception dell\'hotel</li>
+<li>Trasferimento in auto e canoa</li>
+<li>Pranzo a base di pesce</li>
+<li>Acqua minerale</li>
+<li>Diritti di visita.</li>
+</ul>',
+            '237'       => "<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Suggerimenti</li>
+<li>Attività facoltative</li>
+</ul>",
+            '238'       => 'Viaggiare può essere emozionante e stressante allo stesso tempo,
+soprattutto quando si tratta di una nuova destinazione. Tuttavia, è sempre più prudente sapere dove si sta andando.
+Abbiamo la “guida” per te. Trova tutte le informazioni essenziali che devi sapere prima di visitare il Madagascar.
+Informazioni utili soprattutto per chi non ci è mai stato.',
+            '239'       => 'Buono a sapersi',
+            '240'       => "L'isola del Madagascar è uno stato situato nell'Oceano Indiano, nell'Africa sudorientale, suddiviso in sei province autonome.
+La maggior parte della popolazione segue religioni tradizionali, con una minoranza musulmana o cristiana.
+L'isola ospita migliaia di specie animali endemiche come i lemuri, oltre a foreste tropicali,
+spiagge e barriere coralline.",
+            '241'       => 'Descrizione',
+            '242'       => '<li><strong>Capitale:</strong> Tananarive</li>
+<li><strong>Presidente:</strong> Andry Nirina Rajoelina</li>
+<li><strong>Popolazione:</strong> 32,7 milioni</li>
+<li><strong>Continente:</strong> Africa</li>
+<li><strong>Valuta:</strong> Ariary</li>
+<li><strong>Lingue ufficiali:</strong> malgascio, francese</li>',
+            '243'       => '<h2 class="guide-heading">Tourismus in Madagaskar</h2>
+<p>
+Der Tourismus ist einer der wichtigsten Wirtschaftszweige Madagaskars, insbesondere von Nosy Be. Es ist eine der wichtigsten Devisenquellen des Landes. Der Schwerpunkt liegt auf den Naturparks des Landes. Tatsächlich sind die Fauna und Flora Madagaskars die am besten erhaltenen der Welt. Auf der Big Island leben zahlreiche endemische Arten, von denen der Lemur die bekannteste ist. Auch entlang der Küste bleibt die Meeresfauna nicht unbemerkt.
+Auch der Sporttourismus wächst. Viele Wassersportler treffen sich in der Nähe von Diego-Suarez oder Nosy-Be im Norden des Landes, um Kitesurfen und Windsurfen zu üben. Die jährliche Windsaison dauert von Ende März bis Ende November. Es gehört zu den längsten und stärksten der Welt.
+
+</p>
+
+
+<h2 class="guide-heading">Die 23 Regionen Madagaskars:</h2>
+
+<p>
+Jede Region Madagaskars bietet atemberaubende Landschaften, reiche Traditionen und faszinierende Geschichten. Von der Nordspitze bis zu den südlichen Ausläufern bietet jede Region ein einzigartiges Erlebnis, das Sie mit Sicherheit begeistern wird. Dies sind: Diego/Suarez, Sambava, Itasy, Analamanga, Vakinankaratra, Bongolava, Sofia, Boeny, Betsiboka, Melaky, Alaotra, Mangoro, Atsinanana, Analanjorofo, Amoron’iMania, Haute Matsiatra, Vatovavy Fitovinany, Androy, Atsimo Atsinanana, Ihorombe, Menabe, Atsimo Andrefana, Tôlagnaro.
+</p>
+
+<h2 class="guide-heading">Die 18 ethnischen Gruppen Madagaskars:</h2>
+
+<p>
+In Magagaskar gibt es verschiedene ethnische Gruppen: Merina, Betsileo, Betsimisaraka, Sakalava, Antaisaka, Antandroy, Mahafaly, Vezo, Bara, Antakarana, Antemoro, Antaifasy, Masikoro, Antambahoaka, Tsimihety, Tanala, Bezanozano, Sihanaka.
+</p>
+
+<h2 class="guide-heading">Geschichte, Kultur und Bräuche:</h2>
+
+<p>
+Die Kultur Madagaskars bezieht sich in erster Linie auf die kulturellen Praktiken seiner riesigen Bevölkerung. Diese Kultur spiegelt die verschiedenen Besiedlungswellen der Jahrhunderte wider. Dennoch üben alle Madagassen mit ihren heterogenen Kulturen die gleiche Geste des Respekts aus, wenn sie aneinander vorbeigehen: Sie verbeugen sich.
+Das Land mit seinen rund 32,7 Millionen Einwohnern ist daher kulturell sehr vielfältig. Es gibt 18 verschiedene ethnische Gruppen, die dieselbe Sprache, aber unterschiedliche Dialekte sprechen. Es ist nicht überraschend, dass jede ethnische Gruppe unterschiedliche Tabus und Verbote (Fady) hat, die von Generation zu Generation weitergegeben werden. Hier tragen wir die Farbe Rot nicht bei starkem Regen, wenn es donnert und blitzt.
+Die Beschneidung ist auf der ganzen Insel eine echte Tradition. Dabei wird einem kleinen Jungen die Vorhaut abgetrennt, damit er wirklich als Mann gilt.
+Madagaskar ist das einzige Land, in dem „FAMADIHANA oder die Totenumkehr“ praktiziert wird. Obwohl sie aufgrund ihrer Kosten verloren geht, dauert die Famadihana-Saison im Hochland von Juni bis September.
+
+</p>
+
+<h2 class="guide-heading">Zoll</h2>
+<p>
+Die madagassische Kultur stammt größtenteils von anderen Kontinenten. Der Glaube an Vintana – das Schicksal – könnte aus der islamischen Kosmologie stammen, während die religiöse Symbolik und der Status, der dem Vieh zugeschrieben wird, an das afrikanische Erbe erinnern.
+Die wichtigsten madagassischen Bräuche betreffen die Ahnenverehrung, die sich sowohl auf die Vorfahren als auch auf den Respekt vor ihnen bezieht und aus einem komplexen System von Fady- und Bestattungsriten besteht. Fady ist ein System lokaler Tabus, das die Vorfahren besänftigen soll. Ein Fady kann beispielsweise das Pfeifen an einem Strand in der Nähe eines Dorfes oder das Gehen vor einem heiligen Baum verbieten. Es gibt Tausende solcher Aberglauben, und viele davon reichen nicht über die Grenzen eines Dorfes hinaus.
+Das Zebu ist ein Zeichen des Reichtums und daher sehr wichtig. Neben Reis ist es eines der beiden Symbole des Landes. Die Zahl dieser Rinder, deren Fleisch in großen Mengen verzehrt wird, entspricht fast der menschlichen Bevölkerung.
+
+</p>',
+            '244'       => "<h2 class=\"guide-heading\">Cucina malgascia:</h2>
+
+<p>
+Il riso è l'alimento base della dieta malgascia e viene coltivato sull'isola. La cucina malgascia riunisce tutte le diverse tradizioni culinarie dell'Oceano Indiano e della creola: una cucina generosa e speziata.
+<b>I piatti principali sono:</b> carne stufata con aglio e zenzero, foglie di manioca pestate e mescolate con latte di cocco e bistecca di zebù, oppure pesce o gamberetti. Brodo di zebù con verdure, pollo di fattoria cotto a fuoco lento con aglio, pesce fritto, senza dimenticare i dolci locali e diversi tipi di ciambelle.
+
+</p>
+
+<h2 class=\"guide-heading\">Mezzi di trasporto:</h2>
+
+<p>
+In Madagascar ci sono vari mezzi di trasporto: il taxi brousse è il mezzo di trasporto più utilizzato sull'isola, aereo, auto a noleggio, treno, piroghe, dhow, traghetti, automobili.
+</p>
+
+
+<h2 class=\"guide-heading\">Festival e celebrazioni del Madagascar:</h2>
+
+<p classe=\"mb-2\">
+<b>Gennaio-febbraio-marzo:</b> i primi tre mesi dell'anno segnano l'inizio del periodo ciclonico nell'Oceano Indiano, che si estende fino a marzo. I cicloni colpiscono soprattutto le coste. La stagione delle piogge è ormai iniziata in tutto il Paese, con intensità variabile a seconda della regione. È accompagnato da un caldo intenso durante il giorno. Gennaio segna l’inizio della “stagione magra”: le scorte di riso dell’anno precedente sono esaurite e le nuove piantine non sono ancora state raccolte. Questo periodo critico dell'anno dura fino a marzo.
+</p>
+<p classe=\"mb-2\">
+<b>Marzo (8 marzo):</b> Giornata internazionale della donna, oggetto di numerosi eventi in diverse città del Paese. Anche la festa della mamma e la festa del papà sono feste importanti sull'isola. Giorno della rivolta: il paese commemora la rivolta contro i francesi del 1947 ogni 29 marzo.
+</p>
+<p classe=\"mb-2\">
+<b>Aprile (Santabary):</b> la festa di Santabary celebra il primo raccolto di riso dell'anno, tra aprile e maggio. È un periodo di abbondanza nelle campagne, i mercati sono vivaci.
+</p>
+
+<p classe=\"mb-2\">
+<b>Giugno (26 giugno):</b> giorno caratterizzato da celebrazioni ufficiali e festive, è anche una data chiave per le rivendicazioni politiche. Giugno segna l'inizio di numerose celebrazioni della circoncisione in tutta l'isola.
+</p>
+<p classe=\"mb-2\">
+<b>Luglio: Nelle campagne è l'inizio del \"periodo kabary\", o \"periodo delle chiacchiere\". Fino a settembre è il periodo dell'anno in cui si spendono i soldi ricavati dal raccolto del riso e si fanno i preparativi per feste, matrimoni e famadihana.
+
+<b>Vaniglia:</b> Il triangolo SAVA (Sambava, Antalaha, Vohémar, Andapa) vive tra luglio e inizio agosto al ritmo della raccolta della vaniglia, i cui baccelli lucenti seccano al sole e riempiono le città del loro profumo.
+</p>
+
+<p classe=\"mb-2\">
+<b>Agosto:</b> Il festival di Somarôho è il grande carnevale annuale che illumina Nosy Be all'inizio di agosto. Questo evento emblematico svolge un ruolo cruciale nella promozione del turismo a Nosy Be. Somarôho è la festa più grande dell'Oceano Indiano.  Non perdere questa opportunità unica di scoprire l'anima di Nosy Be e vivere un'esperienza indimenticabile nel cuore del festival Somarôho!
+</p>
+
+<p classe=\"mb-2\">
+<b>Settembre:</b> Grandi viaggiatrici, le megattere migrano ogni anno dall'Antartide alle regioni tropicali dove possono accoppiarsi e partorire. Si trovano intorno all'isola di Sainte-Marie e a Nosy Be, dove danno vita a un vero spettacolo.
+</p>
+<p classe=\"mb-2\">
+<b>Ottobre:</b> è la stagione del mango. Gustosi e disponibili in una decina di varianti, stanno spuntando sulle tavole e nei mercati. Un altro dono della natura: gli alberi di jacaranda sono in fiore.
+</p>
+<p classe=\"mb-2\">
+<b>Novembre:</b> il mese della raccolta dei litchi. Quelli del Madagascar sono particolarmente succosi e deliziosi...Inizio della stagione delle piogge, che impedisce il traffico su alcune piste stagionali. Ci sono anni in cui le nuvole aspettano pazientemente fino a dicembre.
+</p>
+
+<p classe=\"mb-2\">
+<b>Dicembre:</b> è il periodo dell'abbondanza sulla rigogliosa costa orientale, con la raccolta di frutti in abbondanza.
+</p>",
             '245'       => '',
             '246'       => '',
             '247'       => '',
@@ -6358,20 +6751,171 @@ von wo aus Sie einen außergewöhnlichen Blick auf Nosy-Be, NOSY-KOMBA und Madag
 <li>Tipps</li>
 <li>Optionale Aktivitäten</li>
 </ul>',
-            '231'       => '',
-            '232'       => '',
-            '233'       => '',
-            '234'       => '',
-            '235'       => '',
-            '236'       => '',
-            '237'       => '',
-            '238'       => '',
-            '239'       => '',
-            '240'       => '',
-            '241'       => '',
-            '242'       => '',
-            '243'       => '',
-            '244'       => '',
+            '231'       => 'Naturschutzgebiet Lokobe',
+            '232'       => 'Ruhige und friedliche Landschaft von Ampasipohy.',
+            '233'       => '<h2>Schaltkreisbeschreibung</h2>
+<p>
+Abfahrt von Ihrem Hotel um 8:30 Uhr,
+ein Auto bringt Sie zum Fischerdorf
+von Ambatozavavy in 30 Minuten Fahrt in den Südosten von Nosy-Be.
+</p>
+<p>
+Im Dorf angekommen, setzen Sie die Tour mit dem Kanu fort
+für eine 45-minütige Überfahrt, während der ein Mangrovenwald,
+Der Baum des Reisenden (Ravinala) und ein wilder Wald bieten eine herrliche Landschaft
+in Ihren Augen, während Sie das Vergnügen einer Fahrt in Begleitung des Führers und des Ruderers genießen.
+</p>
+<p>
+Bei der Ankunft im Dorf Ampasipohy, dem Eingang zum Park, 15 Minuten
+Um Ihnen die Möglichkeit zu geben, sich auf die Reise vorzubereiten, wird Ihnen eine Pause gewährt.
+Im Inneren des Waldes eröffnet sich Ihnen, einschließlich unserer Führer, eine reiche Flora und Fauna
+Spezialisten helfen Ihnen gerne dabei, sie zu schätzen. Wie die Tugenden unserer Heilpflanzen
+für die Flora und die Endemie unserer
+Die gesamte Fauna kann erkundet werden, unter anderem mit der Begegnung mit Makaken, Lemuren, Boas, Chamäleons usw.
+</p>
+<ul class="unstyled-list">
+<li><b>Besuchen Sie:</b> Chamäleon, Gecko Uroplatus, Boa Constrictor-Schlange, Macaco-Lemuren</li>
+<li><b>Dauer:</b> Ein Tag</li>
+<li><b>Abfahrt:</b> Von Ihrem Hotel</li>
+<li><b>Anzahl der Passagiere:</b> Kunden, Guide, Kanuten</li>
+<li><b>Transportmittel:</b> Auto und traditionelles Kanu</li>
+<li><b>Mittagessen:</b> Gerichte, die speziell von einem Verein junger Frauen zubereitet werden</li>
+</ul>',
+            '234'       => '<h2>Über das <strong>Lokobe-Naturschutzgebiet</strong></h2>
+<p>
+Das Naturschutzgebiet Lokobe ist einzigartig auf der Insel Nosy Be, wo üppige Wälder
+und Mangroven passen gut zur ruhigen und friedlichen Landschaft von Ampasipohy.
+Erreichen Sie das Naturschutzgebiet Lokobe von Ambatozavavy aus in einer traditionellen Piroge
+macht diesen Ausflug zum authentischsten unter vielen anderen.
+</p>',
+            '235'       => '<h3>Stärken</h3>
+<ul>
+<li>Erlebnis einer Überfahrt in einem typischen Kanu</li>
+<li>Nachtaktive Lemuren und Chamäleons</li>
+<li>Größte Holzschnitzerei-Site</li>
+<li>Heilpflanze</li>
+</ul>',
+            '236'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Hotelrezeption</li>
+<li>Transfer mit Auto und Kanu</li>
+<li>Meeresfrüchte-Mittagessen</li>
+<li>Mineralwasser</li>
+<li>Besuchsrecht.</li>
+</ul>',
+            '237'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipps</li>
+<li>Optionale Aktivitäten</li>
+</ul>',
+            '238'       => 'Reisen kann aufregend und stressig zugleich sein.
+insbesondere wenn es um ein neues Reiseziel geht. Es ist jedoch immer klüger, zu wissen, wohin Sie gehen.
+Wir haben den „Leitfaden“ für Sie. Hier finden Sie alle wichtigen Informationen, die Sie vor Ihrer Reise nach Madagaskar wissen müssen.
+Nützliche Informationen, insbesondere für diejenigen, die noch nie dort waren.',
+            '239'       => 'Gut zu wissen',
+            '240'       => 'Die Insel Madagaskar ist ein Staat im Indischen Ozean im Südosten Afrikas, der in sechs autonome Provinzen unterteilt ist.
+Die Mehrheit der Bevölkerung gehört einem traditionellen Glauben an, es gibt jedoch auch eine muslimische oder christliche Minderheit.
+Die Insel ist die Heimat tausender endemischer Tierarten wie Lemuren sowie tropischer Wälder,
+Strände und Korallenriffe.',
+            '241'       => 'Beschreibung',
+            '242'       => '<li><strong>Hauptstadt:</strong> Tananarive</li>
+<li><strong>Präsident:</strong> Andry Nirina Rajoelina</li>
+<li><strong>Bevölkerung:</strong> 32,7 Millionen</li>
+<li><strong>Kontinent:</strong> Afrika</li>
+<li><strong>Währung:</strong> Ariary</li>
+<li><strong>Amtssprachen:</strong> Madagassisch, Französisch</li>',
+            '243'       => '<h2 class="guide-heading">Tourismus in Madagaskar</h2>
+<p>
+Der Tourismus ist einer der wichtigsten Wirtschaftszweige Madagaskars, insbesondere von Nosy Be. Es ist eine der wichtigsten Devisenquellen des Landes. Der Schwerpunkt liegt auf den Naturparks des Landes. Tatsächlich sind die Fauna und Flora Madagaskars die am besten erhaltenen der Welt. Auf der Big Island leben zahlreiche endemische Arten, von denen der Lemur die bekannteste ist. Auch entlang der Küste bleibt die Meeresfauna nicht unbemerkt.
+Auch der Sporttourismus wächst. Viele Wassersportler treffen sich in der Nähe von Diego-Suarez oder Nosy-Be im Norden des Landes, um Kitesurfen und Windsurfen zu üben. Die jährliche Windsaison dauert von Ende März bis Ende November. Es gehört zu den längsten und stärksten der Welt.
+
+</p>
+
+
+<h2 class="guide-heading">Die 23 Regionen Madagaskars:</h2>
+
+<p>
+Jede Region Madagaskars bietet atemberaubende Landschaften, reiche Traditionen und faszinierende Geschichten. Von der Nordspitze bis zu den südlichen Ausläufern bietet jede Region ein einzigartiges Erlebnis, das Sie mit Sicherheit begeistern wird. Dies sind: Diego/Suarez, Sambava, Itasy, Analamanga, Vakinankaratra, Bongolava, Sofia, Boeny, Betsiboka, Melaky, Alaotra, Mangoro, Atsinanana, Analanjorofo, Amoron’iMania, Haute Matsiatra, Vatovavy Fitovinany, Androy, Atsimo Atsinanana, Ihorombe, Menabe, Atsimo Andrefana, Tôlagnaro.
+</p>
+
+<h2 class="guide-heading">Die 18 ethnischen Gruppen Madagaskars:</h2>
+
+<p>
+In Magagaskar gibt es verschiedene ethnische Gruppen: Merina, Betsileo, Betsimisaraka, Sakalava, Antaisaka, Antandroy, Mahafaly, Vezo, Bara, Antakarana, Antemoro, Antaifasy, Masikoro, Antambahoaka, Tsimihety, Tanala, Bezanozano, Sihanaka.
+</p>
+
+<h2 class="guide-heading">Geschichte, Kultur und Bräuche:</h2>
+
+<p>
+Die Kultur Madagaskars bezieht sich in erster Linie auf die kulturellen Praktiken seiner riesigen Bevölkerung. Diese Kultur spiegelt die verschiedenen Besiedlungswellen der Jahrhunderte wider. Dennoch üben alle Madagassen mit ihren heterogenen Kulturen die gleiche Geste des Respekts aus, wenn sie aneinander vorbeigehen: Sie verbeugen sich.
+Das Land mit seinen rund 32,7 Millionen Einwohnern ist daher kulturell sehr vielfältig. Es gibt 18 verschiedene ethnische Gruppen, die dieselbe Sprache, aber unterschiedliche Dialekte sprechen. Es ist nicht überraschend, dass jede ethnische Gruppe unterschiedliche Tabus und Verbote (Fady) hat, die von Generation zu Generation weitergegeben werden. Hier tragen wir die Farbe Rot nicht bei starkem Regen, wenn es donnert und blitzt.
+Die Beschneidung ist auf der ganzen Insel eine echte Tradition. Dabei wird einem kleinen Jungen die Vorhaut abgetrennt, damit er wirklich als Mann gilt.
+Madagaskar ist das einzige Land, in dem „FAMADIHANA oder die Totenumkehr“ praktiziert wird. Obwohl sie aufgrund ihrer Kosten verloren geht, dauert die Famadihana-Saison im Hochland von Juni bis September.
+
+</p>
+
+<h2 class="guide-heading">Zoll</h2>
+<p>
+Die madagassische Kultur stammt größtenteils von anderen Kontinenten. Der Glaube an Vintana – das Schicksal – könnte aus der islamischen Kosmologie stammen, während die religiöse Symbolik und der Status, der dem Vieh zugeschrieben wird, an das afrikanische Erbe erinnern.
+Die wichtigsten madagassischen Bräuche betreffen die Ahnenverehrung, die sich sowohl auf die Vorfahren als auch auf den Respekt vor ihnen bezieht und aus einem komplexen System von Fady- und Bestattungsriten besteht. Fady ist ein System lokaler Tabus, das die Vorfahren besänftigen soll. Ein Fady kann beispielsweise das Pfeifen an einem Strand in der Nähe eines Dorfes oder das Gehen vor einem heiligen Baum verbieten. Es gibt Tausende solcher Aberglauben, und viele davon reichen nicht über die Grenzen eines Dorfes hinaus.
+Das Zebu ist ein Zeichen des Reichtums und daher sehr wichtig. Neben Reis ist es eines der beiden Symbole des Landes. Die Zahl dieser Rinder, deren Fleisch in großen Mengen verzehrt wird, entspricht fast der menschlichen Bevölkerung.
+
+</p>',
+            '244'       => '<h2 class="guide-heading">Madagassische Küche:</h2>
+
+                    <p>
+                      Reis ist die Grundlage der madagassischen Ernährung und wird auf der Insel angebaut. Die madagassische Küche vereint alle vielfältigen kulinarischen Traditionen des Indischen Ozeans und Kreols: großzügige und würzige Küche. 
+                      <b>Die Hauptgerichte sind:</b> mit Knoblauch und Ingwer gedünstetes Fleisch, zerstoßene Maniokblätter mit Kokosmilch und Zebusteak oder Fisch oder Garnelen. Zebu-Brühe mit Bredes, in Knoblauch geschmortes Freilandhuhn, gebratener Fisch, nicht zu vergessen lokales Gebäck und verschiedene Donutsorten.
+
+                    </p>
+
+                    <h2 class="guide-heading">Transportmittel:</h2>
+
+                    <p>
+                    In Madagaskar gibt es verschiedene Transportmittel: Das Buschtaxi ist das am häufigsten genutzte Transportmittel auf der Insel, Flugzeug, Mietwagen, Zug, Kanus, Dhaus, Fähren, Autos.
+                    </p>
+
+
+                    <h2 class="guide-heading">Die Feiertage und Feste Madagaskars:</h2>
+
+                    <p class="mb-2">
+                     <b> Januar-Februar-März:</b> Die ersten drei Monate des Jahres markieren den Beginn der Zyklonperiode im Indischen Ozean, die bis März dauert. Wirbelstürme treffen vor allem die Küsten. Mittlerweile hat im ganzen Land die Regenzeit begonnen, die je nach Region unterschiedlich stark ausfällt. Tagsüber geht es mit starker Hitze einher. Im Januar beginnt die „Magenperiode“: Der Reisvorrat des Vorjahres ist aufgebraucht und die neuen Pflanzen sind noch nicht geerntet. Diese kritische Zeit des Jahres dauert bis März.
+                    </p>
+                    <p class="mb-2">
+                      <b>März (08. März):</b> Der Weltfrauentag ist Gegenstand zahlreicher Veranstaltungen in Städten im ganzen Land. Auch der Muttertag und der Vatertag sind auf der Insel wichtig. Tag des Aufstands: Das Land erinnert jeden 29. März an den Aufstand gegen die Franzosen im Jahr 1947.
+                    </p>
+                    <p class="mb-2">
+                    <b>April (Santabary):</b> Das Santabary-Fest feiert von April bis Mai die erste Reisernte des Jahres. Es ist die Zeit des Überflusses auf dem Land, die Märkte sind lebhaft.
+                    </p>
+
+                    <p class="mb-2">
+                    <b>Juni (26. Juni):</b> Der Tag, der von offiziellen und festlichen Feierlichkeiten geprägt ist, ist auch ein Schlüsseldatum für politische Forderungen. Der Juni gibt den Startschuss für zahlreiche Beschneidungsfeste auf der Insel.
+                    </p>
+                    <p class="mb-2">
+                    <b>Juli: Auf dem Land beginnt die „Kabary-Zeit“ oder „Palaver-Zeit“. Bis September ist es die Zeit des Jahres, in der wir das Geld aus der Reisernte ausgeben, uns auf Partys, Hochzeiten, Famadihana vorbereiten ...
+                    
+                    <b>Vanille:</b> Das SAVA-Dreieck (Sambava, Antalaha, Vohémar, Andapa) lebt zwischen Juli und Anfang August im Rhythmus der Vanilleernte, deren glänzende Schoten in der Sonne trocknen und die Städte mit einem Duft erfüllen. 
+                    </p>
+
+                    <p class="mb-2">
+                    <b>August:</b> Das Somarôho-Festival ist der große jährliche Karneval, der Nosy Be Anfang August zum Leuchten bringt. Dieses symbolträchtige Ereignis spielt eine entscheidende Rolle bei der Förderung des Tourismus in Nosy Be. Somarôho ist das größte Festival im Indischen Ozean.  Verpassen Sie nicht diese einmalige Gelegenheit, die Seele von Nosy Be zu entdecken und ein unvergessliches Erlebnis im Herzen des Somarôho-Festivals zu erleben!
+                    </p>
+
+                    <p class="mb-2">
+                    <b>September:</b> Buckelwale sind großartige Reisende und wandern jedes Jahr von der Antarktis in tropische Regionen, wo sie sich paaren und ihre Jungen zur Welt bringen können. Man findet sie rund um die Insel Sainte-Marie und Nosy Be, wo sie eine echte Show abliefern.
+                    </p>
+                    <p class="mb-2">
+                    <b>Oktober:</b> Es ist Mangosaison. Lecker und in rund zehn Sorten erhältlich, tauchen sie auf Tischen und Märkten auf. Ein weiteres Geschenk der Natur: Die Jacarandas blühen. 
+                    </p>
+                    <p class="mb-2">
+                      <b>November:</b> der Monat der Litschi-Ernte. Die aus Madagaskar sind besonders saftig und lecker... Beginn der Regenzeit, die den Verkehr auf bestimmten saisonalen Strecken verhindert. In manchen Jahren warten die Wolken geduldig bis Dezember.
+                    </p>
+
+                    <p class="mb-2">
+                      <b>Dezember:</b> Dies ist die Zeit des Überflusses an der üppigen Ostküste mit der Ernte zahlreicher Früchte.
+                    </p>',
             '245'       => '',
             '246'       => '',
             '247'       => '',
