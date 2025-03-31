@@ -6,6 +6,211 @@ class Language
 {
     private static $translations = [
         'en' => [
+            '245'       => 'Mantadia Park',
+            '246'       => 'Specificity of the Park',
+            '247'       => '<p class="mb-4">
+A terrestrial national park with a dense evergreen rainforest where amphibian, reptile, and lemur species have chosen to live.
+
+In addition, there are rivers important for electricity production.
+
+</p>
+
+<h2>The landscapes of Mantadia Park</h2>
+
+<h4>The fauna of Mantadia Park</h4>
+
+<p>
+51 reptile species with an endemicity rate of 95%.
+84 amphibian species with an endemicity rate of 98%.
+117 bird species with an endemicity rate of 63%.
+72 mammal species, including 14 lemur species.
+Batflies and insectivores make up half of the list of these species.
+The endemicity rate is 78%. </p>
+
+<h4>The Flora of Mantadia Park</h4>
+
+<p>
+120 species of orchids with a 100% endemicity rate.
+Most are epiphytes;
+over 1,200 plant species with a 77% endemicity rate.
+</p>
+
+<h2>How to get there</h2>
+
+<p>
+By road: Via the RN2, Antananarivo – Moramanga: 110 km, then Moramanga – Andasibe: 26 km.
+</p>
+
+<h2>Park Location</h2>
+
+<p>
+GPS: 18°28’ South latitude, 48°28’ East longitude. Mantadia NP is located in the Alaotra Mangoro Region, Moramanga district, between the Rural Commune of Andasibe and Ambatovola 
+Area: 
+15,480 ha 
+Region : 
+Alaotra-Mangoro 
+</p>',
+            '248'       => '<h2>Geography</h2>
+<h4>Hydrography</h4>
+
+<p>
+
+A very large reservoir with the Iofa, Sahanody, and Vohitra rivers.
+Altitude
+800 to 1200 m
+Climate
+Humid tropical
+Relief
+Broken, thanks to the many rivers that flow through it, creating a landscape of unique beauty.
+</p>
+
+<h2>Ideal time to visit</h2>
+
+<p>
+Between October and November
+Opening hours:
+8 a.m. to 4 p.m.
+History
+The Analamazaotra Regional Park was created in 1970.
+
+</p>
+
+<h2> Population </h2>
+<p> Betsimisaraka, Bezanozano, Merina, Sihanaka</p>',
+            '249'       => 'Marojejy Park',
+            '250'       => '<h2>Specificity of the Park</h2>
+
+<p class="mb-4">
+Terrestrial National Park listed as a World Heritage Site,
+impressive massif, dense humid lowland forest, habitat of the Propithecus candidus or Simpona fotsy,
+palms and pteridophytes,
+secondary lowland forest, dense humid montane forest, and ericoid scrub.
+</p>
+
+<h2>The Landscapes of Marojejy Park</h2>
+
+<h4>The Fauna of Marojejy Park</h4>
+
+<p>
+25 species of small mammals,
+11 species of lemurs,
+149 species of reptiles and amphibians,
+72 species of birds. </p>
+
+<h4>The Flora of Marojejy Park</h4>
+
+<p>
+350 species of pteridophytes, 50 species of palm trees.
+</p>
+
+<h2>How to get there</h2>
+
+<p>
+From Antananarivo on the RN4, then take the RN6 to Ambilobe and turn off onto the road leading to Vohémar.
+The road is impassable during the rainy season.
+</p>
+
+<h2>Park Location</h2>
+
+<p>
+GPS: between 14° 26\' South latitude and 49° 15\' East longitude.
+Marojejy National Park is located in the northeastern part of Madagascar. Area:
+65,050 ha
+Region:
+Sava
+</p>
+
+<h2>Geography</h2>
+<h4>Hydrography</h4>
+
+<p>
+
+11 rivers originate within the Park.
+Altitude
+2,132 m
+Climate
+Humid tropical type
+Relief
+Rugged forested terrain of complex shapes with steep, irregular ridges and slopes.
+</p>',
+            '251'       => '<h2>Ideal time to visit</h2>
+
+<p>
+All year round
+Opening hours:
+8 a.m. to 4 p.m.
+</p>
+
+<h2>History</h2>
+
+<p>
+Classified as a Strict Nature Reserve in 1952, then a National Park in 1998 and a World Heritage Site in 2007
+</p>
+
+<h2>Population</h2>
+
+<p>
+Dominant ethnic group: Tsimihety. Others: Betsimisaraka, Betsileo, Merina
+</p>',
+            '252'       => '',
+            '253'       => '',
+            '254'       => '',
+            '255'       => '',
+            '256'       => '',
+            '257'       => '',
+            '258'       => '',
+            '259'       => '',
+            '260'       => '',
+            '261'       => '',
+            '262'       => '',
+            '263'       => '',
+            '264'       => '',
+            '265'       => '',
+            '266'       => '',
+            '267'       => '',
+            '268'       => '',
+            '269'       => '',
+            '270'       => '',
+            '271'       => '',
+            '272'       => '',
+            '273'       => '',
+            '274'       => '',
+            '275'       => '',
+            '276'       => '',
+            '277'       => '',
+            '278'       => '',
+            '279'       => '',
+            '280'       => '',
+            '281'       => '',
+            '282'       => '',
+            '283'       => '',
+            '284'       => '',
+            '285'       => '',
+            '286'       => '',
+            '287'       => '',
+            '288'       => '',
+            '289'       => '',
+            '290'       => '',
+            '291'       => '',
+            '292'       => '',
+            '293'       => '',
+            '294'       => '',
+            '295'       => '',
+            '296'       => '',
+            '297'       => '',
+            '298'       => '',
+            '299'       => '',
+            '300'       => '',
+            '301'       => '',
+            '302'       => '',
+            '303'       => '',
+            '304'       => '',
+            '305'       => '',
+            '306'       => '',
+            '307'       => '',
+            '308'       => '',
+            '309'       => '',
+            '310'       => '',
             '194'       => 'THE MITSIO ARCHIPELAGO in bivouac',            
             '195'       => '<h2>Description</h2>
 
@@ -552,14 +757,6 @@ There are various means of transportation in Madagascar: The bush taxi is the mo
 <p class="mb-2">
 <b>December:</b> This is the time of abundance on the lush east coast, with the harvest of numerous fruits.
 </p>',
-            '245'       => '',
-            '246'       => '',
-            '247'       => '',
-            '248'       => '',
-            '249'       => '',
-            '250'       => '',
-            '251'       => '',
-            '252'       => '',
             'english'   => 'English',
             '105'        => "Departure from the hotel at 08:00, direction IRANJA ISLAND, from Ambatoloaka beach by speed boat, the journey lasts 1h15.
                         Once arrived on IRANJA island, you will be greeted with a breathtaking landscape. A total immersion in nature will enhance your day. To start the day, 2 magnificent islets await you, connected by a 2 km long stretch of white sand. A white and immaculate beach is available to you for all your moments of relaxation, where you can sunbathe, swim and take a short walk to discover some varieties of ferns, all on a turquoise blue sea.
@@ -2051,6 +2248,217 @@ Airport assistance and HAVE A GREAT FLIGHT.
 
 
         'fr' => [
+            '245'       => 'Parc Mantadia',
+            '246'       => 'Spécificité du Parc',
+            '247'       => '<p class="mb-4">
+            Parc National Terrestre avec une forêt dense humide sempervirente où des espèces d’amphibiens,
+             de reptiles et des lémuriens ont élu habitat.
+             En outre, on note des rivières importantes pour la production électrique.
+            </p>
+
+            <h2>Les paysages du Parc  Parc Mantadia</h2>
+            
+            <h4>Les Faunes du Parc Mantadia</h4>
+
+            <p>
+                51 espèces de reptiles avec un taux d’endémicité de 95%. 
+                84 espèces d’amphibiens avec un taux d’endémicité de 98%. 
+                117 espèces d’oiseaux avec un taux d’endémicité de 63%. 
+                72 espèces de mammifères dont 14 espèces de Lémuriens.
+                Les Chiroptères et Insectivores constituent la moitié de la liste de ces espèces.
+                Le taux d’endémicité est de 78%.
+            </p>
+
+            <h4>Les Flores du Parc Mantadia</h4>
+
+            <p>
+                120 espèces d’orchidées avec un taux d’endémicité de 100%. 
+                La plupart sont des épiphytes ; 
+                plus de 1200 espèces de plantes avec un taux d’endémicité de 77%.
+            </p>
+
+            <h2>Comment s’y rendre</h2>
+
+            <p>
+                Par route: Par la RN°2, Antananarivo – Moramanga : 110km, puis Moramanga – Andasibe : 26km.
+            </p>
+
+            <h2>Localisation du Parc</h2>
+
+            <p>
+                GPS: 18°28’ latitude Sud , 48°28’ longitude Est.
+                Le PN Mantadia se trouve dans la Région Alaotra Mangoro, district de Moramanga, entre la Commune Rurale d’Andasibe et d’Ambatovola
+                Superficie:
+                15 480 ha
+                Région :
+                Alaotra-Mangoro
+            </p>',
+            '248'       => '<h2>Géographie</h2>
+            <h4>Hydrographie</h4>
+
+            <p>
+                
+                Très grand réservoir d’eau avec les rivières Iofa, Sahanody et Vohitra.
+                Altitude
+                800 à 1200 m
+                Climat
+                Tropical humide
+                Relief
+                Brisé, grâce aux nombreuses rivières qui courent là et qui laissent un paysage d’une beauté unique.
+            </p>
+
+            <h2>Période idéale pour la visite</h2>
+
+            <p>
+                Entre octobre et novembre
+                Heures d’ouvertures:
+                8h à 16h
+                Historique
+                La RS d’Analamazaotra a été créée en 1970.
+                
+            </p>
+
+            <h2> Population </h2>
+            <p> Betsimisaraka, Bezanozano, Merina, Sihanaka</p>',
+            '249'       => 'Parc  Marojejy',
+            '250'       => '<h2>Spécificité du Parc</h2>
+            
+            <p class="mb-4">
+                Parc National Terrestre classé Patrimoine Mondial, 
+                massif impressionnant, forêt dense humide d
+                e basse altitude habitat du Propithecus candidus ou Simpona fotsy, 
+                des palmiers et des Ptéridophytes,
+                forêt secondaire de basse altitude, forêt dense humide de montagne, brousse éricoïde.
+            </p>
+
+            <h2>Les paysages du Parc  Parc Marojejy</h2>
+
+            
+            <h4>Les Faunes du Parc Marojejy</h4>
+
+            <p>
+                25 espèces de micromammifères, 
+                11 espèces de lémuriens, 
+                149 espèces de reptiles et amphibiens, 
+                72 espèces d’oiseaux.
+            </p>
+
+            <h4>Les Flores du Parc Marojejy</h4>
+
+            <p>
+            350 espèces de Ptéridophytes, 50 espèces de palmiers.
+            </p>
+
+            <h2>Comment s’y rendre</h2>
+
+            <p>
+            D’Antananarivo sur la RN4 puis prendre la RN6 jusqu’à Ambilobe et
+            bifurquer sur la route menant vers Vohémar.
+             Route non praticable durant la saison de pluie.
+            </p>
+
+            <h2>Localisation du Parc</h2>
+
+            <p>
+                GPS: entre 14° 26’ de latitude Sud et 49°15’ de longitude Est. 
+                Le Parc National de Marojejy est situé dans la partie Nord Est de Madagascar.
+                Superficie:
+                65 050ha
+                Région :
+                Sava
+            </p>
+
+            <h2>Géographie</h2>
+            <h4>Hydrographie</h4>
+
+            <p>
+                
+                11 cours d’eau prennent source à l’intérieur du Parc.
+                Altitude
+                2 132m
+                Climat
+                Type tropical humide
+                Relief
+                Reliefs forestiers accidentés de forme complexe avec des crêtes et des pentes raides et irrégulières.
+            </p>',
+            '251'       => '<h2>Période idéale pour la visite</h2>
+
+            <p>
+                Toute l’année
+                Heures d’ouvertures:
+                8h à 16h
+            </p>
+
+            <h2>Historique</h2>
+
+            <p>
+            Classée Réserve Naturelle Intégrale en 1952, puis Parc National en 1998 et Patrimoine Mondial en 2007
+            </p>
+
+            <h2>Population</h2>
+
+            <p>
+            Ethnie dominante Tsimihety. Autres : Betsimisaraka, Betsileo, Merina
+            </p>',
+            '252'       => '',
+            '253'       => '',
+            '254'       => '',
+            '255'       => '',
+            '256'       => '',
+            '257'       => '',
+            '258'       => '',
+            '259'       => '',
+            '260'       => '',
+            '261'       => '',
+            '262'       => '',
+            '263'       => '',
+            '264'       => '',
+            '265'       => '',
+            '266'       => '',
+            '267'       => '',
+            '268'       => '',
+            '269'       => '',
+            '270'       => '',
+            '271'       => '',
+            '272'       => '',
+            '273'       => '',
+            '274'       => '',
+            '275'       => '',
+            '276'       => '',
+            '277'       => '',
+            '278'       => '',
+            '279'       => '',
+            '280'       => '',
+            '281'       => '',
+            '282'       => '',
+            '283'       => '',
+            '284'       => '',
+            '285'       => '',
+            '286'       => '',
+            '287'       => '',
+            '288'       => '',
+            '289'       => '',
+            '290'       => '',
+            '291'       => '',
+            '292'       => '',
+            '293'       => '',
+            '294'       => '',
+            '295'       => '',
+            '296'       => '',
+            '297'       => '',
+            '298'       => '',
+            '299'       => '',
+            '300'       => '',
+            '301'       => '',
+            '302'       => '',
+            '303'       => '',
+            '304'       => '',
+            '305'       => '',
+            '306'       => '',
+            '307'       => '',
+            '308'       => '',
+            '309'       => '',
+            '310'       => '',
             '194'       => ' L’ARCHIPEL DE MITSIO en bivouac',            
             '195'       => '<h2>Description</h2>
            
@@ -2587,15 +2995,59 @@ Airport assistance and HAVE A GREAT FLIGHT.
                       Le zébu est un signe de richesse et donc il est très important. Avec le riz, c’est un des deux symboles du pays. Ces bovins, dont la viande est consommée en abondance, sont presque aussi nombreux que la population humaine.
 
                     </p>',
-            '244'       => '',
-            '245'       => '',
-            '246'       => '',
-            '247'       => '',
-            '248'       => '',
-            '249'       => '',
-            '250'       => '',
-            '251'       => '',
-            '252'       => '',
+            '244'       => '<h2 class="guide-heading">Cuisine madame :</h2>
+
+<p>
+Le riz est la base du régime alimentaire malgache et est cultivé sur l\'île. La cuisine malgache allie toutes les diversités culinaires de l\'océan Indien et de la créole : une cuisine généreuse et épicée.
+<b>Les plats principaux sont :</b> de la viande mijotée à l\'ail et au gingembre, des feuilles de manioc écrasées au lait de coco et du steak de zébu ou du poisson ou des crevettes. Bouillon de zébu aux brèdes, poulet fermier braisé à l\'ail, poisson frit, sans oublier les pâtisseries locales et divers types de beignets.
+
+</p>
+
+<h2 class="guide-heading">Moyens de transport :</h2>
+
+<p>
+Il existe différents moyens de transport à Madagascar : le taxi-brousse est le moyen de transport le plus utilisé sur l\'île, les avions, les voitures de location, les trains, les pirogues, les boutres, les ferries et les voitures.
+</p>
+
+
+<h2 class="guide-heading">Les fêtes et festivals de Madagascar :</h2>
+
+<p class="mb-2">
+<b>Janvier-février-mars :</b> Les trois premiers mois de l’année marquent le début de la saison des cyclones dans l’océan Indien, qui dure jusqu’en mars. Les ouragans frappent principalement les côtes. La saison des pluies a désormais commencé dans tout le pays, avec une intensité variable selon les régions. Pendant la journée, elle s\'accompagne d\'une chaleur intense. En janvier, commence la « période d’estomac » : les stocks de riz de l’année précédente sont épuisés et les nouvelles plantes n’ont pas encore été récoltées. Cette période critique de l’année dure jusqu’en mars.
+</p>
+<p class="mb-2">
+<b>Mars (8 mars) :</b> La Journée internationale de la femme fait l’objet de nombreux événements dans les villes du pays. La fête des mères et la fête des pères sont également importantes sur l’île. Jour de l\'Insurrection : Chaque 29 mars, le pays commémore le soulèvement contre les Français en 1947.
+</p>
+<p class="mb-2">
+<b>Avril (Santabary) :</b> Le festival de Santabary célèbre la première récolte de riz de l\'année d\'avril à mai. C\'est une période d\'abondance dans les campagnes, et les marchés sont animés.
+</p>
+
+<p class="mb-2">
+<b>Juin (26) :</b> Cette journée, marquée par des célébrations officielles et festives, est aussi une date clé pour les revendications politiques. Le mois de juin marque le début de nombreuses célébrations de circoncision sur l\'île.
+</p>
+<p class="mb-2">
+<b>Juillet : Dans les campagnes, commence le « temps des Kabary » ou « temps des palabres ». Jusqu\'en septembre, c\'est la période de l\'année où l\'on dépense l\'argent de la récolte du riz, où l\'on prépare les fêtes, les mariages, le famadihana...
+
+<b>Vanille :</b> Le triangle SAVA (Sambava, Antalaha, Vohémar, Andapa) vit entre juillet et début août au rythme de la récolte de la vanille, dont les gousses brillantes sèchent au soleil et embaument les villes de leur parfum.
+</p>
+
+<p class="mb-2">
+<b>Août :</b> Le Festival Somarôho est le grand carnaval annuel qui illumine Nosy Be début août. Cet événement symbolique joue un rôle crucial dans la promotion du tourisme à Nosy Be. Somarôho est le plus grand festival de l\'océan Indien.  Ne manquez pas cette occasion unique de découvrir l\'âme de Nosy Be et de vivre une expérience inoubliable au cœur du Festival Somarôho !
+</p>
+
+<p class="mb-2">
+<b>Septembre :</b> Les baleines à bosse sont de grandes voyageuses et migrent chaque année de l\'Antarctique vers les régions tropicales où elles peuvent s\'accoupler et donner naissance à leurs petits. On les retrouve autour des îles de Sainte-Marie et de Nosy Be, où ils offrent un véritable spectacle.
+</p>
+<p class="mb-2">
+<b>Octobre :</b> C\'est la saison des mangues. Délicieux et déclinés en une dizaine de variétés, ils s\'invitent sur les tables et sur les marchés. Un autre cadeau de la nature : les jacarandas sont en fleurs.
+</p>
+<p class="mb-2">
+<b>Novembre :</b> le mois de la récolte des litchis. Ceux de Madagascar sont particulièrement juteux et délicieux... Le début de la saison des pluies, qui empêche la circulation sur certaines routes saisonnières. Certaines années, les nuages ​​attendent patiemment jusqu’en décembre.
+</p>
+
+<p class="mb-2">
+<b>Décembre :</b> C\'est la période d\'abondance sur la luxuriante côte est avec la récolte de nombreux fruits.
+</p>',
             'français'  =>'fr',
             '105'        => "Départ de l'hôtel à 08h00, direction IRANJA ISLAND, depuis la plage d'Ambatoloaka en speed boat, le trajet dure 1h15.
                 Une fois arrivé sur l'île IRANJA, vous serez accueilli avec un paysage à couper le souffle. Une immersion totale dans la nature embellira votre journée. Pour commencer la journée, 2 magnifiques îlots vous attendent, reliés par une étendue de sable blanc de 2 km de long. Une plage blanche et immaculée s'offre à vous pour tous vos moments de détente, où vous pourrez faire bronzette, baignade et petite promenade à la découverte de quelques variétés de fougères, le tout sur une mer bleu turquoise.
@@ -4169,6 +4621,217 @@ Airport assistance and HAVE A GREAT FLIGHT.
         ],
 
         'it' => [
+            '245'       => 'Parco Mantadia',
+            '246'       => 'Specificità del Parco',
+            '247'       => '<p classe="mb-4">
+Parco nazionale terrestre con una fitta foresta pluviale sempreverde dove vivono specie di anfibi,
+rettili e lemuri hanno scelto di vivere lì.
+Inoltre, ci sono fiumi importanti per la produzione di energia elettrica.
+</p>
+
+<h2>I paesaggi del Parco di Mantadia</h2>
+
+<h4>La fauna del parco di Mantadia</h4>
+
+<p>
+51 specie di rettili con un tasso di endemicità del 95%.
+84 specie di anfibi con un tasso di endemicità del 98%.
+117 specie di uccelli con un tasso di endemicità del 63%.
+72 specie di mammiferi, tra cui 14 specie di lemuri.
+Metà dell\'elenco di queste specie è costituito da pipistrelli e insettivori.
+Il tasso di endemicità è del 78%.
+</p>
+
+<h4>I fiori del parco di Mantadia</h4>
+
+<p>
+120 specie di orchidee con un tasso di endemicità del 100%.
+La maggior parte sono epifite;
+oltre 1200 specie vegetali con un tasso di endemicità del 77%.
+</p>
+
+<h2>Come arrivare</h2>
+
+<p>
+In auto: tramite la RN°2, Antananarivo – Moramanga: 110 km, poi Moramanga – Andasibe: 26 km.
+</p>
+
+<h2>Posizione del parco</h2>
+
+<p>
+GPS: 18°28’ latitudine sud, 48°28’ longitudine est.
+Il Parco Nazionale Mantadia si trova nella regione di Alaotra Mangoro, distretto di Moramanga, tra i comuni rurali di Andasibe e Ambatovola
+Zona:
+15.480 ettari
+Regione:
+Alaotra-Mangoro
+</p>',
+            '248'       => '<h2>Geografia</h2>
+<h4>Idrografia</h4>
+
+<p>
+
+Riserva idrica molto grande con i fiumi Iofa, Sahanody e Vohitra.
+Altitudine
+Da 800 a 1200 metri
+Clima
+Tropicale umido
+Sollievo
+Rotto, grazie ai numerosi fiumi che vi scorrono e lasciano un paesaggio di una bellezza unica.
+</p>
+
+<h2>Momento ideale per visitare</h2>
+
+<p>
+Tra ottobre e novembre
+Orari di apertura:
+dalle 8:00 alle 16:00
+Storico
+Il Consiglio regionale di Analamazaotra è stato creato nel 1970.
+
+</p>
+
+<h2>Popolazione</h2>
+<p> Betsimisaraka, Bezanozano, Merina, Sihanaka</p>',
+            '249'       => 'Parco Marojejy',
+            '250'       => '<h2>Specificità del Parco</h2>
+
+<p classe="mb-4">
+Parco Nazionale Terrestre classificato Patrimonio dell\'Umanità,
+massiccio impressionante, foresta umida e fitta
+l\'habitat di bassa quota del Propithecus candidus o Simpona fotsy,
+palme e pteridofite,
+foresta secondaria di pianura, foresta montana densa e umida, macchia ericoide.
+</p>
+
+<h2>I paesaggi del parco Marojejy</h2>
+
+
+<h4>La fauna del parco Marojejy</h4>
+
+<p>
+25 specie di micromammiferi,
+11 specie di lemuri,
+149 specie di rettili e anfibi,
+72 specie di uccelli.
+</p>
+
+<h4>I fiori del parco Marojejy</h4>
+
+<p>
+350 specie di Pteridofite, 50 specie di palme.
+</p>
+
+<h2>Come arrivare</h2>
+
+<p>
+Da Antananarivo sulla RN4 poi prendere la RN6 fino ad Ambilobe e
+svoltare sulla strada che porta a Vohémar.
+Strada non percorribile durante la stagione delle piogge.
+</p>
+
+<h2>Posizione del parco</h2>
+
+<p>
+GPS: tra 14° 26’ di latitudine sud e 49° 15’ di longitudine est.
+Il Parco nazionale Marojejy si trova nella parte nord-orientale del Madagascar.
+Zona:
+65.050 ettari
+Regione:
+Sava
+</p>
+
+<h2>Geografia</h2>
+<h4>Idrografia</h4>
+
+<p>
+
+All\'interno del Parco nascono 11 fiumi.
+Altitudine
+2.132 milioni
+Clima
+Tipo tropicale umido
+Sollievo
+Forme forestali accidentate, dalla forma complessa, con creste e pendii ripidi e irregolari.
+</p>',
+            '251'       => '<h2>Momento ideale per visitare</h2>
+
+<p>
+Tutto l\'anno
+Orari di apertura:
+dalle 8:00 alle 16:00
+</p>
+
+<h2>Storia</h2>
+
+<p>
+Classificata come Riserva Naturale Integrale nel 1952, poi Parco Nazionale nel 1998 e Patrimonio dell\'Umanità nel 2007
+</p>
+
+<h2>Popolazione</h2>
+
+<p>
+Gruppo etnico dominante Tsimihety. Altri: Betsimisaraka, Betsileo, Merina
+</p>',
+            '252'       => '',
+            '253'       => '',
+            '254'       => '',
+            '255'       => '',
+            '256'       => '',
+            '257'       => '',
+            '258'       => '',
+            '259'       => '',
+            '260'       => '',
+            '261'       => '',
+            '262'       => '',
+            '263'       => '',
+            '264'       => '',
+            '265'       => '',
+            '266'       => '',
+            '267'       => '',
+            '268'       => '',
+            '269'       => '',
+            '270'       => '',
+            '271'       => '',
+            '272'       => '',
+            '273'       => '',
+            '274'       => '',
+            '275'       => '',
+            '276'       => '',
+            '277'       => '',
+            '278'       => '',
+            '279'       => '',
+            '280'       => '',
+            '281'       => '',
+            '282'       => '',
+            '283'       => '',
+            '284'       => '',
+            '285'       => '',
+            '286'       => '',
+            '287'       => '',
+            '288'       => '',
+            '289'       => '',
+            '290'       => '',
+            '291'       => '',
+            '292'       => '',
+            '293'       => '',
+            '294'       => '',
+            '295'       => '',
+            '296'       => '',
+            '297'       => '',
+            '298'       => '',
+            '299'       => '',
+            '300'       => '',
+            '301'       => '',
+            '302'       => '',
+            '303'       => '',
+            '304'       => '',
+            '305'       => '',
+            '306'       => '',
+            '307'       => '',
+            '308'       => '',
+            '309'       => '',
+            '310'       => '',
             '194'       => 'L\'ARCIPELAGO MITSIO in bivacco',            
             '195'       => '<h2>Descrizione</h2>
 
@@ -4758,14 +5421,6 @@ In Madagascar ci sono vari mezzi di trasporto: il taxi brousse è il mezzo di tr
 <p classe=\"mb-2\">
 <b>Dicembre:</b> è il periodo dell'abbondanza sulla rigogliosa costa orientale, con la raccolta di frutti in abbondanza.
 </p>",
-            '245'       => '',
-            '246'       => '',
-            '247'       => '',
-            '248'       => '',
-            '249'       => '',
-            '250'       => '',
-            '251'       => '',
-            '252'       => '',
             'italiano'  => 'italiano',
             '105'        => "Partenza dall'hotel alle 08:00, direzione IRANJA ISLAND, dalla spiaggia di Ambatoloaka in motoscafo, il viaggio dura 1h15.
                         Una volta arrivati ​​all'isola di IRANJA, sarete accolti da un paesaggio mozzafiato. Un'immersione totale nella natura allieterà la vostra giornata. Per iniziare la giornata vi aspettano 2 magnifici isolotti, collegati da una distesa di sabbia bianca lunga 2 km. Per i vostri momenti di relax vi aspetta una spiaggia bianca e immacolata, dove potrete prendere il sole, nuotare e fare una breve passeggiata alla scoperta di diverse varietà di felci, il tutto su un mare blu turchese.
@@ -6327,6 +6982,217 @@ In Madagascar ci sono vari mezzi di trasporto: il taxi brousse è il mezzo di tr
             'key1'      => 'Natura',
         ],
         'de' => [
+            '245'       => 'Mantadia-Park',
+            '246'       => 'Besonderheit des Parks',
+            '247'       => '<p Klasse="mb-4">
+Terrestrischer Nationalpark mit dichtem immergrünem Regenwald, in dem Amphibienarten,
+Reptilien und Lemuren haben sich dort als Lebensraum entschieden.
+Darüber hinaus gibt es Flüsse, die für die Stromerzeugung wichtig sind.
+</p>
+
+<h2>Die Landschaften des Mantadia Parks</h2>
+
+<h4>Die Fauna des Mantadia-Parks</h4>
+
+<p>
+51 Reptilienarten mit einer Endemierate von 95 %.
+84 Amphibienarten mit einer Endemierate von 98 %.
+117 Vogelarten mit einer Endemierate von 63 %.
+72 Säugetierarten, darunter 14 Lemurenarten.
+Fledermäuse und Insektenfresser machen die Hälfte dieser Arten aus.
+Die Endemierate beträgt 78 %.
+</p>
+
+<h4>Die Blumen des Mantadia Parks</h4>
+
+<p>
+120 Orchideenarten mit einer Endemierate von 100 %.
+Die meisten sind Epiphyten;
+mehr als 1200 Pflanzenarten mit einer Endemierate von 77 %.
+</p>
+
+<h2>Anfahrt</h2>
+
+<p>
+Mit dem Auto: Über die RN°2, Antananarivo – Moramanga: 110 km, dann Moramanga – Andasibe: 26 km.
+</p>
+
+<h2>Lage des Parks</h2>
+
+<p>
+GPS: 18°28’ südlicher Breite, 48°28’ östlicher Länge.
+Der Mantadia-Nationalpark liegt in der Region Alaotra Mangoro, Distrikt Moramanga, zwischen den ländlichen Gemeinden Andasibe und Ambatovola
+Bereich:
+15.480 ha
+Region :
+Alaotra-Mangoro
+</p>',
+            '248'       => '<h2>Geographie</h2>
+<h4>Hydrographie</h4>
+
+<p>
+
+Sehr großes Wasserreservoir mit den Flüssen Iofa, Sahanody und Vohitra.
+Höhe
+800 bis 1200 m
+Klima
+Tropisch feucht
+Erleichterung
+Zerbrochen, dank der vielen Flüsse, die dort fließen und eine Landschaft von einzigartiger Schönheit hinterlassen.
+</p>
+
+<h2>Ideale Reisezeit</h2>
+
+<p>
+Zwischen Oktober und November
+Öffnungszeiten:
+8 bis 16 Uhr
+Historisch
+Der Regionalrat von Analamazaotra wurde 1970 gegründet.
+
+</p>
+
+<h2>Bevölkerung</h2>
+<p> Betsimisaraka, Bezanozano, Merina, Sihanaka</p>',
+            '249'       => 'Marojejy-Park',
+            '250'       => '<h2>Besonderheiten des Parks</h2>
+
+<p Klasse="mb-4">
+Nationaler Landpark, der zum Weltkulturerbe erklärt wurde,
+beeindruckendes Massiv, dichter feuchter Wald
+der Lebensraum von Propithecus candidus oder Simpona fotsy in niedriger Höhe,
+Palmen und Farne,
+Sekundärwald im Tiefland, dichter, feuchter Bergwald, Heidekrautgewächse.
+</p>
+
+<h2>Die Landschaften des Marojejy-Parks</h2>
+
+
+<h4>Die Fauna des Marojejy-Parks</h4>
+
+<p>
+25 Arten von Kleinsäugern,
+11 Lemurenarten,
+149 Reptilien- und Amphibienarten,
+72 Vogelarten.
+</p>
+
+<h4>Die Blumen des Marojejy-Parks</h4>
+
+<p>
+350 Arten von Farnen, 50 Arten von Palmen.
+</p>
+
+<h2>Anfahrt</h2>
+
+<p>
+Von Antananarivo auf der RN4, dann auf der RN6 nach Ambilobe und
+Biegen Sie auf die Straße ab, die nach Vohémar führt.
+Während der Regenzeit ist die Straße nicht befahrbar.
+</p>
+
+<h2>Lage des Parks</h2>
+
+<p>
+GPS: zwischen 14° 26’ südlicher Breite und 49° 15’ östlicher Länge.
+Der Marojejy-Nationalpark liegt im nordöstlichen Teil Madagaskars.
+Bereich:
+65.050 ha
+Region :
+Sava
+</p>
+
+<h2>Geographie</h2>
+<h4>Hydrographie</h4>
+
+<p>
+
+11 Flüsse entspringen im Park.
+Höhe
+2.132 m
+Klima
+Feuchter tropischer Typ
+Erleichterung
+Schroffe Waldlandschaften mit komplexer Gestalt und steilen, unregelmäßigen Kämmen und Hängen.
+</p>',
+            '251'       => '<h2>Ideale Reisezeit</h2>
+
+<p>
+Das ganze Jahr über
+Öffnungszeiten:
+8 bis 16 Uhr
+</p>
+
+<h2>Geschichte</h2>
+
+<p>
+1952 zum Naturschutzgebiet erklärt, 1998 zum Nationalpark und 2007 zum Welterbe erklärt
+</p>
+
+<h2>Bevölkerung</h2>
+
+<p>
+Dominante ethnische Gruppe der Tsimihety. Andere: Betsimisaraka, Betsileo, Merina
+</p>',
+            '252'       => '',
+            '253'       => '',
+            '254'       => '',
+            '255'       => '',
+            '256'       => '',
+            '257'       => '',
+            '258'       => '',
+            '259'       => '',
+            '260'       => '',
+            '261'       => '',
+            '262'       => '',
+            '263'       => '',
+            '264'       => '',
+            '265'       => '',
+            '266'       => '',
+            '267'       => '',
+            '268'       => '',
+            '269'       => '',
+            '270'       => '',
+            '271'       => '',
+            '272'       => '',
+            '273'       => '',
+            '274'       => '',
+            '275'       => '',
+            '276'       => '',
+            '277'       => '',
+            '278'       => '',
+            '279'       => '',
+            '280'       => '',
+            '281'       => '',
+            '282'       => '',
+            '283'       => '',
+            '284'       => '',
+            '285'       => '',
+            '286'       => '',
+            '287'       => '',
+            '288'       => '',
+            '289'       => '',
+            '290'       => '',
+            '291'       => '',
+            '292'       => '',
+            '293'       => '',
+            '294'       => '',
+            '295'       => '',
+            '296'       => '',
+            '297'       => '',
+            '298'       => '',
+            '299'       => '',
+            '300'       => '',
+            '301'       => '',
+            '302'       => '',
+            '303'       => '',
+            '304'       => '',
+            '305'       => '',
+            '306'       => '',
+            '307'       => '',
+            '308'       => '',
+            '309'       => '',
+            '310'       => '',
             '194'       => 'DAS MITSIO-ARCHIPEL im Biwak',            
             '195'       => '<h2>Beschreibung</h2>
 
@@ -6916,14 +7782,6 @@ Das Zebu ist ein Zeichen des Reichtums und daher sehr wichtig. Neben Reis ist es
                     <p class="mb-2">
                       <b>Dezember:</b> Dies ist die Zeit des Überflusses an der üppigen Ostküste mit der Ernte zahlreicher Früchte.
                     </p>',
-            '245'       => '',
-            '246'       => '',
-            '247'       => '',
-            '248'       => '',
-            '249'       => '',
-            '250'       => '',
-            '251'       => '',
-            '252'       => '',
             
             'deutch'    => 'de',
             '105'        => "Abfahrt vom Hotel um 08:00 Uhr in Richtung IRANJA ISLAND, vom Strand Ambatoloaka mit dem Schnellboot, die Fahrt dauert 1 Stunde und 15 Minuten.
