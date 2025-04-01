@@ -152,13 +152,168 @@ Classified as a Strict Nature Reserve in 1952, then a National Park in 1998 and 
 <p>
 Dominant ethnic group: Tsimihety. Others: Betsimisaraka, Betsileo, Merina
 </p>',
-            '252'       => '',
-            '253'       => '',
-            '254'       => '',
-            '255'       => '',
-            '256'       => '',
-            '257'       => '',
-            '258'       => '',
+            '252'       => 'Meva trip',
+            '253'       => "<h2>DAY 1: NOSY BE – ANKIFY – ANKARANA SPECIAL RESERVE</h2>
+<p><b>Highlights:</b> Landscape, meeting with farmers, Tsingy Gris of Ankarana (10 circuits to choose from in the park).</p>
+<p>
+<b>Departure</b>: Around 7:00 a.m. from your hotel and head to the port of Nosy Be,
+for a 35-minute boat transfer to the port of Ankify. </p>
+
+<p class=\"mb-4\">
+From the port of Ankify, we continue north, passing through typical Antakarana tribal villages on the one hand
+and a vast mahogany field on the other, before reaching the urban commune
+of Ambilobe, crossing superb landscapes for panoramic views and, above all,
+the Ravinala forest, one of Madagascar's emblematic plants, in a 2-hour 30-minute drive.
+30 minutes from the town of Ambilobe is Mahamasina, the main entrance to Ankarana National Park.
+After settling in for a delicious lunch, we begin our tour of the park
+with the Tsingy Gris, with its sharp and spectacular formations, fossilized animal tracks,
+the 11 species of lemurs, and the 92 species of birds that call its forests home.
+Overnight stay in a bungalow in Mahamasina. </p>
+
+<h2>DAY 2: MAHAMASINA – RED TSINGY – DIEGO SUAREZ (ANTSIRANANA)</h2>
+
+<p>
+<b>Highlights:</b> Visit the Grand Canyon in miniature, former military village <br>
+<b>Visit:</b> Grand Canyon in miniature.
+</p>
+
+<p>
+Departure from the hotel around 7:30 a.m. from Mahamasina, taking the road to Diego Suarez with a stop at the sapphire villages,
+a chance to buy precious stones, then we take the turn
+off to the red tsingy through lush landscapes...
+It is Mother Nature who has shaped and revealed these red tsingy,
+year after year for all to see. Their unique shape and shimmering
+color captivate the minds of those who have come to visit them. Sedimentary formations composed of sandstone, marl, laterite, and limestone, along with climate change and environmental deterioration and water infiltration, have created this unique, supernatural landscape from the depths of the earth. This canyon reveals immense ochre-red formations formed by water flowing through these open-air soils. The mixture of different oxides gives these curiosities a range of warm colors ranging from bright white to intense red. We enjoy a picnic lunch en route, and then head towards the city of Diego. </p>
+
+<h2>DAY 3: AMBER MOUNTAIN NATIONAL PARK – THE 3 BAYS – RAMENA BEACH</h2>
+
+<p>
+<b>Highlights</b>: National park: waterfall, rainforest,
+endemic Madagascar flora and fauna species,
+meeting with farmers, Sakalava Bay,
+Dune Bay and Pigeon Bay, military ruins, beaches.
+</p>",
+            '254'       => '<p>
+<b>Visit A</b>: Montagne d\'Ambre National Park (Sacred Waterfall – Roussette Station – Forest of a Thousand Trees). Departure from the hotel at 7:00 a.m., head to the park reception for a brief briefing with the guide, and we begin the tour.
+
+The Montagne d\'Ambre National Park rises to an altitude of 1,470 meters above sea level and is a forest rich in flora and fauna. Visit its crater lakes and sacred waterfalls, which contain the history of the Antakarana royalty, Sanford lemurs playing in their stronghold, the world\'s smallest chameleon, the famous Brokesia, the camouflage gecko, amphibians, and endemic plants found in this northern primary forest. Lunch will be served on site at 11:00 a.m.
+
+We will leave Joffre Ville to join Diego Suarez. This will be an afternoon. Relaxation, during which we will visit the three famous bays of the northern region of Madagascar.
+
+<b>Visit B</b>: Sugarloaf Mountain – the three bays: Dunes Bay, Sakalava Bay, and Pigeon Bay – Ramena Beach.
+
+We begin by observing Sugarloaf Mountain, a sacred site of the Antakarana people called Nosy Lonjo. It is a conical-shaped volcanic islet, 122 meters high and covering an area of ​​4.5 hectares. It is made up of nummulitic limestone banks detached from the mountain known as French Mountain. The islet is covered with vegetation consisting of typical Adansoniasuarezensis baobabs and mangroves. Nosy Lonjo is a picturesque natural site, preserved by its cultural vocation. Like all the islets off the northwest coast of Grande Terre (Madagascar), it serves as a burial site for the deceased Sakalava rulers, and is therefore sacred. It is also a place of ancestor worship through traditional "fijoroana" ceremonies still practiced by the population.
+
+We then explore the three bays, starting with Sakalava Bay, a favorite spot for windsurfers and kitesurfers, then Dune Bay, and ending with Pigeon Bay with its exceptionally beautiful deserted beaches and the Cap Mine with the remains of French military cannons and fortifications.
+
+We end the day on Ramena Beach and spend the night in one of its hotels. </p>
+
+<h2>DAY 4: RAMENA BEACH – EMERALD SEA – RAMENA VILLAGE</h2>
+
+<p>
+Highlights: crystal clear water, snorkeling, spearfishing, water sports: kitesurfing
+</p>
+
+<p>
+<p>Activity</p>: visit to a fishing village, snorkeling, spearfishing, windsurfing, kitesurfing
+Departure from the hotel at 8:00 a.m. (depending on the tide) to embark on a traditional motor and sailing boat,
+very typical of the region.
+</p>
+
+<p>
+The Emerald Sea is a one-hour boat ride from Ramena Beach.
+It is a site of supernatural beauty thanks to its crystal-clear waters of a fascinating turquoise blue. The shallow water, combined with a very clear sandy bottom, coral reefs with multicolored fish, beach huts, seafood, and golden sand, gives it its unique color. This is what earned it its name "the Emerald Sea." It\'s a deserted beach for water sports, where windsurfers and kitesurfers enjoy themselves to their heart\'s content. You\'ll land on a heavenly white sand beach, where a few trees and palm trees provide a little shade! A day of relaxation and unwinding, indulging in the pleasures of sunbathing and swimming. Spearfishing is also among the activities that make this destination unique.
+
+At noon, a picnic lunch featuring freshly caught seafood will be served on the beach.
+
+Return to Ramena Beach around 3 p.m.
+
+Overnight stay in Ramena.
+</p>',
+            '255'       => '<h2>DAY 5: RAMENA VILLAGE – AMBILOBE – AMBANJA /ANKIFY</h2>
+
+<p><b>Visit</b>: Ambilobe Town and Surrounding Area</p>
+
+<p>
+
+After breakfast, we hit the road out of the town of <a href="https://fr.wikipedia.org/wiki/Diégo-Suarez" target="_blank" rel="noopener noreferrer">Diégo-Suarez</a> towards the town of Ambilobe. We\'ll make a few stops and a brief stop in Mahamasina, a break along the way, so we can stretch out a bit.
+
+Ambilobe is a very active and popular town. The city is a major crossroads in the north of Madagascar, 
+located on national road number 6, between Diégo-Suarez and <a href="https://fr.wikipedia.org/wiki/Ambanja" target="_blank" rel="noopener noreferrer">Ambanja</a> (towards <a href="https://fr.wikipedia.org/wiki/Nosy_Be" target="_blank" rel="noopener noreferrer">Nosy Be</a>), 
+as well as on the road connecting to the coastal town of the <a href="https://fr.wikipedia.org/wiki/Oc%C3%A9an_Indienne" target="_blank" rel="noopener noreferrer">the Indian Ocean</a>, 
+<a href="https://fr.wikipedia.org/wiki/Voh%C3%A9mar" target="_blank" rel="noopener noreferrer">Vohémar</a>.
+
+Furthermore, located on the course of the <a href="https://fr.wikipedia.org/wiki/Mahavavy" target="_blank" rel="noopener noreferrer">Mahavavy</a> river. A historic town of the Antakarana tribe,
+home to the seat of Prince Issa Tsimiaro III.
+
+A visit to the palace could be arranged (depending on availability).
+
+Primarily focused on agriculture,
+the town is surrounded by sugarcane plantations and a sugarcane processing plant: SIRAMA Ambilobe.
+
+It also hosts an important market for the region.
+
+Today, a trend towards artisanal mining is emerging due to the gold deposits of Andavakoera,
+sapphires of Amondromifehy, and diamonds of Antetezambato Ambanja.
+
+While visiting the market, we will discover the famous "katy." Kath,
+qat or kat, is a shrub or bush (a type of spindle tree) of the Celastraceae family,
+native to Ethiopia, whose cultivation spread to Arabia (especially Yemen) around the 15th century.
+It is consumed by men and women throughout almost all of Madagascar, who chew (graze)
+the leaves extensively for their stimulating and euphoric effect, comparable to that of amphetamine. We will have lunch in Mahamasina and spend the night at a hotel in Ambanja.
+
+
+DAY 6: MILLOT PLANTATION – NOSY BE
+
+
+Highlights:
+Visit Ambanja, the Sambirano River, cocoa plantation, and Madagascar spices.
+
+Departure from your hotel around 7:00 a.m. and head to the town of Ambanja.
+The visit to the spice plantation focuses on the cocoa cultivation of the Sambirano Valley, which has made this town famous, and spices such as peppers, lemongrass, coffee, 4 spices, etc.
+
+After the visit and lunch, a tour of the town of Ambanja will take you to discover the originality and charm of this town, as well as some of its infrastructure and public spaces.
+We will take the road to the port of Ankify and board a boat to Nosy Be. </p>
+
+<ul class="unstyled-list">
+<li><b>Number of Passengers:</b> Clients, Guide, Driver</li>
+<li><b>Vehicle Type:</b> Spacious, comfortable, air-conditioned 4WD</li>
+</ul>',
+            '256'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel transfer to the port</li>
+<li>4WD</li>
+<li>Accommodation in Mahamasina, Diego Suarez, Ankify</li>
+<li>Transfer to speedboats</li>
+<li>All lunches</li>
+<li>Guide</li>
+<li>Mineral water</li>
+<li>Visit rights</li>
+</ul>',
+            '257'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>All Dinners</li>
+<li>Snorkeling Equipment</li>
+<li>Watersports Equipment (Windsurfing/Kitesurfing)</li>
+<li>Spearfishing Equipment</li>
+<li>Tip</li>
+</ul>',
+            '258'       => '<h3>Mini Necessary Checklist</h3>
+<ul>
+<li>Personal Necessities</li>
+<li>Warm-weather clothing, made of wool or polyester</li>
+<li>Medicine</li>
+<li>Carry-on backpack and travel bag</li>
+<li>Light or flashlight</li>
+<li>Trekking boots and pants</li>
+<li>Sandals or casual shoes</li>
+<li>Sunglasses</li>
+<li>Sunscreen</li>
+<li>Mosquito repellent</li>
+<li>Sunhat or hood</li>
+</ul>',
             '259'       => '',
             '260'       => '',
             '261'       => '',
@@ -2400,13 +2555,188 @@ Airport assistance and HAVE A GREAT FLIGHT.
             <p>
             Ethnie dominante Tsimihety. Autres : Betsimisaraka, Betsileo, Merina
             </p>',
-            '252'       => '',
-            '253'       => '',
-            '254'       => '',
-            '255'       => '',
-            '256'       => '',
-            '257'       => '',
-            '258'       => '',
+            '252'       => 'Tour Meva',
+            '253'       => '<h2>JOUR 1: NOSY BE – ANKIFY – RÉSERVE SPÉCIALE DE L’ANKARANA</h2>
+            <p><b>Points fort:</b>   Paysage rencontre avec les paysans, Tsingy Gris de l’Ankarana (10 Circuits aux choix dans la parc) .</p>
+            <p>
+                <b> Départ </b> : vers 07h 00 de votre hôtel et direction vers le port de Nosy Be, 
+                pour un transfert en bateau vers le port d’Ankify en 35 minutes.
+            </p>
+            
+            <p class="mb-4">
+                Du port d’Ankify, on continue vers le Nord en traversant les villages typiques de tribus Antakarana d’une part 
+                et un immense champ d’acajou d’autre part avant de rejoindre la commune urbaine 
+                d’Ambilobe en traversant les superbes paysages pour des vues panoramiques et surtout
+                la forêt de « Ravinala » une des plantes emblématiques de Madagascar en 2h 30 minutes de trajet. 
+                À 30 min e la ville d’Ambilobe se trouve Mahamasina, l’entrée principale du parc de l’Ankarana. 
+                Après l’installation on passe à table pour un délicieux déjeuner, on commence la visite du parc 
+                par les Tsingy Gris avec ses formations aigues et spectaculaires, avec ses traces d’animaux fossilisés, 
+                les 11 espèces de lémuriens et les 92 espèces d’oiseaux qui abritent ses forêts.  
+                Nuitée dans un bungalow à Mahamasina.
+            </p>
+
+
+
+            <h2>JOUR 2: MAHAMASINA – TSINGY ROUGE – DIEGO SUAREZ (ANTSIRANANA)</h2>
+
+            <p>
+               <b>Points fort:</b>visite du  Grand Canyon en miniature, ancienne village militaire <br>
+               <b>Visite: </b> Grand Canyon en miniature.
+            </p>
+
+            <p>
+                Départ de l’hôtel vers 7h30 de Mahamasina en prenant la route vers Diégo Suarez avec une halte aux villages de saphir,
+                une possibilité d’acheter de pierre précieuse puis nous prenons la bifurcation 
+                vers les tsingy rouges à travers des paysages luxuriants… 
+                C’est Dame Nature qui a façonné et révélé ces tsingy rouges, 
+                année après année aux yeux de tous. Leur forme unique et leur 
+                couleur chatoyante envoutent les esprits de ceux qui sont venus jusqu’à 
+                elles pour les visiter. Des formations sédimentaires composées de grès, de marne,
+                de latérite et calcaire avec le changement climatique et la détérioration 
+                de l’environnement et l’infiltration de l’eau a fait naitre de l’entrailles 
+                de la terre ce paysage surnaturel unique au monde. Ce canyon laisse apparaître 
+                d’immenses formations rouge ocre formées par le ruissellement de l’eau dans ces sols à ciel ouvert.
+                Le mélange de différents oxydes donne à ces curiosités un
+                panel de couleurs chaudes allant d’un blanc éclatant à un rouge intense. 
+                Déjeuner piquenique en cour de route, et nous prenons la route vers la Ville de Diego.
+            </p>
+            
+            
+            <h2>JOUR 3:  PARC NATIONAL MONTAGNE D’AMBRE –LES 3 BAIES –  RAMENA  PLAGE </h2>
+
+            <p>
+                <b>Points forts</b>  :  Parc national : cascade , forêt humide , 
+                espèces faunistiques et floristiques  endemiques de Madagascar ,
+                rencontre avec les paysans , Baie de Sakalava , 
+                Baies des Dunes et Baie des Pigeons , Ruine militaire , plages. 
+            </p>',
+            '254'       => '<p>
+                <b>Visite A </b> : Parc National de la Montagne d’Ambre (Cascade sacré – la station roussette – la forêt des milles arbres. Départ de l’hôtel 7h00, direction vers l’accueil du parc pour un bref briefing avec le guide et nous commençons la visite.
+
+                Le parc national de la Montagne d’Ambre culmine sur une altitude de 1470 mètres au niveau de la mer et c’est un foret riche en faune et flore. Visite de ses lacs de cratères et ses cascades sacrés qui renferment l’histoire de la royauté Antakarana, lémuriens Sanford amusant dans leur fief, le plus petit caméléon du monde le fameux Brokesia, uroplatus le gecko camoufleur, des batraciens et des plantes endémiques présentent dans cette forêt primaire du nord. Un déjeuner vous sera servi sur place à 11h00.
+
+                Nous quitterons Joffre Ville pour rejoindre Diego Suarez, ce sera un après-midi farniente, pendant laquelle nous allons visiter les 3 fameuses baies de la région Nord de Madagascar.
+
+                <b>Visite B</b>  :  Pain de sucre – les 3 baies : la baie des Dunes, la baie de Sakalava et la baie des Pigeons – Ramena plage.
+
+                Nous commençons par observer le pain de sucre, lieu sacré des Antakarana nommé Nosy Lonjo. C’est un îlot d’origine volcanique, de forme conique de 122 mètres de hauteur et d’une superficie de 4,5 hectares. Il est constitué par des bancs de calcaire nummulitique détachés de la montagne dénommée Montagne des Français. L’îlot est recouvert d’une végétation composée de baobabs typiques Adansoniasuarezensis et de mangroves. Nosy Lonjo est un site naturel pittoresque, préservé par sa vocation culturelle. Comme tous les îlots au large de la côte Nord-Ouest de la Grande Terre (Madagascar), il sert de lieu de sépulture des défunts souverains Sakalava, donc sacré. C’est aussi un lieu de culte aux ancêtres par les cérémonies traditionnelles « fijoroana » toujours pratiquées par la population.
+
+                Ensuite, nous entamons les trois baies en commençons par la baie de Sakalava lieu de prédilection des amateurs de windsurf et de kite surf, puis la baie de dune et nous finirons par la baie de pigeons avec ses plages désertes d’une beauté exceptionnelle, le Cap miné avec les vestiges de canons militaires et fortifications français.
+
+                Nous finissons la journée sur la plage de Ramena et passons la nuit dans un de ses hôtels.
+            </p>
+
+           
+
+            <h2>JOUR 4:  RAMENA PLAGE – MER D’EMERAUDE  – RAMENA VILLAGE</h2>
+
+            <p>
+                Points fort:   eau cristallisé , snorkeling , chasse sous marine , sport de  glisse : Kite Surf
+            </p>
+
+            <p>
+                <p>Activité</p> : visite de village des pêcheurs, snorkeling, chasse sous-marine, wind sur, kite surf
+                Départ de l’hôtel à 8h00 ( dépendras de la marée )pour s’embarquer dans un bateau moteur et à la voile traditionnel,
+                très typique de la région.
+            </p>
+
+            <p>
+                La mer d’Emeraude se trouve à une heure de traversée en bateau de la plage de Ramena.
+                C’est un site d’une beauté surnaturelle grâce à ses eaux cristallines d’un bleu turquoise fascinant. 
+                La faible profondeur de l’eau ajoutée à un fond sablonneux très clair, des massifs de coraux aux poissons multicolores, des paillottes, des fruits de mer, du sable doré lui donne cette couleur si particulière. C’est ce qui lui a d’ailleurs valu son nom « la mer d’Emeraude ».  C’est une plage déserte pour le sport de glisse ou les véliplanchistes et les kite surfeurs s’en donnent à cœur joie.  On accoste sur une plage paradisiaque de sable blanc sur laquelle quelques arbres et palmiers apportent un peu d’ombre ! Une   journée de détente et de relax en s’adonnant au plaisir de bain de soleil, de la baignade. La chasse sous-marine aussi figure dans la liste des activités qui font de cette destination unique.  
+
+                À midi, déjeuner piquenique à base de fruit de mer venaient d’être chassé vous sera servi sur la plage.  
+                Retour vers la plage de ramena vers 15h.
+
+                Nuitée à Ramena.
+            </p>',
+            '255'       => '<h2>JOUR 5: RAMENA VILLAGE –  AMBILOBE –  AMBANJA /ANKIFY</h2>
+
+            <p><b>Visite</b>  : Ville d’Ambilobe et ses alentours</p>
+
+            <p>
+
+                Après le petit déjeuner, nous prenons la route   en sortant de la ville de <a href="https://fr.wikipedia.org/wiki/Di%C3%A9go-Suarez" target="_blank" rel="noopener noreferrer">Diégo-Suarez </a>   vers la ville d’ambilobe. Quelques arrêts et une brève escale à mahamasina ou pause sur le trajet pour que nous puissions s’étirer un peu.
+
+                Ambilobe est une ville très active et très populaire. 
+                La ville est un carrefour majeur dans le nord de Madagascar, 
+                située sur la route nationale numéro 6, entre Diégo-Suarez et <a href="https://fr.wikipedia.org/wiki/Ambanja" target="_blank" rel="noopener noreferrer">Ambanja</a> (vers <a href="https://fr.wikipedia.org/wiki/Nosy_Be" target="_blank" rel="noopener noreferrer">Nosy Be</a>), 
+                ainsi que sur la route se reliant vers la ville côtière de l’<a href="https://fr.wikipedia.org/wiki/Oc%C3%A9an_Indien" target="_blank" rel="noopener noreferrer"> l’Océan Indien</a>, 
+                <a href="https://fr.wikipedia.org/wiki/Voh%C3%A9mar" target="_blank" rel="noopener noreferrer">Vohémar</a>.
+                 Par ailleurs, située sur le cours du fleuve <a href="https://fr.wikipedia.org/wiki/Mahavavy" target="_blank" rel="noopener noreferrer">Mahavavy</a>. Ville historique de la tribu Antakarana,
+                  où siège le prince ISSA TSIMIARO III. 
+                  Une visite du palais pourrait être s’organiser (qui déprendras de sa disponibilité). 
+                  Principalement tournée vers l’agriculture, 
+                  la ville est entourée de plantations de cannes à sucre et d’une usine de traitement de la canne : la SIRAMA Ambilobe. 
+                  Elle accueille par ailleurs un marché important pour la région. 
+                  Aujourd’hui une tendance sur la vocation minière artisanale due au gisement d’or d’Andavakoera,
+                  Saphir d’Amondromifehy et la diamantoide d’Antetezambato Ambanja.
+
+                    En visitant le marché nous allons connaitre la célèbre « katy » le <a href="https://fr.wikipedia.org/wiki/Kath">Kath</a> , 
+                    qat ou kat, est un arbuste ou arbrisseau (une sorte de fusain) de la famille des Célastracées,
+                     originaire d’Éthiopie, dont la culture s’est étendue à l’Arabie (surtout au Yémen) vers le XVe siècle. 
+                     Il est consommé par hommes et femmes dans presque toutes Madagascar qui en mâchent (broutent) 
+                     longuement les feuilles pour leur effet stimulant et euphorisant comparable à celui de l’amphétamine.  
+
+                Nous déjeunerons à mahamasina, et nuitée dans un hôtel ambilobe
+            </p>
+
+            <h2>JOUR 6 :  PLANTATION MILLOT – NOSY BE</h2>
+
+            <p>
+                <b>Points fort:</b>   visite Ambanja, rivière de Sambirano, plantation cacao et des épices de Madagascar .
+
+                Départ de votre hôtel vers 07h00 et direction vers la ville d’Ambanja. 
+                La visite de la plantation des épices est se concentre sur la culture de Cacao de la vallée du Sambirano qui fait la réputation de cette ville et les épices tels que :
+                les poivres, citronnelle, café, 4 épices, …
+
+                Après la visite et le déjeuner, un tour dans la ville d’Ambanja pour découvrir : 
+                l’originalité et la charme de cette ville, quelques infrastructures et des lieux publics.
+                Nous prendrons la route vers le port d’Ankify et s’embarquer dans un bateau pour Nosy Be.
+            </p>
+
+            
+
+
+            <ul class="unstyled-list">
+                <li><b>Nombre de Pax :    </b> Clients, Guide Accompagnateur, Chauffeur</li>
+                <li><b>Type de véhicule : </b> 4WD spacieuse, confortable et climatisée</li>
+            </ul>',
+            '256'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel vers au port</li>
+                            <li>4WD</li>
+                            <li>Hébergement à Mahamasina , Diego Suarez , Ankify</li>
+                            <li>Transfert au Bateaux rapide</li>
+                            <li>Tous les déjeuners</li>
+                            <li>Guide</li>
+                            <li>Eau minéral</li>
+                            <li>Droit de visite</li>
+                        </ul>',
+            '257'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Les boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Tous les dîners</li>
+                            <li>Les matériels de snorkeling</li>
+                            <li>Les matériels de sport de glisse ( wind surf/kite surf)</li>
+                            <li>Les matériels de chasse sous marine</li>
+                            <li>Pourboire</li>
+                        </ul>',
+            '258'       => '<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle</li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine</li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking</li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon</li>
+                        </ul>',
             '259'       => '',
             '260'       => '',
             '261'       => '',
@@ -4773,13 +5103,188 @@ Classificata come Riserva Naturale Integrale nel 1952, poi Parco Nazionale nel 1
 <p>
 Gruppo etnico dominante Tsimihety. Altri: Betsimisaraka, Betsileo, Merina
 </p>',
-            '252'       => '',
-            '253'       => '',
-            '254'       => '',
-            '255'       => '',
-            '256'       => '',
-            '257'       => '',
-            '258'       => '',
+            '252'       => 'Torre Meva',
+            '253'       => '<h2>GIORNO 1: NOSY BE – ANKIFY – RISERVA SPECIALE ANKARANA</h2>
+<p><b>In evidenza:</b> Incontro paesaggistico con gli agricoltori, Tsingy Gris dell\'Ankarana (10 circuiti tra cui scegliere nel parco).</p>
+<p>
+<b>Partenza</b>: verso le 7:00 dal vostro hotel e direzione porto di Nosy Be,
+per un trasferimento in barca al porto di Ankify in 35 minuti.
+</p>
+
+<p classe="mb-4">
+Dal porto di Ankify, proseguiamo verso Nord, attraversando da un lato i villaggi tipici delle tribù Antakarana
+e un immenso campo di mogano dall\'altro lato prima di unirsi alla comunità urbana
+da Ambilobe attraversando i superbi paesaggi per viste panoramiche e soprattutto
+la foresta di “Ravinala” una delle piante emblematiche del Madagascar in 2 ore e 30 minuti di viaggio.
+A 30 minuti dalla città di Ambilobe si trova Mahamasina, l\'ingresso principale del parco Ankarana.
+Dopo esserci sistemati, ci sediamo per un delizioso pranzo e iniziamo la nostra visita al parco.
+dal Tsingy Gris con le sue formazioni affilate e spettacolari, con le sue tracce animali fossilizzate,
+le 11 specie di lemuri e le 92 specie di uccelli che vivono nelle sue foreste.
+Pernottamento in un bungalow a Mahamasina.
+</p>
+
+
+
+<h2>GIORNO 2: MAHAMASINA – TSINGY ROUGE – DIEGO SUAREZ (ANTSIRANANA)</h2>
+
+<p>
+<b>In evidenza:</b>Tour del Grand Canyon in miniatura, ex villaggio militare <br>
+<b>Visita: </b> Il Grand Canyon in miniatura.
+</p>
+
+<p>
+Partenza dall\'hotel intorno alle 7:30 da Mahamasina, prendendo la strada per Diego Suarez con una sosta ai villaggi dello zaffiro,
+una possibilità di acquistare pietre preziose allora prendiamo la forchetta
+verso gli tsingy rossi attraverso paesaggi lussureggianti…
+È Madre Natura che ha plasmato e rivelato questi tsingy rossi,
+anno dopo anno agli occhi di tutti. La loro forma unica e la loro
+il colore scintillante ammalia le menti di coloro che sono venuti a
+loro di fargli visita. Formazioni sedimentarie composte da arenaria, marna,
+di laterite e calcare con cambiamenti climatici e deterioramento
+dell\'ambiente e l\'infiltrazione dell\'acqua ha dato origine alle viscere
+dalla terra questo paesaggio soprannaturale unico al mondo. Questo canyon rivela
+immense formazioni rosso-ocra formate dall\'acqua che scorre attraverso questi terreni all\'aria aperta.
+La miscela di diversi ossidi conferisce a queste curiosità un
+pannello di colori caldi che vanno dal bianco brillante al rosso intenso.
+Pranzo al sacco lungo il percorso e poi ci dirigiamo verso la città di Diego.
+</p>
+
+
+<h2>GIORNO 3: PARCO NAZIONALE DELLE MONTAGNE D\'AMBRA – LE 3 BAIE – SPIAGGIA DI RAMENA</h2>
+
+<p>
+<b>Punti salienti</b>: Parco nazionale: cascata, foresta pluviale,
+specie endemiche faunistiche e floreali del Madagascar,
+incontro con i contadini, Baia Sakalava,
+Dunes Bay e Pigeons Bay, rovine militari, spiagge.
+</p>',
+            '254'       => "<p>
+<b>Visita A</b>: Parco nazionale della Montagna d'Ambra (Cascata Sacra – Stazione di Roussette – Foresta dei Mille Alberi). Partenza dall'hotel alle ore 7:00, ci dirigiamo alla reception del parco per un breve briefing con la guida e iniziamo il tour.
+
+Il Parco Nazionale Montagne d’Ambre raggiunge un’altitudine di 1.470 metri sul livello del mare ed è una foresta ricca di flora e fauna. Visitate i suoi laghi vulcanici e le cascate sacre che racchiudono la storia della famiglia reale Antakarana, i lemuri di Sanford che si divertono nella loro roccaforte, il più piccolo camaleonte del mondo, il famoso Brokesia, l'uroplatus, il geco mimetico, gli anfibi e le piante endemiche presenti in questa foresta primaria del nord. Il pranzo verrà servito in loco alle ore 11:00.
+
+Lasceremo Joffre Ville per raggiungere Diego Suarez, sarà un pomeriggio di relax, durante il quale visiteremo le 3 famose baie della regione settentrionale del Madagascar.
+
+<b>Visita B</b>: Sugarloaf – le 3 baie: Dunes Bay, Sakalava Bay e Pigeons Bay – spiaggia di Ramena.
+
+Iniziamo osservando il Pan di Zucchero, un luogo sacro degli Antakarana chiamato Nosy Lonjo. Si tratta di un isolotto di origine vulcanica, di forma conica, alto 122 metri e con una superficie di 4,5 ettari. È costituito da banchi di calcare nummulitico staccatisi dalla montagna chiamata Montagne des Français. L'isolotto è ricoperto da una vegetazione composta dai tipici baobab Adansoniasuarezensis e dalle mangrovie. Nosy Lonjo è un sito naturale pittoresco, preservato dalla sua vocazione culturale. Come tutti gli isolotti al largo della costa nord-occidentale di Grande Terre (Madagascar), funge da luogo di sepoltura per i sovrani Sakalava defunti ed è quindi sacro. È anche un luogo di culto degli antenati attraverso le tradizionali cerimonie “fijoroana” ancora praticate dalla popolazione.
+
+Poi inizieremo con le tre baie, iniziando con Sakalava Bay, meta preferita dagli amanti del windsurf e del kitesurf, poi Dune Bay e concluderemo con Pigeon Bay con le sue spiagge deserte di eccezionale bellezza, Mined Cape con i resti dei cannoni militari francesi e delle fortificazioni.
+
+Concludiamo la giornata sulla spiaggia di Ramena e trascorriamo la notte in uno dei suoi hotel.
+</p>
+
+
+
+<h2>GIORNO 4: SPIAGGIA DI RAMENA – MARE SMERALDO – VILLAGGIO DI RAMENA</h2>
+
+<p>
+Punti salienti: acqua cristallina, snorkeling, pesca subacquea, sport acquatici: kite surf
+</p>
+
+<p>
+<p>Attività</p>: visita a un villaggio di pescatori, snorkeling, pesca subacquea, windsurf, kitesurf
+Partenza dall'hotel alle ore 8:00 (a seconda della marea) per imbarcarsi su una barca tradizionale a motore e a vela,
+molto tipico della regione.
+</p>
+
+<p>
+L'Emerald Sea è raggiungibile in un'ora di barca da Ramena Beach.
+È un luogo di una bellezza soprannaturale grazie alle sue acque cristalline di un affascinante blu turchese.
+L'acqua bassa, unita al fondale sabbioso molto trasparente, alle barriere coralline con pesci multicolori, alle cabine sulla spiaggia, ai frutti di mare e alla sabbia dorata, le conferiscono questo colore davvero speciale. Questo è ciò che gli ha dato il nome di \"Mare di Smeraldo\".  È una spiaggia deserta adatta agli sport acquatici, dove gli amanti del windsurf e del kitesurf si divertono molto.  Atterriamo su una paradisiaca spiaggia di sabbia bianca, dove alcuni alberi e palme forniscono un po' d'ombra! Una giornata di relax e distensione, godendo del piacere di prendere il sole e nuotare. Anche la pesca subacquea è una delle attività che rendono unica questa destinazione.
+
+A mezzogiorno verrà servito sulla spiaggia un pranzo al sacco a base di pesce appena pescato.
+Rientro alla spiaggia di Ramena verso le 15:00.
+
+Pernottamento a Ramena.
+</p>",
+            '255'       => "<h2>GIORNO 5: VILLAGGIO RAMENA – AMBILOBE – AMBANJA /ANKIFY</h2>
+
+            <p><b>Visita</b>: Città di Ambilobe e suoi dintorni</p>
+
+            <p>
+
+                Dopo la colazione, prenderemo la strada che lascia la città di <a href=\"https://fr.wikipedia.org/wiki/Di%C3%A9go-Suarez\" target=\"_blank\" rel=\"noopener noreferrer\">Diégo-Suarez </a> verso la città di Ambilobe. Qualche sosta e una breve sosta a Mahamasina o pausa lungo il percorso per sgranchirci un po'.
+
+                Ambilobe è una città molto attiva e molto popolare. 
+                La città è un importante crocevia nel nord del Madagascar, 
+                situato sulla strada statale numero 6, tra Diégo-Suarez e <a href=\"https://fr.wikipedia.org/wiki/Ambanja\" target=\"_blank\" rel=\"noopener noreferrer\">Ambanja</a> (in direzione <a href=\"https://fr.wikipedia.org/wiki/Nosy_Be\" target=\"_blank\" rel=\"noopener noreferrer\">Nosy Be</a>), 
+                così come sulla strada che collega alla città costiera dell'<a href=\"https://fr.wikipedia.org/wiki/Oc%C3%A9an_Indienne\" target=\"_blank\" rel=\"noopener noreferrer\">Oceano Indiano</a>, 
+                <a href=\"https://fr.wikipedia.org/wiki/Voh%C3%A9mar\" target=\"_blank\" rel=\"noopener noreferrer\">Vohémar</a>.
+                 Inoltre, situato sul corso del fiume <a href=\"https://fr.wikipedia.org/wiki/Mahavavy\" target=\"_blank\" rel=\"noopener noreferrer\">Mahavavy</a>. Città storica della tribù Antakarana,
+                  dove siede il principe ISSA TSIMIARO III. 
+                  Potrebbe essere organizzata una visita al palazzo (che dipenderà dalla disponibilità). 
+                  Principalmente focalizzato sull'agricoltura, 
+                  la città è circondata da piantagioni di canna da zucchero e da una fabbrica di lavorazione della canna: SIRAMA Ambilobe. 
+                  Ospita anche un mercato importante per la regione. 
+                  Oggi c'è una tendenza verso l'estrazione artigianale a causa del giacimento d'oro di Andavakoera,
+                  Zaffiro di Amondromifehy e diamanteide di Antetezambato Ambanja.
+
+                    Visitando il mercato conosceremo la famosa “katy” la <a href=\"https://fr.wikipedia.org/wiki/Kath\">Kath</a>, 
+                    qat o kat, è un arbusto o arbusto (una specie di fuso) della famiglia delle Celastraceae,
+                     originario dell'Etiopia, la cui cultura si diffuse in Arabia (soprattutto nello Yemen) intorno al XV secolo. 
+                     Viene consumato da uomini e donne in quasi tutto il Madagascar che lo masticano (pascolano). 
+                     lungo le foglie per il loro effetto stimolante ed euforico paragonabile a quello dell'anfetamina.  
+
+                Pranzeremo a Mahamasina e pernottamento in un hotel Ambilobe.
+            </p>
+
+            <h2>GIORNO 6: PIANTAGIONE DI MILLOT – NOSY BE</h2>
+
+            <p>
+                <b>Attrazioni salienti:</b> visita Ambanja, il fiume Sambirano, piantagioni di cacao e spezie del Madagascar.
+
+                Partenza dal vostro hotel intorno alle 7:00 e dirigetevi verso la città di Ambanja. 
+                La visita alla piantagione di spezie si concentra sulla cultura del cacao della valle di Sambirano che fa la reputazione di questa città e spezie come:
+                peperoni, citronella, caffè, 4 spezie, ecc.
+
+                Dopo la visita e il pranzo, giro nella cittadina di Ambanja per scoprire: 
+                l\'originalità e il fascino di questa città, alcune infrastrutture e luoghi pubblici.
+                Prenderemo la strada per il porto di Ankify e ci imbarcheremo su una barca per Nosy Be.
+            </p>
+
+            
+
+
+            <ul class=\"unstyled-list\">
+                <li><b>Numero di persone: </b> clienti, guida di accompagnamento, autista</li>
+                <li><b>Tipo di veicolo: </b> 4 ruote motrici spazioso, confortevole e climatizzato</li>
+            </ul>",
+            '256'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento dall\'hotel al porto</li>
+<li>4WD</li>
+<li>Alloggi a Mahamasina, Diego Suarez, Ankify</li>
+<li>Trasferimento sulla barca veloce</li>
+<li>Tutti i pranzi</li>
+<li>Guida</li>
+<li>Acqua minerale</li>
+<li>Diritti di visita</li>
+</ul>',
+            '257'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Tutte le cene</li>
+<li>Attrezzatura per lo snorkeling</li>
+<li>Attrezzatura per sport acquatici (windsurf/kitesurf)</li>
+<li>Attrezzatura per la pesca subacquea</li>
+<li>Suggerimento</li>
+</ul>',
+            '258'       => '<h3>Mini elenco necessario</h3>
+<ul>
+<li>Necessità personale</li>
+<li>Abbigliamento adatto al clima caldo, in lana o poliestere</li>
+<li>Medicina</li>
+<li>Zaino da viaggio e borsa da viaggio</li>
+<li>Luce o torcia elettrica</li>
+<li>Scarponi e pantaloni da trekking</li>
+<li>Sandali o scarpe comode</li>
+<li>Occhiali da sole</li>
+<li>Protezione solare</li>
+<li>Spray repellente per zanzare</li>
+<li>Cappello o cappuccio parasole</li>
+</ul>',
             '259'       => '',
             '260'       => '',
             '261'       => '',
@@ -7134,13 +7639,188 @@ Das ganze Jahr über
 <p>
 Dominante ethnische Gruppe der Tsimihety. Andere: Betsimisaraka, Betsileo, Merina
 </p>',
-            '252'       => '',
-            '253'       => '',
-            '254'       => '',
-            '255'       => '',
-            '256'       => '',
-            '257'       => '',
-            '258'       => '',
+            '252'       => 'Meva-Turm',
+            '253'       => '<h2>TAG 1: NOSY BE – ANKIFY – ANKARANA SONDERRESERVAT</h2>
+<p><b>Höhepunkte:</b> Landschaftstreffen mit den Bauern Tsingy Gris von Ankarana (10 Rundwege zur Auswahl im Park).</p>
+<p>
+<b>Abfahrt</b>: gegen 7:00 Uhr von Ihrem Hotel und Fahrt zum Hafen von Nosy Be,
+für einen Bootstransfer zum Hafen von Ankify in 35 Minuten.
+</p>
+
+<p Klasse="mb-4">
+Vom Hafen von Ankify aus fahren wir weiter Richtung Norden und durchqueren einerseits die typischen Dörfer der Antakarana-Stämme
+und ein riesiges Mahagonifeld auf der anderen Seite, bevor es sich der städtischen Gemeinde anschließt
+von Ambilobe durch die herrlichen Landschaften für Panoramablicke und vor allem
+Der Wald von „Ravinala“, eine der emblematischsten Pflanzen Madagaskars, ist in 2 Stunden und 30 Minuten zu erreichen.
+30 Minuten von der Stadt Ambilobe entfernt liegt Mahamasina, der Haupteingang zum Ankarana-Park.
+Nachdem wir uns eingerichtet haben, nehmen wir ein köstliches Mittagessen ein und beginnen unseren Besuch im Park.
+vom Tsingy Gris mit seinen scharfen und spektakulären Formationen, mit seinen versteinerten Tierspuren,
+die 11 Lemurenarten und die 92 Vogelarten, die in seinen Wäldern leben.
+Übernachtung in einem Bungalow in Mahamasina.
+</p>
+
+
+
+<h2>TAG 2: MAHAMASINA – TSINGY ROUGE – DIEGO SUAREZ (ANTSIRANANA)</h2>
+
+<p>
+<b>Highlights:</b>Grand Canyon in Miniatur-Tour, ehemaliges Militärdorf <br>
+<b>Besuchen Sie: </b> Grand Canyon im Miniaturformat.
+</p>
+
+<p>
+Abfahrt vom Hotel um ca. 7:30 Uhr von Mahamasina, auf der Straße nach Diego Suarez mit einem Halt in den Saphirdörfern,
+eine Möglichkeit, Edelsteine ​​zu kaufen, dann nehmen wir die Gabel
+durch üppige Landschaften zum roten Tsingy …
+Es ist Mutter Natur, die diese roten Tsingy geformt und enthüllt hat,
+Jahr für Jahr in den Augen aller. Ihre einzigartige Form und ihre
+schimmernde Farben verzaubern die Gemüter derer, die gekommen sind
+sie, sie zu besuchen. Sedimentäre Formationen aus Sandstein, Mergel,
+von Laterit und Kalkstein mit Klimawandel und Verschlechterung
+der Umwelt und das Eindringen von Wasser hat zu Eingeweiden geführt
+Aus der Erde entstand diese übernatürliche Landschaft, die weltweit einzigartig ist. Dieser Canyon offenbart
+riesige rot-ockerfarbene Formationen, die durch das Wasser entstanden sind, das durch diese Böden im Freien fließt.
+Die Mischung verschiedener Oxide verleiht diesen Kuriositäten eine
+Palette warmer Farben von strahlendem Weiß bis zu intensivem Rot.
+Unterwegs machen wir ein Picknick und nehmen die Straße in die Stadt Diego.
+</p>
+
+
+<h2>TAG 3: AMBER MOUNTAIN NATIONALPARK – DIE 3 BUCHTEN – RAMENA BEACH</h2>
+
+<p>
+<b>Highlights</b>: Nationalpark: Wasserfall, Regenwald,
+endemische Tier- und Pflanzenarten Madagaskars,
+Treffen mit den Bauern, Sakalava Bay,
+Dunes Bay und Pigeons Bay, Militärruinen, Strände.
+</p>',
+            '254'       => '<p>
+<b>Besuch A</b>: Nationalpark Montagne d’Ambre (Heiliger Wasserfall – Station Roussette – Wald der Tausend Bäume). Abfahrt vom Hotel um 7:00 Uhr, dann geht es zur Parkrezeption für eine kurze Einweisung durch den Reiseleiter und dann beginnen wir die Tour.
+
+Der Nationalpark Montagne d’Ambre erreicht eine Höhe von 1.470 Metern über dem Meeresspiegel und ist ein Wald mit reicher Flora und Fauna. Besuchen Sie die Kraterseen und heiligen Wasserfälle, die die Geschichte des Antakarana-Königreichs beherbergen, die Sanford-Lemuren, die sich in ihrer Festung vergnügen, das kleinste Chamäleon der Welt, die berühmte Brokesia, den Tarngecko Uroplatus sowie die Amphibien und endemischen Pflanzen, die in diesem Primärwald des Nordens vorkommen. Das Mittagessen wird um 11:00 Uhr vor Ort serviert.
+
+Wir verlassen Joffre Ville, um uns Diego Suarez anzuschließen. Es wird ein entspannter Nachmittag, an dem wir die drei berühmten Buchten im Norden Madagaskars besuchen.
+
+<b>Besuch B</b>: Sugarloaf – die 3 Buchten: Dunes Bay, Sakalava Bay und Pigeons Bay – Ramena Beach.
+
+Wir beginnen mit der Besichtigung des Zuckerhuts, einem heiligen Ort der Antakarana namens Nosy Lonjo. Es handelt sich um eine kleine Insel vulkanischen Ursprungs mit konischer Form, 122 Metern Höhe und einer Fläche von 4,5 Hektar. Es besteht aus Bänken aus nummulitischem Kalkstein, die vom Berg Montagne des Français losgelöst sind. Die kleine Insel ist mit einer Vegetation bedeckt, die aus den für Adansonia suarezensis typischen Affenbrotbäumen und Mangroven besteht. Nosy Lonjo ist eine malerische Naturstätte, die durch ihre kulturelle Berufung erhalten geblieben ist. Wie alle kleinen Inseln vor der Nordwestküste von Grande Terre (Madagaskar) dient sie als Begräbnisstätte für die verstorbenen Herrscher der Sakalava und ist daher heilig. Es ist auch ein Ort der Ahnenverehrung im Rahmen traditioneller „Fijoroana“-Zeremonien, die noch immer von der Bevölkerung praktiziert werden.
+
+Dann beginnen wir mit den drei Buchten, beginnend mit der Sakalava Bay, einem beliebten Ort für Windsurf- und Kitesurf-Fans, dann Dune Bay und zum Abschluss Pigeon Bay mit seinen einsamen Stränden von außergewöhnlicher Schönheit, dem Mined Cape mit den Überresten französischer Militärkanonen und Befestigungen.
+
+Wir beenden den Tag am Strand von Ramena und verbringen die Nacht in einem der dortigen Hotels.
+</p>
+
+
+
+<h2>TAG 4: RAMENA BEACH – SMARAGDGRÜNES MEER – RAMENA VILLAGE</h2>
+
+<p>
+Highlights: kristallklares Wasser, Schnorcheln, Speerfischen, Wassersport: Kitesurfen
+</p>
+
+<p>
+<p>Aktivität</p>: Besuch eines Fischerdorfes, Schnorcheln, Speerfischen, Windsurfen, Kitesurfen
+Abfahrt vom Hotel um 8:00 Uhr (je nach Gezeitenlage) zur Einschiffung auf einem traditionellen Motor- und Segelboot,
+sehr typisch für die Region.
+</p>
+
+<p>
+Das Smaragdmeer ist eine Bootsstunde vom Ramena Beach entfernt.
+Dank seines kristallklaren Wassers in faszinierendem Türkisblau ist es ein Ort von übernatürlicher Schönheit.
+Das flache Wasser in Kombination mit einem sehr klaren Sandboden, Korallenriffen mit bunten Fischen, Strandhütten, Meeresfrüchten und goldenem Sand verleihen ihm diese ganz besondere Farbe. Daher kommt auch der Name „Smaragdmeer“.  Es ist ein einsamer Strand für Wassersportler, an dem Windsurfer und Kitesurfer eine tolle Zeit haben.  Wir landen an einem paradiesischen weißen Sandstrand, an dem ein paar Bäume und Palmen für ein wenig Schatten sorgen! Ein Tag der Entspannung und Erholung beim Sonnenbaden und Schwimmen. Auch Speerfischen gehört zu den Aktivitäten, die dieses Reiseziel einzigartig machen.
+
+Mittags wird am Strand ein Picknick mit frisch gejagten Meeresfrüchten serviert.
+Rückkehr zum Strand von Ramena gegen 15:00 Uhr.
+
+Übernachtung in Ramena.
+</p>',
+            '255'       => '<h2>TAG 5: DORF RAMENA – AMBILOBE – AMBANJA /ANKIFY</h2>
+
+<p><b>Besuch</b>: Stadt Ambilobe und Umgebung</p>
+
+<p>
+
+Nach dem Frühstück nehmen wir die Straße, die die Stadt <a href="https://fr.wikipedia.org/wiki/Di%C3%A9go-Suarez" target="_blank" rel="noopener noreferrer">Diégo-Suarez </a> in Richtung der Stadt Ambilobe verlässt. Ein paar Stopps und ein kurzer Zwischenstopp in Mahamasina oder eine Pause auf dem Weg, damit wir uns ein wenig strecken können.
+
+Ambilobe ist eine sehr aktive und beliebte Stadt.
+Die Stadt ist ein wichtiger Knotenpunkt im Norden Madagaskars,
+liegt an der Nationalstraße Nr. 6, zwischen Diégo-Suarez und <a href="https://fr.wikipedia.org/wiki/Ambanja" target="_blank" rel="noopener noreferrer">Ambanja</a> (in Richtung <a href="https://fr.wikipedia.org/wiki/Nosy_Be" target="_blank" rel="noopener noreferrer">Nosy Be</a>),
+sowie auf der Straße, die zur Küstenstadt des <a href="https://fr.wikipedia.org/wiki/Oc%C3%A9an_Indienne" target="_blank" rel="noopener noreferrer">Indischen Ozeans</a> führt,
+<a href="https://fr.wikipedia.org/wiki/Voh%C3%A9mar" target="_blank" rel="noopener noreferrer">Vohémar</a>.
+Des Weiteren liegt am Lauf des Flusses <a href="https://fr.wikipedia.org/wiki/Mahavavy" target="_blank" rel="noopener noreferrer">Mahavavy</a>. Historische Stadt des Antakarana-Stammes,
+wo Prinz ISSA TSIMIARO III sitzt.
+Eine Besichtigung des Schlosses kann organisiert werden (je nach Verfügbarkeit).
+Schwerpunktmäßig auf Landwirtschaft,
+Die Stadt ist von Zuckerrohrplantagen und einer Zuckerrohrverarbeitungsfabrik umgeben: SIRAMA Ambilobe.
+Darüber hinaus beherbergt es einen wichtigen Markt für die Region.
+Heute ist ein Trend zum handwerklichen Bergbau aufgrund der Goldlagerstätte Andavakoera zu beobachten.
+Saphir von Amondromifehy und Diamantoid von Antetezambato Ambanja.
+
+Beim Besuch des Marktes lernen wir die berühmte „Kätsche“, die <a href="https://fr.wikipedia.org/wiki/Kath">Kath</a> kennen.
+qat oder kat, ist ein Strauch oder Busch (eine Art Spindelbaum) aus der Familie Celastraceae,
+stammt aus Äthiopien, dessen Anbau sich etwa im 15. Jahrhundert nach Arabien (insbesondere in den Jemen) ausbreitete.
+Es wird von Männern und Frauen in fast ganz Madagaskar konsumiert, indem sie es kauen (weiden).
+Die Blätter werden seit langem für ihre anregende und euphorisierende Wirkung geschätzt, die mit der von Amphetamin vergleichbar ist.
+
+Wir werden in Mahamasina zu Mittag essen und in einem Hotel in Ambilobe übernachten.
+</p>
+
+<h2>TAG 6: Plantagenhirse – neugierig sein</h2>
+
+<p>
+<b>Höhepunkte:</b> Besuchen Sie Ambanja, den Fluss Sambirano, eine Kakaoplantage und die Gewürze Madagaskars.
+
+Abfahrt von Ihrem Hotel gegen 7:00 Uhr und Fahrt in Richtung der Stadt Ambanja.
+Bei der Gewürzplantagen-Tour steht der Kakaoanbau im Sambirano-Tal im Mittelpunkt, der diese Stadt berühmt macht, sowie Gewürze wie:
+Paprika, Zitronengras, Kaffee, 4 Gewürze, …
+
+Nach dem Besuch und Mittagessen folgt eine Tour durch die Stadt Ambanja, bei der Sie Folgendes entdecken können:
+die Originalität und der Charme dieser Stadt, einiger Infrastrukturen und öffentlicher Plätze.
+Wir nehmen die Straße zum Hafen von Ankify und besteigen ein Boot nach Nosy Be.
+</p>
+
+
+
+
+<ul class="unstyled-list">
+<li><b>Anzahl der Passagiere:</b> Kunden, Reiseleiter, Fahrer</li>
+<li><b>Fahrzeugtyp:</b> Geräumiger, komfortabler Allradwagen mit Klimaanlage</li>
+</ul>',
+            '256'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer vom Hotel zum Hafen</li>
+<li>Allradantrieb</li>
+<li>Unterkunft in Mahamasina, Diego Suarez, Ankify</li>
+<li>Umstieg auf das Schnellboot</li>
+<li>Alle Mittagessen</li>
+<li>Anleitung</li>
+<li>Mineralwasser</li>
+<li>Besuchsrecht</li>
+</ul>',
+            '257'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Alle Abendessen</li>
+<li>Schnorchelausrüstung</li>
+<li>Wassersportausrüstung (Windsurfen/Kitesurfen)</li>
+<li>Speerfischausrüstung</li>
+<li>Tipp</li>
+</ul>',
+            '258'       => '<h3>Mini-Notwendigkeitsliste</h3>
+<ul>
+<li>Persönliche Notwendigkeit</li>
+<li>Für warmes Wetter geeignete Kleidung aus Wolle oder Polyester</li>
+<li>Medizin</li>
+<li>Handgepäck-Rucksack und Reisetasche</li>
+<li>Licht oder Taschenlampe</li>
+<li>Trekkingstiefel und -hosen</li>
+<li>Sandalen oder bequeme Schuhe</li>
+<li>Sonnenbrille</li>
+<li>Sonnenschutz</li>
+<li>Mückenschutzspray</li>
+<li>Sonnenhut oder Kapuze</li>
+</ul>',
             '259'       => '',
             '260'       => '',
             '261'       => '',
