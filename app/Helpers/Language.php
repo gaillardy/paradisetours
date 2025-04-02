@@ -314,11 +314,95 @@ We will take the road to the port of Ankify and board a boat to Nosy Be. </p>
 <li>Mosquito repellent</li>
 <li>Sunhat or hood</li>
 </ul>',
-            '259'       => '',
-            '260'       => '',
-            '261'       => '',
-            '262'       => '',
-            '263'       => '',
+            '259'       => 'THE MITSIO ARCHIPELAGO BY CATAMARAN',
+            '260'       => '<h2>Tour Description</h2>
+<p>
+Russian Bay is a must-see destination for nature and adventure lovers.
+You\'ll sail through crystal-clear waters, discover pristine beaches, and breathtaking landscapes. </p>
+<ul class="unstyled-list">
+<li><b>Visit:</b> Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, the 4 brothers</li>
+<li><b>Duration:</b> 3 days 2 nights</li>
+<li><b>Departure:</b> Nosy-Be</li>
+<li><b>Number of passengers:</b> maximum 6 guests on board</li>
+<li><b>Catamaran type:</b> Foutaine, Pajot, and Belize 43</li>
+</ul>
+
+<h4>Features</h4>
+<ul>
+<li> LAYOUT</li>
+<li> NAVIGATIONAL EQUIPMENT</li>
+<li> LEISURE EQUIPMENT</li>
+<li> CREW</li>
+<li> Length: 14m</li>
+<li> Width: 6.95m</li>
+<li> Draft: 1.20m</li>
+<li> Displacement: 8T</li>
+<li> Engine: Yanmar 2x40hp</li>
+<li> Fuel: 600L</li>
+<li> Water: Pressurized cold and hot water</li>
+<li> Desalination system</li>
+<li> Electricity: 220V</li>
+<li> Freezer and refrigerator</li>
+<li> 3 double cabins with double beds</li>
+<li> 2 shower/toilet stalls</li>
+<li> Crew cabin with bathroom</li>
+<li> Equipped galley</li>
+<li> VHF radio</li>
+<li> Radar</li>
+<li> GPS</li>
+<li> Argos beacon</li>
+<li> Spinnaker. Geenaker</li>
+<li> Computer-based navigation system</li>
+<li> Engine tender</li>
+<li> Barbecue</li>
+<li> 2 deep-sea fishing rods</li>
+<li> Skipper</li>
+<li> Sailor</li>
+<li> Cook</li>
+
+</ul>',
+            '261'       => 'Day 1: Nosy Be – Nosy Tsarabanjiana – Grand Mitsio
+Highlights: Snorkeling and the heavenly beach of Tsarabanjina, Mitsio camp
+Departure: 8:00 a.m.
+Discover the white-sand island. You\'ll enjoy the beautiful Tsarabanjiana beach to relax and swim in the turquoise sea. At noon, a typical Malagasy meal will be served. Around 3:00 p.m., the boat will take you to the island of Mitsio, where you\'ll spend the night. The evening will be enhanced by meeting the island\'s inhabitants. </p>
+
+<h2>Day 2: Grand Mitsio – Nosy Ankarea – Grand Mitsio</h2>
+
+<p>
+Visit: Organ camp, trolling, spearfishing, grilled fish lunch at noon
+</p>
+
+<p>
+Departure: 8:00 a.m.</br>
+After breakfast, head to Ankarea Island to observe basalt columns, where you will have the opportunity to go trolling. Once on the island, you will have the opportunity to go snorkeling or longline fishing. At noon, a seafood lunch will be prepared for you on site. Late afternoon, return to Mitsio Island.
+In the evening, lectures on their culture and environment will allow you to meet the locals.
+
+</p>
+
+<h2>Day 3: Grand Mitsio – The Four Brothers – Nosy Be</h2>
+
+<p>
+Visit: ospreys, eagles, dolphins, snorkeling, and relaxation <br>
+Departure at 7:00 a.m.: <br>
+Early morning departure from Grand Mitsio, passing by the Four Brothers (monolithic islands inhabited exclusively by seabirds) to observe seabirds such as ospreys and eagles. Two hours later, you will find Nosy Fanihy, a deserted island with a marvelous turquoise sea and a beautiful shell beach. You will have the opportunity to encounter ospreys and dolphins. You will spend a pleasant moment of relaxation and enjoyment along the beach. You will enjoy snorkeling on its seabed.
+At noon, a delicious lunch prepared by us will complete this day full of fun. Late afternoon, return to Nosy Be.
+
+</p>',
+            '262'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel Reception</li>
+<li>Full Board</li>
+<li>Mineral Water</li>
+<li>Snorkeling Equipment</li>
+<li>Fishing Equipment</li>
+</ul>',
+            '263'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Alcoholic Beverages</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+<li>Optional Activities</li>
+</ul>',
             '264'       => '',
             '265'       => '',
             '266'       => '',
@@ -2737,11 +2821,99 @@ Airport assistance and HAVE A GREAT FLIGHT.
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon</li>
                         </ul>',
-            '259'       => '',
-            '260'       => '',
-            '261'       => '',
-            '262'       => '',
-            '263'       => '',
+            '259'       => 'L’ARCHIPEL DE MITSIO EN CATAMARAN',
+            '260'       => '<h2>Description du Circuit</h2>
+            <p>
+                La baie des Russes est une destination incontournable pour les amateurs de nature et d\'aventure.
+                Vous naviguerez à travers des eaux cristallines,
+                découvrirez des plages immaculées et des paysages époustouflants.
+            </p>
+            <ul class="unstyled-list">
+                <li><b>Visite : </b> Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, les 4 frères</li>
+                <li><b>Durée : </b>  3 jours 2 nuits</li>
+                <li><b>Départ :</b> Nosy-Be</li>
+                <li><b>Nombre de pax : </b> maximum 6 clients à bord</li>
+                <li><b>Type Catamaran  : </b> Foutaine, Pajot, et Belize 43</li>
+            </ul>
+
+            <h4>Caractéristique</h4>
+            <ul>
+                <li> AMENAGEMENT</li>
+                <li> EQUIPEMENT DE NAVIGATION</li>
+                <li> EQUIPMENT DE LOISIR</li>
+                <li> EQUIPAGE</li>
+                <li> Longueur : 14m</li>
+                <li> Largeur : 6,95m</li>
+                <li> Tirant d’eau : 1,20m</li>
+                <li> Déplacement : 8T</li>
+                <li> Moteur : Yanmar 2*40cv</li>
+                <li> Fuel : 600L</li>
+                <li> Eau : eau froid et eau chaude sous pression</li>
+                <li> Désanilisateur</li>
+                <li> Electricité : 220 V</li>
+                <li> Congélateu et réfrigérateur</li>
+                <li> 3 cabines doubles à grand lit</li>
+                <li> 2 cabines de douche/toilettes</li>
+                <li> Cabine équipage avec cabinet de toilette</li>
+                <li> Cuisine équipée</li>
+                <li> Radio VHF</li>
+                <li> Radar</li>
+                <li> GPS</li>
+                <li> Balise Argos</li>
+                <li> Spi. Geenaker</li>
+                <li> Central de navigation sur ordinateur</li>
+                <li> Annexe moteur</li>
+                <li> Barbecue</li>
+                <li> 2 cannes de pêche au gros</li>
+                <li> Skipper</li>
+                <li> Marin</li>
+                <li> Cuisinier</li>
+
+            </ul>',
+            '261'       => '<h2>Jour 1: Nosy Be – Nosy Tsarabanjiana – Grand Mitsio</h2>
+            <p>
+                Point fort : plongée apnée et plage paradisiaque de Tsarabanjina, campement de Mitsio
+                Départ : 08h 00
+                Découverte de l’île au sable blanc. Vous profiterez de la très belle plage de TSARABANJINA pour vous adonner au farniente, vous vous baignerez dans des mers turquoise. A midi un repas typiquement malagasy, vous sera servi. Vers 15h le bateau vous amènera sur l’île de MITSIO, où vous vous installerez pour la nuit. La soirée sera agrémentée de rencontre avec les habitants de l’ile.
+            </p>
+
+            <h2>Jour 2: Grand Mitsio – Nosy Ankarea – Grand Mitsio</h2>
+
+            <p>
+                Visite: camp d’orgue, pêche à la traine, chasse sous-marine, déjeuner poisson à la grillade à midi
+            </p>
+
+            <p>
+                Départ : 8h00 </br>
+                Apres le petit déjeuner, direction vers l’île d’Ankarea pour observer des orgues basaltiques, vous aurez l’occasion de pratiquer la pêche à la traine. Une fois sur l’île, il vous sera possible de faire du snorkeling ou pêche à la palangrotte. A midi, un déjeuner à base de fruit de mer vous sera préparé sur place. Fin d’après-midi, retour à l’île de Mitsio.
+                En soirée, des conférences sur leur culture, leur environnement permettront de rencontrer les habitants.
+
+            </p>
+
+            <h2>Jour 3 : Grand Mitsio – Les 4 frères – Nosy Be</h2>
+
+            <p>
+                Visite: les aigles pêcheurs, aillerons, Dauphins, snorkeling et farniente <br>
+                Départ à 07h00 : <br>
+                Départ tôt le matin du grand Mitsio, passage à côté des Quatre frères (îles monolithiques exclusivement habitées par des oiseaux marins) afin d’observer les oiseaux marins tels que les aigles pêcheurs, aillerons. Deux heures après vous avez en face de vous Nosy Fanihy une île déserte, avec une mer turquoise merveilleuse et une belle plage de coquillages et possibilité de rencontrer des aigles pêcheurs et des Dauphins. Vous y passerez un agréable moment de relax et de plaisir le long de la plage. Vous vous donner du plaisir à faire de la plongée apnée dans son fond marin.
+                À midi un bon déjeuner préparé à nos soins pour compléter cette journée pleine de moment de plaisir. Fin d’après-midi, Retour à Nosy Be.
+
+            </p>',
+            '262'       => '<h3>Services Inclus</h3>
+                        <ul>
+                            <li>Accueil à l’hôtel</li>
+                            <li>Pension Complet</li>
+                            <li>Eau minéral</li>
+                            <li>Équipement de plongée apnée</li>
+                            <li>Équipement de pêche</li>
+                        </ul>',
+            '263'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons alcoolisées</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboires</li>
+                            <li>Activités optionnelles</li>
+                        </ul>',
             '264'       => '',
             '265'       => '',
             '266'       => '',
@@ -5285,11 +5457,99 @@ Pernottamento a Ramena.
 <li>Spray repellente per zanzare</li>
 <li>Cappello o cappuccio parasole</li>
 </ul>',
-            '259'       => '',
-            '260'       => '',
-            '261'       => '',
-            '262'       => '',
-            '263'       => '',
+            '259'       => 'L\'ARCIPELAGO MITSIO IN CATAMARANO',
+            '260'       => '<h2>Descrizione del circuito</h2>
+<p>
+Russian Bay è una meta imperdibile per gli amanti della natura e dell\'avventura.
+Navigherai attraverso acque cristalline,
+scopri spiagge incontaminate e paesaggi mozzafiato.
+</p>
+<ul class="elenco-senza-stile">
+<li><b>Visita: </b> Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, i 4 fratelli</li>
+<li><b>Durata:</b> 3 giorni 2 notti</li>
+<li><b>Partenza:</b> Nosy-Be</li>
+<li><b>Numero di passeggeri:</b> massimo 6 clienti a bordo</li>
+<li><b>Tipo di catamarano:</b> Foutaine, Pajot e Belize 43</li>
+</ul>
+
+<h4>Caratteristica</h4>
+<ul>
+<li>DISPOSIZIONE</li>
+<li>APPARECCHIATURA DI NAVIGAZIONE</li>
+<li> ATTREZZATURE PER IL TEMPO LIBERO</li>
+<li>EQUIPAGGIO</li>
+<li>Lunghezza: 14m</li>
+<li>Larghezza: 6,95 m</li>
+<li>Bozza: 1,20 m</li>
+<li>Cilindrata: 8T</li>
+<li> Motore: Yanmar 2*40hp</li>
+<li>Carburante: 600L</li>
+<li>Acqua: acqua fredda e acqua calda sotto pressione</li>
+<li>Desanilizzatore</li>
+<li>Elettricità: 220 V</li>
+<li>Congelatore e frigorifero</li>
+<li>3 cabine doppie con letti grandi</li>
+<li>2 cabine doccia/WC</li>
+Cabina equipaggio con bagno
+<li> Cucina attrezzata</li>
+<li>Radio VHF</li>
+<li>Radar</li>
+<li>GPS</li>
+<li>Faro di Argos</li>
+<li>Spi. Geenaker</li>
+<li>Centro di navigazione del computer</li>
+<li>Allegato motore</li>
+<li>Barbecue</li>
+<li>2 canne da pesca grossa</li>
+<li>Capitano</li>
+<li>Marinaio</li>
+<li>Cuoco</li>
+
+</ul>',
+            '261'       => '<h2>Giorno 1: Nosy Be – Nosy Tsarabanjiana – Grand Mitsio</h2>
+<p>
+In evidenza: snorkeling e la spiaggia paradisiaca di Tsarabanjina, campo Mitsio
+Partenza: ore 8:00.
+Scoperta dell\'isola di sabbia bianca. Potrete godervi il relax sulla splendida spiaggia di TSARABANJINA e fare il bagno in un mare turchese. A mezzogiorno vi verrà servito un pasto tipico malgascio. Verso le 15.00 la barca vi porterà all\'isola di MITSIO, dove alloggerete per la notte. La serata sarà arricchita da incontri con gli abitanti dell\'isola.
+</p>
+
+<h2>2° giorno: Grand Mitsio – Nosy Ankarea – Grand Mitsio</h2>
+
+<p>
+Visita: campo di organi, pesca a traina, pesca subacquea, pranzo a base di pesce alla griglia a mezzogiorno
+</p>
+
+<p>
+Partenza: ore 8:00.
+Dopo la colazione, dirigetevi all\'isola di Ankarea per osservare gli organi di basalto e avrete la possibilità di praticare la pesca a traina. Una volta sull\'isola, potrete fare snorkeling o pescare con palangari. A mezzogiorno vi verrà preparato sul posto un pranzo a base di pesce. Nel tardo pomeriggio, ritorno all\'isola di Mitsio.
+La sera, conferenze sulla cultura e l\'ambiente vi consentiranno di incontrare la gente del posto.
+
+</p>
+
+Giorno 3: Grand Mitsio – I 4 Fratelli – Nosy Be
+
+<p>
+Visita: aquile pescatrici, pinne, delfini, snorkeling e relax <br>
+Partenza alle ore 7:00: <br>
+Partenza di prima mattina dal grande Mitsio, passando per i Quattro Fratelli (isole monolitiche abitate esclusivamente da uccelli marini) per osservare uccelli marini come le aquile pescatrici e i fringuelli. Due ore dopo troverete Nosy Fanihy, un\'isola deserta con un meraviglioso mare turchese e una bellissima spiaggia di conchiglie, con la possibilità di incontrare falchi pescatori e delfini. Trascorrerete un piacevole momento di relax e piacere lungo la spiaggia. Potrete divertirvi facendo snorkeling nei suoi fondali marini.
+A mezzogiorno, un delizioso pranzo preparato da noi completerà questa giornata ricca di momenti di piacere. Nel tardo pomeriggio, ritorno a Nosy Be.
+
+</p>',
+            '262'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Reception dell\'hotel</li>
+<li>Pensione completa</li>
+<li>Acqua minerale</li>
+<li>Attrezzatura per lo snorkeling</li>
+<li>Attrezzatura da pesca</li>
+</ul>',
+            '263'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande alcoliche</li>
+<li>Extra personali</li>
+<li>Suggerimenti</li>
+<li>Attività facoltative</li>
+</ul>',
             '264'       => '',
             '265'       => '',
             '266'       => '',
@@ -7821,11 +8081,99 @@ Wir nehmen die Straße zum Hafen von Ankify und besteigen ein Boot nach Nosy Be.
 <li>Mückenschutzspray</li>
 <li>Sonnenhut oder Kapuze</li>
 </ul>',
-            '259'       => '',
-            '260'       => '',
-            '261'       => '',
-            '262'       => '',
-            '263'       => '',
+            '259'       => 'MIT DEM KATAMARAN ZUM MITSIO-ARCHIPEL',
+            '260'       => '<h2>Schaltkreisbeschreibung</h2>
+<p>
+Russian Bay ist ein Muss für Natur- und Abenteuerliebhaber.
+Sie segeln durch kristallklares Wasser,
+Entdecken Sie unberührte Strände und atemberaubende Landschaften.
+</p>
+<ul class="unstyled-list">
+<li><b>Besuch: </b> Nosy Tsarabanjina, Grand Mitsio, Nosy Ankarea, die 4 Brüder</li>
+<li><b>Dauer:</b> 3 Tage 2 Nächte</li>
+<li><b>Abfahrt:</b> Nosy-Be</li>
+<li><b>Anzahl der Passagiere:</b> maximal 6 Kunden an Bord</li>
+<li><b>Katamarantyp:</b> Foutaine, Pajot und Belize 43</li>
+</ul>
+
+<h4>Funktion</h4>
+<ul>
+<li>LAYOUT</li>
+<li>NAVIGATIONSAUSRÜSTUNG</li>
+<li>Freizeitausrüstung</li>
+<li>BESATZUNG</li>
+<li>Länge: 14 m</li>
+<li>Breite: 6,95 m</li>
+<li>Tiefgang: 1,20 m</li>
+<li>Hubraum: 8T</li>
+<li>Motor: Yanmar 2*40 PS</li>
+<li>Kraftstoff: 600 l</li>
+<li>Wasser: Kaltwasser und Warmwasser unter Druck</li>
+<li>Desinfektionsmittel</li>
+<li>Strom: 220 V</li>
+<li>Gefrierschrank und Kühlschrank</li>
+<li>3 Doppelkabinen mit großen Betten</li>
+<li>2 Dusch-/Toilettenkabinen</li>
+Crewkabine mit Bad
+<li>Ausgestattete Küche</li>
+<li>UKW-Radio</li>
+<li>Radar</li>
+<li>GPS</li>
+<li>Argos Beacon</li>
+<li>Spi. Geenaker</li>
+<li>Computer-Navigationszentrum</li>
+<li>Motoranhang</li>
+<li>Grillen</li>
+<li>2 Hochseeangelruten</li>
+<li>Kapitän</li>
+<li>Seemann</li>
+<li>Kochen</li>
+
+</ul>',
+            '261'       => '<h2>Tag 1: Nosy Be – Nosy Tsarabanjiana – Grand Mitsio</h2>
+<p>
+Highlight: Schnorcheln und der paradiesische Strand von Tsarabanjina, Mitsio Camp
+Abreise: 8:00 Uhr
+Entdeckung der weißen Sandinsel. Sie werden den wunderschönen Strand von TSARABANJINA genießen, um sich zu entspannen und im türkisfarbenen Meer zu baden. Mittags wird Ihnen ein typisch madagassisches Essen serviert. Gegen 15 Uhr Das Boot bringt Sie zur Insel MITSIO, wo Sie sich für die Nacht niederlassen. Der Abend wird durch Begegnungen mit den Inselbewohnern bereichert.
+</p>
+
+<h2>Tag 2: Grand Mitsio – Nosy Ankara – Grand Mitsio</h2>
+
+<p>
+Besuch: Orgellager, Trolling, Speerfischen, gegrilltes Fischessen am Mittag
+</p>
+
+<p>
+Abreise: 8:00 Uhr
+Nach dem Frühstück fahren Sie zur Insel Ankarea, um Basaltorgeln zu beobachten. Sie haben auch die Möglichkeit, sich im Schleppangeln zu üben. Sobald Sie auf der Insel sind, können Sie schnorcheln oder mit der Langleine fischen. Mittags wird vor Ort ein Meeresfrüchte-Mittagessen für Sie zubereitet. Am späten Nachmittag kehren Sie zur Insel Mitsio zurück.
+Abends haben Sie bei Konferenzen über ihre Kultur und ihre Umgebung die Möglichkeit, die Einheimischen kennenzulernen.
+
+</p>
+
+Tag 3: Grand Mitsio – Die 4 Brüder – Nosy Be
+
+<p>
+Besuchen Sie: Fischadler, Flossen, Delfine, Schnorcheln und Entspannung <br>
+Abfahrt um 7:00 Uhr: <br>
+Frühmorgens Abfahrt vom großen Mitsio, vorbei an den Vier Brüdern (monolithische Inseln, die ausschließlich von Seevögeln bewohnt werden), um Seevögel wie Fischadler und Finken zu beobachten. Zwei Stunden später erreichen Sie Nosy Fanihy, eine einsame Insel mit einem wunderbaren türkisfarbenen Meer und einem wunderschönen Muschelstrand, wo Sie möglicherweise Fischadlern und Delfinen begegnen. Sie werden einen angenehmen Moment der Entspannung und des Vergnügens am Strand verbringen. Sie werden das Schnorcheln auf dem Meeresboden genießen.
+Mittags rundet ein von uns zubereitetes leckeres Mittagessen diesen Tag voller Genussmomente ab. Am späten Nachmittag kehren Sie nach Nosy Be zurück.
+
+</p>',
+            '262'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Hotelrezeption</li>
+<li>Vollpension</li>
+<li>Mineralwasser</li>
+<li>Schnorchelausrüstung</li>
+<li>Angelausrüstung</li>
+</ul>',
+            '263'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Alkoholische Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipps</li>
+<li>Optionale Aktivitäten</li>
+</ul>',
             '264'       => '',
             '265'       => '',
             '266'       => '',
