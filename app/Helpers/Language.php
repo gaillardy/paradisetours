@@ -513,14 +513,179 @@ souvenirs.
 <li>Visa, which costs 30 euros and can be obtained upon arrival.</li>
 <li>Personal expenses, drinks, lunches, and dinners</li>
 </ul>',
-            '269'       => '',
-            '270'       => '',
-            '271'       => '',
-            '272'       => '',
-            '273'       => '',
-            '274'       => '',
-            '275'       => '',
-            '276'       => '',
+            '269'       => '<h2 class="text-center mb-5">BAOBAB SHORT STAY</h2>
+<h2>Day 1: ARRIVAL - ANTANANARIVO</h2>
+<p>
+Meet our team at the airport and, after completing all formalities and currency exchange, transfer to your hotel.
+Overnight at Meva Guest House on a bed and breakfast basis or similar.
+
+</p>
+<h2>Day 2: ANTANANARIVO – MORONDAVA</h2>
+<p><b>Visit: Baobab Alley</b></p>
+<p>
+
+The Baobab Alley is a group of baobab trees that line the dirt road between Morondava and Balai\'i Tsiribihina in the western region of Madagascar. The Baobab Alley is one of the most beautiful sites on the Big Island. A true national heritage site, not far from Morondava, is a must-see during a trip to west-central Madagascar.
+This spectacular complex is one of the most visited attractions in the region.
+You\'ll also see baobabs called lovers,
+which locals believe can bring good luck to couples.
+The most important species on the site is Adansonia grandidieri,
+which is, of course, endemic to Madagascar. The sacred baobab stands out among those lining the trail. Locals come to leave offerings and honor their ancestors.
+According to legend, the gods dislike the baobabs\' excessive pride. They decided to plant them upside down, with their roots facing upwards.
+
+</p>
+
+<h2>Day 3: MORONDAVA – BEKOPAKA - 200 km</h2>
+<h5>Visit: <strong>Kirindy Forest</strong></h5>
+<p>
+The Kirindy Forest is also home to lush flora. The baobab seems to thrive in these wetlands, as there are three varieties:
+the reniala, distinguished by its narrow gray trunk,
+the Bozy (A. rubristipa) with its bottle-shaped trunk and rounded fruits,
+and the Za (A. za) with its imposing gray trunk and oval fruits.
+Very enriching guided tours. Drive to Bekopaka on a sandy and bumpy road. Cross the Manambolo Rivers by ferry. At the end of the afternoon, you will arrive at the village of Bekopaka. Kirindy Forest is a true jewel of western Madagascar and a remnant of the primary dry forest. Located approximately 60 km from Morondava, between the Tsiribihina River to the north and the Avenue of the Baobabs to the south, it covers an area of ​​72,000 hectares. With luck, you\'ll encounter lemurs and perhaps even a few fossae at the end of the day. In 2012, an area with a restaurant, several bungalows, and trails were created in the forest to facilitate visits and species observation day and night.
+Overnight at Olympe de Bemaraha on BB or similar.
+
+</p>
+
+<h2>Day 4: MORONDAVA – ANTANARIVO</h2>
+<p>
+Fly to Antanarivo
+After breakfast, you will take a tour of the city of Antsirabe; your guide will transfer you to Morondava airport.
+Overnight at a hotel in Antanarivo.
+
+</p>',
+            '270'       => '<h3>Service included</h3>
+<ul>
+<li>Doppia camera</li>
+<li>Full pension (colazione + pranzo + dinner) during the journey</li>
+<li>Auto + fuel and autista + compensation.</li>
+<li>Local Guide</li>
+<li>Guida che vi accompanies during the visit</li>
+<li>Ingress with local guidance for everything you need to know about and the stored information.</li>
+<li>All transfers Aeroporto / hotel / aeroporto / traghetto</li>
+<li>All the cup alberghiere e turistiche</li>
+</ul>',
+            '271'       => '<h3>Services Not Included</h3>
+<ul>
+<li>International flights.</li>
+<li>Visa, which costs 30 euros and can be obtained upon arrival.</li>
+<li>Personal expenses, drinks, lunches, and dinners</li>
+<li>Flights</li>
+</ul>',
+            '272'       => '<h2 class="text-center mb-5">
+ BAOBAB TOUR full length
+ </h2>
+
+ <h2>1° day: ARRIVO-ANTANANARIVO</h2>
+ <p>
+ Check with our airport team and do all formalities, change local value, transfer
+ your accommodation.
+ Description of the Meva Guest House in BB or similar.
+ </p>
+
+ <h2>2° day: ANTANANARIVO – MIANDRIVAZO – 400 km</h2>
+ <p>
+ Colazione presto et inizi a guidare verso sud. Appena lasci l’occupata Tana,
+ You can begin to see the beautiful vista. The strade if trascinano atraverso il
+ Highland and dopo 70 km cross the village of Ambatolampy and poi
+ proseguire for Antsirabe. Appena enters the city, the street is filled with color
+ risciò. Pranzerai lì e will continue to farlo
+ Miandrivazo.
+ Notte al Princess Tsiribihina in BB o simile.
+
+ </p>
+
+ <h2>3rd day: MIANDRIVAZO - MORONDAVA - 200 km</h2>
+ <p>
+ Dopo the colazione continues our journey towards the east of Madagascar. You will entertain
+ The photo and you will see various positions to view some photos and a brief passage.
+ Arriving in Morondava in Pomeriggio, it\'s time to explore the region.
+ Pernotamento a Trecicogne o similare.
+ </p>
+
+ <h2>4th day: MORONDAVA – BEKOPAKA - 200 km</h2>
+ <p>
+ Guidi a Bekopaka on a road where there was an accident and accident and he was caught by Tsiribihina and
+ I come from Manambolo in traghetto. Alla fine del pomeriggio arriveete
+ Villaggio di Bekopaka.
+ Pernottamento all\'Olympe de Bemaraha in BB o simile.
+ </p>
+
+ <h2>5th day: PARCO NAZIONALE DI BEMARAHA</h2>
+ <p><b>Visit: Kirindy forest</b></p>
+ <p>
+
+ Return on the Stessa Road. Passing by Belo on Tsiribihina where you can.
+Lunch. Then back by ferry. If you can enjoy the song, it\'s long.
+Long route, then various routes, especially to see the Sacred Baobab, the Lovers Baobab. We arrived in Kirindy and explored the region. First dinner, you.
+Meet the night animals of the Kirindy Forest.
+Stay at the Relais de Kirindy in BB or similar.
+
+ </p>',
+            '273'       => 'Day 8: Kirindy – Morondava
+
+Visit: Some lemurs and birds
+
+Breakfast at the hotel and visit the Kirindy forest where you can see lemurs, birds, chameleons, and the "Fosa" or "Cryptoprocta ferox," an animal endemic to the island.
+Before heading to Morondava, you will have a rendezvous with the beautiful sunset over the Avenue of Baobabs.
+
+
+
+Day 9: Morondava
+
+Visit: Betania Village and Local People
+
+
+
+Breakfast at the hotel and departure to explore the village of Betania. Let yourself go
+Transported by canoe through a unique ecosystem where mangroves and crystal-clear waters take you to Betania, an authentic fishing village, where you can meet the locals and their daily lives. After the visit, return to your hotel.
+Overnight in Trecicogne on a B&B or similar.
+
+</p>
+
+<h2>Day 10: MORONDAVA – ANTSIRABE 450 km</h2>
+<p>
+Transfer to Antsirabe
+Early in the morning, head to Antsirabe via the national road. We will have lunch in Miandrivazo, one of the warmest towns on the island. Continue
+Antsirabe, arriving there in the late afternoon.
+Overnight at Soa Guest House on a B&B or similar. </p>
+
+<h2>Day 11: ANTSIRABE – ANTANARIVO</h2>
+
+<p>
+Transfer to Antanarivo
+After breakfast, you will take a city tour of Antsirabe; your guide will lead you
+to the places that make this city famous: historic sites, local factories, etc.
+You can visit several craft shops. After the city tour, depart for the capital, passing through Ambatolampy, where you will visit an aluminum pot factory.
+Overnight at the Lodge School or similar.
+</p>',
+            '274'       => 'Day 12: Departure
+
+Breakfast at the hotel and an opportunity to explore the capital, including a visit to the Queen\'s Palace,
+Independence Avenue, and the local craft market where you can buy
+souvenirs.
+
+End of our services.
+
+We say Veloma!
+
+</p>',
+            '275'       => '<h3>Included Services</h3>
+<ul>
+<li>Double room</li>
+<li>Full board (breakfast, lunch, and dinner) during the trip</li>
+<li>Car, fuel, and driver plus allowances.</li>
+<li>Local guide</li>
+<li>Guide escort during the tour</li>
+<li>Entrance fees with local guides for all the parks and reserves mentioned.</li>
+<li>All airport/hotel/airport/ferry transfers</li>
+<li>All hotel and tourist taxes</li>
+</ul>',
+            '276'       => '<h3>Services Not Included</h3>
+<ul>
+<li>International flights.</li>
+<li>Visa, which costs 30 euros and can be obtained upon arrival.</li>
+<li>Personal expenses, drinks, lunches, and dinners</li>
+</ul>',
             '277'       => '',
             '278'       => '',
             '279'       => '',
@@ -3138,14 +3303,185 @@ Airport assistance and HAVE A GREAT FLIGHT.
                             <li>Visa qui est de 30 euros et vous pouvez l’obtenir à l’arrivée.</li>
                             <li>Dépenses personnelles, boissons, déjeuners et dîners</li>
                         </ul>',
-            '269'       => '',
-            '270'       => '',
-            '271'       => '',
-            '272'       => '',
-            '273'       => '',
-            '274'       => '',
-            '275'       => '',
-            '276'       => '',
+            '269'       => '<h2 class="text-center mb-5">BAOBAB  court sejour</h2>
+            <h2>Jour 1 : ARRIVÉE-ANTANANARIVO  </h2>
+            <p>
+                Rencontrez notre équipe à l’aéroport et après toutes les formalités, changements de monnaie locale, transfert à
+                votre hôtel.
+                Nuit à Meva Guest House sur BB ou similaire.
+
+            </p>
+            <h2>Jour 2 : ANTANANARIVO – MORONDAVA </h2>
+            <p><b>Visite : Baobabs alley</b></p>
+            <p>
+            
+                L’allée des baobabs est un groupe de baobabs qui bordent la route de terre entre Morondava et Balai’i Tsiribihina dans la région occidentale de Madagascar. L’allée des Baobabs est un des plus beaux sites de la Grande Île. Véritable patrimoine national, ce lieu, non loin de Morondava, est un incontournable lors d’un voyage au centre-ouest de Madagascar. 
+                Ce complexe spectaculaire est l’une des attractions les plus visitées de la région.
+                Vous verrez aussi des baobabs appelés amoureux, 
+                qui selon les croyances des habitants peuvent porter chance aux couples. 
+                L’espèce la plus importante sur le site est Adansonia grandidieri, 
+                qui est bien sûr endémique de Madagascar. Le baobab sacré se distingue parmi ceux qui bordent la piste. Les habitants viennent déposer des offrandes et honorer leurs ancêtres.
+                Selon la légende, les dieux n’apprécient pas l’orgueil excessif des baobabs. Ils ont décidé de les planter à l’envers, avec les racines en l’air.
+
+
+            </p>
+
+
+
+            <h2>Jour 3 : MORONDAVA – BEKOPAKA - 200 km</h2>
+            <h5>Visite : <strong>Forêt de Kirindy</strong></h5>
+            <p>
+                La forêt de Kirindy abrite également une flore luxuriante. Le baobab semble apprécier ces zones humides puisqu’il existe trois variétés :
+                le reniala qui se distingue par son étroit tronc gris, 
+                le Bozy (A. Rubristipa) avec son tronc en forme de bouteille et ses fruits arrondis, 
+                et le Za (A. Za) avec son imposant tronc gris et ses fruits ovales.
+                Visites guidées très enrichissantes Conduire à Bekopaka sur une route sablonneuse et cahoteuse . Les rivières de Manambolo par un ferry. À la fin de l’après-midi, vous arriverez  au Village de Bekopaka. la forêt de Kirindy est un véritable joyau de l’ouest de Madagascar et un vestige de la forêt primaire sèche. Situé à environ 60 km de Morondava entre la rivière Tsiribihina au nord et l’allée des baobabs au sud, il couvre une superficie de 72000 ha. Avec de la chance, vous rencontrerez des lémuriens et peut-être même quelques fosses à la fin de la journée. En 2012, une zone avec un restaurant et plusieurs bungalows ainsi que des sentiers ont été créés dans la forêt pour faciliter les visites et l’observation d’espèces jour et nuit.
+                Nuit à Olympe de Bemaraha sur BB ou similaire.
+
+            </p>
+
+            <h2>Jour 4 : MORONDAVA – ANTANARIVO</h2>
+            <p>
+                Prenez un vol pour Antanarivo
+                Après le petit déjeuner, vous ferez une visite de la ville d’Antsirabe; et votre guide vous conduira vous à l’aéroport de Morondava. 
+                Nuitée à l’hôtel à Antanarivo.
+
+            </p>',
+            '270'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Chambre double </li>
+                            <li>Pension complète (petit déjeuner + déjeuner + dîner) pendant le voyage</li>
+                            <li>Voiture + carburant et conducteur + indemnités.</li>
+                            <li>Guide local </li>
+                            <li>Guide accompagnateur pendant la visite</li>
+                            <li>Frais d’entrée avec des guides locaux pour tous les parcs et réserves mentionnés.</li>
+                            <li>Tous les transferts Aéroport / hôtel / aéroport / ferry</li>
+                            <li>Toutes les taxes d’hôtel et de tourisme</li>
+                        </ul>',
+            '271'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Vols internationaux.</li>
+                            <li>Visa qui est de 30 euros et vous pouvez l’obtenir à l’arrivée.</li>
+                            <li>Dépenses personnelles, boissons, déjeuners et dîners</li>
+                            <li>Vols</li>
+                        </ul>',
+            '272'       => '<h2 class="text-center mb-5">
+            BAOBAB TOUR  long sejour
+            </h2>
+
+            <h2>Jour 1 : ARRIVÉE-ANTANANARIVO  </h2>
+            <p>
+                Rencontrez notre équipe à l’aéroport et après toutes les formalités, changements de monnaie locale, transfert à
+                votre hôtel.
+                Nuit à Meva Guest House sur BB ou similaire.
+            </p>
+
+            <h2>Jour 2 : ANTANANARIVO – MIANDRIVAZO – 400 km</h2>
+            <p>
+                Petit déjeuner tôt et vous commencez à conduire vers le sud. Dès que vous quittez Tana occupé,
+                vous pouvez commencer à profiter de la jolie vue. Les routes traînent à travers les
+                Highland et après 70 km vous passerez par le village d’Ambatolampy et puis
+                continuer jusqu’à Antsirabe. Dès que vous entrez dans la ville, les routes sont bourdonnantes de couleurs
+                pousse-pousse (rickshaws). Vous y prendrez un déjeuner et continuerez à
+                Miandrivazo.
+                Nuit à la Princesse Tsiribihina sur BB ou similaire.
+
+            </p>
+
+            <h2>Jour 3 : MIANDRIVAZO - MORONDAVA - 200km</h2>
+            <p>
+                Après le petit déjeuner, nous continuons notre voyage vers l’ouest de Madagascar. Vous apprécierez
+                le paysage et plusieurs arrêts seront faits pour prendre quelques photos et pour une petite promenade.
+                Arrivée à Morondava dans l’après-midi, vous aurez le temps d’explorer la région.
+                Nuit à Trecicogne ou similaire.
+            </p>
+
+            <h2>Jour 4 : MORONDAVA – BEKOPAKA - 200 km</h2>
+            <p>
+                Conduire à Bekopaka sur une route sablonneuse et cahoteuse et traverser la Tsiribihina et
+                Les rivières de Manambolo par un ferry. À la fin de l’après-midi, vous arriverez en
+                Bekopaka village.
+                Nuit à Olympe de Bemaraha sur BB ou similaire.
+            </p>
+
+            <h2>Jour 5 : PARC NATIONAL DE BEMARAHA</h2>
+            <p><b>Visite : Kirindy forest</b></p>
+            <p>
+            
+                Revenez sur la même route en passant par Belo sur Tsiribihina où vous aurez
+                déjeuner. Puis retour en ferry. Vous pourrez admirer le paysage le long de la
+                chemin, alors, vous aurez plusieurs arrêts notamment pour voir le baobab sacré, l’amant
+                baobab. Dès votre arrivée à Kirindy, vous pourrez explorer la région. Avant de dîner, vous
+                Rendez-vous avec les animaux nocturnes de la forêt de Kirindy.
+                Nuit au Relais de Kirindy sur BB ou similaire
+
+            </p>',
+            '273'       => '<h2>Jour 8 : KIRINDY – MORONDAVA </h2>
+
+            <p><b>Visite : Quelques lémuriens et oiseaux</b></p>
+            <p>
+            
+                Petit déjeuner à l’hôtel et vous visiterez la forêt de Kirindy où vous pourrez voir des lémuriens,
+                oiseaux, caméléons et la « Fosa » ou « cryptoprocta ferox », qui est un animal endémique dans
+                l’île. Avant de rejoindre Morondava, vous aurez rendez-vous avec la belle
+                Coucher de soleil sur l’avenue des baobabs.
+
+            </p>
+
+            <h2>Jour 9 : MORONDAVA</h2>
+            <p><b>Visite : Village de Betania et population locale</b></p>
+            <p>
+                Petit déjeuner à l’hôtel et départ pour découvrir le village de Betania. Laissez-vous aller
+                Transporté en canoë à travers un écosystème unique où mangroves et eaux cristallines vous conduisent à Betania, un authentique village de pêcheurs et de rencontrer les habitants locaux et leur vie quotidienne. Après la visite, retournez à votre hôtel.
+                Nuit à Trecicogne sur BB ou similaire.
+
+            </p>
+
+            <h2>Jour 10 : MORONDAVA – ANTSIRABE 450 km</h2>
+            <p>
+                Transfert à Antsirabe
+                Tôt le matin, direction Antsirabe par la route nationale. Nous déjeunerons à Miandrivazo qui est l’une des villes les plus chaudes de l’île. Continuation
+                Antsirabe, arrive là-bas en fin d’après-midi.
+                Nuit à Soa Guest House sur BB ou similaire.
+            </p>
+
+            <h2>Jour 11 : ANTSIRABE – ANTANARIVO</h2>
+
+            <p>
+                Transfert à Antanarivo
+                Après le petit déjeuner, vous ferez une visite de la ville d’Antsirabe; et votre guide vous conduira
+                vous vers les coins qui font la renommée de cette ville : lieux historiques, usines locales....
+                Vous pourrez visiter plusieurs boutiques d’artisanat. Après la visite de la ville, départ pour rejoindre le
+                capitale passant par Ambatolampy où vous devrez visiter de l’aluminium
+                pot d’usine.
+                Nuit à l’École Lodge ou similaire
+            </p>',
+            '274'       => '<h2>Jour 12 : DÉPART</h2>
+            <p>
+                Petit déjeuner à l’hôtel et possibilité de visiter la capitale, et visite du Palais de la Reine,
+                l’avenue de l’indépendance et le marché local d’artisanat où vous pouvez acheter
+                souvenirs.
+                Fin de nos services,
+                Nous vous disons Veloma! 
+
+            </p>',
+            '275'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Chambre double </li>
+                            <li>Pension complète (petit déjeuner + déjeuner + dîner) pendant le voyage</li>
+                            <li>Voiture + carburant et conducteur + indemnités.</li>
+                            <li>Guide local </li>
+                            <li>Guide accompagnateur pendant la visite</li>
+                            <li>Frais d’entrée avec des guides locaux pour tous les parcs et réserves mentionnés.</li>
+                            <li>Tous les transferts Aéroport / hôtel / aéroport / ferry</li>
+                            <li>Toutes les taxes d’hôtel et de tourisme</li>
+                        </ul> ',
+            '276'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Vols internationaux.</li>
+                            <li>Visa qui est de 30 euros et vous pouvez l’obtenir à l’arrivée.</li>
+                            <li>Dépenses personnelles, boissons, déjeuners et dîners</li>
+                        </ul>',
             '277'       => '',
             '278'       => '',
             '279'       => '',
@@ -5888,14 +6224,185 @@ Vi diciamo Veloma!
 <li>Visto che costa 30 euro e lo puoi ottenere all\'arrivo.</li>
 <li>Spese personali, bevande, pranzi e cene</li>
 </ul>',
-            '269'       => '',
-            '270'       => '',
-            '271'       => '',
-            '272'       => '',
-            '273'       => '',
-            '274'       => '',
-            '275'       => '',
-            '276'       => '',
+            '269'       => "<h2 class=\"text-center mb-5\">BAOBAB soggiorno breve</h2>
+Giorno 1: Arrivo - Antananarivo
+<p>
+Incontra il nostro team all'aeroporto e dopo tutte le formalità, cambio valuta locale, trasferimento a
+il tuo hotel.
+Pernottamento presso la Meva Guest House con trattamento BB o simile.
+
+</p>
+<h2>2° giorno: ANTANANARIVO – MORONDAVA </h2>
+<p><b>Visita: Baobabs Alley</b></p>
+<p>
+
+Baobab Avenue è un gruppo di baobab che costeggia la strada sterrata tra Morondava e Balai'i Tsiribihina nella regione occidentale del Madagascar. Il Viale dei Baobab è uno dei luoghi più belli della Grande Isola. Vero e proprio patrimonio nazionale, questo luogo, non lontano da Morondava, è una tappa obbligata durante un viaggio nel centro-ovest del Madagascar.
+Questo spettacolare complesso è una delle attrazioni più visitate della regione.
+Vedrai anche i baobab chiamati amanti,
+che secondo le credenze della gente del posto può portare fortuna alle coppie.
+La specie più importante del sito è Adansonia grandidieri,
+che è ovviamente endemica del Madagascar. Tra gli alberi che costeggiano il sentiero, spicca il sacro baobab. La gente del posto viene a lasciare offerte e ad onorare i propri antenati.
+Secondo la leggenda, gli dei non apprezzano l'eccessiva fierezza dei baobab. Decisero di piantarli capovolti, con le radici rivolte verso l'aria.
+
+
+</p>
+
+
+
+<h2>3° giorno: MORONDAVA – BEKOPAKA - 200 km</h2>
+<h5>Visita: <strong>Kirindy Forest</strong></h5>
+<p>
+La foresta di Kirindy ospita anche una flora rigogliosa. Il baobab sembra apprezzare queste zone umide poiché ne esistono tre varietà:
+la reniala che si distingue per il suo tronco stretto e grigio,
+il Bozy (A. Rubristipa) con il suo tronco a forma di bottiglia e i frutti tondeggianti,
+e la Za (A. Za) con il suo imponente tronco grigio e i frutti ovali.
+Visite guidate molto arricchenti. Viaggio in auto verso Bekopaka su una strada sabbiosa e dissestata. I fiumi di Manambolo in traghetto. Nel tardo pomeriggio arriverete al villaggio di Bekopaka. La foresta di Kirindy è un vero gioiello del Madagascar occidentale e una vestigia della foresta secca primaria. Situato a circa 60 km da Morondava, tra il fiume Tsiribihina a nord e il viale dei baobab a sud, si estende su una superficie di 72.000 ettari. Con un po' di fortuna, alla fine della giornata incontrerete dei lemuri e forse anche qualche fossa. Nel 2012 è stata creata nella foresta un'area con un ristorante e diversi bungalow, nonché sentieri per facilitare le visite e l'osservazione delle specie di giorno e di notte.
+Pernottamento all'Olympe de Bemaraha con trattamento BB o simile.
+
+</p>
+
+<h2>4° giorno: MORONDAVA – ANTANARIVO</h2>
+<p>
+Prendi un volo per Antanarivo
+Dopo la colazione, farete un giro della città di Antsirabe; e la vostra guida vi porterà all'aeroporto di Morondava.
+Pernottamento in hotel ad Antanarivo.
+
+</p>",
+            '270'       => "<h3>Servizi inclusi</h3>
+<ul>
+<li>Camera doppia</li>
+<li>Pensione completa (colazione + pranzo + cena) durante il viaggio</li>
+<li>Auto + carburante e autista + indennità.</li>
+<li>Guida locale</li>
+<li>Guida che vi accompagnerà durante la visita</li>
+<li>Ingresso con guida locale per tutti i parchi e le riserve menzionati.</li>
+<li>Tutti i trasferimenti Aeroporto / hotel / aeroporto / traghetto</li>
+<li>Tutte le tasse alberghiere e turistiche</li>
+</ul>",
+            '271'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Voli internazionali.</li>
+<li>Visto che costa 30 euro e lo puoi ottenere all\'arrivo.</li>
+<li>Spese personali, bevande, pranzi e cene</li>
+<li>Voli</li>
+</ul>',
+            '272'       => "<h2 class=\"text-center mb-5\">
+            BAOBAB TOUR soggiorno lungo
+            </h2>
+
+            <h2>1° giorno: ARRIVO-ANTANANARIVO</h2>
+            <p>
+                Incontro con il nostro team all'aeroporto e dopo tutte le formalità, cambio valuta locale, trasferimento
+                il tuo albergo.
+                Pernottamento alla Meva Guest House in BB o similare.
+            </p>
+
+            <h2>2° giorno: ANTANANARIVO – MIANDRIVAZO – 400 km</h2>
+            <p>
+                Colazione presto e inizi a guidare verso sud. Appena lasci l'occupata Tana,
+                puoi iniziare a goderti la bella vista. Le strade si trascinano attraverso il
+                Highland e dopo 70 km attraverserete il villaggio di Ambatolampy e poi
+                proseguire per Antsirabe. Appena entri in città, le strade si riempiono di colori
+                risciò. Pranzerai lì e continuerai a farlo
+                Miandrivazo.
+                Notte al Princess Tsiribihina in BB o simile.
+
+            </p>
+
+            <h2>3° giorno: MIANDRIVAZO - MORONDAVA - 200 km</h2>
+            <p>
+                Dopo la colazione continuiamo il nostro viaggio verso l'ovest del Madagascar. Ti divertirai
+                il paesaggio e verranno effettuate diverse soste per scattare qualche foto e per una breve passeggiata.
+                Arrivo a Morondava nel pomeriggio, avrai tempo per esplorare la regione.
+                Pernottamento a Trecicogne o similare.
+            </p>
+
+            <h2>4° giorno: MORONDAVA – BEKOPAKA - 200 km</h2>
+            <p>
+                Guidi a Bekopaka su una strada sabbiosa e accidentata e attraversi il Tsiribihina e
+                I fiumi di Manambolo in traghetto. Alla fine del pomeriggio arriverete
+                Villaggio di Bekopaka.
+                Pernottamento all'Olympe de Bemaraha in BB o simile.
+            </p>
+
+            <h2>5° giorno: PARCO NAZIONALE DI BEMARAHA</h2>
+            <p><b>Visita: foresta di Kirindy</b></p>
+            <p>
+            
+                Ritorno sulla stessa strada passando per Belo sur Tsiribihina dove avrai
+                pranzo. Quindi rientro in traghetto. Si può ammirare il paesaggio lungo la
+                Lungo il percorso, poi, farete diverse soste in particolare per vedere il sacro baobab, l'amante
+                baobab. Non appena arrivi a Kirindy, puoi esplorare la regione. Prima di cena, tu
+                Incontra gli animali notturni della foresta di Kirindy.
+                Pernottamento al Relais de Kirindy in BB o similare
+
+            </p>",
+            '273'       => "<h2>Giorno 8: KIRINDY – MORONDAVA </h2>
+
+<p><b>Visita: Alcuni lemuri e uccelli</b></p>
+<p>
+
+Colazione in hotel e visita alla foresta di Kirindy dove potrai vedere i lemuri,
+uccelli, camaleonti e la \"Fosa\" o \"cryptoprocta ferox\", che è un animale endemico dell'
+l'isola. Prima di raggiungere Morondava, incontrerete la bellissima
+Tramonto sul Viale dei Baobab.
+
+</p>
+
+Giorno 9: MORONDAVA
+<p><b>Visita: Betania Village e popolazione locale</b></p>
+<p>
+Colazione in hotel e partenza alla scoperta del villaggio di Betania. Lasciati andare
+Trasportati in canoa attraverso un ecosistema unico, dove mangrovie e acque cristalline, vi condurranno a Betania, un autentico villaggio di pescatori, dove incontrerete gli abitanti locali e la loro vita quotidiana. Dopo la visita, rientro in hotel.
+Pernottamento a Trecicogne con trattamento BB o similare.
+
+</p>
+
+<h2>10° giorno: MORONDAVA – ANTSIRABE 450 km</h2>
+<p>
+Trasferimento ad Antsirabe
+La mattina presto, dirigetevi verso Antsirabe attraverso la strada nazionale. Pranzeremo a Miandrivazo, uno dei paesi più caldi dell'isola. Continuazione
+Antsirabe arriva nel tardo pomeriggio.
+Pernottamento presso la Soa Guest House con trattamento BB o simile.
+</p>
+
+<h2>11° giorno: ANTSIRABE – ANTANARIVO</h2>
+
+<p>
+Trasferimento ad Antanarivo
+Dopo la colazione, farete un giro della città di Antsirabe; e la tua guida ti condurrà
+verso i luoghi che rendono famosa questa città: siti storici, fabbriche locali...
+È possibile visitare diversi negozi di artigianato. Dopo la visita della città, partenza per raggiungere il
+capitale passando per Ambatolampy dove dovrai visitare l'alluminio
+pentola di fabbrica.
+Pernottamento presso la Lodge School o simile
+</p>",
+            '274'       => 'Giorno 12: Partenza
+<p>
+Prima colazione in hotel e possibilità di visitare la capitale, e visita del Palazzo della Regina,
+Independence Avenue e il mercato artigianale locale dove puoi acquistare
+ricordi.
+Fine dei nostri servizi,
+Vi diciamo Veloma!
+
+</p>',
+            '275'       => "<h3>Servizi inclusi</h3>
+<ul>
+<li>Camera doppia</li>
+<li>Pensione completa (colazione + pranzo + cena) durante il viaggio</li>
+<li>Auto + carburante e autista + indennità.</li>
+<li>Guida locale</li>
+<li>Guida che vi accompagnerà durante la visita</li>
+<li>Ingresso con guida locale per tutti i parchi e le riserve menzionati.</li>
+<li>Tutti i trasferimenti Aeroporto / hotel / aeroporto / traghetto</li>
+<li>Tutte le tasse alberghiere e turistiche</li>
+</ul>",
+            '276'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Voli internazionali.</li>
+<li>Visto che costa 30 euro e lo puoi ottenere all\'arrivo.</li>
+<li>Spese personali, bevande, pranzi e cene</li>
+</ul>',
             '277'       => '',
             '278'       => '',
             '279'       => '',
@@ -8626,14 +9133,184 @@ Wir sagen Veloma zu dir!
 <li>Das Visum kostet 30 Euro und Sie erhalten es bei der Ankunft.</li>
 <li>Persönliche Ausgaben, Getränke, Mittag- und Abendessen</li>
 </ul>',
-            '269'       => '',
-            '270'       => '',
-            '271'       => '',
-            '272'       => '',
-            '273'       => '',
-            '274'       => '',
-            '275'       => '',
-            '276'       => '',
+            '269'       => '<h2 class="text-center mb-5">BAOBAB Kurzaufenthalt</h2>
+Tag 1: Ankunft - Antananarivo
+<p>
+Treffen Sie unser Team am Flughafen und nach allen Formalitäten, lokalem Geldwechsel, Transfer zum
+Ihr Hotel.
+Übernachtung im Meva Guest House mit Frühstück oder ähnlicher Ausstattung.
+
+</p>
+<h2>Tag 2: ANTANANARIVO – MORONDAVA </h2>
+<p><b>Besuch: Baobabs Alley</b></p>
+<p>
+
+Die Baobab Avenue ist eine Gruppe von Affenbrotbäumen, die die unbefestigte Straße zwischen Morondava und Balai\'i Tsiribihina im Westen Madagaskars säumen. Die Baobab-Allee ist einer der schönsten Orte auf Big Island. Dieser Ort unweit von Morondava ist ein echtes nationales Kulturerbe und ein Muss bei einer Reise in den mittleren Westen Madagaskars.
+Dieser spektakuläre Komplex ist eine der meistbesuchten Attraktionen der Region.
+Sie werden auch Baobabs sehen, die Liebhaber genannt werden,
+was Paaren nach dem Glauben der Einheimischen Glück bringen kann.
+Die wichtigste Art auf dem Gelände ist Adansonia grandidieri,
+die natürlich in Madagaskar endemisch ist. Unter den Bäumen entlang des Weges fällt der heilige Affenbrotbaum auf. Einheimische kommen, um Opfergaben niederzulegen und ihre Vorfahren zu ehren.
+Der Legende nach schätzen die Götter den übertriebenen Stolz der Affenbrotbäume nicht. Sie beschlossen, sie kopfüber einzupflanzen, mit den Wurzeln in der Luft.
+
+
+</p>
+
+
+
+<h2>Tag 3: MORONDAVA – BEKOPAKA – 200 km</h2>
+<h5>Besuchen Sie: <strong>Kirindy-Wald</strong></h5>
+<p>
+Der Kirindy-Wald ist auch die Heimat einer üppigen Flora. Der Baobab scheint diese feuchten Gebiete zu schätzen, da es drei Arten gibt:
+die Reniala, die sich durch ihren schmalen grauen Stamm auszeichnet,
+der Bozy (A. Rubristipa) mit seinem flaschenförmigen Stamm und den runden Früchten,
+und die Za (A. Za) mit ihrem imposanten grauen Stamm und den ovalen Früchten.
+Sehr bereichernde geführte Touren. Fahrt nach Bekopaka auf einer sandigen und holprigen Straße. Die Flüsse von Manambolo mit der Fähre. Am späten Nachmittag erreichen Sie das Dorf Bekopaka. Der Kirindy-Wald ist ein wahres Juwel im Westen Madagaskars und ein Überbleibsel des primären Trockenwaldes. Es liegt etwa 60 km von Morondava entfernt zwischen dem Tsiribihina-Fluss im Norden und der Affenbrotbaumallee im Süden und umfasst eine Fläche von 72.000 ha. Mit etwas Glück begegnen Sie am Ende des Tages Lemuren und vielleicht sogar einigen Fossae. Im Jahr 2012 wurden im Wald ein Bereich mit einem Restaurant und mehreren Bungalows sowie Wanderwege angelegt, um Besuche und Artenbeobachtungen bei Tag und Nacht zu ermöglichen.
+Übernachtung im Olympe de Bemaraha mit Frühstück oder ähnlicher Option.
+
+</p>
+
+<h2>Tag 4: MORONDAVA – ANTANARIVO</h2>
+<p>
+Nehmen Sie einen Flug nach Antanarivo
+Nach dem Frühstück machen Sie eine Tour durch die Stadt Antsirabe. und Ihr Reiseleiter bringt Sie zum Flughafen Morondava.
+Übernachtung im Hotel in Antanarivo.
+
+</p>',
+            '270'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Doppelkamera</li>
+<li>Volle Rente (Colazione + Pranzo + Cena) während der Reise</li>
+<li>Auto + Kraftstoff und Autista + Entschädigung.</li>
+<li>Lokaler Reiseführer</li>
+<li>Guida che vi begleitet den Besuch</li>
+<li>Ingress mit lokaler Anleitung für alles, was Sie über die gespeicherten Informationen wissen müssen.</li>
+<li>Alle Transfers Flughafen / Hotel / Flughafen / Traghetto</li>
+<li>Alle Tassen alberghiere e turistiche</li>
+</ul>',
+            '271'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Internationale Flüge.</li>
+<li>Das Visum kostet 30 Euro und Sie erhalten es bei der Ankunft.</li>
+<li>Persönliche Ausgaben, Getränke, Mittag- und Abendessen</li>
+<li>Flüge</li>
+</ul>',
+            '272'       => '<h2 class="text-center mb-5">
+BAOBAB TOUR lange Übernachtung
+</h2>
+
+<h2>1° Tag: ARRIVO-ANTANANARIVO</h2>
+<p>
+Erkundigen Sie sich bei unserem Flughafenteam und erledigen Sie alle Formalitäten, wechseln Sie den lokalen Wert, überweisen Sie
+Ihr Hotel.
+Beschreibung des Meva Guest House in BB oder ähnlich.
+</p>
+
+<h2>2° Tag: ANTANANARIVO – MIANDRIVAZO – 400 km</h2>
+<p>
+Colazione presto et inizi a guidare verso sud. Appena lasci bewohnte Tana,
+Sie können beginnen, die wunderschöne Aussicht zu sehen. Der Strade, wenn trascinano atraverso il
+Highland und Dopo 70 km durchqueren das Dorf Ambatolampy und Poi
+Folgen Sie durch Antsirabe. Appena betritt die Stadt, die Straße ist voller Farbe
+Ich habe verloren. Pranzerai lì e wird weiterhin Farlo
+Miandrivazo.
+Notte al Princess Tsiribihina in BB o Gleichnis.
+
+</p>
+
+<h2>3. Tag: MIANDRIVAZO – MORONDAVA – 200 km</h2>
+<p>
+Nach dem Abstieg geht unsere Reise weiter in Richtung Osten Madagaskars. Sie werden unterhalten
+Auf dem Foto sehen Sie einige der Fotos und einen kurzen Abschnitt aus verschiedenen Blickwinkeln.
+Wenn Sie in Morondava in Pomeriggio ankommen, ist es Zeit, die Region zu erkunden.
+Pernotamento a Trecicogne oder ähnliches.
+</p>
+
+<h2>4. Tag: MORONDAVA – BEKOPAKA – 200 km</h2>
+<p>
+Guidi a Bekopaka auf einer Straße, wo es einen Unfall und Unfall gab und er wurde von Tsiribihina gefangen und
+Ich komme aus Manambolo in Traghetto. Alla Fine del Pomeriggio ist angekommen
+Dorf Bekopaka.
+Pernottamento all\'Olympe de Bemaraha in BB o simile.
+</p>
+
+<h2>5. Tag: PARCO NAZIONALE DI BEMARAHA</h2>
+<p><b>Besuch: Kirindy-Wald</b></p>
+<p>
+
+Rückfahrt über die Stessa Road. Vorbei an Belo auf Tsiribihina, wo Sie die Möglichkeit haben.
+Mittagessen. Anschließend zurück mit der Fähre. Wenn Sie das Lied genießen können, ist es lang.
+Lange Strecke, dann verschiedene Routen, insbesondere zum Heiligen Baobab, dem Lovers Baobab. Wir kamen in Kirindy an und erkundeten die Region. Erstes Abendessen, Sie.
+Begegnen Sie den nachtaktiven Tieren des Kirindy-Waldes.
+Übernachten Sie im Relais de Kirindy mit Frühstück oder ähnlicher Ausstattung.
+
+</p>',
+            '273'       => '<h2>Tag 8: KIRINDY – MORONDAVA </h2>
+
+<p><b>Besuch: Einige Lemuren und Vögel</b></p>
+<p>
+
+Frühstück im Hotel und Sie besuchen den Kirindy-Wald, wo Sie Lemuren sehen können,
+Vögel, Chamäleons und die "Fosa" oder "Cryptoprocta ferox", ein endemisches Tier in
+die Insel. Bevor Sie Morondava erreichen, treffen Sie auf die wunderschöne
+Sonnenuntergang auf der Baobab-Allee.
+
+</p>
+
+Tag 9: Morondava
+<p><b>Besuch: Betania Village und lokale Bevölkerung</b></p>
+<p>
+Frühstück im Hotel und Abfahrt zur Erkundung des Dorfes Betania. Lass dich gehen
+Fahren Sie mit dem Kanu durch ein einzigartiges Ökosystem mit Mangroven und kristallklarem Wasser nach Betania, einem authentischen Fischerdorf, und lernen Sie die Einheimischen und ihr tägliches Leben kennen. Kehren Sie nach dem Besuch zu Ihrem Hotel zurück.
+Nacht in Trecicogne mit Frühstück oder ähnlicher Ausstattung.
+
+</p>
+
+<h2>Tag 10: MORONDAVA – ANTSIRABE 450 km</h2>
+<p>
+Transfer nach Antsirabe
+Fahren Sie frühmorgens über die Nationalstraße in Richtung Antsirabe. Wir werden in Miandrivazo zu Mittag essen, einer der wärmsten Städte der Insel. Fortsetzung
+Antsirabe, kommt dort am späten Nachmittag an.
+Übernachtung im Soa Guest House mit Frühstück oder ähnlicher Ausstattung.
+</p>
+
+<h2>Tag 11: ANTSIRABE – ANTANARIVO</h2>
+
+<p>
+Transfer nach Antanarivo
+Nach dem Frühstück machen Sie eine Tour durch die Stadt Antsirabe. und Ihr Führer wird Sie führen
+Sie zu den Orten, die diese Stadt berühmt machen: historische Stätten, lokale Fabriken ...
+Sie können mehrere Kunsthandwerksläden besuchen. Nach der Besichtigung der Stadt, Abfahrt zum
+Hauptstadt durch Ambatolampy, wo Sie Aluminium besuchen müssen
+Fabriktopf.
+Übernachtung in der Lodge School oder ähnlich
+</p>',
+            '274'       => 'Tag 12: Abreise
+<p>
+Frühstück im Hotel und Möglichkeit zur Besichtigung der Hauptstadt und des Königinnenpalastes.
+Independence Avenue und der lokale Kunsthandwerksmarkt, auf dem Sie kaufen können
+Erinnerungen.
+Ende unserer Dienstleistungen,
+Wir sagen Veloma zu dir!
+
+</p>',
+            '275'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Doppelzimmer</li>
+<li>Vollpension (Frühstück + Mittagessen + Abendessen) während der Reise</li>
+<li>Auto + Kraftstoff und Fahrer + Zulagen.</li>
+<li>Lokaler Reiseführer</li>
+<li>Reiseleiter begleitet Sie während des Besuchs</li>
+<li>Eintrittsgebühren mit lokalen Führern für alle genannten Parks und Reservate.</li>
+<li>Alle Transfers Flughafen / Hotel / Flughafen / Fähre</li>
+<li>Alle Hotel- und Tourismussteuern</li>
+</ul>',
+            '276'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Internationale Flüge.</li>
+<li>Das Visum kostet 30 Euro und Sie erhalten es bei der Ankunft.</li>
+<li>Persönliche Ausgaben, Getränke, Mittag- und Abendessen</li>
+</ul>',
             '277'       => '',
             '278'       => '',
             '279'       => '',
