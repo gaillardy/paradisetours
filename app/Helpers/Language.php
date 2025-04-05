@@ -686,11 +686,157 @@ We say Veloma!
 <li>Visa, which costs 30 euros and can be obtained upon arrival.</li>
 <li>Personal expenses, drinks, lunches, and dinners</li>
 </ul>',
-            '277'       => '',
-            '278'       => '',
-            '279'       => '',
-            '280'       => '',
-            '281'       => '',
+            '277'       => "<h2>DAY 1: ARRIVAL IN NOSY BE</h2>
+<p>
+Airport reception.
+Departure and transfer to the guest's hotel in a spacious air-conditioned car with a guide.
+Arrival at the hotel. Rest and relaxation.
+Dinner and overnight stay at the hotel in Nosy Be.
+
+</p>
+
+<h2>DAY 2: NOSY BE-ANKIFY-MAHAMASINA</h2>
+<p>
+<b>Visit:</b> Ankarana Special Reserve (Grey Tsingy – River Loss – Lemurs)
+Departure at 7:00 a.m. from the hotel by car. Afterward, a 40-minute boat transfer to Ankify. From Ankify, continue north, passing through the typical tribal villages of Antakarana and a vast mahogany field that dominates the landscape. After 2.5 hours, we'll arrive in Ambilobe, an urban town with panoramic views and the Ravinala Forest.
+Another 35-minute drive takes us to Mahamasina, the main entrance to Ankarana Park. After lunch, we'll begin our tour of the park, visiting the Tsingy Gris with its spectacular, pointed rock formations. Along the river, we can find fossilized animal tracks. Eleven species of lemurs and 92 species of birds living in the forests can also be found.
+Lunch will be served at noon. Late in the afternoon, we'll visit the village of Mahamasina.
+Dinner and overnight stay at the Mahamasina Hotel.
+
+</p>
+
+<h2>DAY 3: VISIT TO TSINGY ROUGE:</h2>
+<p>
+<b>Visit:</b> The Grand Canyon in miniature. Departure from the hotel at 7:30 a.m., heading to Diego Suarez with a stop at the sapphire villages, with the opportunity to purchase precious stones. We then head towards the Red Tsingy, passing through lush landscapes. It is Mother Nature who has shaped and revealed these red tsingy, year after year, for all to see. Their unique shape and shimmering color captivate the minds of those who come to visit them. Sedimentary formations composed of sandstone, marl, laterite, and limestone, along with climate change, environmental deterioration, and water infiltration, have given rise to this supernatural landscape, unique in the world. This canyon reveals enormous red ochre formations formed by water runoff in these open terrains. The mixture of different oxides gives these curiosities a warm palette of colors ranging from bright white to intense red. Picnic lunch along the way, and continue to Diego. Arrival at the hotel around 4:00 p.m.
+Overnight stay in a hotel in Diego Suarez.
+
+</p>
+
+<h2>DAY 4: DIEGO - 3 BAYS - DIEGO</h2>
+<p>
+THE THREE BAYS - RAMENA
+<b>Visit:</b> Sakalava Bay, Dune Bay, and Pigeon Bay (French Mountain, Camp Miné, and Ramena Beach)
+Departure from the hotel at 8:00 a.m. to see the sugarloaf-shaped island, a sacred place for the Antakarana, and to see the baobabs in the Amber Mountain.
+Afterward, we stroll around beaches surrounded by sand dunes, such as Sakalava Bay, a popular spot for windsurfers and kitesurfers.
+There are also the dune coves and Pigeon Bay, with its deserted beaches of exceptional beauty. The mined cape with its military cannon dating back to the French colonial era. Lunch at a restaurant in Ramena with the option of free time for swimming or a stroll on the beach.
+Dinner and overnight stay at a lodge in Ramena.
+
+</p>",
+            '278'       => '<h2>DAY 5: DIEGO-JOFFRE-DIEGO</h2>
+<p><b>AMBER MOUNTAIN</b></p>
+<p>
+
+Visit: Amber Mountain National Park (sacred waterfall – the resort – the forest of a thousand trees)
+Departure at 7:45 a.m., taking the road to Diego. The main entrance to Amber Mountain National Park is located 40 km south of Diego-Suarez, in Joffre Ville. At 1,470 meters above sea level, we discover an immense forest rich in flora and fauna. In addition, there are crater lakes and sacred waterfalls that bear witness to the history of the Antakarana royalty.
+
+Besides this, the primary forest of the northern island is also famous for its lemurs and the smallest chameleon in the world, called Brokesia uroplatus, the camouflage gecko. Other animals such as amphibians and endemic plants can also be found there. Lunch will be served on site at 12:00 PM.
+To end the day, head back to Diego around 3:30 PM with a short tour to discover the history of the city, Joffre Square, and the Hôtel de la Marine, which recalls the colonial era.
+Arrival at the hotel around 4:00 PM. Dinner and overnight stay at a lodge in Ramena.
+
+</p>
+
+<h2>DAY 6: DIEGO-AMBILOBE</h2>
+<p>
+Transfer from Diego to Ambilobe.
+Dinner and overnight stay at a hotel in Ambilobe.
+</p>
+
+<h2>DAY 7: AMBILOBE-ANKIFY-NOSY BE</h2>
+<p><b>TRANSFER AND COCOA PLANTATION VISIT</b></p>
+
+<p>
+
+After breakfast, depart the hotel at 6:00 a.m. for the port of Ankify. This day will be dedicated solely to the transfer to Nosy Be. Sandwiches and snacks will be available. Arriving at the port around 1:00 p.m., we have only a 30-minute motorboat ride to finally disembark in Nosy Be and drive to the hotel.
+Transfer and cocoa plantation visit en route. Dinner and overnight stay at a hotel in Nosy Be.
+
+</p>
+
+<h2>DAY 8: NOSY BE</h2>
+<p><b></b></p>
+
+<p>
+KOMBA ISLAND - TANIKELY ISLAND
+(Lemur Island and Marine Park)
+Nosy Komba is a volcanic island off the coast of Nosy Be. The village of Nosy Komba is adorned with its embroidery and wooden craft market. Nosy Komba is a sanctuary for macaque lemurs, oxtail snakes, chameleons, and various turtles.
+Nosy Tanikely is located in the northern part of Madagascar; it is a stunning marine reserve with a white beach and crystal-clear sea surrounded by a coral reef. Tanikely is an exceptional destination for snorkeling and diving. At the top of this island, a lighthouse built in 1908 offers exceptional panoramic views of Nosy Be, Nosy Komba, and Madagascar. Visits: Nosy Komba or Lemur Island, Nosy Tanikely or the Tanikely Marine Reserve.
+<br>
+Duration: One day<br>
+Departure: Port of Hell-ville Nosy Be<br>
+
+</p>',
+            '279'       => 'Tour Description
+
+Number of People: Clients, Guide, Skipper, Cook
+Boat Type: Motorboat, 22 life jackets available
+Lunch: Picnic on the beach
+Departure from Ambatoloaka Beach at 8:30 a.m., heading to Nosy Komba for a short 20-minute boat ride. Depending on the schedule, visit the craft village with its embroidery and wooden craft market. Afterward, visit the mini park where you\'ll admire the island\'s endemic species such as the famous lemur macaques, short-tailed snakes, chameleons, and various earthworms. Then, from Nosy Komba, head to Nosy Tanikely for a 15-minute drive. Tanikely is a stunning marine reserve with a white beach and crystal-clear sea surrounded by a coral reef. You can see lemurs, chameleons, and bats in its forest. In addition, the marine reserve park is also teeming with diverse marine life such as sea turtles, starfish, and clownfish. It is an ideal destination for lovers of swimming, sunbathing, relaxing, and especially snorkeling.
+Finally, at noon, hearty traditional dishes will be served with a fascinating ocean view. Return around 3:30 p.m.
+Services included: Boat transfer, seafood picnic, mineral water, and park entrance fees.
+Services not included: Drinks, personal supplement.
+Dinner and overnight stay at a hotel in Nosy Be.
+
+
+<h2>DAY 9: NOSY BE</h2>
+
+<p><b>Visit: Island Tour</b></p>
+<p>
+
+Departure at 7:45 a.m., heading to Hell Ville City. The goal is to introduce you to Nosy-Be through the culture of its inhabitants, the Sakalava, its history, and its sacred places such as the "sacred tree and its 12 lakes."
+
+In the town center, visit the main market and Hell-ville, where you\'ll discover not only the spices and fruit varieties characteristic of the local cuisine, but also the remains and history left by the colonial era. Afterward, enjoy a pleasant lunch at a restaurant on Andilana Beach with a turquoise sea view, perfect for a relaxing midday break.
+Afterward, head to Mount Passot, the second highest peak in Nosy Be, offering a 360° panoramic view not only of Nosy Be but also of the neighboring islands. It\'s the best place to watch the sunset. The wonderful walk ends with this magnificent sunset.
+Dinner and overnight stay at the hotel in Nosy Be. </p>
+
+<h2>DAY 10: NOSY BE</h2>
+<p><b>IRANJA ISLAND</b></p>
+<p>
+
+Departure from the hotel at 8:00 a.m. to IRANJA ISLAND, departing from Ambatoloaka Beach by speedboat. The journey takes 1 hour and 15 minutes.
+Once you arrive on IRANJA Island, you will be greeted by a breathtaking landscape.
+A total immersion in nature will enhance your day.
+To begin the day, two magnificent islets await you, connected
+by a 2 km long stretch of white sand. A pristine white beach is available for all your relaxation, where you can sunbathe, swim, and take a short walk to discover several varieties of ferns, all set against a turquoise blue sea. At 12:30 p.m., a delicious lunch with seafood, dishes prepared with coconuts, and seasonal fruits will be served in the shade of the coconut trees.
+Around 4:00 p.m., return to the hotel.
+
+Dinner and overnight stay at the hotel in Nosy Be.
+
+</p>
+
+<h2>DAY 11: RELAX</h2>
+<p>
+Relax
+Relax at the hotel.
+Guests are free to choose an additional excursion or shopping trip.
+Dinner and overnight stay at the hotel in Nosy Be.
+
+</p>
+
+<h2>DAY 12: DEPARTURE DAY</h2>
+<p>
+Transfer in a spacious car from your hotel to Fascene International Airport, with one of our staff accompanying you for check-out.
+
+HAVE A NICE FLIGHT
+VELOMA, MISAOTRA...
+
+</p>',
+            '280'       => '<h3>Included Services</h3>
+<ul>
+<li>Transfer from the hotel to the port: arrival and departure</li>
+<li>Accommodation: Typical bungalow in Mahamasina – Hotel in Diego Suarez and Nosy Be</li>
+<li>Spacious, air-conditioned vehicle</li>
+<li>Half-board (lunches and breakfasts)</li>
+<li>Daily mineral water</li>
+<li>Guide</li>
+<li>Local guide</li>
+<li>Park entrance fee</li>
+</ul>',
+            '281'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Dinners</li>
+<li>Dinner</li>
+<li>Drinks</li>
+<li>Personal Extras</li>
+</ul>',
             '282'       => '',
             '283'       => '',
             '284'       => '',
@@ -3482,11 +3628,174 @@ Airport assistance and HAVE A GREAT FLIGHT.
                             <li>Visa qui est de 30 euros et vous pouvez l’obtenir à l’arrivée.</li>
                             <li>Dépenses personnelles, boissons, déjeuners et dîners</li>
                         </ul>',
-            '277'       => '',
-            '278'       => '',
-            '279'       => '',
-            '280'       => '',
-            '281'       => '',
+            '277'       => '<h2>JOUR 1 : ARRIVÉE À NOSY BE</h2>
+            <p>
+                Réception à l’aéroport. 
+                Départ et transfert à l’hôtel des clients dans une voiture spacieuse climatisée avec un guide.
+                Arrivée à l’hôtel. Repos et détente.
+                Dîner et nuit à l’hôtel de Nosy Be.
+
+            </p>
+
+
+
+            <h2>JOUR 2 : NOSY BE-ANKIFY- MAHAMASINA</h2>
+            <p>
+                <b> Visite :</b> Réserve spéciale d’Ankarana (Tsingy Gris – Perte de rivière – Lémuriens)
+                Départ à 7h00 de l’hôtel en voiture.  Après cela, transfert par bateau jusqu’à Ankify pendant 40 minutes. Depuis Ankify, continuez vers le nord, en passant par les villages tribaux typiques d’Antakarana et un immense champ d’acajou qui domine le paysage. Après 2h 30 minutes, arrivée à Ambilobe -une ville urbaine avec vue panoramique et la forêt de Ravinala.
+                Un autre transfert de 35 minutes en voiture avant d’arriver à Mahamasina, l’entrée principale du parc Ankarana. Après le déjeuner sur place, nous commençons la visite du parc avec le Tsingy Gris avec ses formations rocheuses pointues et spectaculaires; le long de la rivière, nous pouvons trouver des traces d’animaux fossilisés. On peut également trouver 11 espèces de lémuriens et les 92 espèces d’oiseaux vivant dans les forêts.  
+                Le déjeuner sera servi sur place à midi. En fin d’après-midi, visite du village de Mahamasina.
+                Dîner et nuit à l’hôtel Mahamasina.
+
+            </p>
+
+            <h2>JOUR 3 : VISITE TSINGY ROUGE : </h2>
+            <p>
+                <b>Visite :</b> Le Grand Canyon en miniature.
+                Départ de l’hôtel à 7h30 en prenant la route pour Diego Suarez avec un arrêt aux villages saphir, possibilité d’acheter des pierres précieuses puis nous prenons la route vers le Rouge Tsingy à travers des paysages luxuriants... C’est Mère Nature qui a façonné et révélé ces tsingy rouges, année après année aux yeux de tous. Leur forme unique et leur couleur chatoyante enchantent les esprits de ceux qui sont venus à  leur rendre visite. Des formations sédimentaires composées de grès, de marne, de latérite et de calcaire avec le changement climatique et la détérioration de l’environnement et l’infiltration d’eau ont donné naissance aux entrailles de la terre à ce paysage surnaturel unique au monde. Ce canyon révèle d’énormes formations ocre rouge formées par le ruissellement de l’eau dans ces terrains ouverts. Le mélange de différents oxydes donne à ces curiosités un panneau de couleur chaud allant du blanc vif au rouge intense. 
+                Pique-nique le long du chemin, et continuer à Diego.
+                Arrivée à l’hôtel vers 16h.
+                Nuitée dans un hôtel à Diego Suarez.
+
+            </p>
+            
+            
+            <h2>JOUR 4 : DIEGO- 3 BAIES- DIEGO</h2>
+            <p>
+                LES TROIS BAIES – RAMENA
+                <b> Visite :</b> Baie de Sakalava, Dune Bay et Pigeon Bay (Montagne Française, Camp Miné et Ramena Beach)
+                Départ de l’hôtel à 8h pour voir l’île en forme de pain de sucre, 
+                lieu sacré pour les Antakarana et pour voir les baobabs dans la montagne d’Ambre. 
+                Après cela, nous nous promenons autour des plages entourées de dunes de sable comme la baie de Sakalava, 
+                un endroit populaire pour les windsurfers et les kite-surfeurs. 
+                Il y a aussi les criques de dunes et les pigeons avec ses plages désertes d’une beauté exceptionnelle. 
+                Le cap miné avec son canon militaire datant des colonisations françaises. Déjeuner dans un restaurant à Ramena avec une option pour le temps libre pour nager ou ballade sur la plage.
+                Dîner et nuit dans un lodge à Ramena
+
+            </p>',
+            '278'       => '<h2>JOUR 5 : DIEGO-JOFFRE-DIEGO</h2>
+            <p><b>AMBER MOUNTAIN</b></p>
+            <p>
+                
+            
+                Visite : Amber Mountain National Parc (cascade sacrée – la station – la forêt des mille arbres)
+                Départ à 7h45 en prenant la route pour Diégo. L’entrée principale du parc national de la Montagne-d’Ambre est située à 40 km au sud de Diego-Suarez, Joffre Ville. A 1470 mètres d’altitude au niveau de la mer, nous découvrons une immense forêt riche en flore et faune. En outre, il y a aussi les lacs de cratères et ses cascades sacrées qui témoignent de l’histoire de la royauté d’Antakarana,
+                En dehors de cela, la forêt primaire de l’île du nord est également célèbre pour les lémuriens, et pour le plus petit caméléon dans le monde nommé Brokesia, uroplatus le
+                Camouflage de gecko. D’autres animaux comme les amphibiens et les plantes endémiques peuvent également être trouvés là-bas. À 12:00 le déjeuner sera servi sur place.
+                Pour terminer la journée, prendre la route vers Diego vers 15h30 avec une courte visite à la découverte de l’histoire de la ville de Diego, du square Joffre et de l’hôtel de la marine qui rappelle l’époque coloniale.
+                Arrivée à l’hôtel vers 16h.
+                Dîner et nuit dans un lodge à Ramena
+
+
+            </p>
+            
+
+            <h2>JOUR 6 : DIEGO-AMBILOBE</h2>
+            <p>
+                Transfert de Diego à Ambilobe
+                Dîner et nuit dans un hôtel à Ambilobe
+            </p>
+
+            <h2>JOUR 7 : AMBILOBE-ANKIFY-NOSY BE</h2>
+            <p><b>TRANSFERT ET VISITE DE PLANTATION DE CACAO</b></p>
+
+            <p>
+                
+
+                Après le petit déjeuner, départ à 6h de l’hôtel pour rejoindre le port d’Ankify.  Cette journée sera consacrée uniquement au transfert vers Nosy Be. Des sandwichs et des collations seront disponibles. Arrivé au port vers 13h, nous n’avons que 30 minutes de bateau à moteur pour enfin débarquer à Nosy Be et conduire jusqu’à l’hôtel.
+                Transfert et plantation de cacao visist sur le chemin.
+                Dîner et nuit dans un hôtel à Nosy be.
+
+            </p>
+
+            <h2>JOUR 8 : NOSY BE</h2>
+            <p><b></b></p>
+
+            <p>
+                ÎLE KOMBA -ÎLE TANIKELY
+                (Île Lemur et le parc marin)
+                Nosy Komba est une île volcanique en face de Nosy Be. Le village de Nosy Komba est décoré par son marché de broderie et d’artisanat en bois. Nosy Komba est le sanctuaire des lémuriens macaques, des serpents à queue de boeuf, des caméléons et diverses tortues.
+                Nosy Tanikely est situé dans la partie nord de Madagascar; c’est une réserve marine étonnante avec plage blanche et une mer cristalline entourée d’un récif de corail. Tanikely est une destination exceptionnelle pour la plongée en apnée et la plongée. Au sommet de cette île, un phare construit en 1908 offre une vue panoramique exceptionnelle sur Nosy-Be, NOSY-KOMBA et Madagascar.
+                Visites : Nosy Komba ou l’île des lémuriens, Nosy Tanikely ou la réserve marine de Tanikely.
+                <br>
+                Durée : Un jour<br>
+                Départ : Port de Hell-ville Nosy Be<br>
+
+                
+
+            </p>',
+            '279'       => '<h5>Description du circuit</h5>
+            <p>
+                Nombre de personnes : Clients, Guide, Skipper, Cuisinier
+                Type de bateau : Bateau à moteur, 22 gilets de sauvetage disponibles
+                Déjeuner : pique-nique sur la plage
+                Départ de la plage d’Ambatoloaka à 8h30, direction Nosy Komba pour une courte balade en bateau de 20 minutes. Selon le calendrier, visite du village artisanal avec son marché de broderie et d’artisanat en bois. Après cela, visite du mini parc dans lequel vous apprécierez les espèces endémiques de l’île telles que les fameux macaques lémuriens, les serpents à queue courte, les caméléons et diverses tourteaux de terre. Puis, de Nosy Komba direction Nosy Tanikely pour un trajet de 15 minutes. Tanikely est une réserve marine étonnante avec une plage blanche et une mer cristalline entourée d’un récif de corail. On peut voir dans sa forêt des lémuriens, des caméléons et des chauves-souris. En outre, le parc de la réserve marine regorge également d’une vie marine diversifiée comme les tortues marines, les étoiles de mer et les poissons-clowns. Il s’agit d’une destination idéale pour les amateurs de natation, bronzage, farniente autour et en particulier pour la plongée en apnée.
+                Enfin, à midi, des plats typiques et copieux seront servis avec une vue fascinante sur l’océan. Retour vers 15h30.
+                Services inclus : Transfert en bateau, Pique-nique avec fruits de mer, Eau minérale et entrée aux parcs
+                Services non inclus : Boissons, Supplément personnel
+                Dîner et nuit dans un hôtel à Nosy be
+            </p>
+
+            <h2>JOUR 9 : NOSY BE</h2>
+            
+            <p><b>Visite : Tour de l’île</b></p>
+            <p>
+                 
+                Départ à 7h45, direction HELL VILLE CITY. Le but est de vous faire découvrir Nosy-Be à travers la culture de ses habitants « le Sakalava », son histoire et aussi ses lieux sacrés tels que « l’arbre sacré et ses 12 lacs ».
+
+                Dans le centre-ville, visitez le grand marché et Hell-ville où vous découvrirez non seulement toutes les épices et variétés de fruits qui sont caractéristiques de la cuisine locale mais aussi les vestiges et l’histoire laissés par l’ère coloniale. Après cela, un déjeuner agréable vous sera offert dans un restaurant sur la plage d’Andilana avec une vue mer turquoise qui vous accueille pour vos moments de détente à midi.
+                Après cette direction vers le mont Passot, deuxième plus haut sommet de Nosy Be offrant une vue panoramique à 360° non seulement sur Nosy Be mais aussi sur les petites îles voisines. C’est le meilleur endroit pour voir le coucher de soleil. La merveilleuse ballade se termine avec ce magnifique spectacle du coucher de soleil.
+                Dîner et nuit à l’hôtel de Nosy Be.
+            </p>
+
+            <h2>JOUR 10 : NOSY BE</h2>
+            <p><b>ÎLE IRANJA</b></p>
+            <p>
+                
+                Départ de l’hôtel à 08.00h, vers IRANJA ISLAND, depuis la plage d’Ambatoloaka en bateau rapide, le trajet dure 1 heure et 15 minutes.
+                Une fois arrivé sur l’île IRANJA, vous serez accueilli par un paysage à couper le souffle.
+                Une immersion totale dans la nature agrémentera votre journée.
+                Pour commencer la journée, 2 magnifiques îlots vous attendent qui sont reliés 
+                par un long strecch de 2 km de sable blanc. Une plage blanche et immaculée est à votre disposition pour tous vos moments de détente, où vous pourrez faire des bains de soleil, nager et petite promenade à la découverte de quelques variétés de fougères, le tout sur une mer bleu turquoise.
+                À 12h30, un bon déjeuner avec des fruits de mer, des plats préparés avec des noix de coco et des fruits de saison sera servi à l’ombre des cocotiers.
+                Vers 16h, retour à l’hôtel. </br>
+
+                Dîner et nuit à l’hôtel de Nosy Be.      
+            </p>
+
+            <h2>JOUR 11 : RELAX</h2>
+            <p>
+                Détendez-vous
+                Détendez-vous à l’hôtel.
+                Les clients sont libres de choisir une excursion ou un shopping qui sera supplémentaire.
+                Dîner et nuit à l’hôtel de Nosy Be.
+            </p>
+
+            <h2>JOUR 12 : JOUR DE DÉPART</h2>
+            <p>
+                Transfert avec une voiture spacieuse de votre hôtel à l’aéroport international de Fascene avec un de nos employés vous accompagnant pour le check- out.
+
+                BON VOL
+                VELOMA, MISAOTRA...
+            </p>',
+            '280'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel au port: arrivée et départ</li>
+                            <li>Hébergement : Bungalow typique à Mahamasina – Hôtel à Diego Suarez et Nosy Be</li>
+                            <li>Véhicule Spacieux et climatisé, avec climatisation </li>
+                            <li>Demi-pension (déjeuners et petits déjeuners)</li>
+                            <li>Chaque jour, l’eau minérale</li>
+                            <li>Guide d’accompagnement</li>
+                            <li>Guide local</li>
+                            <li>Entrée au parc</li>
+                        </ul>',
+            '281'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Dîners</li>
+                            <li>Dîner</li>
+                            <li>Boissons</li>
+                            <li>Extras à caractères personnels</li>
+                        </ul>',
             '282'       => '',
             '283'       => '',
             '284'       => '',
@@ -6403,11 +6712,174 @@ Vi diciamo Veloma!
 <li>Visto che costa 30 euro e lo puoi ottenere all\'arrivo.</li>
 <li>Spese personali, bevande, pranzi e cene</li>
 </ul>',
-            '277'       => '',
-            '278'       => '',
-            '279'       => '',
-            '280'       => '',
-            '281'       => '',
+            '277'       => "<h2>GIORNO 1: ARRIVO A NOSY BE</h2>
+<p>
+Accoglienza in aeroporto.
+Partenza e trasferimento all'hotel dei clienti in una spaziosa auto climatizzata con guida.
+Arrivo in hotel. Riposo e relax.
+Cena e pernottamento in hotel a Nosy Be.
+
+</p>
+
+
+
+<h2>GIORNO 2: NOSY BE-ANKIFY-MAHAMASINA</h2>
+<p>
+<b>Visita:</b> Riserva speciale di Ankarana (Tsingy grigi – River Loss – Lemuri)
+Partenza alle ore 7:00 dall'hotel in auto.  Successivamente, trasferimento in barca ad Ankify per 40 minuti. Da Ankify, si prosegue verso nord, attraversando i tipici villaggi tribali di Antakarana e un immenso campo di mogano che domina il paesaggio. Dopo 2 ore e 30 minuti, arrivo ad Ambilobe, una cittadina urbana con vista panoramica e la foresta di Ravinala.
+Altri 35 minuti di viaggio prima di arrivare a Mahamasina, l'ingresso principale del Parco Ankarana. Dopo il pranzo in loco, iniziamo la visita del parco con lo Tsingy Gris con le sue formazioni rocciose aguzze e spettacolari; Lungo il fiume possiamo trovare tracce di animali fossilizzati. Nelle foreste vivono anche 11 specie di lemuri e 92 specie di uccelli.
+Il pranzo verrà servito in loco a mezzogiorno. Nel tardo pomeriggio, visita al villaggio di Mahamasina.
+Cena e pernottamento al Mahamasina Hotel.
+
+</p>
+
+<h2>GIORNO 3: VISITA A TSINGY ROUGE: </h2>
+<p>
+<b>Visita:</b> Il Grand Canyon in miniatura.
+Partenza dall'hotel alle 7:30, prendendo la strada per Diego Suarez con una sosta ai villaggi degli zaffiri, possibilità di acquistare pietre preziose, poi si prende la strada per gli Tsingy Rossi attraverso paesaggi lussureggianti... È Madre Natura che anno dopo anno ha plasmato e svelato questi tsingy rossi agli occhi di tutti. La loro forma unica e i loro colori scintillanti incantano la mente di chi viene a visitarli. Formazioni sedimentarie composte da arenaria, marna, laterite e calcare, insieme al cambiamento climatico, al degrado ambientale e alle infiltrazioni d'acqua, hanno dato origine a questo paesaggio soprannaturale unico al mondo, proveniente dalle profondità della terra. Questo canyon rivela enormi formazioni color ocra rosso, formatesi a causa del deflusso delle acque in questi terreni aperti. La miscela di diversi ossidi conferisce a queste curiosità una gamma di colori caldi, che vanno dal bianco brillante al rosso intenso.
+Picnic lungo il percorso e proseguimento per Diego.
+Arrivo in hotel verso le 16.00.
+Pernottamento in un hotel a Diego Suarez.
+
+</p>
+
+
+<h2>GIORNO 4: DIEGO- 3 BAIE- DIEGO</h2>
+<p>
+LE TRE BACCHE – RAMENA
+<b>Visita:</b> Sakalava Bay, Dune Bay e Pigeon Bay (French Mountain, Camp Miné e Ramena Beach)
+Partenza dall'hotel alle 8:00 per vedere l'isola a forma di pan di zucchero,
+luogo sacro per gli Antakarana e per vedere i baobab nella Montagna d'Ambra.
+Dopo di che cammineremo lungo le spiagge circondate da dune di sabbia come la baia di Sakalava,
+un luogo popolare per gli amanti del windsurf e del kitesurf.
+Ci sono poi le calette dunali e la Playa de los Picos con le sue spiagge deserte di eccezionale bellezza.
+Il promontorio minato con i suoi cannoni militari risalenti alle colonizzazioni francesi. Pranzo in un ristorante a Ramena con possibilità di tempo libero per nuotare o fare una passeggiata sulla spiaggia.
+Cena e pernottamento in un lodge a Ramena
+
+</p>",
+            '278'       => "<h2>GIORNO 5: DIEGO-JOFFRE-DIEGO</h2>
+<p><b>MONTAGNA D'AMBRA</b></p>
+<p>
+
+
+Visita: Parco nazionale della Montagna d'Ambra (cascata sacra – il resort – la foresta dei mille alberi)
+Partenza alle ore 7:45, prendendo la strada per Diego. L'ingresso principale del Parco Nazionale Montagne-d'Ambre si trova a 40 km a sud di Diego-Suarez, Joffre Ville. A 1470 metri sul livello del mare, scopriamo un'immensa foresta ricca di flora e fauna. A ciò si aggiungono i laghi del cratere e le sue cascate sacre che testimoniano la storia della regalità di Antakarana,
+Oltre a questo, la foresta primaria dell'Isola del Nord è famosa anche per i lemuri e per il più piccolo camaleonte del mondo chiamato Brokesia, uroplatus
+Mimetizzazione del geco. Vi si possono trovare anche altri animali, come anfibi e piante endemiche. Alle 12:00 verrà servito il pranzo in loco.
+Per concludere la giornata, verso le 15:30, prendete la strada per Diego. con una breve visita alla scoperta della storia della città di Diego, della piazza Joffre e dell'Hotel Marine che ricorda l'epoca coloniale.
+Arrivo in hotel verso le 16.00.
+Cena e pernottamento in un lodge a Ramena
+
+
+</p>
+
+
+<h2>GIORNO 6: DIEGO-AMBILOBE</h2>
+<p>
+Trasferimento da Diego ad Ambilobe
+Cena e pernottamento in un hotel ad Ambilobe
+</p>
+
+<h2>GIORNO 7: AMBILOBE-ANKIFY-NOSY BE</h2>
+<p><b>TRASFERIMENTO E VISITA A UNA PIANTAGIONE DI CACAO</b></p>
+
+<p>
+
+
+Dopo la colazione, partenza alle ore 6.00 dall'hotel per raggiungere il porto di Ankify.  Questa giornata sarà dedicata esclusivamente al trasferimento a Nosy Be. Saranno disponibili panini e spuntini. Arrivati ​​al porto verso le 13:00, abbiamo solo 30 minuti di motoscafo per sbarcare definitivamente a Nosy Be e raggiungere l'hotel in auto.
+Trasferimento e visita alla piantagione di cacao durante il tragitto.
+Cena e pernottamento in un hotel a Nosy Be.
+
+</p>
+
+<h2>GIORNO 8: NOSY BE</h2>
+<p><b></p>
+
+<p>
+ISOLA DI KOMBA - ISOLA DI TANIKELY
+(Isola dei Lemuri e Parco Marino)
+Nosy Komba è un'isola vulcanica di fronte a Nosy Be. Il villaggio di Nosy Komba è impreziosito dal mercato dei ricami e dell'artigianato del legno. Nosy Komba è un santuario per lemuri macachi, serpenti dalla coda di bue, camaleonti e varie tartarughe.
+Nosy Tanikely si trova nella parte settentrionale del Madagascar; Si tratta di una meravigliosa riserva marina con una spiaggia bianca e un mare cristallino, circondata da una barriera corallina. Tanikely è una destinazione eccezionale per lo snorkeling e le immersioni. Sulla cima dell'isola, un faro costruito nel 1908 offre una vista panoramica eccezionale su Nosy-Be, NOSY-KOMBA e il Madagascar.
+Visite: Nosy Komba o l'isola dei lemuri, Nosy Tanikely o la riserva marina di Tanikely.
+<br>
+Durata: Un giorno<br>
+Partenza: Porto di Hell-ville Nosy Be<br>
+
+
+
+</p>",
+            '279'       => "<h5>Descrizione del circuito</h5>
+<p>
+Numero di persone: Clienti, Guida, Skipper, Cuoco
+Tipo di barca: Motoscafo, 22 giubbotti di salvataggio disponibili
+Pranzo: pic-nic in spiaggia
+Partenza dalla spiaggia di Ambatoloaka alle 8:30, direzione Nosy Komba per una breve escursione in barca di 20 minuti. Seguendo il programma, visita al villaggio artigianale con il suo mercato di ricami e oggetti artigianali in legno. Successivamente, visitate il mini parco dove potrete ammirare le specie endemiche dell'isola, come i famosi lemuri macachi, i serpenti dalla coda corta, i camaleonti e vari tipi di terra. Poi, da Nosy Komba dirigetevi verso Nosy Tanikely per un viaggio di 15 minuti. Tanikely è una meravigliosa riserva marina con una spiaggia bianca e un mare cristallino, circondata da una barriera corallina. Nella sua foresta si possono vedere lemuri, camaleonti e pipistrelli. Inoltre, il parco della riserva marina è ricco di una fauna marina molto varia, come tartarughe marine, stelle marine e pesci pagliaccio. È una meta ideale per gli amanti del nuoto, della tintarella, del relax e soprattutto dello snorkeling.
+Infine, a mezzogiorno, verranno serviti piatti tipici e sostanziosi, con una vista affascinante sull'oceano. Rientro verso le 15:30.
+Servizi inclusi: Trasferimento in barca, Picnic con frutti di mare, Acqua minerale e ingresso ai parchi
+Servizi non inclusi: Bevande, Supplemento personale
+Cena e pernottamento in hotel a Nosy Be
+</p>
+
+<h2>GIORNO 9: NOSY BE</h2>
+
+<p><b>Visita: Tour dell'isola</b></p>
+<p>
+
+Partenza alle ore 7:45, direzione HELL VILLE CITY. L'obiettivo è quello di farvi scoprire Nosy-Be attraverso la cultura dei suoi abitanti \"i Sakalava\", la sua storia e anche i suoi luoghi sacri come \"l'albero sacro e i suoi 12 laghi\".
+
+Nel centro della città, visitate il grande mercato e Hell-ville, dove scoprirete non solo tutte le spezie e le varietà di frutta caratteristiche della cucina locale, ma anche le vestigia e la storia lasciate dall'epoca coloniale. Dopodiché vi verrà offerto un piacevole pranzo in un ristorante sulla spiaggia di Andilana, con vista sul mare turchese, che vi accoglierà per i vostri momenti di relax a mezzogiorno.
+Proseguite poi verso il Monte Passot, la seconda cima più alta di Nosy Be, che offre una vista panoramica a 360° non solo su Nosy Be ma anche sulle piccole isole vicine. Questo è il posto migliore per ammirare il tramonto. La meravigliosa passeggiata si conclude con lo spettacolo magnifico del tramonto.
+Cena e pernottamento in hotel a Nosy Be.
+</p>
+
+<h2>GIORNO 10: NOSY BE</h2>
+<p><b>ISOLA DI IRANJA</b></p>
+<p>
+
+Partenza dall'hotel alle ore 08:00, verso l'ISOLA DI IRANJA, dalla spiaggia di Ambatoloaka in motoscafo, il viaggio dura 1 ora e 15 minuti.
+Una volta arrivati ​​sull'isola di IRANJA, sarete accolti da un paesaggio mozzafiato.
+Un'immersione totale nella natura renderà la vostra giornata ancora più indimenticabile.
+Per iniziare la giornata vi aspettano 2 magnifici isolotti collegati tra loro
+da una distesa di sabbia bianca lunga 2 km. Una spiaggia bianca incontaminata è a vostra disposizione per tutti i vostri momenti di relax, dove potrete prendere il sole, nuotare e fare una breve passeggiata alla scoperta di alcune varietà di felci, il tutto su un mare blu turchese.
+Alle 12:30, all'ombra delle palme da cocco, verrà servito un delizioso pranzo a base di frutti di mare, piatti preparati con cocco e frutta di stagione.
+Verso le 16:00, rientro in hotel. </br>
+
+Cena e pernottamento in hotel a Nosy Be.
+</p>
+
+<h2>GIORNO 11: RELAX</h2>
+<p>
+Relax
+Rilassatevi in ​​hotel.
+Gli ospiti sono liberi di scegliere un'escursione o una giornata di shopping aggiuntiva.
+Cena e pernottamento in hotel a Nosy Be.
+</p>
+
+<h2>GIORNO 12: GIORNO DELLA PARTENZA</h2>
+<p>
+Trasferimento in auto spaziosa dal vostro hotel all'aeroporto internazionale di Fascene, con un membro del nostro staff che vi accompagnerà per il check-out.
+
+BUON VOLO
+VELOMA, MISAOTRA...
+</p>",
+            '280'       => "<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento dall'hotel al porto: arrivo e partenza</li>
+<li>Sistemazione: Bungalow tipico a Mahamasina – Hotel a Diego Suarez e Nosy Be</li>
+<li>Veicolo spazioso e climatizzato, con aria condizionata</li>
+<li>Mezza pensione (pranzi e colazioni)</li>
+<li>Ogni giorno, acqua minerale</li>
+<li>Guida di accompagnamento</li>
+<li>Guida locale</li>
+<li>Ingresso del parco</li>
+</ul>",
+            '281'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Cene</li>
+<li>Cena</li>
+<li>Bevande</li>
+<li>Extra personali</li>
+</ul>',
             '282'       => '',
             '283'       => '',
             '284'       => '',
@@ -9311,11 +9783,174 @@ Wir sagen Veloma zu dir!
 <li>Das Visum kostet 30 Euro und Sie erhalten es bei der Ankunft.</li>
 <li>Persönliche Ausgaben, Getränke, Mittag- und Abendessen</li>
 </ul>',
-            '277'       => '',
-            '278'       => '',
-            '279'       => '',
-            '280'       => '',
-            '281'       => '',
+            '277'       => '<h2>TAG 1: ANKUNFT IN NOSY BE</h2>
+<p>
+Empfang am Flughafen.
+Abfahrt und Transfer zum Hotel des Kunden in einem geräumigen, klimatisierten Auto mit einem Reiseleiter.
+Ankunft im Hotel. Ruhe und Entspannung.
+Abendessen und Übernachtung im Hotel in Nosy Be.
+
+</p>
+
+
+
+<h2>TAG 2: NOSY BE-ANKIFY-MAHAMASINA</h2>
+<p>
+<b>Besuchen Sie:</b> Ankarana-Sonderreservat (Graue Tsingy – Flussmakis – Lemuren)
+Abfahrt um 7:00 Uhr vom Hotel mit dem Auto.  Anschließend erfolgt die 40-minütige Bootsfahrt nach Ankify. Von Ankify aus geht es weiter nach Norden, vorbei an den typischen Stammesdörfern von Antakarana und einem riesigen Mahagonifeld, das die Landschaft dominiert. Nach 2 Stunden und 30 Minuten Ankunft in Ambilobe – einer urbanen Stadt mit Panoramablick und dem Ravinala-Wald.
+Noch 35 Minuten Fahrt bis zur Ankunft in Mahamasina, dem Haupteingang zum Ankarana-Park. Nach dem Mittagessen vor Ort beginnen wir den Besuch des Parks mit den Tsingy Gris mit ihren scharfen und spektakulären Felsformationen; Entlang des Flusses finden wir Spuren versteinerter Tiere. In den Wäldern leben außerdem 11 Lemurenarten und 92 Vogelarten.
+Das Mittagessen wird mittags vor Ort serviert. Am späten Nachmittag besuchen Sie das Dorf Mahamasina.
+Abendessen und Übernachtung im Mahamasina Hotel.
+
+</p>
+
+<h2>TAG 3: BESUCH VON TSINGY ROUGE: </h2>
+<p>
+<b>Besuchen Sie:</b> Den Grand Canyon im Miniaturformat.
+Abfahrt vom Hotel um 7:30 Uhr, Fahrt nach Diego Suarez mit einem Halt in den Saphirdörfern, Möglichkeit zum Kauf von Edelsteinen, dann Fahrt durch üppige Landschaften zu den Roten Tsingy... Es ist Mutter Natur, die diese roten Tsingy geformt und Jahr für Jahr für alle sichtbar freigelegt hat. Ihre einzigartige Form und schimmernde Farbe verzaubern die Gemüter derer, die sie besuchen. Sedimentformationen aus Sandstein, Mergel, Laterit und Kalkstein sowie Klimawandel, Umweltzerstörung und Wasserinfiltration haben aus den Tiefen der Erde diese weltweit einzigartige, übernatürliche Landschaft entstehen lassen. Dieser Canyon weist enorme rot-ockerfarbene Formationen auf, die durch das Abfließen von Wasser in diesen offenen Geländen entstanden sind. Durch die Mischung verschiedener Oxide erhalten diese Kuriositäten eine warme Farbpalette von strahlendem Weiß bis zu intensivem Rot.
+Picknick unterwegs und weiter nach Diego.
+Ankunft im Hotel gegen 16 Uhr.
+Übernachtung im Hotel in Diego Suarez.
+
+</p>
+
+
+<h2>TAG 4: DIEGO – 3 BUCHTEN – DIEGO</h2>
+<p>
+DIE DREI BEEREN – RAMENA
+<b>Besuchen Sie:</b> Sakalava Bay, Dune Bay und Pigeon Bay (French Mountain, Camp Miné und Ramena Beach)
+Abfahrt vom Hotel um 8 Uhr, um die zuckerhutförmige Insel zu besichtigen,
+heiliger Ort für die Antakarana und um die Affenbrotbäume im Montagne d\'Ambre zu sehen.
+Danach spazieren wir an den von Sanddünen umgebenen Stränden wie der Sakalava Bay entlang,
+ein beliebter Ort für Windsurfer und Kitesurfer.
+Außerdem gibt es die Dünenbuchten und die Taubenbuchten mit ihren einsamen Stränden von außergewöhnlicher Schönheit.
+Das verminte Kap mit seinen Militärkanonen stammt aus der Zeit der französischen Kolonialisierung. Mittagessen in einem Restaurant in Ramena mit der Option auf Freizeit zum Schwimmen oder für einen Spaziergang am Strand.
+Abendessen und Übernachtung in einer Lodge in Ramena
+
+</p>',
+            '278'       => '<h2>TAG 5: DIEGO-JOFFRE-DIEGO</h2>
+<p><b>BERNSTEINBERG</b></p>
+<p>
+
+
+Besuchen Sie: Amber Mountain National Park (heiliger Wasserfall – das Resort – der Wald der tausend Bäume)
+Abfahrt um 7:45 Uhr, Richtung Diego. Der Haupteingang zum Nationalpark Montagne-d’Ambre liegt 40 km südlich von Diego-Suarez, Joffre Ville. Auf 1470 Metern über dem Meeresspiegel entdecken wir einen riesigen Wald mit einer reichen Flora und Fauna. Darüber hinaus gibt es auch die Kraterseen und ihre heiligen Wasserfälle, die von der Geschichte des Königshauses von Antakarana zeugen.
+Abgesehen davon ist der Primärwald der Nordinsel auch berühmt für Lemuren und für das kleinste Chamäleon der Welt namens Brokesia, Uroplatus, das
+Gecko-Tarnung. Auch andere Tiere wie Amphibien und endemische Pflanzen sind dort zu finden. Um 12:00 Uhr wird vor Ort ein Mittagessen serviert.
+Um den Tag ausklingen zu lassen, nehmen Sie gegen 15:30 Uhr die Straße nach Diego. mit einem kurzen Besuch zur Entdeckung der Geschichte der Stadt Diego, des Joffre Square und des Marine Hotels, das an die Kolonialzeit erinnert.
+Ankunft im Hotel gegen 16 Uhr.
+Abendessen und Übernachtung in einer Lodge in Ramena
+
+
+</p>
+
+
+<h2>TAG 6: DIEGO-AMBILOBE</h2>
+<p>
+Transfer von Diego nach Ambilobe
+Abendessen und Übernachtung in einem Hotel in Ambilobe
+</p>
+
+<h2>TAG 7: AMBILOBE-ANKIFY-NOSY BE</h2>
+<p><b>TRANSFER UND BESUCH EINER KAKAOPLANTAGE</b></p>
+
+<p>
+
+
+Nach dem Frühstück Abfahrt um 6 Uhr vom Hotel zum Hafen von Ankify.  Dieser Tag ist ausschließlich dem Transfer nach Nosy Be gewidmet. Es stehen Sandwiches und Snacks zur Verfügung. Gegen 13 Uhr im Hafen angekommen, haben wir nur noch 30 Minuten mit dem Motorboot Zeit, um schließlich in Nosy Be von Bord zu gehen und zum Hotel zu fahren.
+Transfer und Besuch einer Kakaoplantage unterwegs.
+Abendessen und Übernachtung in einem Hotel in Nosy Be.
+
+</p>
+
+<h2>TAG 8: NOSY BE</h2>
+<p><b></b></p>
+
+<p>
+KOMBA-INSEL - TANIKELY-INSEL
+(Lemur Island und Meerespark)
+Nosy Komba ist eine Vulkaninsel gegenüber von Nosy Be. Das Dorf Nosy Komba ist durch seinen Markt für Stickereien und Holzhandwerk geschmückt. Nosy Komba ist ein Schutzgebiet für Makaken, Ochsenschwanznattern, Chamäleons und verschiedene Schildkrötenarten.
+Nosy Tanikely liegt im nördlichen Teil Madagaskars; Es ist ein erstaunliches Meeresschutzgebiet mit einem weißen Strand und kristallklarem Meer, umgeben von einem Korallenriff. Tanikely ist ein außergewöhnliches Ziel zum Schnorcheln und Tauchen. Auf der Spitze dieser Insel bietet ein 1908 erbauter Leuchtturm einen außergewöhnlichen Panoramablick auf Nosy-Be, NOSY-KOMBA und Madagaskar.
+Besuche: Nosy Komba oder die Insel der Lemuren, Nosy Tanikely oder das Meeresschutzgebiet Tanikely.
+<br>
+Dauer: Ein Tag<br>
+Abfahrt: Hafen von Hell-Ville Nosy Be<br>
+
+
+
+</p>',
+            '279'       => '<h5>Schaltkreisbeschreibung</h5>
+<p>
+Anzahl der Personen: Kunden, Guide, Skipper, Koch
+Bootstyp: Motorboot, 22 Schwimmwesten vorhanden
+Mittagessen: Picknick am Strand
+Abfahrt vom Strand Ambatoloaka um 8:30 Uhr in Richtung Nosy Komba für eine kurze 20-minütige Bootsfahrt. Besuchen Sie gemäß Zeitplan das Handwerkerdorf mit seinem Stickerei- und Holzhandwerksmarkt. Besuchen Sie anschließend den Minipark, wo Sie die endemischen Arten der Insel bewundern können, wie die berühmten Lemuren, Kurzschwanzschlangen, Chamäleons und verschiedene Erdkuchen. Von Nosy Komba aus fahren Sie dann 15 Minuten in Richtung Nosy Tanikely. Tanikely ist ein erstaunliches Meeresschutzgebiet mit einem weißen Strand und kristallklarem Meer, umgeben von einem Korallenriff. In seinem Wald können Sie Lemuren, Chamäleons und Fledermäuse sehen. Darüber hinaus wimmelt es im Meeresschutzgebiet von vielfältigen Meereslebewesen wie Meeresschildkröten, Seesternen und Clownfischen. Es ist ein ideales Reiseziel für Liebhaber des Schwimmens, Sonnenbadens, Entspannens und insbesondere des Schnorchelns.
+Mittags werden schließlich typische und herzhafte Gerichte mit einem faszinierenden Blick auf das Meer serviert. Rückkehr gegen 15:30 Uhr.
+Inkludierte Leistungen: Bootstransfer, Picknick mit Meeresfrüchten, Mineralwasser und Eintritt in die Parks
+Nicht enthaltene Leistungen: Getränke, Persönlicher Zuschlag
+Abendessen und Übernachtung in einem Hotel in Nosy Be
+</p>
+
+<h2>TAG 9: NOSY BE</h2>
+
+<p><b>Besuch: Inseltour</b></p>
+<p>
+
+Abfahrt um 7:45 Uhr Richtung HELL VILLE CITY. Ziel ist es, Ihnen dabei zu helfen, Nosy-Be durch die Kultur seiner Bewohner „die Sakalava“, seine Geschichte und auch seine heiligen Orte wie „den heiligen Baum und seine 12 Seen“ zu entdecken.
+
+Besuchen Sie im Stadtzentrum den großen Markt und Hell-ville, wo Sie nicht nur alle Gewürze und Obstsorten entdecken, die für die lokale Küche charakteristisch sind, sondern auch die Überreste und die Geschichte der Kolonialzeit. Anschließend wird Ihnen ein angenehmes Mittagessen in einem Restaurant am Strand von Andilana mit türkisfarbenem Meerblick angeboten, das Sie zu Ihren entspannten Mittagsmomenten einlädt.
+Danach geht es weiter in Richtung Mount Passot, dem zweithöchsten Gipfel von Nosy Be, der einen 360°-Panoramablick nicht nur auf Nosy Be, sondern auch auf die kleinen Nachbarinseln bietet. Dies ist der beste Ort, um den Sonnenuntergang zu sehen. Mit diesem grandiosen Schauspiel des Sonnenuntergangs endet der wunderbare Spaziergang.
+Abendessen und Übernachtung im Hotel in Nosy Be.
+</p>
+
+<h2>TAG 10: NOSY BE</h2>
+<p><b>Insel Iranja</b></p>
+<p>
+
+Abfahrt vom Hotel um 08:00 Uhr in Richtung IRANJA ISLAND, vom Strand Ambatoloaka mit dem Schnellboot, die Fahrt dauert 1 Stunde und 15 Minuten.
+Sobald Sie auf der Insel IRANJA ankommen, werden Sie von einer atemberaubenden Landschaft begrüßt.
+Ein völliges Eintauchen in die Natur wird Ihren Tag bereichern.
+Zu Beginn des Tages erwarten Sie 2 herrliche Inseln, die miteinander verbunden sind
+von einem 2 km langen weißen Sandstrand umgeben. Für all Ihre Momente der Entspannung steht Ihnen ein makelloser weißer Strand zur Verfügung, an dem Sie sonnenbaden, schwimmen und bei einem kurzen Spaziergang einige Farnarten entdecken können – und das alles am türkisblauen Meer.
+Um 12:30 Uhr wird im Schatten der Kokosnussbäume ein köstliches Mittagessen mit Meeresfrüchten, Gerichten aus Kokosnüssen und Früchten der Saison serviert.
+Gegen 16 Uhr Rückkehr zum Hotel. </br>
+
+Abendessen und Übernachtung im Hotel in Nosy Be.
+</p>
+
+<h2>TAG 11: ENTSPANNEN</h2>
+<p>
+Entspannen
+Entspannen Sie sich im Hotel.
+Die Gäste können sich für einen zusätzlichen Ausflug oder Einkaufsbummel entscheiden.
+Abendessen und Übernachtung im Hotel in Nosy Be.
+</p>
+
+<h2>TAG 12: ABREISETAG</h2>
+<p>
+Transfer mit einem geräumigen Auto von Ihrem Hotel zum internationalen Flughafen Fascene, wobei Sie einer unserer Mitarbeiter zum Check-out begleitet.
+
+Guten Flug
+VELOMA, MISAOTRA …
+</p>',
+            '280'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer vom Hotel zum Hafen: Ankunft und Abreise</li>
+<li>Unterkunft: Typischer Bungalow in Mahamasina – Hotel in Diego Suarez und Nosy Be</li>
+<li>Geräumiges und klimatisiertes Fahrzeug, mit Klimaanlage</li>
+<li>Halbpension (Mittagessen und Frühstück)</li>
+<li>Jeden Tag Mineralwasser</li>
+<li>Begleithandbuch</li>
+<li>Lokaler Reiseführer</li>
+<li>Parkeingang</li>
+</ul>',
+            '281'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Abendessen</li>
+<li>Abendessen</li>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+</ul>',
             '282'       => '',
             '283'       => '',
             '284'       => '',
