@@ -837,10 +837,37 @@ VELOMA, MISAOTRA...
 <li>Drinks</li>
 <li>Personal Extras</li>
 </ul>',
-            '282'       => '',
-            '283'       => '',
-            '284'       => '',
-            '285'       => '',
+            '282'       => 'Good to know',
+            '283'       => 'History of Nosy Be',
+            '284'       => 'Nosy Be is located in the northwest of Madagascar, precisely 8 km off the country\'s coast. The main island of the Nosy Be archipelago, composed of several paradisiacal islands, the history of the perfume island began with the arrival of the Arabs. Formerly called "Vario Be" by the local population, it was, at that time, governed by Queen Ambrym II. Another was built at Ambanoro in 1100, which became, 300 years later, the economic center of the island. Nosy Be is now one of the largest producers of this plant, hence its nickname: "Perfume Island."
+It stretches approximately 26 kilometers from north to south and 20 kilometers from east to west. It is the main island of an archipelago which includes the small islands of Nosy Komba,
+ Nosy Fanihy, Nosy Sakatia, Nosy Iranja, Nosy Tanikely and the Mitsio and Radama archipelagos.',
+            '285'       => '<ul class="unstiled-list mb-3">
+<li>Country: Madagascar</li>
+<li>Region: DIANA</li>
+<li>Currency: Ariary</li>
+<li>Population: 92,000 inhabitants</li>
+<li>Ethnic group: Sakalava</li>
+<li>Climate: Average annual temperature of 25°C (22°C in winter and 28°C in summer, from October to February).</li>
+</ul>
+
+<p class="mb-3">
+The island of Nosy Be and its archipelago have a particularly pleasant climate with an average annual temperature of 25°C (22°C in winter and 28°C in summer, from October to February). In the northern region of the Nosy Be archipelago, the Mitsio Islands and Baie du Courrier, a fairly strong wind called "avarabe" blows during the winter, while every afternoon, the heat of the day is tempered by a pleasant westerly breeze, called "talio," which blows until sunset.
+The island still offers authentic and unspoiled places to discover and stay in Nosy Be, outside of areas taken over by mass tourism. This is the case on the southeast coast and the beachside villages around the Lokobe Nature Reserve, such as the villages of Doany-Antafondro and Ampasipohy.
+Nosy Be is also known in the Indian Ocean for its annual Donia and Somaroho festivals, which bring together a selection of artists from Madagascar and other Indian Ocean islands. Since 2014, the Nosy Be Symphonies – the Indian Ocean Classical Music Festival – has been held every year at the end of August for six days in the most prestigious hotels on Nosy Be Island, with a finale at sunset on Mont Passot. It brings together international artists from the Indian Ocean and Madagascar.
+The population of Nosy Be Island is very mixed and multicultural. However, the Antakarana and the Sakalava are the main ethnic groups inhabiting this region. Originating from northern Madagascar, the Antakarana remain a highly concentrated group on Nosy Be Island. With the arrival of Indian and European foreigners, known as the "Vazaha," the population has become multicultural and colorful. </p>
+
+<h2 class="guide-heading">THE ROYAL VILLAGE</h2>
+<p class="mb-3">
+Mahabo of Manongarivo: A mahabo is a sacred cemetery where the princes of the royal families rest. The central tomb of Manongarivo contains various graves, including those of Queen Sakalava Binao, who reigned from 1881 to 1921. The small house on the left is the Treasure House and contains the personal belongings of the remains. Access is strictly regulated; the attire and rites to be performed beforehand must be respected by both the local population and visitors. It is forbidden to go there on certain days of the week. It is essential to inquire beforehand. </p>
+
+<h2 class="guide-heading">The Population:</h2>
+
+<p class="mb-3">
+Warm and welcoming, the population of Hell-Ville is primarily from the Sakalava people, one of the 18 ethnic groups inhabiting Madagascar.
+It stands out for its culture and history. Taboos and prohibitions still hold an important place in the local culture. As throughout Madagascar, ancestor worship is still present. People still ask for their blessings for their daily support. The simplicity of life of the inhabitants of Nosy Be is reflected in their traditional clothing. The "kisaly" is the traditional dress for women, while for men, tradition dictates the wearing of the "kitamby."
+However, with the changes brought about by modernization, the wearing of the latter is obsolete, while the "kisaly" remains fashionable. During colonization, other religions such as Christianity and Islam entered the island and have, ever since, coexisted perfectly with tradition.
+</p>',
             '286'       => '',
             '287'       => '',
             '288'       => '',
@@ -3796,11 +3823,91 @@ Airport assistance and HAVE A GREAT FLIGHT.
                             <li>Boissons</li>
                             <li>Extras à caractères personnels</li>
                         </ul>',
-            '282'       => '',
-            '283'       => '',
-            '284'       => '',
-            '285'       => '',
-            '286'       => '',
+            '282'       => 'Bon à savoir',
+            '283'       => 'Histoire de Nosy Be',
+            '284'       => 'Nosy Be se situe dans le Nord-Ouest de Madagascar, précisément à 8 km des côtes du pays. Principale île d’un archipel Nosy be composé de plusieurs iles paradisiaques, l’histoire de l’île aux parfums a commencé lors de l’arrivée des arabes. Anciennement appelée « Vario Be » par la population locale, elle fut, à cette époque, gouvernée par la reine Ambrym II.  Un autre fut construit à Ambanoro en 1100 qui est devenu, 300 ans après, le pôle économique de l’il. Nosy Be figure, de nos jours, parmi les plus grands producteurs de cette plante, d’où son surnom : « l’ile aux parfums » 
+                      Elle s’étend sur environ 26 kilomètres du nord au sud sur 20 kilomètres d’est en ouest. 
+                      C’est l’île principale d’un archipel qui comprend les petites îles de Nosy Komba, 
+                      Nosy Fanihy, Nosy Sakatia, Nosy Iranja, Nosy Tanikely et les archipels des Mitsio et des Radama. ',
+            '285'       => '<ul class="unstiled-list mb-3">
+                      <li>Pays : Madagascar</li>
+                      <li>Région : DI.A.N.A</li>
+                      <li>Devise : Ariary</li>
+                      <li>Population : 92 000 habitants</li>
+                      <li>Ethnie : Sakalava</li>
+                      <li>Climat : moyenne annuelle de température de 25 °C (en hiver 22 °C et pendant l’été, d’octobre à février, 28 °C).</li>
+                    </ul>
+
+                    <p class="mb-3">
+                      L’île de Nosy Be et son archipel ont un climat particulièrement agréable avec une moyenne annuelle de température de 25 °C (en hiver 22 °C et pendant l’été, d’octobre à février, 28 °C). Dans la région Nord de l’archipel de Nosy Be, les îles Mitsio et la Baie du Courrier, il souffle pendant l’hiver un vent assez fort appelé « avarabe » tandis que tous les après-midi, la chaleur de la journée est tempérée par une agréable brise d’ouest, appelée « talio » qui souffle jusqu’au coucher du soleil.
+                      L’île offre encore des endroits authentiques et préservés à découvrir et où séjourner à  Nosy be, en dehors des espaces investis par le tourisme de masse. C’est le cas de la côte sud-est et des villages situés en bord de plage autour de la Réserve naturelle de Lokobe tels que les villages de Doany-Antafondro et d’Ampasipohy.
+                      Île Nosy Be est également connue dans l’océan Indien pour son festival annuel, le Donia et la Somaroho, qui réunit  une sélection d’artistes de Madagascar et des autres îles de l’océan Indien.
+                      Depuis 2014 a lieu chaque fin de mois d’août pendant 6 jours dans les plus prestigieux hôtels de l’île Nosy Be, ainsi qu’une finale lors de coucher du soleil sur le Mont Passot, le Nosy Be Symphonies  – le Festival de Musique Classique de l’Océan Indien – regroupant des artistes internationaux, de l’Océan Indien et de Madagascar.
+                      La population de l’île Nosy Be est très métissée et multiculturelle. Toutefois, les Antakarana et les Sakalava sont les principales éthnies qui peuplent cette région. Issus du nord de Madagascar, les Antakarana demeurent un groupe en forte concentration dans l’île Nosy Be. Par la venue des étrangers indiens et des européens, dits les ”vazaha”, la population est devenue pluriculturelle et colorée.
+                    </p>
+
+                    <h2 class="guide-heading">LE VILLAGE ROYAL</h2>
+                    <p class="mb-3">
+                      Mahabo de Manongarivo : un mahabo est un cimetière sacré où reposent les princes des familles royales. Le tombeau central de Manongarivo abrite différentes sépultures dont celles de la Reine Sakalava Binao qui a régné de 1881 à 1921. La petite maison de gauche est la Case au Trésor et contient les objets personnels des dépouilles. L’accès est très réglementé, la tenue et les rites à faire au préalable doivent être respectées autant pour la population locale que pour les visiteurs. Il est interdit de s’y rendre certains jours de la semaine. Il est primordial de se renseigner avant d’y aller.
+                    </p>
+
+                    <h2 class="guide-heading">La population :</h2>
+
+                    <p class="mb-3">
+                      Chaleureuse et accueillante, la population de Hell-Ville est principalement issue du peuple Sakalava, une des 18 ethnies habitant Madagascar.
+                      Elle se démarque par sa culture et son histoire. Les tabous et les interdits y tiennent encore une place importante dans la culture locale. Comme dans tout Madagascar, le culte des ancêtres y est toujours présent. On leur demande toujours bénédictions pour leurs soutiens quotidiens. La simplicité de la vie de ses habitants de l’île Nosy Be se reflète par leurs tenues traditionnelles. Le « kisaly » est la tenue traditionnelle des femmes tandis que pour les hommes, la tradition veut le port du « kitamby ».
+                      Cependant, avec les changements que la modernisation a apportés, le port de ce dernier est révolu alors que le « kisaly » reste toujours en vogue. Durant la colonisation, d’autres religions telles que le christianisme et l’islam sont entrées dans l’ile et sont, depuis le temps, en parfaite cohabitation avec la tradition.
+                    </p>',
+            '286'       => '                    <h2 class="guide-heading">Sites historiques marquent l’histoire de Nosy Be :</h2>
+
+                    <p class="mb-3">
+                      Nous pouvons vous en citer quelques-uns et dont il vous est possible de visiter, séjourner à Nosy Be avec ou sans guide.
+                      <br>
+                      <strong> Le camp vert situé à Hell –Ville.</strong> Les canonniers y sont installés pour marquer l’époque coloniale.
+                      <br>
+                      
+                      <strong>L’arbre de Banian à Mahatsinjo.</strong> Petite note : vous devez mettre la tenue traditionnelle des habitants pour y accéder au lieu sacré. Cependant, le lieu en possède.
+                      <br>
+                      <strong>Marodoka </strong>: le village fantôme à Ambanoro
+
+                    </p>
+
+                    <h2 class="guide-heading">Moyens de déplacements :</h2>
+
+                    <p class="mb-3">
+                      L\'île de Nosy Be propose divers modes de transport, Taxi spécial, Taxi collectif, et tuk-tuk ou Location. Le taxi spécial : les chauffeurs n\'embarquent qu\'un seul client à la fois. Par précaution, trouvez un accord sur le prix avant d\'embarquer.
+                      Le taxi collectif : Le prix de la course est lié à la destination et au nombre de passagers embarqués. Quant à l\'heure de départ, elle dépend du moment où toutes les places sont occupées. Chaque passager est ensuite conduit à sa destination.
+                      Le taxi-moto : avec ses trois roues et sa couleur jaune, les taxi-motos sont une alternatives bons marchés des taxis.
+                      La location : Les voyageurs peuvent louer des voitures (4x4...), des motos, des scooters, des quads et des buggys (des véhicules tout-terrain).
+                    </p>
+
+                    <h2 class="guide-heading">Le festival sômarôho :</h2>
+
+                    <p class="mb-3">
+                      Impossible de parler de Nosy Be sans parler du festival Somaroho. Le festival Somaroho est un véritable hymne à la musique malgache, offrant une programmation riche et variée. Des artistes locaux et internationaux se produisent sur scène, mêlant les sonorités traditionnelles et contemporaines.
+                      Le Somaroho met en avant différents genres musicaux malgaches, tels que le salegy, le tsapiky, le reggae, le jazz, le pop ou encore le rock. Les artistes interprètent leurs chansons avec passion, partageant leur héritage culturel et leurs messages à travers la musique. C’est une occasion unique de découvrir la richesse et la diversité de la scène musicale malgache ! Le premier jour du festival, l’intégralité de la ville de Nosy Be s’est remplie et les cortèges ont déambulé : des danseurs, des équilibristes en haut de longues échasses, des cascadeurs en rollers qui sautent au-dessus des tuk-tuks, des associations de jeunes qui préservent l’environnement, de lutte contre les violences faites aux femmes, des musiciens, etc…
+                    </p>
+
+                    <h2 class="guide-heading">Les 5 suggestions de meilleurs hôtel à Nosy Be :</h2>
+
+                    <ul>
+                      <li><strong> Ravintsara Wellness Resort</strong></li>
+                      <li><strong> Exora beach resort</strong></li>
+                      <li><strong> Orangea beach resort</strong></li>
+                      <li><strong> Nosy Be Hôtel et spa</strong></li>
+                      <li><strong> L’heure bleue</strong></li>
+                    </ul>
+
+
+                    <h2 class="guide-heading">Les 5 suggestions de meilleurs restaurants à Nosy Be:</h2>
+
+                    <ul>
+                      <li><strong> Cacao Beach</strong></li>
+                      <li><strong> Papillon</strong></li>
+                      <li><strong> La cuisine de Marna</strong></li>
+                      <li><strong> Karibo </strong></li>
+                      <li><strong> Table d’Alexandre</strong></li>
+                    </ul>',
             '287'       => '',
             '288'       => '',
             '289'       => '',
@@ -6880,10 +6987,41 @@ VELOMA, MISAOTRA...
 <li>Bevande</li>
 <li>Extra personali</li>
 </ul>',
-            '282'       => '',
-            '283'       => '',
-            '284'       => '',
-            '285'       => '',
+            '282'       => 'Buono a sapersi',
+            '283'       => 'Storia di Nosy Be',
+            '284'       => "Nosy Be si trova nel nord-ovest del Madagascar, esattamente a 8 km dalla costa del paese. Isola principale dell'arcipelago di Nosy Be, composto da diverse isole paradisiache, la storia dell'isola dei profumi inizia con l'arrivo degli arabi. Anticamente chiamato \"Vario Be\" dalla popolazione locale, era, a quel tempo, governato dalla regina Ambrym II.  Un altro fu costruito ad Ambanoro nel 1100 e, 300 anni dopo, divenne il centro economico dell'isola. Nosy Be è oggi uno dei maggiori produttori di questa pianta, da cui il suo soprannome: “l’isola dei profumi”.
+Si estende per circa 26 chilometri da nord a sud e 20 chilometri da est a ovest.
+È l'isola principale di un arcipelago che comprende le piccole isole di Nosy Komba,
+Nosy Fanihy, Nosy Sakatia, Nosy Iranja, Nosy Tanikely e gli arcipelaghi Mitsio e Radama.",
+            '285'       => '<ul class="unstiled-list mb-3">
+                      <li>Paese: Madagascar</li>
+                      <li>Regione: DI.A.N.A</li>
+                      <li>Valuta: Ariary</li>
+                      <li>Popolazione: 92.000 abitanti</li>
+                      <li>Gruppo etnico: Sakalava</li>
+                      <li>Clima: temperatura media annua di 25°C (in inverno 22°C e in estate, da ottobre a febbraio, 28°C).</li>
+                    </ul>
+
+                    <p class="mb-3">
+                      L\'isola di Nosy Be e il suo arcipelago hanno un clima particolarmente gradevole con una temperatura media annua di 25°C (in inverno 22°C e in estate, da ottobre a febbraio, 28°C). Nella regione settentrionale dell\'arcipelago di Nosy Be, nelle Isole Mitsio e nella Baia di Courrier, durante l\'inverno soffia un vento abbastanza forte chiamato “avarabe”, mentre ogni pomeriggio, il caldo della giornata è temperato da una piacevole brezza da ovest, chiamata “talio”, che soffia fino al tramonto.
+                      L’isola offre ancora luoghi autentici e preservati da scoprire e dove alloggiare a Nosy Be, al di fuori delle zone investite dal turismo di massa. È il caso della costa sud-orientale e dei villaggi situati sulla spiaggia attorno alla Riserva Naturale di Lokobe come i villaggi di Doany-Antafondro e Ampasipohy.
+                      L\'isola di Nosy Be è conosciuta nell\'Oceano Indiano anche per il suo festival annuale, Donia e Somaroho, che riunisce una selezione di artisti provenienti dal Madagascar e da altre isole dell\'Oceano Indiano.
+                      Dal 2014, il Nosy Be Symphonies – Festival di musica classica dell\'Oceano Indiano – si svolge ogni fine agosto per 6 giorni negli hotel più prestigiosi dell\'isola di Nosy Be, con un finale al tramonto sul Mont Passot, riunendo artisti internazionali dell\'Oceano Indiano e del Madagascar.
+                      La popolazione dell\'isola di Nosy Be è molto mista e multiculturale. Tuttavia, gli Antakarana e i Sakalava sono i principali gruppi etnici che popolano questa regione. Provenienti dal nord del Madagascar, gli Antakarana restano un gruppo con un\'alta concentrazione sull\'isola di Nosy Be. Con l\'arrivo degli stranieri indiani ed europei, conosciuti come “vazaha”, la popolazione divenne multiculturale e colorata.
+                    </p>
+
+                    <h2 class="guide-heading">IL VILLAGGIO REALE</h2>
+                    <p class="mb-3">
+                      Mahabo di Manongarivo: un mahabo è un cimitero sacro dove riposano i principi delle famiglie reali. La tomba centrale di Manongarivo ospita varie sepolture tra cui quelle della regina Sakalava Binao che regnò dal 1881 al 1921. La piccola casa a sinistra è lo scrigno del tesoro e contiene gli oggetti personali dei resti. L\'accesso è molto regolamentato, l\'abbigliamento ed i riti da svolgere preventivamente devono essere rispettati sia per la popolazione locale che per i visitatori. È vietato andarci in alcuni giorni della settimana. È fondamentale informarsi prima di andarci.
+                    </p>
+
+                    <h2 class="guide-heading">La popolazione:</h2>
+
+                    <p class="mb-3">
+                      Calda e accogliente, la popolazione di Hell-Ville proviene principalmente dal popolo Sakalava, uno dei 18 gruppi etnici che abitano il Madagascar.
+                      Si distingue per la sua cultura e storia. Tabù e divieti occupano ancora un posto importante nella cultura locale. Come in tutto il Madagascar, anche lì è ancora presente il culto degli antenati. Chiediamo loro sempre benedizioni per il loro sostegno quotidiano. La semplicità della vita degli abitanti dell\'isola di Nosy Be si riflette nei loro abiti tradizionali. Il “kisaly” è l\'abito tradizionale per le donne mentre per gli uomini la tradizione impone l\'uso del “kitamby”.
+                      Tuttavia, con i cambiamenti apportati dalla modernizzazione, l’uso di quest’ultimo è un ricordo del passato mentre il “kisaly” rimane ancora in voga. Durante la colonizzazione altre religioni come il Cristianesimo e l\'Islam entrarono nell\'isola e da allora convivono perfettamente con la tradizione.
+                    </p>',
             '286'       => '',
             '287'       => '',
             '288'       => '',
@@ -9951,10 +10089,41 @@ VELOMA, MISAOTRA …
 <li>Getränke</li>
 <li>Persönliche Extras</li>
 </ul>',
-            '282'       => '',
-            '283'       => '',
-            '284'       => '',
-            '285'       => '',
+            '282'       => 'Gut zu wissen',
+            '283'       => 'Geschichte von Nosy Be',
+            '284'       => 'Nosy Be liegt im Nordwesten Madagaskars, genau 8 km von der Küste des Landes entfernt. Die Geschichte der Parfüminsel, der Hauptinsel des aus mehreren paradiesischen Inseln bestehenden Archipels Nosy Be, begann mit der Ankunft der Araber. Früher wurde es von der lokalen Bevölkerung „Vario Be“ genannt und damals von Königin Ambrym II. regiert.  Ein weiteres wurde 1100 in Ambanoro gebaut, das 300 Jahre später zum wirtschaftlichen Zentrum der Insel wurde. Nosy Be ist heute einer der größten Produzenten dieser Pflanze, daher auch der Spitzname: „Insel der Parfums“.
+Es erstreckt sich ungefähr 26 Kilometer von Nord nach Süd und 20 Kilometer von Ost nach West.
+Es ist die Hauptinsel eines Archipels, zu dem auch die kleinen Inseln Nosy Komba,
+Nosy Fanihy, Nosy Sakatia, Nosy Iranja, Nosy Tanikely und die Archipele Mitsio und Radama.',
+            '285'       => '<ul class="unstiled-list mb-3">
+<li>Land: Madagaskar</li>
+<li>Region: DI.A.N.A</li>
+<li>Währung: Ariary</li>
+<li>Bevölkerung: 92.000 Einwohner</li>
+<li>Ethnizität: Sakalava</li>
+<li>Klima: Jahresdurchschnittstemperatur 25 °C (22 °C im Winter und 28 °C im Sommer, von Oktober bis Februar).</li>
+</ul>
+
+<p class="mb-3">
+Die Insel Nosy Be und ihr Archipel haben ein besonders angenehmes Klima mit einer jährlichen Durchschnittstemperatur von 25 °C (im Winter 22 °C und im Sommer von Oktober bis Februar 28 °C). In der nördlichen Region des Nosy Be-Archipels, auf den Mitsio-Inseln und in der Baie du Courrier weht im Winter ein ziemlich starker Wind namens „Avarabe“, während jeden Nachmittag die Hitze des Tages durch eine angenehme Brise aus Westen namens „Talio“ gemildert wird, die bis zum Sonnenuntergang weht.
+Die Insel bietet noch immer authentische und erhaltene Orte zum Entdecken und Übernachten in Nosy Be, außerhalb der vom Massentourismus eroberten Gebiete. Dies ist der Fall an der Südostküste und in den am Strand rund um das Naturschutzgebiet Lokobe gelegenen Dörfern wie den Dörfern Doany-Antafondro und Ampasipohy.
+Die Insel Nosy Be ist im Indischen Ozean auch für ihr jährliches Festival Donia und Somaroho bekannt, das eine Auswahl von Künstlern aus Madagaskar und anderen Inseln im Indischen Ozean zusammenbringt.
+Seit 2014 finden die Nosy Be Symphonies – das Festival für klassische Musik im Indischen Ozean – jedes Jahr Ende August für 6 Tage in den renommiertesten Hotels der Insel Nosy Be statt, mit einem Finale bei Sonnenuntergang auf dem Mont Passot, und bringen internationale Künstler aus dem Indischen Ozean und Madagaskar zusammen.
+Die Bevölkerung der Insel Nosy Be ist sehr gemischt und multikulturell. Die Antakarana und die Sakalava sind jedoch die wichtigsten ethnischen Gruppen, die diese Region bevölkern. Die Antakarana stammen aus dem Norden Madagaskars und sind nach wie vor eine Gruppe mit hoher Konzentration auf der Insel Nosy Be. Mit der Ankunft indischer Ausländer und Europäer, der sogenannten „Vazaha“, wurde die Bevölkerung multikulturell und bunt.
+</p>
+
+<h2 class="guide-heading">DAS KÖNIGLICHE DORF</h2>
+<p class="mb-3">
+Mahabo von Manongarivo: Ein Mahabo ist ein heiliger Friedhof, auf dem die Prinzen königlicher Familien ruhen. Das zentrale Grab von Manongarivo beherbergt verschiedene Gräber, darunter die von Königin Sakalava Binao, die von 1881 bis 1921 regierte. Das kleine Haus auf der linken Seite ist das Schatzhaus und enthält die persönlichen Gegenstände der sterblichen Überreste. Der Zugang ist streng reglementiert, die Kleidung und die vorher durchzuführenden Riten müssen sowohl von der einheimischen Bevölkerung als auch von den Besuchern respektiert werden. An bestimmten Wochentagen ist der Aufenthalt dort verboten. Es ist wichtig, sich vor der Reise dorthin zu informieren.
+</p>
+
+<h2 class="guide-heading">Die Bevölkerung:</h2>
+
+<p Klasse="mb-3">
+Die herzliche und gastfreundliche Bevölkerung von Hell-Ville besteht hauptsächlich aus dem Volk der Sakalava, einer der 18 ethnischen Gruppen, die Madagaskar bewohnen.
+Es zeichnet sich durch seine Kultur und Geschichte aus. Tabus und Verbote nehmen in der lokalen Kultur noch immer einen wichtigen Platz ein. Wie in ganz Madagaskar ist auch hier die Ahnenverehrung noch immer präsent. Für ihre tägliche Unterstützung werden sie immer um Segen gebeten. Die Einfachheit des Lebens der Bewohner der Insel Nosy Be spiegelt sich in ihrer traditionellen Kleidung wider. Das „Kisaly“ ist die traditionelle Kleidung der Frauen, während die Tradition den Männern das Tragen des „Kitamby“ vorschreibt.
+Mit den Veränderungen, die die Modernisierung mit sich brachte, ist das Tragen der letzteren jedoch vorbei, während das „Kisaly“ weiterhin in Mode bleibt. Während der Kolonialisierung gelangten andere Religionen wie das Christentum und der Islam auf die Insel und leben seitdem in perfekter Koexistenz mit der Tradition.
+</p>',
             '286'       => '',
             '287'       => '',
             '288'       => '',
