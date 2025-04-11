@@ -868,9 +868,99 @@ Warm and welcoming, the population of Hell-Ville is primarily from the Sakalava 
 It stands out for its culture and history. Taboos and prohibitions still hold an important place in the local culture. As throughout Madagascar, ancestor worship is still present. People still ask for their blessings for their daily support. The simplicity of life of the inhabitants of Nosy Be is reflected in their traditional clothing. The "kisaly" is the traditional dress for women, while for men, tradition dictates the wearing of the "kitamby."
 However, with the changes brought about by modernization, the wearing of the latter is obsolete, while the "kisaly" remains fashionable. During colonization, other religions such as Christianity and Islam entered the island and have, ever since, coexisted perfectly with tradition.
 </p>',
-            '286'       => '',
-            '287'       => '',
-            '288'       => '',
+            '286'       => '<h2 class="guide-heading">Historic sites mark the history of Nosy Be:</h2>
+
+<p class="mb-3">
+We can list a few of them, which you can visit or stay in Nosy Be with or without a guide.
+<br>
+<strong>The Green Camp located in Hell-Ville.</strong> The gunners were stationed there to mark the colonial era.
+<br>
+
+<strong>The Banyan Tree in Mahatsinjo.</strong> Small note: you must wear traditional local attire to access the sacred site. However, the site does have some. <br>
+<strong>Marodoka</strong>: the ghost town in Ambanoro
+
+</p>
+
+<h2 class="guide-heading">Means of transportation:</h2>
+
+<p class="mb-3">
+The island of Nosy Be offers various modes of transportation: special taxis, shared taxis, tuk-tuks, and rentals. Special taxis: Drivers only take one passenger at a time. As a precaution, agree on the price before boarding.
+Shared taxis: The fare is based on the destination and the number of passengers. The departure time depends on when all seats are occupied. Each passenger is then taken to their destination.
+Motorcycle taxis: With their three wheels and yellow color, motorcycle taxis are a cheap alternative to taxis. Rentals: Travelers can rent cars (4x4s, etc.), motorcycles, scooters, quads, and buggies (all-terrain vehicles).
+</p>
+
+<h2 class="guide-heading">The Somaroho Festival:</h2>
+
+<p class="mb-3">
+It\'s impossible to talk about Nosy Be without mentioning the Somaroho Festival. The Somaroho Festival is a true ode to Malagasy music, offering a rich and varied program. Local and international artists perform on stage, blending traditional and contemporary sounds.
+Somaroho showcases various Malagasy musical genres, such as salegy, tsapiky, reggae, jazz, pop, and rock. The artists perform their songs with passion, sharing their cultural heritage and messages through music. It\'s a unique opportunity to discover the richness and diversity of the Malagasy music scene! On the first day of the festival, the entire town of Nosy Be filled with parades: dancers, tightrope walkers on long stilts, stuntmen on roller skates jumping over tuk-tuks, youth associations working to protect the environment and combat violence against women, musicians, and more.
+
+</p>
+
+<h2 class=\"guide-heading\">Top 5 hotel suggestions in Nosy Be:</h2>
+
+<ul>
+<li><strong> Ravintsara Wellness Resort</strong></li>
+<li><strong> Exora Beach Resort</strong></li>
+<li><strong> Orangea Beach Resort</strong></li>
+<li><strong> Nosy Be Hotel and Spa</strong></li>
+<li><strong> L’Heure Bleue</strong></li>
+</ul>
+
+<h2 class="guide-heading">Top 5 restaurant suggestions in Nosy Be Be:</h2>
+
+ <ul>
+ <li><strong>Cacao Beach</strong></li>
+ <li><strong>Butterfly</strong></li>
+ <li><strong>Marna\'s kitchen</strong></li>
+ <li><strong> Karibo </strong></li>
+ <li><strong>Alexander’s Table</strong></li>
+ </ul>',
+            '287'       => 'Big game fishing',
+            '288'       => "<section class=\"content-section\">
+<h2>Tour Description</h2>
+<p>
+Passionate about sport fishing or simply wanting to discover this discipline, join our big-game fishing guide in Nosy Be.
+</p>
+
+</section>
+
+<section class=\"content-section\">
+<h2>The Guide</h2>
+<p class=\"mb-3\">
+With over 12 years of sport fishing experience and 8 years as a fishing guide, he has the tools to help you discover his passion.
+
+Whether you're an expert or a novice, he will support and guide you to create unforgettable fishing memories together in Nosy Be.
+
+Our fishing guide is, above all, a sea lover and will be the ideal guide for all your nautical adventures. </p>
+
+<h2>The Boat</h2>
+<p class=\"mb-3\">
+The 10m Vandame hull or 14m catamaran, powered by two 140hp engines,
+is the dream boat for sport fishing, particularly for blue marlin.<br>
+
+Ultra-responsive, fully equipped with electronics (GPS, radar, depth sounder) and safety equipment
+(VHF, life raft, etc.), Veni Vidi Fishi is also very comfortable
+and welcoming, making it ideal for all seas and all seasons.
+</p>
+
+<h2>The Equipment</h2>
+<p class=\"mb-3\">
+Because the pleasure of fishing also depends on the quality of the equipment,
+our fishing guide didn't hesitate to choose the best. A wide range of Shimano Tiagra lures in 30, 50, and 80 lbs is available, as well as an impressive selection of lures.
+</p>
+<p class=\"mb-3\">
+Since big game isn't our fishing guide's only specialty, the boat also has the necessary equipment for jigging or light trolling!
+</p>
+
+<h2>Charter</h2>
+<p class=\"mb-3\">
+Imagine your fishing day tailored to your wishes, with our fishing guide, and a tailor-made program.
+
+Fishing trips generally depart at 7:30 a.m. and return around 4:00 p.m.
+Meals and drinks are included during the day.
+</p>
+</section>",
             '289'       => '',
             '290'       => '',
             '291'       => '',
@@ -3908,8 +3998,59 @@ Airport assistance and HAVE A GREAT FLIGHT.
                       <li><strong> Karibo </strong></li>
                       <li><strong> Table d’Alexandre</strong></li>
                     </ul>',
-            '287'       => '',
-            '288'       => '',
+            '287'       => 'Pêche au gros',
+            '288'       => '        <section class="content-section">
+            <h2>Description du Circuit</h2>
+            <p>
+                Passionné de pêche sportive ou simplement envie de découvrir cette discipline,
+                rejoignez notre guide de pêche au gros à Nosy Be.
+            </p>
+            
+        </section>
+
+        <section class="content-section">
+            <h2>Le guide</h2>
+            <p class="mb-3">
+            Avec plus de 12 ans d’expérience de pêche sportive et 8 ans d’expérience en tant que guide de pêche, 
+            il possède les armes pour vous faire découvrir sa passion.
+
+            Que vous soyez expert ou novice, 
+            il saura vous épauler et vous encadrer pour créer ensemble des souvenirs 
+            de pêche inoubliables à Nosy be.
+
+            Notre guide de pêche est avant tout un amoureux de la mer et sera le guide idéal 
+            pour toutes vos aventures nautiques.
+            </p>
+
+            <h2>Le bateau</h2>
+            <p class="mb-3">
+                La Coque Vandame de 10m ou catamaran de 14 m, propulsé par 2 moteurs de 140 CV, 
+                est le bateau rêvé pour la Pêche sportive et particulièrement celle du marlin bleu.<br>
+
+                Ultra-réactif, sur-équipé en électronique (GPS, radar, sondeur) et en équipements de sécurité
+                (VHF, radeau de survie…), Veni Vidi Fishi est aussi très confortable 
+                et accueillant ce qui le rend très à l’aise sur toutes les mers et en toutes saisons.
+            </p>
+
+            <h2>Le matériel</h2>
+            <p class="mb-3">
+            Parce que le plaisir de la pêche dépend aussi de la qualité du matériel, 
+            notre guide de pêche n’a pas hésité à choisir le must. Une large gamme de Shimano Tiagra en 30, 
+            50 et 80 lb est mise votre disposition ainsi qu’un choix impressionnant de leurres.
+            </p>
+            <p class="mb-3">
+                Le big game n’étant pas la seule spécialité notre guide de pêche,
+                le bateau dispose également du matériel nécessaire pour le jigging ou la traîne légère !
+            </p>
+
+            <h2>Charter</h2>
+            <p class="mb-3">
+                Imaginez votre journée de pêche élaborée, selon vos envies, avec notre guide pêche, un programme sur-mesure.
+
+                Généralement, le départ d’une sortie de pêche est à 7h30 et le retour est vers 16h. 
+                Durant la journée le repas et les boissons sont compris.
+            </p>
+        </section>',
             '289'       => '',
             '290'       => '',
             '291'       => '',
@@ -7022,9 +7163,109 @@ Nosy Fanihy, Nosy Sakatia, Nosy Iranja, Nosy Tanikely e gli arcipelaghi Mitsio e
                       Si distingue per la sua cultura e storia. Tabù e divieti occupano ancora un posto importante nella cultura locale. Come in tutto il Madagascar, anche lì è ancora presente il culto degli antenati. Chiediamo loro sempre benedizioni per il loro sostegno quotidiano. La semplicità della vita degli abitanti dell\'isola di Nosy Be si riflette nei loro abiti tradizionali. Il “kisaly” è l\'abito tradizionale per le donne mentre per gli uomini la tradizione impone l\'uso del “kitamby”.
                       Tuttavia, con i cambiamenti apportati dalla modernizzazione, l’uso di quest’ultimo è un ricordo del passato mentre il “kisaly” rimane ancora in voga. Durante la colonizzazione altre religioni come il Cristianesimo e l\'Islam entrarono nell\'isola e da allora convivono perfettamente con la tradizione.
                     </p>',
-            '286'       => '',
-            '287'       => '',
-            '288'       => '',
+            '286'       => '<h2 class="guide-heading">I siti storici scandiscono la storia di Nosy Be:</h2>
+
+<p class="mb-3">
+Possiamo citarne alcuni e potrete visitarli o soggiornare a Nosy Be con o senza guida.
+<br>
+<strong>Il Green Camp si trova a Hell-Ville.</strong> Gli artiglieri erano di stanza lì per celebrare l\'era coloniale.
+<br>
+
+<strong>Il baniano a Mahatsinjo.</strong> Piccola nota: per entrare nel luogo sacro è obbligatorio indossare gli abiti tradizionali della gente del posto. Tuttavia, il posto ne ha alcuni.
+<br>
+<strong>Marodoka</strong>: il villaggio fantasma di Ambanoro
+
+</p>
+
+<h2 class="guide-heading">Mezzi di trasporto:</h2>
+
+<p class="mb-3">
+L\'isola di Nosy Be offre diverse modalità di trasporto: taxi speciali, taxi condivisi, tuk-tuk o noleggio. Taxi speciali: gli autisti prendono in consegna un solo cliente alla volta. Per precauzione, concordate il prezzo prima di salire a bordo.
+Taxi condiviso: Il prezzo della corsa è legato alla destinazione e al numero di passeggeri a bordo. Per quanto riguarda l\'orario di partenza, dipende da quando tutti i posti sono occupati. Ogni passeggero viene poi condotto a destinazione.
+Mototaxi: con le loro tre ruote e il colore giallo, i mototaxi sono un\'alternativa economica ai taxi.
+Noleggio: i viaggiatori possono noleggiare auto (4x4, ecc.), motociclette, scooter, quad e buggy (veicoli fuoristrada).
+</p>
+
+<h2 class="guide-heading">La festa del sômarôho:</h2>
+
+<p class="mb-3">
+È impossibile parlare di Nosy Be senza menzionare il festival di Somaroho. Il festival Somaroho è un vero e proprio inno alla musica malgascia e offre un programma ricco e variegato. Sul palco si esibiscono artisti locali e internazionali, che fondono suoni tradizionali e contemporanei.
+Somaroho mette in risalto diversi generi musicali malgasci, come salegy, tsapiky, reggae, jazz, pop e rock. Gli artisti eseguono le loro canzoni con passione, condividendo il loro patrimonio culturale e i loro messaggi attraverso la musica. Un\'occasione unica per scoprire la ricchezza e la diversità della scena musicale malgascia! Il primo giorno del festival, l\'intera città di Nosy Be si è riempita e sono sfilate le processioni: ballerini, equilibristi sui trampoli, stuntman sui pattini a rotelle che saltavano sui tuk-tuk, associazioni giovanili che tutelano l\'ambiente, lottano contro la violenza sulle donne, musicisti, ecc.
+</p>
+
+<h2 class=\"guide-heading\">I 5 migliori suggerimenti per gli hotel a Nosy Be:</h2>
+
+<ul>
+<li><strong>Resort benessere Ravintsara</strong></li>
+<li><strong>Resort sulla spiaggia di Exora</strong></li>
+<li><strong>Località balneare di Orangea</strong></li>
+<li><strong>Hotel e spa di Nosy Be</strong></li>
+<li><strong>L\'ora blu</strong></li>
+</ul>
+
+
+<h2 class="guide-heading">I 5 migliori ristoranti consigliati a Nosy Be:</h2>
+
+<ul>
+<li><strong>Spiaggia di Cacao</strong></li>
+<li><strong>Farfalla</strong></li>
+<li><strong>La cucina di Marna</strong></li>
+<li><strong>Karibo</strong></li>
+<li><strong>La tavola di Alessandro</strong></li>
+</ul>',
+            '287'       => 'Pesca d\'altura',
+            '288'       => "<section class=\"content-section\">
+<h2>Descrizione del circuito</h2>
+<p>
+Appassionati di pesca sportiva o semplicemente desiderosi di scoprire questa disciplina,
+Unisciti alla nostra guida di pesca d'altura a Nosy Be.
+</p>
+
+</sezione>
+
+<section class=\"content-section\">
+<h2>La guida</h2>
+<p class=\"mb-3\">
+Con oltre 12 anni di esperienza nella pesca sportiva e 8 anni di esperienza come guida di pesca,
+ha gli strumenti per aiutarti a scoprire la sua passione.
+
+Che tu sia un esperto o un principiante,
+saprà supportarvi e guidarvi per creare ricordi insieme
+indimenticabili battute di pesca a Nosy Be.
+
+La nostra guida di pesca è prima di tutto un amante del mare e sarà la guida ideale
+per tutte le tue avventure nautiche.
+</p>
+
+<h2>La barca</h2>
+<p class=\"mb-3\">
+Lo scafo Vandame da 10 metri o il catamarano da 14 metri, motorizzato con due motori da 140 cavalli,
+è la barca da sogno per la pesca sportiva e in particolare per la pesca del marlin blu.<br>
+
+Ultra-reattivo, equipaggiato con elettronica (GPS, radar, ecoscandaglio) e dispositivi di sicurezza
+(VHF, zattera di salvataggio, ecc.), Veni Vidi Fishi è anche molto confortevole
+e accogliente, il che la rende molto confortevole in tutti i mari e in tutte le stagioni.
+</p>
+
+<h2>Il materiale</h2>
+<p class=\"mb-3\">
+Poiché il piacere della pesca dipende anche dalla qualità dell'attrezzatura,
+La nostra guida di pesca non ha esitato a scegliere il migliore. Un'ampia gamma di Shimano Tiagra in 30,
+Sono disponibili modelli da 50 e 80 libbre, nonché un'impressionante selezione di esche.
+</p>
+<p class=\"mb-3\">
+La caccia grossa non è l'unica specialità della nostra guida di pesca,
+La barca è dotata anche dell'attrezzatura necessaria per praticare il jigging o la traina leggera!
+</p>
+
+<h2>Carta</h2>
+<p class=\"mb-3\">
+Immagina la tua giornata di pesca personalizzata in base ai tuoi desideri, con la nostra guida di pesca, un programma su misura.
+
+In genere, la partenza per la battuta di pesca è prevista alle 7:30 del mattino e il rientro è previsto intorno alle 16:00.
+Durante il giorno i pasti e le bevande sono inclusi.
+</p>
+</sezione>",
             '289'       => '',
             '290'       => '',
             '291'       => '',
@@ -10119,14 +10360,114 @@ Mahabo von Manongarivo: Ein Mahabo ist ein heiliger Friedhof, auf dem die Prinze
 
 <h2 class="guide-heading">Die Bevölkerung:</h2>
 
-<p Klasse="mb-3">
+<p class="mb-3">
 Die herzliche und gastfreundliche Bevölkerung von Hell-Ville besteht hauptsächlich aus dem Volk der Sakalava, einer der 18 ethnischen Gruppen, die Madagaskar bewohnen.
 Es zeichnet sich durch seine Kultur und Geschichte aus. Tabus und Verbote nehmen in der lokalen Kultur noch immer einen wichtigen Platz ein. Wie in ganz Madagaskar ist auch hier die Ahnenverehrung noch immer präsent. Für ihre tägliche Unterstützung werden sie immer um Segen gebeten. Die Einfachheit des Lebens der Bewohner der Insel Nosy Be spiegelt sich in ihrer traditionellen Kleidung wider. Das „Kisaly“ ist die traditionelle Kleidung der Frauen, während die Tradition den Männern das Tragen des „Kitamby“ vorschreibt.
 Mit den Veränderungen, die die Modernisierung mit sich brachte, ist das Tragen der letzteren jedoch vorbei, während das „Kisaly“ weiterhin in Mode bleibt. Während der Kolonialisierung gelangten andere Religionen wie das Christentum und der Islam auf die Insel und leben seitdem in perfekter Koexistenz mit der Tradition.
 </p>',
-            '286'       => '',
-            '287'       => '',
-            '288'       => '',
+            '286'       => '<h2 class="guide-heading">Historische Stätten prägen die Geschichte von Nosy Be:</h2>
+
+<p Klasse="mb-3">
+Wir können einige davon nennen und Sie können sie besuchen oder mit oder ohne Führer in Nosy Be bleiben.
+<br>
+<strong>Das Grüne Lager befindet sich in Hell-Ville.</strong> Die Kanoniere waren dort stationiert, um an die Kolonialzeit zu erinnern.
+<br>
+
+<strong>Der Banyan-Baum in Mahatsinjo.</strong> Kleine Anmerkung: Sie müssen die traditionelle Kleidung der Einheimischen tragen, um den heiligen Ort zu betreten. Allerdings gibt es an diesem Ort welche.
+<br>
+<strong>Marodoka</strong>: das Geisterdorf in Ambanoro
+
+</p>
+
+<h2 class="guide-heading">Transportmittel:</h2>
+
+<p class="mb-3">
+Auf der Insel Nosy Be gibt es verschiedene Transportmöglichkeiten: Spezialtaxis, Sammeltaxis und Tuk-Tuks oder Mietwagen. Spezialtaxi: Fahrer nehmen immer nur einen Kunden auf einmal mit. Vereinbaren Sie den Preis vorsichtshalber vor dem Einsteigen.
+Sammeltaxi: Der Fahrtpreis richtet sich nach dem Zielort und der Anzahl der Fahrgäste. Die Abfahrtszeit hängt davon ab, wann alle Plätze belegt sind. Jeder Passagier wird dann zu seinem Ziel gebracht.
+Motorradtaxis: Mit ihren drei Rädern und der gelben Farbe sind Motorradtaxis eine günstige Alternative zum Taxi.
+Vermietung: Reisende können Autos (4x4s usw.), Motorräder, Motorroller, Quads und Buggys (Geländefahrzeuge) mieten.
+</p>
+
+<h2 class="guide-heading">Das Sômarôho-Fest:</h2>
+
+<p class="mb-3">
+Es ist unmöglich, über Nosy Be zu sprechen, ohne das Somaroho-Festival zu erwähnen. Das Somaroho-Festival ist eine wahre Hymne an die madagassische Musik und bietet ein reichhaltiges und abwechslungsreiches Programm. Auf der Bühne treten lokale und internationale Künstler auf und vermischen traditionelle und zeitgenössische Klänge.
+Somaroho beleuchtet verschiedene madagassische Musikgenres wie Salegy, Tsapiky, Reggae, Jazz, Pop und Rock. Die Künstler tragen ihre Lieder mit Leidenschaft vor und vermitteln ihr kulturelles Erbe und ihre Botschaften durch die Musik. Dies ist eine einmalige Gelegenheit, den Reichtum und die Vielfalt der madagassischen Musikszene zu entdecken! Am ersten Tag des Festivals war die ganze Stadt Nosy Be gefüllt und es zogen Prozessionen durch: Tänzer, Seiltänzer auf langen Stelzen, Stuntmen auf Rollschuhen, die über Tuk-Tuks sprangen, Jugendverbände, die die Umwelt schützten, gegen Gewalt an Frauen kämpften, Musiker usw.
+</p>
+
+<h2 class="guide-heading">Top 5 Hotelvorschläge in Nosy Be:</h2>
+
+<ul>
+<li><strong> Ravintsara Wellness Resort</strong></li>
+<li><strong>Exora Strandresort</strong></li>
+<li><strong>Orangea Strandresort</strong></li>
+<li><strong> Nosy Be Hotel und Spa</strong></li>
+<li><strong>Die blaue Stunde</strong></li>
+</ul>
+
+
+<h2 class="guide-heading">Top 5 Restaurantvorschläge in Nosy Be:</h2>
+
+<ul>
+<li><strong>Kakaostrand</strong></li>
+<li><strong>Schmetterling</strong></li>
+<li><strong>Marnas Küche</strong></li>
+<li><strong>Karibo </strong></li>
+<li><strong>Alexanders Tisch</strong></li>
+</ul>',
+            '287'       => 'Hochseefischen',
+            '288'       => '<Abschnittsklasse="Inhaltsabschnitt">
+<h2>Schaltkreisbeschreibung</h2>
+<p>
+Sind Sie ein leidenschaftlicher Angler oder möchten Sie diese Disziplin einfach entdecken?
+Begleiten Sie unseren Hochseefischereiführer in Nosy Be.
+</p>
+
+</Abschnitt>
+
+<Abschnittsklasse="Inhaltsabschnitt">
+<h2>Der Leitfaden</h2>
+<p class="mb-3">
+Mit über 12 Jahren Erfahrung im Sportfischen und 8 Jahren Erfahrung als Angelführer,
+Er verfügt über die Werkzeuge, die Ihnen helfen, seine Leidenschaft zu entdecken.
+
+Egal, ob Sie ein Experte oder ein Anfänger sind,
+Er wird Sie unterstützen und Ihnen helfen, gemeinsam Erinnerungen zu schaffen
+unvergessliche Angelausflüge in Nosy Be.
+
+Unser Angelführer ist vor allem ein Liebhaber des Meeres und wird der ideale Führer sein
+für alle Ihre nautischen Abenteuer.
+</p>
+
+<h2>Das Boot</h2>
+<p Klasse="mb-3">
+Der 10m Vandame Rumpf oder 14m Katamaran, angetrieben von zwei 140 PS Motoren,
+ist das Traumboot für das Sportfischen und insbesondere für den Blauen Marlin.<br>
+
+Extrem reaktionsschnell, überaus ausgestattet mit Elektronik (GPS, Radar, Echolot) und Sicherheitsausrüstung
+(VHF, Rettungsinsel, etc.), Veni Vidi Fishi ist auch sehr komfortabel
+und einladend, was es auf allen Meeren und zu jeder Jahreszeit sehr komfortabel macht.
+</p>
+
+<h2>Das Material</h2>
+<p Klasse="mb-3">
+Denn die Freude am Angeln hängt auch von der Qualität der Ausrüstung ab,
+Unser Angelführer hat nicht gezögert, das Beste auszuwählen. Eine große Auswahl an Shimano Tiagra in 30,
+Es stehen Ihnen 50 und 80 lb sowie eine beeindruckende Auswahl an Ködern zur Verfügung.
+</p>
+<p class="mb-3">
+Big Game ist nicht die einzige Spezialität unseres Angelführers,
+Auch zum Jiggen oder leichten Trolling verfügt das Boot über die nötige Ausrüstung!
+</p>
+
+<h2>Charta</h2>
+<p class="mb-3">
+Stellen Sie sich Ihren Angeltag ganz nach Ihren Wünschen vor, mit unserem Angelguide ein maßgeschneidertes Programm.
+
+Normalerweise beginnt ein Angelausflug um 7:30 Uhr und endet gegen 16:00 Uhr.
+Tagsüber sind Mahlzeiten und Getränke inklusive.
+</p>
+</Abschnitt>',
             '289'       => '',
             '290'       => '',
             '291'       => '',
