@@ -961,11 +961,106 @@ Fishing trips generally depart at 7:30 a.m. and return around 4:00 p.m.
 Meals and drinks are included during the day.
 </p>
 </section>",
-            '289'       => '',
-            '290'       => '',
-            '291'       => '',
-            '292'       => '',
-            '293'       => '',
+            '289'       => 'COMBINE MITSIO AND RADAMA',
+            '290'       => '<h5>11-DAY/10-NIGHT DIVING CRUISE PROGRAM</h5>
+
+<p class="mb-3">
+<b>Day 1:</b>
+Embarkation at 8:30 a.m. on Ambatoloaka beach.
+Head to Tanikely, an underwater reserve where all kinds of reef fish are present.
+During the shallow dive, you\'ll see colorful fish, turtles, nudibranchs, rays, and large groupers.
+Late afternoon, anchor at Nosy Faly.
+</p>
+
+<p class="mb-3">
+<b>Day 2:</b>
+Morning, head to the Mitsio Islands. 2 dives: Les Tétons (Whale Rock).
+Afternoon, dive La Casquette (Betalinjona), passing the basalt columns.
+Anchor at Marimbe Bay. </p>
+
+<p class="mb-3">
+<b>Day 3:</b>
+Morning, 2 dives at Banc du Petit Castor.
+Afternoon, a short stopover at Nosy Lava (visit the fishing village).
+Nosy Lava anchorage, night dive.
+
+</p>
+
+<p class="mb-3">
+<b>Day 4:</b> Morning, dive at Banc d\'Ankarea. This island is home to a magnificent bay where the wonders of the seabed will once again be admired by divers.
+After the dives, visit and tour Tsarabajina Island. This island is one of the most beautiful islands in Mitsio. A magnificent beach awaits you... <br>
+Afternoon, 2nd dive at Beangovo. Ratapenjiky anchorage.
+
+</p>
+
+<p class="mb-3">
+<b>Day 5:</b>
+Morning: 2 dives on the Les Frères, then a 3-hour sail to Sakatia Island.
+
+Boat supplies and anchorage in Nosy Sakatia.
+</p>
+
+<p class="mb-3">
+<b>Day 6:</b> 2. Diving around Sakatia: Unicorn Bank. Not far from Sakatia Island, this plateau is home to a large number of schools of unicorn fish, surgeonfish, and triggerfish. Pelagic fish pass through very frequently. The unique feature of this bank: the presence of a multitude of very colorful corals.
+Afternoon: sail to Russian Bay. Anchorage in Russian Bay.
+</p>',
+            '291'       => '<div class="mb-3">
+<b>Day 7:</b>
+Morning dive at the South Canyon Drop-off
+Afternoon dive at the West Kalakajoro Drop-off. Antanimora anchorage.
+</div>
+
+<div class="mb-3">
+<b>Day 8:</b>
+Morning dive at the Cyclone Bank.
+Suzanne Garden dive.
+Afternoon stopover on Antanimora Island, admire the fishing villages.
+Antanimora anchorage, night dive
+</div>
+
+<p class="mb-3">
+<b>Day 9:</b>
+Morning dive at Greg Wall.
+Berafia West Drop-off.
+Afternoon stopover in the Baramahmay River, this river offers a mangrove complex with exceptional wildlife. Baramahmay Anchorage
+</p>
+<p class="mb-3">
+<b>Day 10:</b>
+Morning dive at Roches a Gabriel.
+Stopover at Nosy Iranja, "Turtle Island," a beautiful beach awaits you, not to mention the friendly villagers...
+Afternoon dive west of Nosy Iranja.
+Anchorage at Baie des Russes.
+
+</p>
+<p class="mb-3">
+<b>Day 11:</b>
+Morning 2 dives at Grand Banc de l\'Entrance
+Disembarkation on Nosy Be at 4:00 PM <br><br>
+<strong>The Mitsio Archipelago</strong><br>
+The archipelago is made up of five islands: Grande Mitsio, Nosy Lava, Nosy Ankarea, the Four Brothers, and Nosy Tsara-Banjina. Banc du Castor is 8 minutes west of Grande Mitsio. Although the Mitsio Islands are a diver\'s paradise, it\'s important to remember that the beauty of the islands and their magnificent beaches make this place a dream destination for "no bubbles" exploration. Moreover, to the north, other unexplored islands offer unspoiled terrestrial flora and fauna.
+Thanks to the diversity of the seabed, the Mitsio Islands are the perfect place for divers of all levels. Depths range from 2m (excellent for snorkeling) to 35m, with an average depth of 15-25m. You can admire all kinds of coral, including the
+<br>
+amazing giant gorgonians, as well as a multitude of coral reef fish. Schools of barracuda, trevally, and other pelagics are abundant, not to mention manta rays and whale sharks. <br><br>
+<strong>The Radama Archipelago</strong> <br>
+The Radama archipelago consists of four islands: Nosy Kalakajoro, Nosy Ovy, Nosy Antany,
+Mora, and Nosy Valiha. This archipelago boasts stunning tropical vegetation and beautiful, little-visited beaches. The few fishing villages are worth a visit, not only for the friendliness and hospitality of the locals, but also to discover their way of life.
+All the dive sites are concentrated in the Mozambique Channel, about 3 minutes from the islands. They are mainly drop-offs where the depth varies between 12 and 60 meters. The spectacle is impressive and dizzying, thanks to the giant gorgonians, caves, and crevices. Regular encounters include schools of toms, barracudas, trevally, whitetip sharks, hammerhead sharks, giant groupers, and more.
+
+</p>',
+            '292'       => '<h3>Included Services</h3>
+<ul>
+<li>Private boat with 4 double cabins and private bathroom</li>
+<li>Full board with mineral water (aperitif at sunset)</li>
+<li>Blocks, belts, and weights</li>
+<li>Tanikelly National Park entrance fee</li>
+<li>Crew on board: skipper, sea cook, and diving instructor</li>
+</ul>',
+            '293'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Alcoholic and non-alcoholic beverages</li>
+<li>Diving</li>
+<li>Diving equipment</li>
+</ul>',
             '294'       => '',
             '295'       => '',
             '296'       => '',
@@ -4051,11 +4146,111 @@ Airport assistance and HAVE A GREAT FLIGHT.
                 Durant la journée le repas et les boissons sont compris.
             </p>
         </section>',
-            '289'       => '',
-            '290'       => '',
-            '291'       => '',
-            '292'       => '',
-            '293'       => '',
+            '289'       => 'COMBINE MITSIO ET RADAMA',
+            '290'       => '<h5>PROGRAMME CROISIERE PLONGEE 11 JOURS /10 NUITS</h5>
+           
+            <p class="mb-3">
+                <b> 1er jour :</b>
+                Embarquement à 8h 30mn sur la plage d’Ambatoloaka.
+                Direction Tanikely c’est une réserve sous-marine ou toutes sortes de poissons de récif sont
+                présentes. Pendant la plongée, peu profonde, poissons aux milles couleur, tortues,
+                nudibranches, raies, gros mérous vous accompagneront.
+                Fin après midi mouillage Nosy Faly.
+            </p>
+
+            <p class="mb-3">
+                <b>2e jour:</b>
+                Matin cap vers les îles mitsio 2 plongée Les Tétons (Rocher de la Baleine).
+                Après-midi plongée La casquette(Betalinjona), passage auxorgues basaltiques.
+                Mouillage Baie de Marimbe.
+            </p>
+
+            <p class="mb-3">
+                <b>3e jour:</b>
+                Matin 2 plongées Banc du petit Castor.
+                Après-midi une petite escale sur Nosy Lava (visite du village de pêcheur)
+                Mouillage Nosy Lava plongée de nuit 
+
+            </p>
+
+            <p class="mb-3">
+               <b> 4ème jour:</b> Matin plongée Banc d’Ankarea. Cette île abrite une magnifique baie où les merveilles des fondsmarins s’offriront, une fois de plus, à l’admiration des plongeurs.
+               Après les plongées visite et tour de l’île de tsarabajina, cette île fait partie de la plus belle île qui se trouve au mitsio, une magnifique plage vous attend ... <br>
+                Après-midi 2e plongée Beangovo.Mouillage Ratapenjiky.
+
+            </p>
+
+            <p class="mb-3">
+                <b> 5ème jour:</b> 
+                Matin 2 plongées sur les frères ensuite 3h de navigation jusqu\'à l\'île de sakatia
+                Approvisionnement du bateau et Mouillage à Nosy sakatia.
+            </p>
+
+            <p class="mb-3">
+                <b>6ème jour:</b>2Plongée aux alentours de sakatia Banc des Licornes Pas loin de l\'île de Sakatia, ce plateau abrite un grand nombre de bancs de poissons licornes, chirurgiens et balistes. Passages de poissons pélagiques très fréquents. La particularité de ce banc : la présente d’une multitude de coraux très colorés.
+                Après-midi navigation jusqu’à la baie des russes. Mouillage baie des Russes.
+            </p>',
+            '291'       => '<div class="mb-3">
+                <b>7ème jour:</b>
+                Matin plongée Tombant sud canyon
+                Après-midi plongée Tombant ouest Kalakajoro. Mouillage Antanimora.
+            </div>
+
+            <div class="mb-3">
+                <b>8ème jour:</b>
+                Matin plongée Banc du cyclone.
+                Plongée Jardin de suzanne.
+                Après-midi escale sur l’île Antanimora , vous admirez des villages des pêcheurs
+                Mouillage Antanimora plongée de nuit 
+            </div>
+
+            <p class="mb-3">
+                <b>9ème jour:</b>
+                Matin plongée Greg wall.
+                Plongée Tombant ouest Berafia.
+                Après-midi escale dans la rivière de Baramahmay, cette rivière offre un complexe de
+                Mangrove avec une faune exceptionnelle. Mouillage Baramahmay
+            </p>
+            <p class="mb-3">
+                <b> 10ème jour:</b>
+                Matin plongée Roches a Gabriel.
+                Escale à nosy Iranja "l\'île aux tortues" une belle plage vous attend sans parler de la sympathie des villageois ...
+                Apres midi plongée ouest de nosy iranja.
+                Mouillage Baie des Russes.
+
+            </p>
+            <p class=\"mb-3\">
+                <b> 11ème jour:</b>
+                Matin 2 plongées Grand Banc de l’entrée
+                Débarquement sur Nosy be à 16H00 <br><br>
+                <strong>L’archipel des Mitsio</strong><br>
+                L’archipel est formé de 5 îles : la Grande Mitsio, Nosy Lava, Nosy Ankarea, les quatre
+                frères et Nosy TsaraBanjina et le Banc du Castor est à 8mn à l\'ouest de la Grande Mitsio.
+                Bien que les Mitsio soient le paradis des plongeurs, il ne faut pas oublier que la beauté des îles et les plages magnifiques, font de cet endroit, la destination rêvée pour la découverte "sans bulles". De plus, au nord d\'autres îles inexplorées offrent une flore et faune terrestre encore intacte.
+                Grâce à la diversité des fonds marins, les Mitsio sont \'endroit parfait pour les plongeurs de tous niveaux. La profondeur varie de 2m (excellent pour le snorkeling) à 35m, avec une moyenne de 15-25m. Vous pourrez admirer toutes sortes de coraux, y compris les 
+                <br>
+                étonnantes gorgones géantes, ainsi qu\'une multitude de poissons coralliens. Les bancs de barracudas, caranges et autres pélagiques sont nombreux, sans oublier les mantas et les requins baleines.
+                <br><br>
+                <strong>L\'archipel des Radama</strong> <br>
+                L’archipel des Radama est constitué de 4 îles : Nosy Kalakajoro, Nosy Ovy, Nosy Antany
+                Mora et Nosy Valiha. Cet archipel possède une végétation tropicale étonnante et de belles plages peu visitées. Les quelques villages de pêcheurs méritent le détour. Non seulement pour la sympathie et l’accueil des locaux, mais également pour découvrir leur mode de vie.
+                Tous les sites de plongées sont concentrés sur le canal du Mozambique, à environ 3mn des îles. Ce sont principalement des tombants ou la profondeur varie entre 12 et 60m. Le spectacle est impressionnant et vertigineux, grâce aux gorgones géantes, grottes et crevasses. Rencontres régulières avec des bancs de tons, barracudas et caranges, requins pointe blanche, requins marteaux, loches géantes, etc.
+
+            </p>',
+            '292'       => '<h3>Services Inclus</h3>
+                        <ul>
+                            <li>Le bateau privé 4 cabines double avec salle de bain privé</li>
+                            <li>La pension complète avec l’eau minérale (apéro au coucher du soleil)</li>
+                            <li>Blocs, ceinture et plombs</li>
+                            <li>Taxe d’entrée du parc de Tanikely</li>
+                            <li>Equipage à bord : skipper cuisteau marin et moniteur de plongée</li>
+                        </ul>',
+            '293'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons alcoolisées et non alcoolisées</li>
+                            <li>Plongée</li>
+                            <li>Les équipements de plongée</li>
+                        </ul>',
             '294'       => '',
             '295'       => '',
             '296'       => '',
@@ -7266,11 +7461,111 @@ In genere, la partenza per la battuta di pesca è prevista alle 7:30 del mattino
 Durante il giorno i pasti e le bevande sono inclusi.
 </p>
 </sezione>",
-            '289'       => '',
-            '290'       => '',
-            '291'       => '',
-            '292'       => '',
-            '293'       => '',
+            '289'       => 'COMBINA MITSIO E RADAMA',
+            '290'       => "PROGRAMMA CROCIERA SUBACQUEA DI 11 GIORNI / 10 NOTTI
+
+<p class=\"mb-3\">
+<b>Giorno 1:</b>
+Imbarco alle 8:30 sulla spiaggia di Ambatoloaka.
+Dirigiti a Tanikely, è una riserva sottomarina dove si trovano tutti i tipi di pesci di barriera
+presente. Durante l'immersione, poco profonda, pesci dai mille colori, tartarughe,
+nudibranchi, razze, grandi cernie vi accompagneranno.
+Fine pomeriggio ancoraggio a Nosy Faly.
+</p>
+
+<p class=\"mb-3\">
+<b>Giorno 2:</b>
+Mattina in direzione delle Isole Mitsio. 2 immersioni a Les Tétons (Roccia della Balena).
+Immersioni pomeridiane a La casquette (Betalinjona), passando per gli organi di basalto.
+Ancoraggio nella baia di Marimbe.
+</p>
+
+<p class=\"mb-3\">
+<b>Giorno 3:</b>
+Mattina 2 immersioni al Little Castor Bank.
+Pomeriggio breve sosta a Nosy Lava (visita al villaggio dei pescatori)
+Immersione notturna all'ancoraggio di Nosy Lava
+
+</p>
+
+<p class=\"mb-3\">
+<b>4° giorno:</b> Immersione mattutina sul banco di Ankarea. Quest'isola ospita una magnifica baia dove le meraviglie dei fondali marini si svelano ancora una volta agli occhi degli amanti delle immersioni.
+Dopo le immersioni, visita e tour dell'isola di Tsarabajina, quest'isola fa parte delle isole più belle situate a Mitsio, vi aspetta una magnifica spiaggia... <br>
+Pomeriggio 2a immersione a Beangovo. Ancoraggio Ratapenjiky.
+
+</p>
+
+<p class=\"mb-3\">
+<b>5° giorno:</b>
+Mattina 2 immersioni sui fratelli poi 3 ore di navigazione verso l'isola di Sakatia
+Forniture per imbarcazioni e ancoraggio a Nosy Sakatia.
+</p>
+
+<p class=\"mb-3\">
+<b>Giorno 6:</b>2Immersioni intorno a Sakatia Unicorn Bank Non lontano dall'isola di Sakatia, questo altopiano ospita un gran numero di banchi di pesci unicorno, pesci chirurgo e pesci balestra. Passaggio molto frequente di pesci pelagici. La particolarità di questa panchina: la presenza di una moltitudine di coralli coloratissimi.
+Nel pomeriggio navigazione verso Russian Bay. Ancoraggio nella baia russa.
+</p>",
+            '291'       => "<div class=\"mb-3\">
+<b>7° giorno:</b>
+Immersione mattutina South Canyon Drop-off
+Immersioni pomeridiane a Kalakajoro West Wall. Ancoraggio di Antanimora.
+</div>
+
+<div class=\"mb-3\">
+<b>8° giorno:</b>
+Immersione mattutina sul Cyclone Bank.
+Immersioni nel giardino di Suzanne.
+Sosta pomeridiana sull'isola di Antanimora, ammirerai i villaggi dei pescatori
+Immersione notturna all'ancoraggio di Antanimora
+</div>
+
+<p class=\"mb-3\">
+<b>9° giorno:</b>
+Immersione mattutina di Greg Wall.
+Immersione a Berafia West Drop-off.
+Sosta pomeridiana nel fiume Baramahmay, questo fiume offre un complesso di
+Mangrovie con fauna selvatica eccezionale. Ancoraggio di Baramahmay
+</p>
+<p class=\"mb-3\">
+<b>10° giorno:</b>
+Immersione mattutina a Roches a Gabriel.
+Sosta a Nosy Iranja \"l'isola delle tartarughe\": vi aspetta una spiaggia meravigliosa, per non parlare della cordialità degli abitanti del villaggio...
+Immersione pomeridiana a ovest di Nosy Iranja.
+Ancoraggio nella baia russa.
+
+</p>
+<p class=\"mb-3\">
+<b>11° giorno:</b>
+Mattina 2 immersioni al Grand Banc de l'entrée
+Atterraggio a Nosy Be alle 16:00. <br><br>
+<strong>L'arcipelago delle Mitsio</strong><br>
+L'arcipelago è composto da 5 isole: Grande Mitsio, Nosy Lava, Nosy Ankarea, le quattro
+fratelli e Nosy TsaraBanjina e il Banc du Castor si trova a 8 minuti a ovest di Grande Mitsio.
+Sebbene Mitsio sia un paradiso per i subacquei, non bisogna dimenticare che la bellezza delle isole e le magnifiche spiagge rendono questo luogo una destinazione da sogno per esplorazioni \"senza bolle\". Inoltre, a nord, altre isole inesplorate offrono una flora e una fauna terrestre ancora intatte.
+Grazie alla diversità dei fondali marini, le Mitsio sono il luogo ideale per i subacquei di tutti i livelli. La profondità varia dai 2 m (ottima per lo snorkeling) ai 35 m, con una media di 15-25 m. Potrai ammirare tutti i tipi di coralli, compresi i
+<br>
+incredibili gorgonie giganti e una moltitudine di pesci corallini. Ci sono numerosi banchi di barracuda, carangidi e altri pelagici, per non parlare delle mante e degli squali balena.
+<br><br>
+<strong>L'Arcipelago Radama</strong> <br>
+L'arcipelago di Radama è formato da 4 isole: Nosy Kalakajoro, Nosy Ovy, Nosy Antany
+Mora e Nosy Valiha. Questo arcipelago è caratterizzato da una vegetazione tropicale mozzafiato e da spiagge bellissime, anche se poco frequentate. Vale la pena visitare anche i pochi villaggi di pescatori. Non solo per la cordialità e l'accoglienza della gente del posto, ma anche per scoprire il loro stile di vita.
+Tutti i siti di immersione sono concentrati nel Canale del Mozambico, a circa 3 minuti dalle isole. Si tratta principalmente di dislivelli la cui profondità varia tra 12 e 60 metri. Lo spettacolo è impressionante e vertiginoso, grazie alle gorgonie giganti, alle grotte e alle fenditure. Incontri regolari con banchi di toni, barracuda e carangidi, squali pinna bianca, squali martello, botia giganti, ecc.
+
+</p>",
+            '292'       => "<h3>Servizi inclusi</h3>
+<ul>
+<li>La barca privata 4 cabine doppie con bagno privato</li>
+<li>Pensione completa con acqua minerale (aperitivo al tramonto)</li>
+<li>Blocchi, cintura e pesi</li>
+<li>Tariffa d'ingresso al parco Tanikely</li>
+<li>Equipaggio a bordo: skipper, cuoco di mare e istruttore subacqueo</li>
+</ul>",
+            '293'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande alcoliche e analcoliche</li>
+<li>Immersioni</li>
+<li>Attrezzatura subacquea</li>
+</ul>',
             '294'       => '',
             '295'       => '',
             '296'       => '',
@@ -9440,7 +9735,7 @@ In Madagascar ci sono vari mezzi di trasporto: il taxi brousse è il mezzo di tr
         'de' => [
             '245'       => 'Mantadia-Park',
             '246'       => 'Besonderheit des Parks',
-            '247'       => '<p Klasse="mb-4">
+            '247'       => '<p class="mb-4">
 Terrestrischer Nationalpark mit dichtem immergrünem Regenwald, in dem Amphibienarten,
 Reptilien und Lemuren haben sich dort als Lebensraum entschieden.
 Darüber hinaus gibt es Flüsse, die für die Stromerzeugung wichtig sind.
@@ -9513,7 +9808,7 @@ Der Regionalrat von Analamazaotra wurde 1970 gegründet.
             '249'       => 'Marojejy-Park',
             '250'       => '<h2>Besonderheiten des Parks</h2>
 
-<p Klasse="mb-4">
+<p class="mb-4">
 Nationaler Landpark, der zum Weltkulturerbe erklärt wurde,
 beeindruckendes Massiv, dichter feuchter Wald
 der Lebensraum von Propithecus candidus oder Simpona fotsy in niedriger Höhe,
@@ -9598,7 +9893,7 @@ Dominante ethnische Gruppe der Tsimihety. Andere: Betsimisaraka, Betsileo, Merin
 für einen Bootstransfer zum Hafen von Ankify in 35 Minuten.
 </p>
 
-<p Klasse="mb-4">
+<p class="mb-4">
 Vom Hafen von Ankify aus fahren wir weiter Richtung Norden und durchqueren einerseits die typischen Dörfer der Antakarana-Stämme
 und ein riesiges Mahagonifeld auf der anderen Seite, bevor es sich der städtischen Gemeinde anschließt
 von Ambilobe durch die herrlichen Landschaften für Panoramablicke und vor allem
@@ -10367,7 +10662,7 @@ Mit den Veränderungen, die die Modernisierung mit sich brachte, ist das Tragen 
 </p>',
             '286'       => '<h2 class="guide-heading">Historische Stätten prägen die Geschichte von Nosy Be:</h2>
 
-<p Klasse="mb-3">
+<p class="mb-3">
 Wir können einige davon nennen und Sie können sie besuchen oder mit oder ohne Führer in Nosy Be bleiben.
 <br>
 <strong>Das Grüne Lager befindet sich in Hell-Ville.</strong> Die Kanoniere waren dort stationiert, um an die Kolonialzeit zu erinnern.
@@ -10440,7 +10735,7 @@ für alle Ihre nautischen Abenteuer.
 </p>
 
 <h2>Das Boot</h2>
-<p Klasse="mb-3">
+<p class="mb-3">
 Der 10m Vandame Rumpf oder 14m Katamaran, angetrieben von zwei 140 PS Motoren,
 ist das Traumboot für das Sportfischen und insbesondere für den Blauen Marlin.<br>
 
@@ -10450,7 +10745,7 @@ und einladend, was es auf allen Meeren und zu jeder Jahreszeit sehr komfortabel 
 </p>
 
 <h2>Das Material</h2>
-<p Klasse="mb-3">
+<p class="mb-3">
 Denn die Freude am Angeln hängt auch von der Qualität der Ausrüstung ab,
 Unser Angelführer hat nicht gezögert, das Beste auszuwählen. Eine große Auswahl an Shimano Tiagra in 30,
 Es stehen Ihnen 50 und 80 lb sowie eine beeindruckende Auswahl an Ködern zur Verfügung.
@@ -10468,11 +10763,111 @@ Normalerweise beginnt ein Angelausflug um 7:30 Uhr und endet gegen 16:00 Uhr.
 Tagsüber sind Mahlzeiten und Getränke inklusive.
 </p>
 </Abschnitt>',
-            '289'       => '',
-            '290'       => '',
-            '291'       => '',
-            '292'       => '',
-            '293'       => '',
+            '289'       => 'KOMBINIEREN SIE MITSIO UND RADAMA',
+            '290'       => '<h5>11 TAGE / 10 NÄCHTE TAUCHKREUZFAHRTPROGRAMM</h5>
+
+<p class="mb-3">
+<b>Tag 1:</b>
+Einschiffung um 8:30 Uhr am Strand von Ambatoloaka.
+Gehen Sie nach Tanikely, einem Unterwasserreservat, in dem alle Arten von Rifffischen leben.
+gegenwärtig. Während des Tauchgangs, seicht, Fische in tausend Farben, Schildkröten,
+Nacktschnecken, Rochen und große Zackenbarsche werden Sie begleiten.
+Ende des Nachmittags Ankerplatz Nosy Faly.
+</p>
+
+<p class="mb-3">
+<b>Tag 2:</b>
+Morgens geht es weiter zu den Mitsio-Inseln, 2 Tauchgänge bei Les Tétons (Whale Rock).
+Nachmittagstauchen bei La Casquette (Betalinjona), vorbei an den Basaltorgeln.
+Ankerplatz in der Marimbe Bay.
+</p>
+
+<p class="mb-3">
+<b>Tag 3:</b>
+Morgens 2 Tauchgänge an der Little Castor Bank.
+Nachmittags kurzer Zwischenstopp in Nosy Lava (Besuch des Fischerdorfes)
+Nachttauchgang vor dem Ankerplatz Nosy Lava
+
+</p>
+
+<p class="mb-3">
+<b>4. Tag:</b> Morgentauchgang auf der Ankarea Bank. Auf dieser Insel befindet sich eine herrliche Bucht, in der sich den Tauchern erneut die Wunder des Meeresbodens offenbaren und sie bewundern können.
+Nach den Tauchgängen, dem Besuch und der Tour der Insel Tsarabajina, die zu den schönsten Inseln in Mitsio gehört, erwartet Sie ein herrlicher Strand... <br>
+Nachmittags 2. Tauchgang Beangovo. Ankerplatz Ratapenjiky.
+
+</p>
+
+<p class="mb-3">
+<b>5. Tag:</b>
+Morgens 2 Tauchgänge auf den Brüdern, dann 3 Stunden Navigation zur Insel Sakatia
+Bootsbedarf und Ankerplatz in Nosy Sakatia.
+</p>
+
+<p class="mb-3">
+<b>Tag 6:</b>2Tauchen rund um die Sakatia Unicorn Bank. Nicht weit von der Insel Sakatia entfernt ist dieses Plateau die Heimat zahlreicher Schwärme von Einhornfischen, Doktorfischen und Drückerfischen. Sehr häufiger Durchgang pelagischer Fische. Die Besonderheit dieser Bank: das Vorhandensein einer Vielzahl sehr farbenfroher Korallen.
+Nachmittags Segeln zur Russian Bay. Ankerplatz in der Russian Bay.
+</p>',
+            '291'       => '<div class="mb-3">
+<b>7. Tag:</b>
+Morgentauchgang South Canyon Drop-off
+Nachmittagstauchen an der Kalakajoro West Wall. Ankerplatz Antanimora.
+</div>
+
+<div class="mb-3">
+<b>8. Tag:</b>
+Morgentauchgang auf der Cyclone Bank.
+Tauchen in Suzannes Garten.
+Nachmittags Zwischenstopp auf der Insel Antanimora, bewundern Sie Fischerdörfer
+Nachttauchgang am Ankerplatz von Antanimora
+</div>
+
+<p class="mb-3">
+<b>9. Tag:</b>
+Morgentauchgang, Greg Wall.
+Berafia West Drop-off-Tauchgang.
+Nachmittags Zwischenstopp im Baramahmay Fluss, dieser Fluss bietet einen Komplex von
+Mangroven mit außergewöhnlicher Tierwelt. Baramahmay Anchorage
+</p>
+<p class="mb-3">
+<b>10. Tag:</b>
+Morgendlicher Tauchgang bei Roches a Gabriel.
+Zwischenstopp auf Nosy Iranja, der „Schildkröteninsel“. Ein wunderschöner Strand erwartet Sie, ganz zu schweigen von der Freundlichkeit der Dorfbewohner …
+Nachmittagstauchgang westlich von Nosy Iranja.
+Ankerplatz in der Russian Bay.
+
+</p>
+<p class="mb-3">
+<b>11. Tag:</b>
+Morgens 2 Tauchgänge Grand Banc de l’entrée
+Landung auf Nosy Be um 16:00 Uhr. <br><br>
+<strong>Der Mitsio-Archipel</strong><br>
+Der Archipel besteht aus 5 Inseln: Grande Mitsio, Nosy Lava, Nosy Ankarea, die vier
+Brüder und Nosy TsaraBanjina und die Banc du Castor liegen 8 Minuten westlich von Grande Mitsio.
+Obwohl Mitsio ein Paradies für Taucher ist, sollte man nicht vergessen, dass die Schönheit der Inseln und die herrlichen Strände diesen Ort zu einem Traumziel für „blasenfreie“ Entdeckungen machen. Darüber hinaus bieten weitere unerforschte Inseln im Norden eine noch intakte terrestrische Flora und Fauna.
+Dank der Vielfalt des Meeresbodens sind die Mitsio der perfekte Ort für Taucher aller Niveaus. Die Tiefe variiert von 2 m (hervorragend zum Schnorcheln) bis 35 m, im Durchschnitt beträgt sie 15–25 m. Sie können alle Arten von Korallen bewundern, darunter die
+<br>
+erstaunliche Riesengorgonien sowie eine Vielzahl von Korallenfischen. Es gibt zahlreiche Schwärme von Barrakudas, Makrelen und anderen Hochseefischen, ganz zu schweigen von Mantas und Walhaien.
+<br><br>
+<strong>Der Radama-Archipel</strong> <br>
+Der Radama-Archipel besteht aus 4 Inseln: Nosy Kalakajoro, Nosy Ovy und Nosy Antany
+Mora und Nosy Valiha. Dieser Archipel verfügt über eine atemberaubende tropische Vegetation und wunderschöne, wenig besuchte Strände. Die wenigen Fischerdörfer sind einen Abstecher wert. Nicht nur wegen der Freundlichkeit und Gastfreundschaft der Einheimischen, sondern auch, um ihre Lebensweise kennenzulernen.
+Alle Tauchplätze konzentrieren sich im Kanal von Mosambik, etwa 3 Minuten von den Inseln entfernt. Dabei handelt es sich überwiegend um Abhänge, deren Tiefe zwischen 12 und 60 m variiert. Das Schauspiel ist dank der riesigen Gorgonien, Höhlen und Spalten beeindruckend und schwindelerregend. Regelmäßige Begegnungen mit Schwärmen von Ton-, Barrakuda- und Makrelenhaien, Weißspitzen-Riffhaien, Hammerhaien, Riesenschmerlen usw.
+
+</p>',
+            '292'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Das Privatboot verfügt über 4 Doppelkabinen mit eigenem Bad</li>
+<li>Vollpension mit Mineralwasser (Aperitif bei Sonnenuntergang)</li>
+<li>Blöcke, Gürtel und Gewichte</li>
+<li>Eintrittsgebühr für den Tanikely Park</li>
+<li>Crew an Bord: Skipper, Seekoch und Tauchlehrer</li>
+</ul>',
+            '293'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Alkoholische und alkoholfreie Getränke</li>
+<li>Tauchen</li>
+<li>Tauchausrüstung</li>
+</ul>',
             '294'       => '',
             '295'       => '',
             '296'       => '',
@@ -10582,13 +10977,13 @@ Die Bevölkerung der Insel Nosy Be ist sehr gemischt und multikulturell. Die Ant
 </p>
 
 <h2 class="mb-4">DAS KÖNIGLICHE DORF</h2>
-<p Klasse="mb-3">
+<p class="mb-3">
 Mahabo von Manongarivo: Ein Mahabo ist ein heiliger Friedhof, auf dem die Prinzen königlicher Familien ruhen. Das zentrale Grab von Manongarivo beherbergt verschiedene Gräber, darunter die von Königin Sakalava Binao, die von 1881 bis 1921 regierte. Das kleine Haus auf der linken Seite ist das Schatzhaus und enthält die persönlichen Gegenstände der sterblichen Überreste. Der Zugang ist streng reglementiert, die Kleidung und die vorher durchzuführenden Riten müssen sowohl von der einheimischen Bevölkerung als auch von den Besuchern respektiert werden. An bestimmten Wochentagen ist der Aufenthalt dort verboten. Es ist wichtig, sich vor der Reise dorthin zu informieren.
 </p>
 
 <h2 class="mb-4">Die Bevölkerung:</h2>
 
-<p Klasse="mb-3">
+<p class="mb-3">
 Die herzliche und gastfreundliche Bevölkerung von Hell-Ville besteht hauptsächlich aus dem Volk der Sakalava, einer der 18 ethnischen Gruppen, die Madagaskar bewohnen.
 Es zeichnet sich durch seine Kultur und Geschichte aus. Tabus und Verbote nehmen in der lokalen Kultur noch immer einen wichtigen Platz ein. Wie in ganz Madagaskar ist auch hier die Ahnenverehrung noch immer präsent. Für ihre tägliche Unterstützung werden sie immer um Segen gebeten. Die Einfachheit des Lebens der Bewohner der Insel Nosy Be spiegelt sich in ihrer traditionellen Kleidung wider. Das „Kisaly“ ist die traditionelle Kleidung der Frauen, während die Tradition den Männern das Tragen des „Kitamby“ vorschreibt.
 Mit den Veränderungen, die die Modernisierung mit sich brachte, ist das Tragen der letzteren jedoch vorbei, während das „Kisaly“ weiterhin in Mode bleibt. Während der Kolonialisierung gelangten andere Religionen wie das Christentum und der Islam auf die Insel und leben seitdem in perfekter Koexistenz mit der Tradition.
@@ -10645,7 +11040,7 @@ Somaroho hebt verschiedene madagassische Musikgenres hervor, wie Salegy, Tsapiky
             '207'       => 'Hubschrauberrundflug über die Insel',            
             '208'       => '<h4>Helikopterrundflug über die Insel</h4>
 
-<p Klasse="mb-4">
+<p class="mb-4">
 Es ist immer erfrischend, die Perspektive zu ändern.
 Wir bieten Ihnen einen vertikalen Spaziergang an: Betrachten Sie Nosy-Be wie die Vögel es tun, vom Himmel aus. Zwischen seiner Küste, seinen Bergen und seiner grünen Landschaft gibt es eine ganze Welt zu (wieder)entdecken. Ein Helikopterflug ist ein körperliches Erlebnis. Der rasante Aufstieg,
 Die Schwingungen der Luft und des Windes sind eine Quelle intensiver Emotionen.
@@ -10715,7 +11110,7 @@ Nosy Iranja bietet eine idyllische, authentische und einzigartige Landschaft des
             '216'       => 'Der Isalo-Park',            
             '217'       => '<h2>Besonderheiten des Parks</h2>
 
-<p Klasse="mb-4">
+<p class="mb-4">
 Der Isalo Terrestrial National Park ist eine einzigartige ökologische Repräsentation innerhalb des Netzwerks der Nationalparks Madagaskars:
 ein ruinenförmiges Massiv aus kontinentalem Sandstein aus der Jurazeit
 mit seiner typischen Geomorphologie und endemischen Felsvegetation
@@ -10880,7 +11275,7 @@ Das Dorf ist mit einem Markt für Stickereien und Holzhandwerk geschmückt.
 Die Insel ist die Heimat einiger endemischer Arten wie dem berühmten einheimischen Lemur, dem Macaco Lemur,
 Boa-Constrictor-Schlangen, Chamäleons und verschiedene Landschildkröten.
 </p>
-<p Klasse="mb-3">
+<p class="mb-3">
 Nosy Tanikely ist ein Meeresschutzgebiet mit einem weißen Strand, der von einem Meer begrenzt wird
 kristallin und von einem Korallenriff umgeben. Es ist eine Insel, von der
 Auf dem Gipfel steht ein Leuchtturm aus dem Jahr 1908
@@ -11852,7 +12247,7 @@ Das Zebu ist ein Zeichen des Reichtums und daher sehr wichtig. Neben Reis ist es
             '146'       => '<h2>Besonderheiten des Parks</h2>
 
 
- <p Klasse="mb-4">
+ <p class="mb-4">
  Zum Weltkulturerbe erklärtes nationales terrestrisches Reservat mit der Tsingy-Landschaft unterschiedlicher Formen
  wo Lemuren, Land- und Wasservögel, Fledermäuse, Amphibien,
  Reptilien, endemische Säugetiere und eine Flora von mehr als 650
