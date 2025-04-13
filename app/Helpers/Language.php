@@ -1061,11 +1061,55 @@ All the dive sites are concentrated in the Mozambique Channel, about 3 minutes f
 <li>Diving</li>
 <li>Diving equipment</li>
 </ul>',
-            '294'       => '',
-            '295'       => '',
-            '296'       => '',
-            '297'       => '',
-            '298'       => '',
+            '294'       => 'THE RADAMA ARCHIPELAGO BY CATAMARAN',
+            '295'       => "<section class=\"content-section\">
+<h5>5-DAY/4-NIGHT DISCOVERY CRUISE PROGRAM TO THE RADAMES ARCHIPELAGO</h5>
+
+<p class=\"mb-3\">
+<b>Day 1:</b> Embark on board at 9 a.m. and head to the Tanikely Underwater Reserve, a 1-hour sail away. In this natural aquarium, you'll set off with fins, masks, and snorkels to encounter sea turtles and fish of the Indian Ocean. Lunch on board and sail toward the historic site of Russian Bay, a 4-hour sail away. This estuary, a refuge for sailors throughout history, offers an ideal anchorage for the night. Dinner and overnight stay on board.
+</p>
+
+<p class=\"mb-3\">
+<b>Day 2:</b> Depart early for the first island of the Radames, Kalakajoro, about a 6-hour sail away. To the northeast stretches a white sand beach lined with filao trees, where you'll drop anchor. Two fathoms out lies the coral reef, perfect for exploring with snorkeling gear. Dinner and overnight stay on board.
+</p>
+
+<p class=\"mb-3\">
+<b>Day 3:</b> Breakfast and sail to Antany Mora, 1.5 hours away. Behind the beach, nestled in the wild vegetation, is a fishing village. Welcoming and friendly villagers will introduce you to a traditional way of life. Dinner and overnight stay on board. </p>
+
+<p class=\"mb-3\">
+<b>Day 4:</b> Head north to Baramamahay, a 6-hour sail to reach the estuary, home to numerous rare birds. Visit the village and, at high tide, sail up the river in a dinghy to encounter exceptional wildlife. Dinner and overnight on board.
+</p>
+
+<p class=\"mb-3\">
+<b>Day 5:</b> Departure for Nosy Iranja, Turtle Island, a 1-hour sail away. You will discover an exceptional setting of two lush islands connected by a white sandbar. Swim in the crystal-clear water. Lunch on board, then return to Nosy Be in the afternoon.
+The tour may be modified depending on weather conditions or upon customer approval with the captain.
+
+</p>
+
+<p><b>Highlights:</b></p>
+<ul>
+<li>Paradise-like and peaceful beaches</li>
+<li>Discover several types of fishing</li>
+<li>A true discovery of nature in its purest form</li>
+<li>A rich flora and fauna</li>
+</ul>
+</section>",
+            '296'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel Reception</li>
+<li>Full Board</li>
+<li>Mineral Water</li>
+<li>Snorkeling Equipment</li>
+<li>Fishing Equipment</li>
+</ul>',
+            '297'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Alcoholic Beverages</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+<li>Optional Activities</li>
+</ul>',
+            '298'       => 'Ranomafana Park',
             '299'       => '',
             '300'       => '',
             '301'       => '',
@@ -1078,6 +1122,59 @@ All the dive sites are concentrated in the Mozambique Channel, about 3 minutes f
             '308'       => '',
             '309'       => '',
             '310'       => '',
+            '311'       => '',
+            '312'       => '',
+            '313'       => '',
+            '314'       => '',
+            '315'       => '',
+            '316'       => '',
+            '317'       => '',
+            '318'       => '',
+            '319'       => '',
+            '320'       => '',
+            '321'       => '',
+            '322'       => '',
+            '323'       => '',
+            '324'       => '',
+            '325'       => '',
+            '326'       => '',
+            '327'       => '',
+            '328'       => '',
+            '329'       => '',
+            '330'       => '',
+            '331'       => '',
+            '332'       => '',
+            '333'       => '',
+            '334'       => '',
+            '335'       => '',
+            '336'       => '',
+            '337'       => '',
+            '338'       => '',
+            '339'       => '',
+            '340'       => '',
+            '341'       => '',
+            '342'       => '',
+            '343'       => '',
+            '344'       => '',
+            '345'       => '',
+            '346'       => '',
+            '347'       => '',
+            '348'       => '',
+            '349'       => '',
+            '350'       => '',
+            '351'       => '',
+            '352'       => '',
+            '353'       => '',
+            '354'       => '',
+            '355'       => '',
+            '356'       => '',
+            '357'       => '',
+            '358'       => '',
+            '359'       => '',
+            '360'       => '',
+            '361'       => '',
+            '362'       => '',
+            '363'       => '',
             '194'       => 'THE MITSIO ARCHIPELAGO in bivouac',            
             '195'       => '<h2>Description</h2>
 
@@ -4251,12 +4348,99 @@ Airport assistance and HAVE A GREAT FLIGHT.
                             <li>Plongée</li>
                             <li>Les équipements de plongée</li>
                         </ul>',
-            '294'       => '',
-            '295'       => '',
-            '296'       => '',
-            '297'       => '',
-            '298'       => '',
-            '299'       => '',
+            '294'       => 'L’ARCHIPEL DE RADAMA  EN CATAMARAN',
+            '295'       => '<section class="content-section">
+            <h5>PROGRAMME CROISIERE DECOUVERTE À L’ARCHIPEL DES RADAMES SUR 5 JOURS/4 NUITS</h5>
+           
+            <p class="mb-3">
+                <b> 1er jour:</b>  Embarquement à bord à 9h et direction la réserve sous-marine de Tanikely à 1 heure de navigation. C\'est dans un aquarium naturel que vous partirez avec palmes masques et tubas à la rencontre des tortues marines et poissons de l\'Océan Indien. Déjeuner à bord et navigation en direction du site historique de La Baie des Russes, à 4 heures de mer. Cet estuaire, refuge des marins de tous les temps offre un mouillage idéal pour la nuit. . Dîner et nuit à bord.
+            </p>
+
+            <p class="mb-3">
+              <b>2ème jour:</b> Départ de bonne heure pour la première île des Radames, Kalakajoro à environ 6h de navigation. Au Nord-est s’étale une plage de sable blanc bordée de filaos devant laquelle vous jetterez l’ancre. A deux brasses débute le platier de corail à découvrir en palmes masques et tubas. Dîner et nuit à bord.
+            </p>
+
+            <p class="mb-3">
+                <b> 3ème jour:</b> Petit déjeuner et navigation vers Antany Mora à 1h30 de mer. A l\'arrière de la plage au coeur d\'une végétation sauvage, se niche un village de pêcheurs. Accueillant et sympathiques les villageois vous feront découvrir un mode de vie traditionnel. Dîner et nuit à bord.
+            </p>
+
+            <p class="mb-3">
+               <b> 4ème jour:</b> Cap au Nord vers Baramamahay, 6h de navigation pour arriver dans l\'estuaire qui abrite de nombreux oiseaux rares. Visite du village et, à marée haute, remontée de la rivière en annexe à la rencontre d\'une faune exceptionnelle. Dîner et nuit à bord.
+            </p>
+
+            <p class="mb-3">
+                <b> 5ème jour:</b> Départ pour Nosy Iranja, l\'île aux tortues, à 1h de navigation. Vous découvrirez un décor exceptionnel de deux îles verdoyantes reliées par un banc de sable blanc. Baignade dans l\'eau limpide. Déjeuner à bord puis retour dans l\'après-midi vers Nosy Be.
+                Le circuit peut être modifié selon les conditions météo ou sur décision des clients en accord avec le capitaine.
+
+            </p>
+
+            <p><b>Point Fort:</b></p>
+            <ul>
+                <li>Des plages paradisiaques et calmes</li>
+                <li>Découverte de plusieurs types de pêches</li>
+                <li>Une vraie découverte de la nature à l’Etat pur</li>
+                <li>Une faune et flore riche en contenu</li>
+            </ul>
+        </section>',
+            '296'       => '<h3>Services Inclus</h3>
+                        <ul>
+                            <li>Accueil à l’hôtel</li>
+                            <li>Pension Complet</li>
+                            <li>Eau minéral</li>
+                            <li>Équipement de plongée apnée</li>
+                            <li>Équipement de pêche</li>
+                        </ul>',
+            '297'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons alcoolisées</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboires</li>
+                            <li>Activités optionnelles</li>
+                        </ul>',
+            '298'       => ' Parc Ranomafana',
+            '299'       => "<section class=\"content-section\">
+<h2>SPECIFICITÀ DEL PARCO</h2>
+<p class=\"mb-4\">
+Parco Nazionale Terrestre classificato Patrimonio dell'Umanità con la sua foresta fitta e umida, la cui altitudine media è compresa tra 800 e 1400 metri. Una foresta di bambù e palude dove specie vegetali e animali come il Pandanus, la Varecia variegata, il gambero, il Limnogale Mergulus hanno scelto come loro habitat.
+</p>
+
+COME ARRIVARE
+<p>
+Tramite la RN7: da Tana ad Ambohimahasoa verso Vohiparara, 350 km di strada asfaltata e un tratto di 25 km ben asfaltato.
+Sulla RN 45: bivio ad Alakamisy verso Vohiparara, strada ben asfaltata di 25 km
+Con la RN 25: Ranomafana-Mananjary, 138 km di strada asfaltata
+</p>
+
+<h2>POSIZIONE DEL PARCO</h2>
+<p>
+GPS: da 47°18’ a 47°37’ di longitudine est e da 21°02’ a 22°25’ di latitudine.
+Il Parco Nazionale di Ranomafana si trova nel sud-est del Madagascar tra le regioni di Haute-Matsiatra e Vatovavy Fitovinany. Si trova 412 km a sud-est di Antananarivo, 65 km a nord-est di Fianarantsoa e 139 km a ovest del comune di Mananjary.
+</p>
+
+<h2>AREA</h2>
+<p>
+41.601 ha <br> Regione: <br> Vatovavy-Fitovinany <br> Periodo ideale per la visita <br> Tutto l'anno <br> Orari di apertura:
+dalle 8:00 alle 16:00
+</p>
+
+<h2>STORICO</h2>
+
+<p class=\"mb-3\">Il Parco Nazionale Ranomafana è stato inaugurato ufficialmente il 31 maggio 1991.</p>
+
+<h2>POPOLAZIONE</h2>
+
+<p>
+Una popolazione diversificata dominata da Tanala e Betsileo
+</p>
+
+GEOGRAFIA
+<h5>Idrografia</h5>
+
+<p>
+Parco ricco di corsi d'acqua. Ce ne sono 25 all'interno. Oltre a tre fiumi, uno dei quali alimenta la centrale idraulica per la produzione di energia elettrica.
+Contatti
+</p>
+</sezione>",
             '300'       => '',
             '301'       => '',
             '302'       => '',
@@ -4268,6 +4452,59 @@ Airport assistance and HAVE A GREAT FLIGHT.
             '308'       => '',
             '309'       => '',
             '310'       => '',
+            '311'       => '',
+            '312'       => '',
+            '313'       => '',
+            '314'       => '',
+            '315'       => '',
+            '316'       => '',
+            '317'       => '',
+            '318'       => '',
+            '319'       => '',
+            '320'       => '',
+            '321'       => '',
+            '322'       => '',
+            '323'       => '',
+            '324'       => '',
+            '325'       => '',
+            '326'       => '',
+            '327'       => '',
+            '328'       => '',
+            '329'       => '',
+            '330'       => '',
+            '331'       => '',
+            '332'       => '',
+            '333'       => '',
+            '334'       => '',
+            '335'       => '',
+            '336'       => '',
+            '337'       => '',
+            '338'       => '',
+            '339'       => '',
+            '340'       => '',
+            '341'       => '',
+            '342'       => '',
+            '343'       => '',
+            '344'       => '',
+            '345'       => '',
+            '346'       => '',
+            '347'       => '',
+            '348'       => '',
+            '349'       => '',
+            '350'       => '',
+            '351'       => '',
+            '352'       => '',
+            '353'       => '',
+            '354'       => '',
+            '355'       => '',
+            '356'       => '',
+            '357'       => '',
+            '358'       => '',
+            '359'       => '',
+            '360'       => '',
+            '361'       => '',
+            '362'       => '',
+            '363'       => '',
             '194'       => ' L’ARCHIPEL DE MITSIO en bivouac',            
             '195'       => '<h2>Description</h2>
            
@@ -7566,12 +7803,99 @@ Tutti i siti di immersione sono concentrati nel Canale del Mozambico, a circa 3 
 <li>Immersioni</li>
 <li>Attrezzatura subacquea</li>
 </ul>',
-            '294'       => '',
-            '295'       => '',
-            '296'       => '',
-            '297'       => '',
-            '298'       => '',
-            '299'       => '',
+            '294'       => 'L\'ARCIPELAGO RADAMA IN CATAMARANO',
+            '295'       => "<section class=\"content-section\">
+PROGRAMMA CROCIERA ALLA SCOPERTA DI 5 GIORNI/4 NOTTI NELL'ARCIPELAGO DI RADAMES
+
+<p class=\"mb-3\">
+<b>Giorno 1:</b> Imbarco alle ore 9:00 e partenza per la riserva sottomarina di Tanikely, raggiungibile in 1 ora di navigazione. È in un acquario naturale che, muniti di pinne, maschere e boccagli, partirete alla scoperta delle tartarughe marine e dei pesci dell'Oceano Indiano. Pranzo a bordo e navigazione verso il sito storico di La Baie des Russes, a 4 ore di mare. Questo estuario, rifugio dei marinai nel corso della storia, offre un ancoraggio ideale per la notte. . Cena e pernottamento a bordo.
+</p>
+
+<p class=\"mb-3\">
+<b>Giorno 2:</b> Partenza di buon mattino per la prima isola delle Radames, Kalakajoro, circa 6 ore di navigazione. A nord-est si trova una spiaggia di sabbia bianca fiancheggiata da alberi filao, di fronte alla quale potrete gettare l'ancora. A due braccia di distanza inizia la barriera corallina, che può essere esplorata con pinne, maschere e boccagli. Cena e pernottamento a bordo.
+</p>
+
+<p class=\"mb-3\">
+<b>Giorno 3:</b> Colazione e navigazione verso Antany Mora, 1,5 ore di navigazione. Dietro la spiaggia, immerso nel cuore della vegetazione selvaggia, sorge un villaggio di pescatori. Accoglienti e amichevoli, gli abitanti del villaggio vi faranno conoscere uno stile di vita tradizionale. Cena e pernottamento a bordo.
+</p>
+
+<p class=\"mb-3\">
+<b>Giorno 4:</b> Dirigetevi a nord verso Baramamahay, una navigazione di 6 ore per raggiungere l'estuario, dimora di numerosi uccelli rari. Visitate il villaggio e, quando la marea è alta, risalite il fiume in un'ala per incontrare una fauna selvatica eccezionale. Cena e pernottamento a bordo.
+</p>
+
+<p class=\"mb-3\">
+<b>Giorno 5:</b> Partenza per Nosy Iranja, l'isola delle tartarughe, raggiungibile in 1 ora di navigazione. Scoprirete uno scenario eccezionale formato da due isole verdi collegate da un banco di sabbia bianca. Nuotare nell'acqua limpida. Pranzo a bordo e rientro nel pomeriggio a Nosy Be.
+Il tour potrebbe subire modifiche in base alle condizioni meteorologiche o su decisione del cliente in accordo con il capitano.
+
+</p>
+
+<p><b>Punto di forza:</b></p>
+<ul>
+<li>Paradiso e spiagge tranquille</li>
+<li>Scoperta di diversi tipi di pesca</li>
+<li>Una vera scoperta della natura allo stato puro</li>
+<li>Una flora e una fauna ricche</li>
+</ul>
+</sezione>",
+            '296'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Check-in in hotel</li>
+<li>Pensione completa</li>
+<li>Acqua minerale</li>
+Attrezzatura per lo snorkeling
+<li>Attrezzatura da pesca</li>
+</ul>',
+            '297'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande alcoliche</li>
+<li>Extra personali</li>
+<li>Suggerimenti</li>
+<li>Attività facoltative</li>
+</ul>',
+            '298'       => 'Parco di Ranomafana',
+            '299'       => '<Abschnittsklasse="Inhaltsabschnitt">
+<h2>BESONDERHEITEN DES PARKS</h2>
+<p class="mb-4">
+Terrestrischer Nationalpark, der zum Weltkulturerbe zählt, mit seinem dichten und feuchten Wald auf einer durchschnittlichen Höhe zwischen 800 und 1400 m. Ein Wald aus Bambus und Sumpf, den Pflanzen- und Tierarten wie Pandanus, Varecia variegata variegate, Flusskrebse und Limnogale Mergulus als ihren Lebensraum gewählt haben.
+</p>
+
+<h2>SO KOMMEN SIE DORT HIN</h2>
+<p>
+Über die RN7: von Tana nach Ambohimahasoa Richtung Vohiparara, 350 km asphaltierte Straße und ein 25 km langer Abschnitt gut asphaltiert.
+Über die RN 45: Abzweigung bei Alakamisy Richtung Vohiparara, gut asphaltierte Straße von 25 km
+Über die RN 25: Ranomafana-Mananjary, 138 km Asphaltstraße
+</p>
+
+<h2>Parkstandort</h2>
+<p>
+GPS: 47°18’ bis 47°37’ östlicher Länge und 21°02’ bis 22°25’ Breite.
+Der Ranomafana-Nationalpark liegt im Südosten Madagaskars zwischen den Regionen Haute-Matsiatra und Vatovavy Fitovinany. Es liegt 412 km südöstlich von Antananarivo, 65 km nordöstlich von Fianarantsoa und 139 km westlich der Gemeinde Mananjary.
+</p>
+
+<h2>BEREICH</h2>
+<p>
+41.601 ha <br> Region: <br> Vatovavy-Fitovinany <br> Ideale Reisezeit <br> Ganzjährig <br> Öffnungszeiten:
+8 bis 16 Uhr
+</p>
+
+<h2>HISTORISCH</h2>
+
+<p class="mb-3">Der Ranomafana-Nationalpark wurde am 31. Mai 1991 offiziell eröffnet.</p>
+
+<h2>BEVÖLKERUNG</h2>
+
+<p>
+Eine vielfältige Bevölkerung, dominiert von Tanala und Betsileo
+</p>
+
+<h2>GEOGRAFIE</h2>
+<h5>Hydrographie</h5>
+
+<p>
+Park mit vielen Wasserwegen. Es sind 25 davon drinnen. Sowie drei Flüsse, von denen einer das Wasserkraftwerk zur Stromerzeugung speist.
+Kontakte
+</p>
+</Abschnitt>',
             '300'       => '',
             '301'       => '',
             '302'       => '',
@@ -7583,6 +7907,59 @@ Tutti i siti di immersione sono concentrati nel Canale del Mozambico, a circa 3 
             '308'       => '',
             '309'       => '',
             '310'       => '',
+            '311'       => '',
+            '312'       => '',
+            '313'       => '',
+            '314'       => '',
+            '315'       => '',
+            '316'       => '',
+            '317'       => '',
+            '318'       => '',
+            '319'       => '',
+            '320'       => '',
+            '321'       => '',
+            '322'       => '',
+            '323'       => '',
+            '324'       => '',
+            '325'       => '',
+            '326'       => '',
+            '327'       => '',
+            '328'       => '',
+            '329'       => '',
+            '330'       => '',
+            '331'       => '',
+            '332'       => '',
+            '333'       => '',
+            '334'       => '',
+            '335'       => '',
+            '336'       => '',
+            '337'       => '',
+            '338'       => '',
+            '339'       => '',
+            '340'       => '',
+            '341'       => '',
+            '342'       => '',
+            '343'       => '',
+            '344'       => '',
+            '345'       => '',
+            '346'       => '',
+            '347'       => '',
+            '348'       => '',
+            '349'       => '',
+            '350'       => '',
+            '351'       => '',
+            '352'       => '',
+            '353'       => '',
+            '354'       => '',
+            '355'       => '',
+            '356'       => '',
+            '357'       => '',
+            '358'       => '',
+            '359'       => '',
+            '360'       => '',
+            '361'       => '',
+            '362'       => '',
+            '363'       => '',
             '194'       => 'L\'ARCIPELAGO MITSIO in bivacco',            
             '195'       => '<h2>Descrizione</h2>
 
@@ -10868,12 +11245,97 @@ Alle Tauchplätze konzentrieren sich im Kanal von Mosambik, etwa 3 Minuten von d
 <li>Tauchen</li>
 <li>Tauchausrüstung</li>
 </ul>',
-            '294'       => '',
-            '295'       => '',
-            '296'       => '',
-            '297'       => '',
-            '298'       => '',
-            '299'       => '',
+            '294'       => 'MIT DEM KATAMARAN ZUM RADAMA-ARCHIPEL',
+            '295'       => '<Abschnittsklasse="Inhaltsabschnitt">
+<h5>5-TAGE/4-NÄCHTE-ENTDECKUNGSKREUZFAHRTPROGRAMM ZUM RADAMES-ARCHIPEL</h5>
+
+<p class="mb-3">
+<b>Tag 1:</b> Einschiffung um 9 Uhr und Fahrt zum Unterwasserreservat Tanikely, eine Stunde Segelfahrt entfernt. In einem natürlichen Aquarium machen Sie sich mit Flossen, Masken und Schnorcheln auf den Weg, um die Meeresschildkröten und Fische des Indischen Ozeans zu treffen. Mittagessen an Bord und Weiterfahrt zur historischen Stätte La Baie des Russes, 4 Seestunden entfernt. Diese Mündung, im Laufe der Geschichte ein Zufluchtsort für Seeleute, bietet einen idealen Ankerplatz für die Nacht. . Abendessen und Übernachtung an Bord.
+</p>
+
+<p class="mb-3">
+<b>Tag 2:</b> Frühe Abfahrt zur ersten Insel der Radames, Kalakajoro, etwa 6 Stunden Segeln. Im Nordosten liegt ein weißer Sandstrand, gesäumt von Filao-Bäumen, vor dem Sie vor Anker gehen. Zwei Faden entfernt beginnt das Korallenriff, das mit Flossen, Masken und Schnorcheln erkundet werden kann. Abendessen und Übernachtung an Bord.
+</p>
+
+<p class="mb-3">
+<b>Tag 3:</b> Frühstück und Segeln nach Antany Mora, 1,5 Stunden auf dem Seeweg. Hinter dem Strand, eingebettet im Herzen wilder Vegetation, liegt ein Fischerdorf. Die gastfreundlichen Dorfbewohner werden Ihnen eine traditionelle Lebensweise näherbringen. Abendessen und Übernachtung an Bord.
+</p>
+
+<p class="mb-3">
+<b>Tag 4:</b> Fahren Sie Richtung Norden nach Baramamahay. Nach einer 6-stündigen Fahrt erreichen Sie die Mündung, die Heimat vieler seltener Vögel. Besuchen Sie das Dorf und fahren Sie bei Flut in einem Nebengebäude den Fluss hinauf, um außergewöhnliche Wildtiere zu beobachten. Abendessen und Übernachtung an Bord.
+</p>
+
+<p class="mb-3">
+<b>Tag 5:</b> Abfahrt nach Nosy Iranja, der Schildkröteninsel, eine Stunde Segelfahrt entfernt. Sie werden eine außergewöhnliche Kulisse aus zwei grünen Inseln entdecken, die durch eine weiße Sandbank verbunden sind. Schwimmen im klaren Wasser. Mittagessen an Bord, dann am Nachmittag Rückkehr nach Nosy Be.
+Die Tour kann je nach Wetterbedingungen oder nach Entscheidung des Kunden in Absprache mit dem Kapitän geändert werden.
+
+</p>
+
+<p><b>Stärke:</b></p>
+<ul>
+<li>Paradies und ruhige Strände</li>
+<li>Entdeckung verschiedener Arten des Fischfangs</li>
+<li>Eine wahre Entdeckung der Natur in ihrem reinen Zustand</li>
+<li>Eine reiche Flora und Fauna</li>
+</ul>
+</Abschnitt>',
+            '296'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Hotel-Check-in</li>
+<li>Vollpension</li>
+<li>Mineralwasser</li>
+<li>Schnorchelausrüstung</li>
+<li>Angelausrüstung</li>
+</ul>',
+            '297'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Alkoholische Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipps</li>
+<li>Optionale Aktivitäten</li>
+</ul>',
+            '298'       => 'Ranomafana-Park',
+            '299'       => '<section class="content-section">
+<h2>PARK SPECIFICITY</h2>
+<p class="mb-4">
+A Terrestrial National Park classified as a World Heritage Site with its dense, humid forest at an average altitude between 800 and 1,400 meters. A bamboo and swamp forest where plant and animal species such as pandanus, variegate squirrels, crayfish, and Limnogale Mergulus have chosen it as their habitat.
+</p>
+
+<h2>HOW TO GET THERE</h2>
+<p>
+By the RN7: from Tana in Ambohimahasoa to Vohiparara, a 350 km paved road, with a 25 km well-paved section. Via the RN 45: Junction at Alakamisy towards Vohiparara, 25 km of well-paved road
+Via the RN 25: Ranomafana-Mananjary, 138 km of paved road
+</p>
+
+<h2>PARK LOCATION</h2>
+<p>
+GPS: 47°18\' to 47°37\' East longitude and 21°02\' to 22°25\' latitude.
+Ranomafana National Park is located in southeastern Madagascar between the Haute-Matsiatra and Vatovavy Fitovinany regions. It is 412 km southeast of Antananarivo, 65 km northeast of Fianarantsoa, ​​and 139 km west of the commune of Mananjary. </p>
+
+<h2>AREA</h2>
+<p>
+41,601 ha <br> Region: <br> Vatovavy-Fitovinany <br> Ideal time to visit <br> All year round <br> Opening hours:
+8 a.m. to 4 p.m.
+</p>
+
+<h2>HISTORICAL INFORMATION</h2>
+
+<p class="mb-3">Ranomafana National Park was officially inaugurated on May 31, 1991.</p>
+
+<h2>POPULATION</h2>
+
+<p>
+A diverse population, predominantly Tanala and Betsileo.
+</p>
+
+<h2>GEOGRAPHY</h2>
+<h5>Hydrography</h5>
+
+<p>
+The park is rich in waterways. There are 25 within its boundaries. As well as three rivers, one of which feeds the hydroelectric power plant.
+Contacts
+</p>
+</section>',
             '300'       => '',
             '301'       => '',
             '302'       => '',
@@ -10885,6 +11347,59 @@ Alle Tauchplätze konzentrieren sich im Kanal von Mosambik, etwa 3 Minuten von d
             '308'       => '',
             '309'       => '',
             '310'       => '',
+            '311'       => '',
+            '312'       => '',
+            '313'       => '',
+            '314'       => '',
+            '315'       => '',
+            '316'       => '',
+            '317'       => '',
+            '318'       => '',
+            '319'       => '',
+            '320'       => '',
+            '321'       => '',
+            '322'       => '',
+            '323'       => '',
+            '324'       => '',
+            '325'       => '',
+            '326'       => '',
+            '327'       => '',
+            '328'       => '',
+            '329'       => '',
+            '330'       => '',
+            '331'       => '',
+            '332'       => '',
+            '333'       => '',
+            '334'       => '',
+            '335'       => '',
+            '336'       => '',
+            '337'       => '',
+            '338'       => '',
+            '339'       => '',
+            '340'       => '',
+            '341'       => '',
+            '342'       => '',
+            '343'       => '',
+            '344'       => '',
+            '345'       => '',
+            '346'       => '',
+            '347'       => '',
+            '348'       => '',
+            '349'       => '',
+            '350'       => '',
+            '351'       => '',
+            '352'       => '',
+            '353'       => '',
+            '354'       => '',
+            '355'       => '',
+            '356'       => '',
+            '357'       => '',
+            '358'       => '',
+            '359'       => '',
+            '360'       => '',
+            '361'       => '',
+            '362'       => '',
+            '363'       => '',
             '194'       => 'DAS MITSIO-ARCHIPEL im Biwak',            
             '195'       => '<h2>Beschreibung</h2>
 
