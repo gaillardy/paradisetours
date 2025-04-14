@@ -1110,11 +1110,119 @@ The tour may be modified depending on weather conditions or upon customer approv
 <li>Optional Activities</li>
 </ul>',
             '298'       => 'Ranomafana Park',
-            '299'       => '',
-            '300'       => '',
-            '301'       => '',
-            '302'       => '',
-            '303'       => '',
+            '299'       => '<section class=\"content-section\">
+<h2>SPECIFICITY OF THE PARK</h2>
+<p class=\"mb-4\">
+A Terrestrial National Park classified as a World Heritage Site with its dense, humid forest, averaging between 800 and 1,400 meters. A bamboo forest and a marshland are home to plant and animal species such as the Pandanus, the Variegated Varecia, the Crayfish, and the Limnogale Mergulus.
+</p>
+
+HOW TO GET THERE
+<p>
+Via the RN7: from Tana to Ambohimahasoa towards Vohiparara, 350 km of paved road and 25 km of paved section. On the RN 45: turnoff at Alakamisy towards Vohiparara, 25 km of paved road
+With the RN 25: Ranomafana-Mananjary, 138 km of paved road
+</p>
+
+<h2>PARK LOCATION</h2>
+<p>
+GPS: from 47°18\' to 47°37\' East longitude and from 21°02\' to 22°25\' latitude.
+Ranomafana National Park is located in southeastern Madagascar between the Haute-Matsiatra and Vatovavy Fitovinany regions. It is 412 km southeast of Antananarivo, 65 km northeast of Fianarantsoa, ​​and 139 km west of the commune of Mananjary. </p>
+
+<h2>ZONE</h2>
+<p>
+41,601 ha <br> Region: <br> Vatovavy-Fitovinany <br> Best time to visit <br> All year round <br> Opening hours:
+8:00 a.m. to 4:00 p.m.
+</p>
+
+<h2>HISTORY</h2>
+
+<p class=\"mb-3\">Ranomafana National Park was officially opened on May 31, 1991.</p>
+
+<h2>POPULATION</h2>
+
+<p>
+A diverse population dominated by Tanala and Betsileo people
+</p>
+
+GEOGRAPHY
+<h5>Hydrography</h5>
+
+<p>
+The park is rich in waterways. There are 25 within it, in addition to three rivers, one of which feeds the hydroelectric power plant for electricity production. Contacts
+</p>
+</section>',
+            '300'       => 'Russian Bay',
+            '301'       => 'Discover one of the most beautiful bays in the world, between history, adventure and serenity.',
+            '302'       => "<section class=\"content-section\">
+<h2>Tour Description</h2>
+<p>
+Russian Bay is a must-see destination for nature and adventure lovers.
+You'll sail through crystal-clear waters, discover pristine beaches, and breathtaking landscapes. </p>
+<ul class=\"unstyled-list\">
+<li><b>Visit:</b> Fishing village, ruined pier, hiking</li>
+<li><b>Duration:</b> One day</li>
+<li><b>Departure:</b> Ambatoloaka</li>
+<li><b>Number of people:</b> Guests, Guide, 1 Skipper, Cook</li>
+<li><b>Means of transport:</b> Speedboat, Life jackets available</li>
+<li><b>Lunch:</b> Picnic</li>
+<li><b>Highlights:</b> Ideal anchorage spot, dolphin playground - spearfishing</li>
+</ul>
+</section>
+
+<section class=\"content-section\">
+<h2>History of the Bay of Russians</h2>
+<p>
+The Bay of Russians Russian Bay, or Ambavatory Bay, is a 40-minute speedboat ride from Nosy Be.
+Its main attraction lies in the fact that it's an excellent anchorage for spending the night in complete safety.
+It's a vast bay, often a dolphin playground, dotted with beaches and small fishing villages.
+History tells us that the Russian fleet from Saint Petersburg sheltered in this bay in 1904 for two months before going to confront the Japanese fleet at the Battle of Tsushima, where it was completely annihilated.
+</p>
+<p class=\"mb-3\">
+Russian Bay, or Ambavatory Bay, is not only a historical testament to the Russo-Japanese War of 1904-1905
+and the Russian contingent that settled in the superb Ambavatory Bay,
+but it's also a wonderful site with numerous white sand beaches. </p>
+</section>",
+            '303'       => '<section class="content-section">
+<h2>Activities</h2>
+<ul>
+<li>
+Several activities will be on offer, starting with a visit to a large, deep bay
+composed of three coves, where you can finally sleep without driving! For those who love hiking, in the background on the right is an old ruined landing stage used by Russian sailors at the time. A dirt road, never finished, leads to a hotel that remains in its planning stages.
+You can also go spearfishing for those who know how.
+</li>
+<li>
+After this long walk, we enter the heart of the village to savor
+delicious, typically Malagasy dishes made with fresh produce and carefully prepared under the shade of coconut trees. </li>
+<li>Return to Nosy Be around 3:30 p.m.</li>
+</ul>
+</section>
+
+<section class="services-section-incl">
+<div class="row">
+<div class="col-sm-6">
+<div class="service-list">
+<h3>Included Services</h3>
+<ul>
+<li>Maritime Transportation: Speedboat</li>
+<li>Local Guide</li>
+<li>Typical Lunch</li>
+<li>Mineral Water</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-6">
+<div class="service-list">
+<h3>Not Included Services</h3>
+<ul>
+<li>Alcoholic Beverages</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+<li>Optional Activities</li>
+</ul> 
+</div>
+ </div>
+ </div>
+ </section>',
             '304'       => '',
             '305'       => '',
             '306'       => '',
@@ -4399,52 +4507,127 @@ Airport assistance and HAVE A GREAT FLIGHT.
                         </ul>',
             '298'       => ' Parc Ranomafana',
             '299'       => "<section class=\"content-section\">
-<h2>SPECIFICITÀ DEL PARCO</h2>
+<h2>SPÉCIFICITÉ DU PARC</h2>
 <p class=\"mb-4\">
-Parco Nazionale Terrestre classificato Patrimonio dell'Umanità con la sua foresta fitta e umida, la cui altitudine media è compresa tra 800 e 1400 metri. Una foresta di bambù e palude dove specie vegetali e animali come il Pandanus, la Varecia variegata, il gambero, il Limnogale Mergulus hanno scelto come loro habitat.
+Parc National Terrestre classé au Patrimoine Mondial avec sa forêt dense et humide, dont l'altitude moyenne est comprise entre 800 et 1400 mètres. Une forêt de bambous et un marais où des espèces végétales et animales telles que le Pandanus, le Varecia panaché, l'Écrevisse, le Limnogale Mergulus ont élu domicile.
 </p>
 
-COME ARRIVARE
+COMMENT S'Y RENDRE
 <p>
-Tramite la RN7: da Tana ad Ambohimahasoa verso Vohiparara, 350 km di strada asfaltata e un tratto di 25 km ben asfaltato.
-Sulla RN 45: bivio ad Alakamisy verso Vohiparara, strada ben asfaltata di 25 km
-Con la RN 25: Ranomafana-Mananjary, 138 km di strada asfaltata
+Via la RN7 : de Tana à Ambohimahasoa en direction de Vohiparara, 350 km de route goudronnée et 25 km de tronçon goudronné.
+Sur la RN 45 : bifurcation à Alakamisy en direction de Vohiparara, 25 km de route goudronnée
+Avec la RN 25 : Ranomafana-Mananjary, 138 km de route asphaltée
 </p>
 
-<h2>POSIZIONE DEL PARCO</h2>
+<h2>EMPLACEMENT DU PARC</h2>
 <p>
-GPS: da 47°18’ a 47°37’ di longitudine est e da 21°02’ a 22°25’ di latitudine.
-Il Parco Nazionale di Ranomafana si trova nel sud-est del Madagascar tra le regioni di Haute-Matsiatra e Vatovavy Fitovinany. Si trova 412 km a sud-est di Antananarivo, 65 km a nord-est di Fianarantsoa e 139 km a ovest del comune di Mananjary.
+GPS : de 47°18' à 47°37' de longitude est et de 21°02' à 22°25' de latitude.
+Le Parc National de Ranomafana est situé au sud-est de Madagascar entre les régions de Haute-Matsiatra et de Vatovavy Fitovinany. Elle est située à 412 km au sud-est d'Antananarivo, à 65 km au nord-est de Fianarantsoa et à 139 km à l'ouest de la commune de Mananjary.
 </p>
 
-<h2>AREA</h2>
+<h2>ZONE</h2>
 <p>
-41.601 ha <br> Regione: <br> Vatovavy-Fitovinany <br> Periodo ideale per la visita <br> Tutto l'anno <br> Orari di apertura:
-dalle 8:00 alle 16:00
+41 601 ha <br> Région : <br> Vatovavy-Fitovinany <br> Moment idéal pour visiter <br> Toute l'année <br> Horaires d'ouverture :
+de 8h00 à 16h00
 </p>
 
-<h2>STORICO</h2>
+<h2>HISTOIRE</h2>
 
-<p class=\"mb-3\">Il Parco Nazionale Ranomafana è stato inaugurato ufficialmente il 31 maggio 1991.</p>
+<p class=\"mb-3\">Le parc national de Ranomafana a été officiellement ouvert le 31 mai 1991.</p>
 
-<h2>POPOLAZIONE</h2>
-
-<p>
-Una popolazione diversificata dominata da Tanala e Betsileo
-</p>
-
-GEOGRAFIA
-<h5>Idrografia</h5>
+<h2>POPULATION</h2>
 
 <p>
-Parco ricco di corsi d'acqua. Ce ne sono 25 all'interno. Oltre a tre fiumi, uno dei quali alimenta la centrale idraulica per la produzione di energia elettrica.
-Contatti
+Une population diversifiée dominée par Tanala et Betsileo
 </p>
-</sezione>",
-            '300'       => '',
-            '301'       => '',
-            '302'       => '',
-            '303'       => '',
+
+GÉOGRAPHIE
+<h5>Hydrographie</h5>
+
+<p>
+Parc riche en cours d'eau. Il y en a 25 à l'intérieur. En plus de trois rivières, dont l'une alimente la centrale hydraulique pour la production d'électricité.
+Contacts
+</p>
+</section>",
+            '300'       => 'Baie des Russes',
+            '301'       => 'Découvrez l\'une des plus belles baies du monde, entre histoire, aventure et sérénité.',
+            '302'       => "<section class=\"content-section\">
+            <h2>Description du Circuit</h2>
+            <p>
+                La baie des Russes est une destination incontournable pour les amateurs de nature et d'aventure.
+                Vous naviguerez à travers des eaux cristallines,
+                découvrirez des plages immaculées et des paysages époustouflants.
+            </p>
+            <ul class=\"unstyled-list\">
+                <li><b>Visite : </b> village des Pêcheurs, débarcadère en ruine, randonné</li>
+                <li><b>Durée : </b>  Une journée</li>
+                <li><b>Départ :</b> Ambatoloaka</li>
+                <li><b>Nombre de pax : </b> Les Clients, Guide Accompagnateur, 1 Skippeur, Cuisinière</li>
+                <li><b>Moyen de transport : </b> Bateau Rapide, Gilet sauvetages disponible</li>
+                <li><b>Déjeuner :</b>  Pique-Nique</li>
+                <li><b>Points forts : </b>point de mouillage idéal, terrain de jeux des dauphins- chasse sous-marine </li>
+            </ul>
+        </section>
+
+        <section class=\"content-section\">
+            <h2>Histoire de la Baie des Russes</h2>
+            <p>
+                La Baie des Russes ou baie d’Ambavatory se trouve à 40 minutes en bateau rapide de Nosy Be. 
+                Son intérêt, réside surtout dans le fait que c’est un excellent mouillage pour passer la nuit en toute sécurité. 
+                C’est une vaste baie, très souvent un terrain de jeux des dauphins, constellée de plages et petits villages de pêcheurs. 
+                L’histoire nous dit que dans cette baie, la flotte russe de Saint Petersbourg qui s’était abritée
+                en 1904 pendant deux mois avant d’aller affronter la flotte japonaise à la bataille de Tsuhima où elle fut entièrement anéantie.
+            </p>
+            <p class=\"mb-3\">
+                La Baie des Russes ou baie d’Ambavatory est non seulement un témoignage historique de la guerre russo-japonaise 1904 – 1905 
+                et du contingent russe qui s’installa sur la superbe baie d’Ambavatory,
+                mais c’est également un site merveilleux aux nombreuses plages de sable blanc.
+            </p>
+        </section>",
+            '303'       => '<section class="content-section">
+            <h2>Les Activités</h2>
+            <ul>
+                <li>
+                    Plusieurs activités seront au rendez en commençant par la visite d’une grande baie profonde 
+                    composée de trois anses ou enfin on dort sans rouler ! Pour ceux qui adorent le randonner, au fond à droite il y a un vieux débarcadère en ruine fût utilisé par les marins russes à l’époque, une route en terre jamais finie conduit à un hôtel resté à l’état de projet. 
+                    On peut aussi pratiquer la chasse sous-marine pour ceux qui s’y connaissent
+                </li>
+                <li>
+                    Après cette longue balade, nous pénétrons au cœur du village pour savourer
+                    les délicieux plats typiquement Malagasy avec des produits frais et soigneusement 
+                    préparer sous l’ombre de cocotiers.
+                </li>
+                <li>Retour à Nosy Be vers 15h30.</li>
+            </ul>
+        </section>
+
+        <section class="services-section-incl">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="service-list">
+                        <h3>Services Inclus</h3>
+                        <ul>
+                            <li>Transport maritime :  Bateau rapide</li>
+                            <li>Guide local</li>
+                            <li>Déjeuner typique</li>
+                            <li>Eau minéral</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="service-list">
+                        <h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons alcoolisées</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboires</li>
+                            <li>Activités optionnelles</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>',
             '304'       => '',
             '305'       => '',
             '306'       => '',
@@ -7853,53 +8036,128 @@ Attrezzatura per lo snorkeling
 <li>Attività facoltative</li>
 </ul>',
             '298'       => 'Parco di Ranomafana',
-            '299'       => '<Abschnittsklasse="Inhaltsabschnitt">
-<h2>BESONDERHEITEN DES PARKS</h2>
-<p class="mb-4">
-Terrestrischer Nationalpark, der zum Weltkulturerbe zählt, mit seinem dichten und feuchten Wald auf einer durchschnittlichen Höhe zwischen 800 und 1400 m. Ein Wald aus Bambus und Sumpf, den Pflanzen- und Tierarten wie Pandanus, Varecia variegata variegate, Flusskrebse und Limnogale Mergulus als ihren Lebensraum gewählt haben.
+            '299'       => '<section class=\"content-section\">
+<h2>SPECIFICITÀ DEL PARCO</h2>
+<p class=\"mb-4\">
+Parco Nazionale Terrestre classificato Patrimonio dell\'Umanità con la sua foresta fitta e umida, la cui altitudine media è compresa tra 800 e 1400 metri. Una foresta di bambù e palude dove specie vegetali e animali come il Pandanus, la Varecia variegata, il gambero, il Limnogale Mergulus hanno scelto come loro habitat.
 </p>
 
-<h2>SO KOMMEN SIE DORT HIN</h2>
+COME ARRIVARE
 <p>
-Über die RN7: von Tana nach Ambohimahasoa Richtung Vohiparara, 350 km asphaltierte Straße und ein 25 km langer Abschnitt gut asphaltiert.
-Über die RN 45: Abzweigung bei Alakamisy Richtung Vohiparara, gut asphaltierte Straße von 25 km
-Über die RN 25: Ranomafana-Mananjary, 138 km Asphaltstraße
+Tramite la RN7: da Tana ad Ambohimahasoa verso Vohiparara, 350 km di strada asfaltata e un tratto di 25 km ben asfaltato.
+Sulla RN 45: bivio ad Alakamisy verso Vohiparara, strada ben asfaltata di 25 km
+Con la RN 25: Ranomafana-Mananjary, 138 km di strada asfaltata
 </p>
 
-<h2>Parkstandort</h2>
+<h2>POSIZIONE DEL PARCO</h2>
 <p>
-GPS: 47°18’ bis 47°37’ östlicher Länge und 21°02’ bis 22°25’ Breite.
-Der Ranomafana-Nationalpark liegt im Südosten Madagaskars zwischen den Regionen Haute-Matsiatra und Vatovavy Fitovinany. Es liegt 412 km südöstlich von Antananarivo, 65 km nordöstlich von Fianarantsoa und 139 km westlich der Gemeinde Mananjary.
+GPS: da 47°18’ a 47°37’ di longitudine est e da 21°02’ a 22°25’ di latitudine.
+Il Parco Nazionale di Ranomafana si trova nel sud-est del Madagascar tra le regioni di Haute-Matsiatra e Vatovavy Fitovinany. Si trova 412 km a sud-est di Antananarivo, 65 km a nord-est di Fianarantsoa e 139 km a ovest del comune di Mananjary.
 </p>
 
-<h2>BEREICH</h2>
+<h2>AREA</h2>
 <p>
-41.601 ha <br> Region: <br> Vatovavy-Fitovinany <br> Ideale Reisezeit <br> Ganzjährig <br> Öffnungszeiten:
-8 bis 16 Uhr
+41.601 ha <br> Regione: <br> Vatovavy-Fitovinany <br> Periodo ideale per la visita <br> Tutto l\'anno <br> Orari di apertura:
+dalle 8:00 alle 16:00
 </p>
 
-<h2>HISTORISCH</h2>
+<h2>STORICO</h2>
 
-<p class="mb-3">Der Ranomafana-Nationalpark wurde am 31. Mai 1991 offiziell eröffnet.</p>
+<p class=\"mb-3\">Il Parco Nazionale Ranomafana è stato inaugurato ufficialmente il 31 maggio 1991.</p>
 
-<h2>BEVÖLKERUNG</h2>
-
-<p>
-Eine vielfältige Bevölkerung, dominiert von Tanala und Betsileo
-</p>
-
-<h2>GEOGRAFIE</h2>
-<h5>Hydrographie</h5>
+<h2>POPOLAZIONE</h2>
 
 <p>
-Park mit vielen Wasserwegen. Es sind 25 davon drinnen. Sowie drei Flüsse, von denen einer das Wasserkraftwerk zur Stromerzeugung speist.
-Kontakte
+Una popolazione diversificata dominata da Tanala e Betsileo
 </p>
-</Abschnitt>',
-            '300'       => '',
-            '301'       => '',
-            '302'       => '',
-            '303'       => '',
+
+GEOGRAFIA
+<h5>Idrografia</h5>
+
+<p>
+Parco ricco di corsi d\'acqua. Ce ne sono 25 all\'interno. Oltre a tre fiumi, uno dei quali alimenta la centrale idraulica per la produzione di energia elettrica.
+Contatti
+</p>
+</sezione>',
+            '300'       => 'Baia russa',
+            '301'       => 'Scoprite una delle baie più belle del mondo, tra storia, avventura e serenità.',
+            '302'       => "<section class=\"content-section\">
+<h2>Descrizione del circuito</h2>
+<p>
+Russian Bay è una meta imperdibile per gli amanti della natura e dell'avventura.
+Navigherai attraverso acque cristalline,
+scopri spiagge incontaminate e paesaggi mozzafiato.
+</p>
+<ul class=\"unstyled-list\">
+<li><b>Visita:</b> Villaggio dei pescatori, molo di attracco in rovina, escursione</li>
+<li><b>Durata:</b> Un giorno</li>
+<li><b>Partenza:</b> Ambatoloaka</li>
+<li><b>Numero di persone:</b> Ospiti, Guida, 1 Skipper, Cuoco</li>
+<li><b>Mezzo di trasporto:</b> Barca veloce, giubbotti di salvataggio disponibili</li>
+<li><b>Pranzo:</b> Picnic</li>
+<li><b>In evidenza:</b> punto di ancoraggio ideale, parco giochi per delfini - caccia subacquea </li>
+</ul>
+</sezione>
+
+<section class=\"content-section\">
+<h2>Storia della Baia Russa</h2>
+<p>
+La Baie des Russes o Ambavatory Bay si trova a 40 minuti di motoscafo da Nosy Be.
+Il suo interesse principale risiede nel fatto che è un ottimo ancoraggio per trascorrere la notte in tutta sicurezza.
+Si tratta di una baia vasta, spesso rifugio per i delfini, punteggiata di spiagge e piccoli villaggi di pescatori.
+La storia ci racconta che in questa baia si era rifugiata la flotta russa di San Pietroburgo
+nel 1904 per due mesi prima di affrontare la flotta giapponese nella battaglia di Tsuhima, dove venne completamente annientata.
+</p>
+<p class=\"mb-3\">
+La Baia Russa o Baia dell'Ambasciata non è solo una testimonianza storica della guerra russo-giapponese del 1904-1905
+e il contingente russo che si stabilì nella superba baia di Ambavatory,
+ma è anche un posto meraviglioso con numerose spiagge di sabbia bianca.
+</p>
+</sezione>",
+            '303'       => "<section class=\"content-section\">
+Attività
+<ul>
+<li>
+Saranno previste diverse attività, a partire dalla visita ad una grande e profonda baia
+composto da tre maniglie dove finalmente potrai dormire senza rotolare! Per gli amanti del trekking, sullo sfondo a destra si vede un vecchio attracco in rovina utilizzato all'epoca dai marinai russi, una strada sterrata mai terminata conduce ad un albergo rimasto in fase di progettazione.
+Anche la pesca subacquea è possibile per i più esperti.
+</li>
+<li>
+Dopo questa lunga passeggiata, entriamo nel cuore del villaggio per goderci
+deliziosi piatti tipici malgasci con prodotti freschi e preparati con cura
+preparatevi all'ombra delle palme da cocco.
+</li>
+<li>Ritorno a Nosy Be verso le 15:30</li>
+</ul>
+</sezione>
+
+<section class=\"services-section-incl\">
+<div class=\"row\">
+<div class=\"col-sm-6\">
+<div class=\"service-list\">
+<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasporto marittimo: Barca veloce</li>
+<li>Guida locale</li>
+<li>Pranzo tipico</li>
+<li>Acqua minerale</li>
+</ul>
+</div>
+</div>
+
+<div class=\"col-sm-6\">
+<div class=\"service-list\">
+<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande alcoliche</li>
+<li>Extra personali</li>
+<li>Suggerimenti</li>
+<li>Attività facoltative</li>
+</ul>
+</div>
+</div>
+</div>
+</sezione>",
             '304'       => '',
             '305'       => '',
             '306'       => '',
@@ -11295,51 +11553,128 @@ Die Tour kann je nach Wetterbedingungen oder nach Entscheidung des Kunden in Abs
 <li>Optionale Aktivitäten</li>
 </ul>',
             '298'       => 'Ranomafana-Park',
-            '299'       => '<section class="content-section">
-<h2>PARK SPECIFICITY</h2>
-<p class="mb-4">
-A Terrestrial National Park classified as a World Heritage Site with its dense, humid forest at an average altitude between 800 and 1,400 meters. A bamboo and swamp forest where plant and animal species such as pandanus, variegate squirrels, crayfish, and Limnogale Mergulus have chosen it as their habitat.
+            '299'       => '<Abschnittsklasse=\"Inhaltsabschnitt\">
+<h2>BESONDERHEITEN DES PARKS</h2>
+<p class=\"mb-4\">
+Zum Weltkulturerbe erklärter Nationaler Landpark mit seinem dichten und feuchten Wald, dessen durchschnittliche Höhe zwischen 800 und 1400 Metern liegt. Ein Bambuswald und ein Sumpf, in dem sich Pflanzen- und Tierarten wie Pandanus, Buntbarsche, Flusskrebse und Limnogale Mergulus angesiedelt haben.
 </p>
 
-<h2>HOW TO GET THERE</h2>
+ANREISE
 <p>
-By the RN7: from Tana in Ambohimahasoa to Vohiparara, a 350 km paved road, with a 25 km well-paved section. Via the RN 45: Junction at Alakamisy towards Vohiparara, 25 km of well-paved road
-Via the RN 25: Ranomafana-Mananjary, 138 km of paved road
+Über die RN7: von Tana nach Ambohimahasoa Richtung Vohiparara, 350 km asphaltierte Straße und 25 km asphaltierter Abschnitt.
+Auf der RN 45: Abzweigung bei Alakamisy Richtung Vohiparara, 25 km asphaltierte Straße
+Mit der RN 25: Ranomafana-Mananjary, 138 km Asphaltstraße
 </p>
 
-<h2>PARK LOCATION</h2>
+<h2>Parkstandort</h2>
 <p>
-GPS: 47°18\' to 47°37\' East longitude and 21°02\' to 22°25\' latitude.
-Ranomafana National Park is located in southeastern Madagascar between the Haute-Matsiatra and Vatovavy Fitovinany regions. It is 412 km southeast of Antananarivo, 65 km northeast of Fianarantsoa, ​​and 139 km west of the commune of Mananjary. </p>
-
-<h2>AREA</h2>
-<p>
-41,601 ha <br> Region: <br> Vatovavy-Fitovinany <br> Ideal time to visit <br> All year round <br> Opening hours:
-8 a.m. to 4 p.m.
+GPS: von 47°18\' bis 47°37\' östlicher Länge und von 21°02\' bis 22°25\' Breite.
+Der Ranomafana-Nationalpark liegt im Südosten Madagaskars zwischen den Regionen Haute-Matsiatra und Vatovavy Fitovinany. Es liegt 412 km südöstlich von Antananarivo, 65 km nordöstlich von Fianarantsoa und 139 km westlich der Gemeinde Mananjary.
 </p>
 
-<h2>HISTORICAL INFORMATION</h2>
-
-<p class="mb-3">Ranomafana National Park was officially inaugurated on May 31, 1991.</p>
-
-<h2>POPULATION</h2>
-
+<h2>ZONE</h2>
 <p>
-A diverse population, predominantly Tanala and Betsileo.
+41.601 ha <br> Region: <br> Vatovavy-Fitovinany <br> Ideale Reisezeit <br> Ganzjährig <br> Öffnungszeiten:
+von 8:00 bis 16:00 Uhr
 </p>
 
-<h2>GEOGRAPHY</h2>
-<h5>Hydrography</h5>
+<h2>GESCHICHTE</h2>
+
+<p class=\"mb-3\">Der Ranomafana-Nationalpark wurde am 31. Mai 1991 offiziell eröffnet.</p>
+
+<h2>BEVÖLKERUNG</h2>
 
 <p>
-The park is rich in waterways. There are 25 within its boundaries. As well as three rivers, one of which feeds the hydroelectric power plant.
-Contacts
+Eine vielfältige Bevölkerung, dominiert von Tanala und Betsileo
 </p>
-</section>',
-            '300'       => '',
-            '301'       => '',
-            '302'       => '',
-            '303'       => '',
+
+GEOGRAPHIE
+<h5>Hydrographie</h5>
+
+<p>
+Park mit vielen Wasserwegen. Es sind 25 davon drinnen. Hinzu kommen drei Flüsse, von denen einer das Wasserkraftwerk zur Stromerzeugung speist.
+Kontakte
+</p>
+</Abschnitt>',
+            '300'       => 'Russische Bucht',
+            '301'       => 'Entdecken Sie eine der schönsten Buchten der Welt, zwischen Geschichte, Abenteuer und Ruhe.',
+            '302'       => '<Abschnittsklasse="Inhaltsabschnitt">
+<h2>Schaltkreisbeschreibung</h2>
+<p>
+Russian Bay ist ein Muss für Natur- und Abenteuerliebhaber.
+Sie segeln durch kristallklares Wasser,
+Entdecken Sie unberührte Strände und atemberaubende Landschaften.
+</p>
+<ul class="unstyled-list">
+<li><b>Besuchen Sie:</b> Fischerdorf, zerstörte Anlegestelle, Wandern</li>
+<li><b>Dauer:</b> Ein Tag</li>
+<li><b>Abfahrt:</b> Ambatoloaka</li>
+<li><b>Anzahl der Personen:</b> Gäste, Guide, 1 Skipper, Koch</li>
+<li><b>Transportmittel:</b> Schnellboot, Schwimmwesten vorhanden</li>
+<li><b>Mittagessen:</b> Picknick</li>
+<li><b>Highlights:</b> idealer Ankerplatz, Delfinspielplatz – Unterwasserjagd </li>
+</ul>
+</Abschnitt>
+
+<Abschnittsklasse="Inhaltsabschnitt">
+<h2>Geschichte der Russischen Bucht</h2>
+<p>
+Baie des Russes oder Ambavatory Bay ist eine 40-minütige Fahrt mit dem Schnellboot von Nosy Be entfernt.
+Sein Hauptinteresse liegt darin, dass es ein ausgezeichneter Ankerplatz ist, um die Nacht in völliger Sicherheit zu verbringen.
+Es handelt sich um eine riesige Bucht, die oft ein Spielplatz für Delfine ist und übersät ist mit Stränden und kleinen Fischerdörfern.
+Die Geschichte erzählt uns, dass in dieser Bucht die russische Flotte von Sankt Petersburg, die Schutz bot
+im Jahr 1904 für zwei Monate, bevor sie in der Schlacht von Tsuhima der japanischen Flotte gegenübertraten und dort vollständig vernichtet wurden.
+</p>
+<p Klasse="mb-3">
+Russian Bay oder Ambavatory Bay ist nicht nur ein historisches Zeugnis des Russisch-Japanischen Krieges 1904-1905
+und das russische Kontingent, das sich in der herrlichen Bucht von Ambavatory niederließ,
+aber es ist auch ein wunderbarer Ort mit vielen weißen Sandstränden.
+</p>
+</Abschnitt>',
+            '303'       => '<Abschnittsklasse="Inhaltsabschnitt">
+<h2>Aktivitäten</h2>
+<ul>
+<li>
+Auf dem Programm stehen verschiedene Aktivitäten, beginnend mit einem Besuch einer großen, tiefen Bucht
+bestehend aus drei Griffen, mit denen Sie endlich schlafen können, ohne sich umzuwälzen! Für Wanderfreunde: Im Hintergrund rechts ist eine alte, verfallene Anlegestelle zu sehen, die einst von russischen Seeleuten genutzt wurde. Ein nie fertiggestellter Feldweg führt zu einem Hotel, das sich noch in der Planungsphase befindet.
+Für erfahrene Personen ist auch Speerfischen möglich.
+</li>
+<li>
+Nach diesem langen Spaziergang betreten wir das Herz des Dorfes, um zu genießen
+köstliche typisch madagassische Gerichte mit frischen und sorgfältig zubereiteten Produkten
+Bereiten Sie sich im Schatten der Kokospalmen vor.
+</li>
+<li>Rückkehr nach Nosy Be gegen 15:30 Uhr</li>
+</ul>
+</Abschnitt>
+
+<Abschnittsklasse="Dienste-Abschnitt-inkl">
+<div class="row">
+<div class="col-sm-6">
+<div class="service-list">
+<h3>Inklusivleistungen</h3>
+<ul>
+<li>Seetransport: Schnellboot</li>
+<li>Lokaler Reiseführer</li>
+<li>Typisches Mittagessen</li>
+<li>Mineralwasser</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-6">
+<div class="service-list">
+<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Alkoholische Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipps</li>
+<li>Optionale Aktivitäten</li>
+</ul>
+</div>
+</div>
+</div>
+</Abschnitt>',
             '304'       => '',
             '305'       => '',
             '306'       => '',
