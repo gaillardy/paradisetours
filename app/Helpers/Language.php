@@ -1223,9 +1223,83 @@ delicious, typically Malagasy dishes made with fresh produce and carefully prepa
  </div>
  </div>
  </section>',
-            '304'       => '',
-            '305'       => '',
-            '306'       => '',
+            '304'       => 'Sakatia Island',
+            '305'       => 'Orchid Island',
+            '306'       => '<main>
+<section class="content-section">
+<h2>Tour Description</h2>
+<p>
+NOSY SAKATIA is a charming island located just 15 minutes from Nosy Be.
+
+Nosy Sakatia is famous for its orchid plantations, fruits, and spices from Madagascar, but most importantly, its maritime riches.
+</p>
+<p>
+
+Departure at 8:30 a.m. from your hotel, heading north of Nosy Be on the Andilana road.
+After a 30-minute drive, you\'ll arrive at the dock where a motorboat will pick you up and drop you off in Sakatia, a 20-minute drive away.
+You can admire the calm and beauty of this beautiful beach and get to know the local species (vanilla, coffee, and pepper plantations).
+Swim with sea turtles, and sometimes there\'s a spectacular encounter with a family of dolphins. At noon, a meal will be served on site by a women\'s association, and you\'ll return in the late afternoon. </p>
+<ul class="unstyled-list">
+<li><b>Visit:</b> Fishing village, snorkeling, spice plantation</li>
+<li><b>Duration:</b> One day</li>
+<li><b>Departure:</b> From your hotel</li>
+<li><b>Number of passengers:</b> Guests, Guide, Skipper, Cook</li>
+<li><b>Means of transport:</b> Speedboat, life jackets available</li>
+<li><b>Lunch:</b> Picnic</li>
+</ul>
+</section>
+
+<section class="services-section-incl">
+<div class="row">
+<div class="col-sm-12">
+<div class="service-list" style="width: 100%;">
+<h3>Highlights</h3>
+<ul>
+<li>Peace</li>
+<li>Swimming with sea turtles</li>
+<li>Relaxation</li>
+<li>Endemic and medicinal plants</li>
+</ul>
+
+</div>
+</div>
+</section>
+
+<section class="services-section-incl">
+<div class="row">
+<div class="col-sm-6">
+<div class="service-list" style="width: 100%;">
+<h3>Included Services</h3>
+<ul>
+<li>Hotel welcome</li>
+<li>Speedboat transfer</li>
+<li>Lunch at the island restaurant</li>
+<li>Mineral water</li>
+<li>Guest access.</li>
+</ul>
+
+</div>
+</div>
+
+<div class="col-sm-6">
+<div class="service-list">
+<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+<li>Optional Activities</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+
+<section class="buttons-section">
+<a href="#" class="btn btn-outline-primary" download="/assets/documents/sakatia.pdf">Download PDF</a>
+<a href="tel:+261320427235" class="btn btn-outline-succsess">Call Now</a>
+</section>
+</main>',
             '307'       => '',
             '308'       => '',
             '309'       => '',
@@ -4628,9 +4702,90 @@ Contacts
                 </div>
             </div>
         </section>',
-            '304'       => '',
-            '305'       => '',
-            '306'       => '',
+            '304'       => 'Nosy Sakatia',
+            '305'       => 'L’ile aux orchidées',
+            '306'       => '<main>
+        <section class="content-section">
+            <h2>Description du Circuit</h2>
+            <p>
+                NOSY SAKATIA est une charmante île qui se trouve à seulement 15 minutes de Nosy Be. 
+                Nosy Sakatia est fameuse par sa plantation des orchidées, 
+                de fruits et d’épices de Madagascar mais surtout le plus important : sa richesse maritime.
+            </p>
+            <p>
+            
+                Départ à 8h30 de votre hôtel, direction vers le Nord de Nosy-Be sur la route d’Andilana. 
+                Au bout de 30mn de route, on arrive au quai d’embarquement où une barque à moteur prendra en 
+                charge pour vous déposer à Sakatia, 20 minutes de trajet.
+                Vous pourrez admirer le calme et la beauté de cette belle plage et faire connaissance avec les espèces locales 
+                (plantation de vanille, de café et de poivre). 
+                Nager avec les tortues de mer et parfois il y a une rencontre spectaculaire avec la famille de dauphin.
+                À midi le repas vous sera servi sur place par une association de femme et retour en fin d’après-midi.
+            </p>
+            <ul class="unstyled-list">
+                <li><b>Visite : </b> Village de pêcheur, plongée en apnée, plantation d’épice</li>
+                <li><b>Durée : </b>  Une journée</li>
+                <li><b>Départ :</b> De votre hôtel</li>
+                <li><b>Nombre de pax : </b> Les clients,  Guide Accompagnateur, Skippeur, Cuisinière</li>
+                <li><b>Moyen de transport : </b> Bateau Rapide, Gilet sauvetages disponible</li>
+                <li><b>Déjeuner :</b>  Pique-Nique</li>
+            </ul>
+        </section>
+
+       
+
+        <section class="services-section-incl">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="service-list" style="width: 100%;">
+                        <h3>Points fort</h3>
+                        <ul>
+                            <li>Calme</li>
+                            <li>Nager avec les tortues de mer</li>
+                            <li>Farniente</li>
+                            <li>Plantes endémiques et médicinales</li>
+                        </ul>
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="services-section-incl">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="service-list" style="width: 100%;">
+                        <h3>Services Inclus </h3>
+                        <ul>
+                            <li>Accueil à l’hotel</li>
+                            <li>Transfert en bateau rapide</li>
+                            <li>Déjeuner au restaurant de l’île</li>
+                            <li>Eau minéral</li>
+                            <li>Droit des visites.</li>
+                        </ul>
+                        
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="service-list">
+                        <h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboires</li>
+                            <li>Activités optionnelles</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="buttons-section">
+            <a href="#" class="btn btn-outline-primary" download="/assets/documents/sakatia.pdf">Télécharger le PDF</a>
+            <a href="tel:+261320427235" class="btn btn-outline-succsess">Appeler Maintenant</a>
+        </section>
+    </main>',
             '307'       => '',
             '308'       => '',
             '309'       => '',
@@ -8158,9 +8313,90 @@ preparatevi all'ombra delle palme da cocco.
 </div>
 </div>
 </sezione>",
-            '304'       => '',
-            '305'       => '',
-            '306'       => '',
+            '304'       => 'Isola di Sakatia',
+            '305'       => 'Isola delle Orchidee',
+            '306'       => "<main>
+<section class=\"content-section\">
+<h2>Descrizione del circuito</h2>
+<p>
+NOSY SAKATIA è un'isola incantevole situata a soli 15 minuti da Nosy Be.
+Nosy Sakatia è famosa per la sua piantagione di orchidee,
+di frutta e spezie del Madagascar ma soprattutto la cosa più importante: la sua ricchezza marittima.
+</p>
+<p>
+
+Partenza alle ore 8:30 dal vostro hotel, direzione nord di Nosy-Be sulla strada dell'Andilana.
+Dopo 30 minuti di macchina si arriva al molo d'imbarco dove un motoscafo vi porterà
+addebito per lasciarti a Sakatia, 20 minuti di viaggio.
+Potrete ammirare la calma e la bellezza di questa bellissima spiaggia e conoscere le specie locali
+(piantagione di vaniglia, caffè e pepe).
+Nuotate con le tartarughe marine e talvolta avrete l'opportunità di incontrare in modo spettacolare una famiglia di delfini.
+A mezzogiorno il pasto vi sarà servito sul posto da un'associazione femminile e il rientro avverrà nel tardo pomeriggio.
+</p>
+<ul class=\"unstyled-list\">
+<li><b>Visita:</b> Villaggio di pescatori, snorkeling, piantagione di spezie</li>
+<li><b>Durata:</b> Un giorno</li>
+<li><b>Partenza:</b> Dal tuo hotel</li>
+<li><b>Numero di persone:</b> Ospiti, Guida, Skipper, Cuoco</li>
+<li><b>Mezzo di trasporto:</b> Barca veloce, giubbotti di salvataggio disponibili</li>
+<li><b>Pranzo:</b> Picnic</li>
+</ul>
+</sezione>
+
+
+
+<section class=\"services-section-incl\">
+<div class=\"row\">
+<div class=\"col-sm-12\">
+<div class=\"service-list\" style=\"width: 100%;\">
+<h3>Punti di forza</h3>
+<ul>
+<li>Calma</li>
+<li>Nuotare con le tartarughe marine</li>
+<li>Ozio</li>
+<li>Piante endemiche e medicinali</li>
+</ul>
+
+</div>
+</div>
+</div>
+</section>
+
+<section class=\"services-section-incl\">
+<div class=\"row\">
+<div class=\"col-sm-6\">
+<div class=\"service-list\" style=\"width: 100%;\">
+<h3>Servizi inclusi</h3>
+<ul>
+<li>Reception dell'hotel</li>
+<li>Trasferimento in motoscafo</li>
+<li>Pranzo al ristorante dell'isola</li>
+<li>Acqua minerale</li>
+<li>Diritti di visita.</li>
+</ul>
+
+</div>
+</div>
+
+<div class=\"col-sm-6\">
+<div class=\"service-list\">
+<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Suggerimenti</li>
+<li>Attività facoltative</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+
+<section class=\"buttons-section\">
+<a href=\"#\" class=\"btn btn-outline-primary\" download=\"/assets/documents/sakatia.pdf\">Scarica PDF</a>
+<a href=\"tel:+261320427235\" class=\"btn btn-outline-succsess\">Chiama ora</a>
+</section>
+</main>",
             '307'       => '',
             '308'       => '',
             '309'       => '',
@@ -11675,9 +11911,90 @@ Bereiten Sie sich im Schatten der Kokospalmen vor.
 </div>
 </div>
 </Abschnitt>',
-            '304'       => '',
-            '305'       => '',
-            '306'       => '',
+            '304'       => 'Insel Sakatia',
+            '305'       => 'Orchideeninsel',
+            '306'       => '<main>
+<section class="content-section">
+<h2>Schaltkreisbeschreibung</h2>
+<p>
+NOSY SAKATIA ist eine bezaubernde Insel, nur 15 Minuten von Nosy Be entfernt.
+Nosy Sakatia ist berühmt für seine Orchideenplantage,
+an Früchten und Gewürzen aus Madagaskar, aber vor allem das Wichtigste: sein maritimer Reichtum.
+</p>
+<p>
+
+Abfahrt um 8:30 Uhr von Ihrem Hotel in Richtung Norden von Nosy-Be auf der Andilana-Straße.
+Nach einer 30-minütigen Fahrt erreichen Sie den Einschiffungskai, wo Sie ein Motorboot bringt
+Gebühr für das Absetzen in Sakatia, 20 Minuten Fahrt.
+Sie können die Ruhe und Schönheit dieses wunderschönen Strandes bewundern und die einheimischen Arten kennenlernen
+(Vanille-, Kaffee- und Pfefferplantage).
+Schwimmen Sie mit Meeresschildkröten und manchmal kommt es zu einer spektakulären Begegnung mit der Delfinfamilie.
+Mittags wird Ihnen vor Ort von einem Frauenverein das Essen serviert und am späten Nachmittag kehren Sie zurück.
+</p>
+<ul class="unstyled-list">
+<li><b>Besuchen Sie:</b> Fischerdorf, Schnorcheln, Gewürzplantage</li>
+<li><b>Dauer:</b> Ein Tag</li>
+<li><b>Abfahrt:</b> Von Ihrem Hotel</li>
+<li><b>Anzahl der Passagiere:</b> Gäste, Guide, Skipper, Koch</li>
+<li><b>Transportmittel:</b> Schnellboot, Schwimmwesten vorhanden</li>
+<li><b>Mittagessen:</b> Picknick</li>
+</ul>
+</section>
+
+
+
+<section class="services-section-incl">
+<div class="row">
+<div class="col-sm-12">
+<div class="service-list" style="width: 100%;">
+<h3>Stärken</h3>
+<ul>
+<li>Ruhe</li>
+<li>Schwimmen mit Meeresschildkröten</li>
+<li>Müßiggang</li>
+<li>Endemische und medizinische Pflanzen</li>
+</ul>
+
+</div>
+</div>
+</div>
+</section>
+
+<section class="services-section-incl">
+<div class="row">
+<div class="col-sm-6">
+<div class="service-list" style="width: 100%;">
+<h3>Inklusivleistungen</h3>
+<ul>
+<li>Hotelrezeption</li>
+<li>Schnellboottransfer</li>
+<li>Mittagessen im Inselrestaurant</li>
+<li>Mineralwasser</li>
+<li>Besuchsrecht.</li>
+</ul>
+
+</div>
+</div>
+
+<div class="col-sm-6">
+<div class="service-list">
+<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipps</li>
+<li>Optionale Aktivitäten</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+
+<section class="buttons-section">
+<a href="#" class="btn btn-outline-primary" download="/assets/documents/sakatia.pdf">PDF herunterladen</a>
+<a href="tel:+261320427235" class="btn btn-outline-succsess">Jetzt anrufen</a>
+</section>
+</main>',
             '307'       => '',
             '308'       => '',
             '309'       => '',
