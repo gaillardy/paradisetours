@@ -1462,11 +1462,75 @@ We will take the road to the port of Ankify and board a boat to Nosy Be. </p>
 <li>Mosquito repellent</li>
 <li>Sunhat or hood</li>
 </ul>',
-            '313'       => '',
-            '314'       => '',
-            '315'       => '',
-            '316'       => '',
-            '317'       => '',
+            '313'       => 'SAFARI DISCOVERY',
+            '314'       => "<h2>DAY 1: ARRIVAL IN NOSY BE</h2>
+<p>Welcome and transfer from the airport to the hotel</p>
+<h2>DAY 2: NOSY BE-ANKIFY-ANKARANA</h2>
+<p>Highlights: Landscape, market visit, Tsingy Gris de l'Ankarana</p>
+
+<h2>DAY 3: AMBER MOUNTAIN</h2>
+<p>
+Highlights: National park: waterfall, rainforest, endemic Madagascar fauna and flora species, meeting with farmers. </p>
+
+<h2>DAY 4: BAYS – RAMENA</h2>
+<p>
+Highlights: Sakalava Bay, Dunes Bay and Pigeons Bay, military ruins, beaches, meeting with farmers,
+</p>
+
+<h2>DAY 5: FREE DAY</h2>
+<h2>DAY 6: TRANSFER DIEGO SUAREZ – NOSY BE.</h2>
+
+<h2>DAY 7: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h2>
+<p>Highlights: Marine reserve: snorkeling and scuba diving – Mini park – private island</p>
+
+<h2>DAY 8: NOSY BE ISLAND TOUR</h2>
+<p>
+Highlights: History and culture of Nosy Be, meeting with the locals, cultural tour, folk entertainment, Beach, distillery, sunset
+</p>
+
+<h2>DAY 9: FREE DAY</h2>
+
+<h2>DAY 10: NOSY IRANJA</h2>
+
+<p>
+Highlights: Landscape: Sugarloaf Mountain, Antsoha, Ankazoberavina, white sand, lighthouse, meeting with the locals
+</p>
+
+<h2>DAY 11: DEPARTURE DAY</h2>
+<p>Transfer from the hotel to the airport</p>",
+            '315'       => '<h3>Included Services</h3>
+<ul>
+<li>Transfer from hotel to port: arrival and departure</li>
+<li>Accommodation: Hotel in Nosy Be</li>
+<li>4 spacious, air-conditioned WD</li>
+<li>All breakfasts</li>
+<li>Lunches during excursion days</li>
+<li>THREE guests</li>
+<li>Daily mineral water</li>
+<li>Guide</li>
+<li>Site entrance fees</li>
+</ul>',
+            '316'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Lunch: Day 4 if the guest is staying at the hotel</li>
+<li>Dinner: Day 4 if the guest is staying at the hotel</li>
+<li>Drinks</li>
+<li>Personal Extras</li>
+</ul>',
+            '317'       => '<h3>Mini Necessary Checklist</h3>
+<ul>
+<li>Personal Essentials</li>
+<li>Warm-weather clothing, made of wool or polyester</li>
+<li>Medicine</li>
+<li>Carry-on backpack and travel bag</li>
+<li>Light or flashlight</li>
+<li>Trekking boots and pants</li>
+<li>Sandals or casual shoes</li>
+<li>Sunglasses</li>
+<li>Sunscreen</li>
+<li>Mosquito repellent</li>
+<li>Sunhat or hood</li>
+</ul>',
             '318'       => '',
             '319'       => '',
             '320'       => '',
@@ -5125,11 +5189,77 @@ Contacts
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon</li>
                         </ul>',
-            '313'       => '',
-            '314'       => '',
-            '315'       => '',
-            '316'       => '',
-            '317'       => '',
+            '313'       => ' DECOUVERTE SAFARI',
+            '314'       => '<h2>JOUR 1: ARRIVEE A NOSY BE</h2>
+            <p>Accueil et transfert de l’ aéroport   vers l’hôtel</p>
+            <h2>JOUR 2: NOSY BE-ANKIFY- ANKARANA</h2>
+            <p>Points fort:  Paysage , Visite du marché , Tsingy Gris de l’Ankarana</p>
+
+            <h2>JOUR 3: MONTAGNE D’AMBRE</h2>
+            <p>
+            Points fort: Parc national : cascade , forêt humide , espèces faunistiques et floristiques  endemiques de Madagascar , rencontre avec les paysans .
+            </p>
+            
+            
+            <h2>JOUR 4: BAIES – RAMENA</h2>
+            <p>
+            Points fort: Baie de Sakalava , Baies des Dunes et Baie des Pigeons , Ruine militaire , plages , rencontre avec les paysans ,
+            </p>
+
+            <h2>JOUR 5:  JOURNEE LIBRE</h2>
+            <h2>JOUR 6: TRANSFERT DIEGO SUAREZ – NOSY BE.</h2>
+
+            <h2>JOUR 7: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h2>
+            <p>Points fort: Reserve marine : snorkeling et plongée sous marine – Mini parc – île privée </p>
+
+            <h2>JOUR 8: TOUR DE L’ÎLE DE NOSY BE</h2>
+            <p>
+            Points fort: Histoire et culture de Nosy Be , rencontre avec la population , visite Culturelle , animation folklorique , plage , distillerie , couché du soleil
+            </p>
+
+            <h2>JOUR 9: JOURNEE LIBRE</h2>
+
+            <h2>JOUR 10: NOSY IRANJA</h2>
+
+            <p>
+            Points fort: paysage : pain de sucre , Antsoha , Ankazoberavina , sable blanc , phare , rencontre avec la population,
+            </p>
+
+            <h2>JOUR 11: JOUR DE DEPART</h2>
+            <p>Transfert   de l’hôtel vers l’ aéroport</p>',
+            '315'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel au port: arrivée et départ</li>
+                            <li>Hébergement: Hôtel à Nosy Be</li>
+                            <li>4 WD spacieux et climatisé</li>
+                            <li>Tous les petits déjeuners</li>
+                            <li>Déjeuners pendant les jours d’excursions</li>
+                            <li>TROIS convives</li>
+                            <li>Eau minérale de tous les jours</li>
+                            <li>Guide</li>
+                            <li>Droit d’entrée dans les sites</li>
+                        </ul>',
+            '316'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Déjeuner: jour 4 si le client reste à l’hôtel</li>
+                            <li>Dîner: jour 4 si le client séjourne à l’hôtel</li>
+                            <li>Boissons</li>
+                            <li>Extras personnels</li>
+                        </ul>',
+            '317'       => '<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle</li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine</li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking</li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon</li>
+                        </ul>',
             '318'       => '',
             '319'       => '',
             '320'       => '',
@@ -8913,11 +9043,77 @@ Prenderemo la strada per il porto di Ankify e saliremo a bordo di una barca per 
 <li>Spray repellente per zanzare</li>
 <li>Cappello o cappuccio parasole</li>
 </ul>',
-            '313'       => '',
-            '314'       => '',
-            '315'       => '',
-            '316'       => '',
-            '317'       => '',
+            '313'       => 'SAFARI SCOPERTA',
+            '314'       => "<h2>GIORNO 1: ARRIVO A NOSY BE</h2>
+<p>Incontro e trasferimento dall'aeroporto all'hotel</p>
+<h2>GIORNO 2: NOSY BE-ANKIFY-ANKARANA</h2>
+<p>Attrazioni: paesaggio, visita al mercato, Tsingy Gris de l'Ankarana</p>
+
+GIORNO 3: MONTAGNA D'AMBRA
+<p>
+Punti salienti: Parco nazionale: cascata, foresta pluviale, specie endemiche di flora e fauna del Madagascar, incontro con gli agricoltori.
+</p>
+
+
+GIORNO 4: BACCHE – RAMENA
+<p>
+Punti salienti: Baia di Sakalava, Baia delle Dune e Baia dei Piccioni, Rovine militari, spiagge, incontro con gli agricoltori,
+</p>
+
+<h2>GIORNO 5: GIORNATA LIBERA</h2>
+GIORNO 6: TRASFERIMENTO DIEGO SUAREZ – NOSY BE.
+
+<h2>GIORNO 7: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h2>
+<p>In evidenza: Riserva marina: snorkeling e immersioni subacquee – Mini parco – isola privata</p>
+
+GIORNO 8: TOUR DELL'ISOLA DI NOSY BE
+<p>
+Momenti salienti: Storia e cultura di Nosy Be, incontro con la popolazione, visita culturale, intrattenimento folkloristico, spiaggia, distilleria, tramonto
+</p>
+
+<h2>GIORNO 9: GIORNATA LIBERA</h2>
+
+GIORNO 10: NOSY IRANJA
+
+<p>
+In evidenza: paesaggio: Pan di Zucchero, Antsoha, Ankazoberavina, sabbia bianca, faro, incontro con la popolazione,
+</p>
+
+<h2>GIORNO 11: GIORNO DELLA PARTENZA</h2>
+<p>Trasferimento dall'hotel all'aeroporto</p>",
+            '315'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento dall\'hotel al porto: arrivo e partenza</li>
+<li>Alloggi: Hotel a Nosy Be</li>
+<li>Spazioso fuoristrada con aria condizionata</li>
+<li>Tutte le colazioni</li>
+<li>Pranzi durante le giornate di escursione</li>
+<li>TRE ospiti</li>
+<li>Acqua minerale di tutti i giorni</li>
+<li>Guida</li>
+<li>Diritto di accesso ai siti</li>
+</ul>',
+            '316'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Pranzo: Giorno 4 se il cliente soggiorna in hotel</li>
+<li>Cena: Giorno 4 se l\'ospite soggiorna in hotel</li>
+<li>Bevande</li>
+<li>Extra personali</li>
+</ul>',
+            '317'       => '<h3>Mini elenco necessario</h3>
+<ul>
+<li>Necessità personale</li>
+<li>Abbigliamento adatto al clima caldo, in lana o poliestere</li>
+<li>Medicina</li>
+<li>Zaino da viaggio e custodia da viaggio</li>
+<li>Luce o torcia elettrica</li>
+<li>Scarponi e pantaloni da trekking</li>
+<li>Sandali o scarpe comode</li>
+<li>Occhiali da sole</li>
+<li>Protezione solare</li>
+<li>Spray repellente per zanzare</li>
+<li>Cappello o cappuccio parasole</li>
+</ul>',
             '318'       => '',
             '319'       => '',
             '320'       => '',
@@ -12688,11 +12884,77 @@ Wir nehmen die Straße zum Hafen von Ankify und besteigen ein Boot nach Nosy Be.
 <li>Mückenschutzspray</li>
 <li>Sonnenhut oder Kapuze</li>
 </ul>',
-            '313'       => '',
-            '314'       => '',
-            '315'       => '',
-            '316'       => '',
-            '317'       => '',
+            '313'       => 'SAFARI-ENTDECKUNG',
+            '314'       => '<h2>TAG 1: ANKUNFT IN NOSY BE</h2>
+<p>Abholung und Transfer vom Flughafen zum Hotel</p>
+<h2>TAG 2: NOSY BE-ANKIFY-ANKARANA</h2>
+<p>Höhepunkte: Landschaft, Marktbesuch, Tsingy Gris de l’Ankarana</p>
+
+<h2>TAG 3: AMBER MOUNTAIN</h2>
+<p>
+Highlights: Nationalpark: Wasserfall, Regenwald, endemische Flora- und Faunaarten Madagaskars, Treffen mit Bauern.
+</p>
+
+
+<h2>TAG 4: BEEREN – RAMENA</h2>
+<p>
+Highlights: Sakalava Bay, Dunes Bay und Pigeons Bay, Militärruinen, Strände, Treffen mit Bauern,
+</p>
+
+<h2>TAG 5: FREIER TAG</h2>
+<h2>TAG 6: TRANSFER DIEGO SUAREZ – NOSY BE.</h2>
+
+<h2>TAG 7: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h2>
+<p>Highlights: Meeresschutzgebiet: Schnorcheln und Tauchen – Minipark – Privatinsel</p>
+
+<h2>TAG 8: TOUR ÜBER DIE INSEL NOSY BE</h2>
+<p>
+Highlights: Geschichte und Kultur von Nosy Be, Treffen mit der Bevölkerung, kultureller Besuch, Volksunterhaltung, Strand, Brennerei, Sonnenuntergang
+</p>
+
+<h2>TAG 9: FREIER TAG</h2>
+
+<h2>TAG 10: NEUGIERIGES IRANJA</h2>
+
+<p>
+Highlights: Landschaft: Zuckerhut, Antsoha, Ankazoberavina, weißer Sand, Leuchtturm, Treffen mit der Bevölkerung,
+</p>
+
+<h2>TAG 11: ABREISETAG</h2>
+<p>Transfer vom Hotel zum Flughafen</p>',
+            '315'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer vom Hotel zum Hafen: Ankunft und Abreise</li>
+<li>Unterkunft: Hotel in Nosy Be</li>
+<li>Geräumiger, klimatisierter Allradwagen</li>
+<li>Alle Frühstücke</li>
+<li>Mittagessen an Ausflugstagen</li>
+<li>DREI Gäste</li>
+<li>Mineralwasser für jeden Tag</li>
+<li>Anleitung</li>
+<li>Zutrittsrecht zu den Standorten</li>
+</ul>',
+            '316'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Mittagessen: Tag 4, wenn der Kunde im Hotel übernachtet</li>
+<li>Abendessen: Tag 4, wenn der Gast im Hotel übernachtet</li>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+</ul>',
+            '317'       => '<h3>Mini-Notwendigkeitsliste</h3>
+<ul>
+<li>Persönliche Notwendigkeit</li>
+<li>Für warmes Wetter geeignete Kleidung aus Wolle oder Polyester</li>
+<li>Medizin</li>
+<li>Handgepäck-Rucksack und Reisehülle</li>
+<li>Licht oder Taschenlampe</li>
+<li>Trekkingstiefel und -hosen</li>
+<li>Sandalen oder bequeme Schuhe</li>
+<li>Sonnenbrille</li>
+<li>Sonnenschutz</li>
+<li>Mückenschutzspray</li>
+<li>Sonnenhut oder Kapuze</li>
+</ul>',
             '318'       => '',
             '319'       => '',
             '320'       => '',
