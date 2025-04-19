@@ -87,7 +87,7 @@
   <div class="container">
     <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
       <div class="col-md-9 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-        <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Services</h1>
+        <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><?= $translations['service'] ?></h1>
       </div>
     </div>
   </div>
@@ -97,23 +97,21 @@
 <!-- Hero Section: Large title, services introduction -->
 <section id="hero" class="container-fluid text-center py-5" style="background: #f0f4f8;">
     <div class="container" data-aos="fade-up">
-      <h1 class="display-4">Découvrez Nos Services Premium</h1>
-      <p class="lead">Des solutions sur mesure adaptées à vos besoins spécifiques. Explorez nos offres et transformez votre expérience.</p>
+      <?= $translations['323'] ?>
     </div>
 </section>
 
   <!-- Services Section -->
   <section id="services" class="container py-5" data-aos="fade-up">
-    <h2 class="text-center mb-4">Nos Services</h2>
+    <h2 class="text-center mb-4"><?= $translations['324'] ?></h2>
     <div class="row">
       <!-- Service Card 1 -->
       <div class="col-md-4" data-aos="fade-up">
         <div class="service-card shadow-lg rounded overflow-hidden">
           <img src="/assets/images/services/transfert.jpg" alt="Transfert Premium" class="img-fluid rounded-top">
           <div class="service-card-body">
-            <h3>Transfert Premium</h3>
-            <p>Service de transport haut de gamme, pour des trajets confortables et rapides.</p>
-            <a href="/<?= $lang ?>/transfert-premium" class="btn btn-outline-primary">En savoir plus</a>
+            <?= $translations['325'] ?>
+            <a href="/<?= $lang ?>/transfert-premium" class="btn btn-outline-primary"><?= $translations['326'] ?></a>
           </div>
         </div>
       </div>
@@ -122,9 +120,8 @@
         <div class="service-card shadow-lg rounded overflow-hidden">
           <img src="/assets/images/services/service.jpg" alt="Service Traiteur" class="img-fluid rounded-top">
           <div class="service-card-body">
-            <h3>Service Traiteur</h3>
-            <p>Offre de repas gastronomiques pour tous types d'événements.</p>
-            <a href="#service-traiteur" class="btn btn-outline-primary">En savoir plus</a>
+            <?= $translations['327'] ?>
+            <a href="#service-traiteur" class="btn btn-outline-primary"><?= $translations['326'] ?></a>
           </div>
         </div>
       </div>
@@ -133,9 +130,8 @@
         <div class="service-card shadow-lg rounded overflow-hidden">
           <img src="/assets/images/services/croisière.jpg" alt="Réception Croisières" class="img-fluid rounded-top">
           <div class="service-card-body">
-            <h3>Réception Croisières</h3>
-            <p>Organisation de réceptions sur des bateaux de luxe avec vue sur mer.</p>
-            <a href="#reception-coisières" class="btn btn-outline-primary">En savoir plus</a>
+            <?= $translations['328'] ?>
+            <a href="#reception-coisières" class="btn btn-outline-primary"><?= $translations['326'] ?></a>
           </div>
         </div>
       </div>
@@ -147,9 +143,8 @@
         <div class="service-card shadow-lg rounded overflow-hidden">
           <img src="/assets/images/services/s-2.jpg" alt="Transfert Premium" class="img-fluid rounded-top">
           <div class="service-card-body">
-            <h3>Voyage Incentive</h3>
-            <p>Réinventez l’incentive en vous offrant un voyage d’entreprise original. </p>
-            <a href="/<?=  $lang ?>/voyage-incentive" class="btn btn-outline-primary">En savoir plus</a>
+            <?= $translations['329'] ?>
+            <a href="/<?=  $lang ?>/voyage-incentive" class="btn btn-outline-primary"><?= $translations['326'] ?></a>
           </div>
         </div>
       </div>
@@ -159,9 +154,8 @@
         <div class="service-card shadow-lg rounded overflow-hidden">
           <img src="/assets/images/services/s-3.jpg" alt="Service Traiteur" class="img-fluid rounded-top">
           <div class="service-card-body">
-            <h3>Mariage et Lune de Miel</h3>
-            <p>L’équipe Paradise Tours vous propose son forfait mariage et Lune de miel. </p>
-            <a href="#mariage-et-lune-de-miel" class="btn btn-outline-primary">En savoir plus</a>
+            <?= $translations['330'] ?>
+            <a href="#mariage-et-lune-de-miel" class="btn btn-outline-primary"><?= $translations['326'] ?></a>
           </div>
         </div>
       </div>
@@ -170,9 +164,8 @@
         <div class="service-card shadow-lg rounded overflow-hidden">
           <img src="/assets/images/services/donia.jpg" alt="Réception Croisières" class="img-fluid rounded-top">
           <div class="service-card-body">
-            <h3>Culture et Événements</h3>
-            <p>Organisation de réceptions sur des bateaux de luxe avec vue sur mer.</p>
-            <a href="#culture-events" class="btn btn-outline-primary">En savoir plus</a>
+            <?= $translations['331'] ?>
+            <a href="#culture-events" class="btn btn-outline-primary"><?= $translations['326'] ?></a>
           </div>
         </div>
       </div>
@@ -184,28 +177,13 @@
   <section id="additional-info" class="container py-5" data-aos="fade-up">
     <div class="row">
       <div class="col-md-12" >
-        <h3 class="text-center">Nos Offres Complètes</h3>
-        <p class="text-justify">
-          Découvrez plus en détail les services que nous proposons. 
-          Nous avons conçu des solutions uniques pour répondre à vos besoins les plus exigeants. 
-          Que vous soyez à la recherche de services de transfert premium, 
-          de repas gastronomiques ou d'une réception croisière,
-           nous avons la solution idéale pour vous. 
-           Tous nos services sont conçus pour offrir une expérience inégalée et 
-           garantir votre satisfaction à chaque étape de votre projet.
-          </p>
+      <?= $translations['332'] ?>
       </div>
     </div>
 
     <div class="row" id="reception-coisières">
       <div class="col-md-12" >
-        <h3 class="text-center">Réception Croisières</h3>
-        <p class="text-justify">
-          &nbsp;Une compagnie de croisière est une compagnie maritime spécialiste des croisières, soit une entreprise touristique proposant des voyages récréatifs à bord de navires de croisière. Par la qualité de ses infrastructures portuaires pouvant accueillir jusqu’à 2 bateaux de croisières et de l’accueil chaleureux de ses habitants, Nosy Be est le 1er port de débarquement et d’escale de bateau de croisière à Madagascar avec ses         1 200 passagers croisiéristes. Chaque saison de croisière voit plusieurs navires faire escale le long des côtes malgaches, renforçant ainsi la position de Madagascar en tant qu’étape incontournable des circuits touristiques. Le navire de croisière a réalisé une nouvelle escale à Antsiranana. Le bateau, offrant aux touristes une occasion unique de découvrir les trésors de cette destination de Nosy Be et le  Nord de Madagascar.
-          Parmi les moments forts de cette visite, l’exploration de la Montagne d’Ambre s’est imposée comme un incontournable. Située à 38 km de Diego-Suarez, cette destination offres une immersion dans la riche biodiversité de la réserve naturelle, tout en admirant des panoramas époustouflants en altitude. N’oubliez pas une escale pour visiter Nosy Be et ses environs en tant que 1ère escale du bateau de croisière à Madagascar! 
-          Nous pouvons vous proposer différents type de logistiques.
-
-        </p>
+        <?= $translations['333'] ?> 
       </div>
     </div>
 

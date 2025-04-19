@@ -1531,22 +1531,128 @@ Highlights: Landscape: Sugarloaf Mountain, Antsoha, Ankazoberavina, white sand, 
 <li>Mosquito repellent</li>
 <li>Sunhat or hood</li>
 </ul>',
-            '318'       => '',
-            '319'       => '',
-            '320'       => '',
-            '321'       => '',
-            '322'       => '',
-            '323'       => '',
-            '324'       => '',
-            '325'       => '',
-            '326'       => '',
-            '327'       => '',
-            '328'       => '',
-            '329'       => '',
-            '330'       => '',
-            '331'       => '',
-            '332'       => '',
-            '333'       => '',
+            '318'       => 'Unspoiled beach stay',
+            '319'       => "<p class=\"mb-4\">
+<b> Visits: </b> Baie des Russes – Nosy Antsoha – Nosy Iranja <br>
+
+<b> Duration: </b> 4 Days 3 Nights <br>
+
+<b> Departure: </b> Ambatoloaka
+</p>
+
+<h2> Tour Descriptions</h2>
+
+<p>
+<b> Number of passengers:</b> Guests, Guide, 1 Skipper, Cook <br>
+
+<b> Boat Type:</b> Speedboat, Life Jackets
+</p>
+
+<h2> Day 1: NOSY BE – BAY OF RUSSIANS</h2>
+
+<p>
+Baie des Russes or Ambavatory Bay is a 40-minute speedboat ride from Nosy Be. Its main attraction lies in the fact that it's an excellent anchorage for spending the night in complete safety. It's a vast bay, often a dolphin playground, dotted with beaches and small fishing villages. History tells us that the Russian fleet from Saint Petersburg sheltered in this bay in 1904 for two months before going to confront the Japanese fleet at the Battle of Tsushima, where it was completely annihilated.
+
+Russian Bay, or Ambavatory Bay, is not only a historical testament to the Russo-Japanese War of 1904-1905 and the Russian contingent that settled in the superb Ambavatory Bay, but it's also a wonderful site with numerous white sand beaches.
+
+Several activities are available, starting with a visit to a large, deep bay composed of three coves where you can finally sleep without rolling! For those who love hiking, in the background on the right is an old ruined landing stage used by Russian sailors at the time. A dirt road, never finished, leads to a hotel that remains in the planning stages. Spearfishing is also available for those who are experienced.
+
+After this long walk, we enter the heart of the village to savor delicious, typically Malagasy dishes made with fresh produce, carefully prepared under the shade of coconut trees.
+
+We continue the 2-hour hike to the village of Angodroga, where we will spend the night. We enjoy the beautiful wild, forested landscape, panoramic views of the entire bay, the red earth of the island, and some medicinal plants.
+
+We can choose the boat ride option to reach the village of Angodroga.
+
+Dinner and overnight stay in a typical, comfortable bungalow on stilts in the village.
+
+</p>",
+            '320'       => "DAY 2: ANGODROGA – NOSY ANTSOHA
+
+After breakfast, we begin a day full of discovery and activity.
+
+Nosy Antsoha is just a 10-minute canoe ride from the village. It's a private island that's home to a nature reserve and four species of lemurs endemic to Madagascar. The island also offers a hike to the summit, offering beautiful views on both sides and panoramic views of Sugar Loaf Mountain, Nosy Iranja, Nosy Ankazoberavina, and the mainland. Platforms and trails have been specially designed for this activity.
+
+At the summit of tiny Antsoha lies the famous \"LOV ROOM,\" designed for lovers on their honeymoon or simply seeking total privacy. With only a breathtaking view on the horizon, it's an experience to be enjoyed together.
+
+We will return to the village for lunch. The afternoon will be dedicated to activities such as snorkeling, scuba diving, paddleboarding, sea and mangrove kayaking, trekking, horseback riding, mountain biking, beach volleyball, badminton, a village tour, and even pétanque.
+
+Dinner and overnight stay in a typical, comfortable bungalow on stilts in the village.
+
+Day 3: ANGODROGA – NOSY IRANJA
+
+We leave the village of Angodroga around 10:00 a.m. by speedboat to reach Nosy Iranja, a 30-minute ferry ride away.
+
+Nosy Iranja, where Turtle Island with its breathtaking landscape will welcome you: two islets connected by a 2-kilometer long white sandbar. Once you arrive on the island, you will have the opportunity to admire and enjoy the beauty of this paradise. At low tide, a pristine white beach is available for all your moments of pleasure, sunbathing, swimming, and short strolls. You can also visit the old lighthouse located high above the Great Iranja, which also offers a magnificent panoramic view.
+
+A delicious seafood lunch featuring coconut dishes, a seasonal fruit, will be served under the shade of the coconut trees.
+
+Once on the island, not only will you be fully immersed in a fishing village, but you'll also be able to visit two islands connected by a long stretch of white sand. At low tide, a pristine white sand beach is available for all your moments of pleasure, sunbathing, swimming, and strolling to discover some ferns, all set against a turquoise sea. A camp is also available to observe the sea turtles that nest on the beach during the night.
+
+At noon, a delicious meal prepared on site in the shade of the coconut trees will be served.
+
+When the group returns to Nosy Be, a local guide (in charge) will escort you to your beachfront bungalow \"CHEZ OLIVIA,\" clean and equipped with a bathroom, where you will spend the night and relax.
+
+After dinner, you will return to the white sand beach to witness the first spectacular reunion of baby turtles at sea. Luckily, you will also help the mother turtle lay eggs on the beach...
+
+Dinner and overnight stay on the island of Iranja Be.
+</p>
+
+<h2>Day 4: NOSY IRANJA – NOSY BE</h2>
+
+<p>
+In the morning, the locals' rhythm of life will awaken you, and we invite you to admire the sunrise on the beach between these islands. Having breakfast on these islands is an unforgettable moment. Free day and lunch with the group.
+
+We will return to Nosy Be around 3 p.m.
+</p>",
+            '321'       => '<H3> Services included </h3>
+ <ul>
+ <li> fast boat </li>
+ <li> Accommodation </li>
+ <li> Breakfast -Lunch -Dinner </li>
+ <li> Visit right </li>
+ <li> Mineral water </li>
+ <li> Guide </li>
+ <li> Activities </li>
+ </ul>',
+            '322'       => '<h3> not included services </h3>
+ <ul>
+ <li> Drinks </li>
+ <li> Personal extras </li>
+ <li> Tip with guides </li>
+ </ul>',
+            '323'       => '<h1 Class = "display-4"> Discover our Premium Services </h1>
+ <p Class = "lead"> tailor -made solutions adapted to your specific needs. Explore our offers and transform your experience. </p>',
+            '324'       => 'Our services',
+            '325'       => '<H3> Premium transfer </h3>
+ <p> high -end transport service, for comfortable and fast journeys. </p>',
+            '326'       => 'Learn more',
+            '327'       => '<H3> Catering service </h3>
+ <p> Offer of gourmet meals for all types of events. </p>',
+            '328'       => '<h3> Cruises reception </h3>
+ <p> Organization of receptions on luxury boats with sea views. </p>',
+            '329'       => '<H3> Incentive trip </h3>
+ <p> Reinvent the incentive by offering you an original business trip. </p>',
+            '330'       => '<H3> Wedding and honeymoon </h3>
+ <p> The Paradise Tours team offers you its wedding and honeymoon package. </p>',
+            '331'       => '<H3> Culture and events </h3>
+ <p> Organization of receptions on luxury boats with sea views. </p>',
+            '332'       => "<H3 Class = \"text-center \"> Our complete offers </ H3>
+<p class = \"text-Justify \">
+Discover the services that we offer in more detailed way.
+We have designed unique solutions to meet your most demanding needs.
+You are looking for premium transfer services,
+gourmet meals or a cruise reception,
+We have the ideal solution for you.
+All our services are designed to offer an unrivaled experience e
+Guarantee your satisfaction at every phase of the project.
+</p>",
+            '333'       => '<h3 class="text-center">Réception Croisières</h3>
+        <p class="text-justify">
+          &nbsp;Une compagnie de croisière est une compagnie maritime spécialiste des croisières, soit une entreprise touristique proposant des voyages récréatifs à bord de navires de croisière. Par la qualité de ses infrastructures portuaires pouvant accueillir jusqu’à 2 bateaux de croisières et de l’accueil chaleureux de ses habitants, Nosy Be est le 1er port de débarquement et d’escale de bateau de croisière à Madagascar avec ses         1 200 passagers croisiéristes. Chaque saison de croisière voit plusieurs navires faire escale le long des côtes malgaches, renforçant ainsi la position de Madagascar en tant qu’étape incontournable des circuits touristiques. Le navire de croisière a réalisé une nouvelle escale à Antsiranana. Le bateau, offrant aux touristes une occasion unique de découvrir les trésors de cette destination de Nosy Be et le  Nord de Madagascar.
+          Parmi les moments forts de cette visite, l’exploration de la Montagne d’Ambre s’est imposée comme un incontournable. Située à 38 km de Diego-Suarez, cette destination offres une immersion dans la riche biodiversité de la réserve naturelle, tout en admirant des panoramas époustouflants en altitude. N’oubliez pas une escale pour visiter Nosy Be et ses environs en tant que 1ère escale du bateau de croisière à Madagascar! 
+          Nous pouvons vous proposer différents type de logistiques.
+
+        </p>',
             '334'       => '',
             '335'       => '',
             '336'       => '',
@@ -5260,22 +5366,133 @@ Contacts
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon</li>
                         </ul>',
-            '318'       => '',
-            '319'       => '',
-            '320'       => '',
-            '321'       => '',
-            '322'       => '',
-            '323'       => '',
-            '324'       => '',
-            '325'       => '',
-            '326'       => '',
-            '327'       => '',
-            '328'       => '',
-            '329'       => '',
-            '330'       => '',
-            '331'       => '',
-            '332'       => '',
-            '333'       => '',
+            '318'       => 'Séjour plage vierge',
+            '319'       => '<p class="mb-4">
+                <b> Visites: </b> Baie des Russes – Nosy Antsoha – Nosy Iranja <br>
+
+                <b> Durée: </b> 4 Jours 3nuits <br>
+
+                <b> Départ:  </b>   Ambatoloaka
+            </p>
+
+            <h2>Description des circuits</h2>
+
+            <p>
+                <b> Nombre de pax :</b> Les Clients, Guide  Accompagnateur, 1 Skippeur, Cuisinière <br>
+
+                <b>Type Bateau :</b> Bateau Rapide, Gilet sauvetages
+            </p>
+
+            <h2>Jour 1 : NOSY BE – BAIE DES RUSSES</h2>
+
+            <p>
+                La  Baie des Russes ou baie d’Ambavatory se trouve à 40 minutes en bateau rapide de Nosy Be .Son intérêt, réside surtout dans le fait que c’est un excellent mouillage pour passer la nuit en toute sécurité. C’est une vaste baie, très souvent un terrain de jeux des dauphins, constellée de plages et petits villages de pêcheurs. L’histoire nous dit que dans cette baie, la flotte russe  de Saint Petersbourg  qui s’était abritée en 1904 pendant deux  mois avant d’aller affronter la flotte japonaise à la bataille de Tsuhima où elle fut entièrement anéantie.
+
+                La Baie des Russes ou baie d’Ambavatory est non seulement un témoignage historique de la guerre russo-japonaise  1904 – 1905 et du contingent russe qui s’installa sur la superbe baie d’Ambavatory, mais c’est également un site merveilleux aux nombreuses plages de sable blanc.
+
+                Plusieurs activités  seront au rendez en commençant  par la visite d’une grande baie profonde composée de trois anses ou enfin on dort sans rouler ! Pour ceux qui adorent le randonné,  au fond à droite il y a un vieux débarcadère en ruine fût utilisé par les marins russes à l’poque,  une route en terre jamais finie conduit à un hôtel resté à l’état de projet. On peut aussi pratiquer la chasse sous marine pour ceux qui s’y connaissent
+
+                Après cette  longue balade, nous pénétrons au cœur du village  pour savourer les délicieux plats typiquement Malagasy  avec des produits frais  et  soigneusement préparé sous l’ombre de cocotiers.
+
+                Nous continuons le circuit  en randonnée  de 2h de temps les vers le  village d’Angodroga où nous passerons la nuit.  Nous en profitons du beau paysage  sauvage, forestier, vue panoramique sur  l’ensemble de la baie,  la terre rouge de grande île et quelques plantes médicinales.
+
+                Nous pouvons choisir l’option balade en bateau pour rejoindre  le  village d’Angodroga.
+
+                Diner et nuitée dans un bungalow typique, sur pilotis et confortable  dans le village
+            </p>',
+            '320'       => '<h2>JOUR 2 : ANGODROGA – NOSY ANTSOHA</h2>
+
+            <p>
+                Après le petit déjeuner  nous entamons  une journée pleine de découverte et d’activité.
+
+                Nosy Antsoha  se trouve à peine à 10 minutes à pirogue  du village, c’est  une île privée qui abrite une réserve naturelle 4 espèces de  lémuriens endémiques de Madagascar. L’île propose aussi un parcours vers le sommet  qui offre une belle vue sur chaque côté  et une vue panoramique sur le pain de sucre, sur Nosy Iranja , sur Nosy Ankazoberavina et sur la grande terre .Des plateformes  et des  sentiers ont été aménagé spécialement  pour cette activité .
+
+                
+
+                Au sommet du minuscule Antsoha  est aménagé  le fameux « LOV ROOM » conçus  pour l’amoureux  en lune de miel ou  juste en quête d’intimité totale, pour seul horizon une vue à couper le souffle c’est une expérience à vivre à deux.
+
+                Nous reviendrons vers le village  pour le déjeuner. L’après midi sera consacrer par des activités  comme : snorkeling, plongée sous-marine, paddle, kayak en mer et dans la mangrove, trekking  balade à cheval, VTT, beach-volley, badminton, visite du village et même pétanque
+
+                Diner et nuitée dans un bungalow typique, sur pilotis et confortable  dans le village
+            </p>
+
+            <h2>Jour 3 : ANGODROGA – NOSY IRANJA</h2>
+
+
+            <p>
+                Nous  quittons le village d’Angodroga vers 10h du matin en bateau rapide pour rejoindre  Nosy Iranja qui se trouve à 30 minutes de traversé. 
+
+                Nosy Iranja  où l’île aux tortues  avec  son paysage époustouflant vous accueillera : 2 îlots reliés par un long banc de sable blanc de 2 kilomètres. Une fois arrivée sur l’île, vous aurez l’occasion d’admirer et de profiter  de la beauté de cette île paradisiaque. A marée basse, une plage blanche et intacte est disponible pour tous vos moments de plaisir, bain de soleil, baignade et petite balade. Vous pourrez aussi faire une visite de l’ancienne  phare situé den hauteur de la grande Iranja qui offre aussi une vue panoramique magnifique. 
+
+                Un  délicieux déjeuner à base de  fruit de mer, des plats au coco, fruit de saison  vous sera servi sous  l’ombre des cocotiers.
+
+                Une fois sur l’île, non seulement une immersion totale dans un village de pêcheurs vous sera offerte mais aussi la visite de deux îles reliées par un long sable blanc vous accueille à 2 km à marée basse, une plage de sable blanc et préservée est à votre disposition pour tous vos moments de plaisir, soleil, baignade et balade pour découvrir quelques fougères, le tout sur une mer turquoise … Possibilité d’un camp pour observer les tortues marines qui nichent sur la plage pendant la nuit.
+
+                A midi un bon repas préparé sur place à l’ombre des cocotiers vous sera servi.
+
+                Lorsque le groupe retourne à Nosy Be, un guide local (responsable) vous guidera jusqu’à votre bungalow  « CHEZ OLIVIA » pied dans l’eau, propre avec toilette,   où vous passerez la nuit et vous laisserez vous reposer.
+
+                Après le dîner, vous retournez vers le band de  sable blanc pour assister à la première réunion spectaculaire de bébés tortus à la mer. Par chance, vous aiderez également la tortue mère à pondre des œufs sur la plage …
+
+                Diner et nuitée sur l’île d’Iranja Be.
+            </p>
+
+            <h2>Jour 4 : NOSY IRANJA – NOSY BE</h2>
+
+            <p>
+                Le matin, le rythme de vie de la population vous réveillera et nous vous invitons à admirer le lever du soleil sur la plage entre ces îles, prendre le petit déjeuner sur ces îles est un moment de vie inoubliable. Journée libre  et déjeuner en groupe.
+
+                Nous reviendrons vers Nosy Be vers 15h.
+            </p>',
+            '321'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Bateau rapide</li>
+                            <li>Hébergement</li>
+                            <li>Petit déjeuner -Déjeuner – Diner</li>
+                            <li>Droit de visite</li>
+                            <li>Eau minéral</li>
+                            <li>Guide</li>
+                            <li>Activités</li>
+                        </ul>',
+            '322'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Les boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboire aux guides</li>
+                        </ul>',
+            '323'       => '<h1 class="display-4">Découvrez Nos Services Premium</h1>
+      <p class="lead">Des solutions sur mesure adaptées à vos besoins spécifiques. Explorez nos offres et transformez votre expérience.</p>',
+            '324'       => 'Nos Services',
+            '325'       => '<h3>Transfert Premium</h3>
+            <p>Service de transport haut de gamme, pour des trajets confortables et rapides.</p>',
+            '326'       => 'En savoir plus',
+            '327'       => '<h3>Service Traiteur</h3>
+            <p>Offre de repas gastronomiques pour tous types d\'événements.</p>',
+            '328'       => '<h3>Réception Croisières</h3>
+            <p>Organisation de réceptions sur des bateaux de luxe avec vue sur mer.</p>',
+            '329'       => '<h3>Voyage Incentive</h3>
+            <p>Réinventez l’incentive en vous offrant un voyage d’entreprise original. </p>',
+            '330'       => '<h3>Mariage et Lune de Miel</h3>
+            <p>L’équipe Paradise Tours vous propose son forfait mariage et Lune de miel. </p>',
+            '331'       => '<h3>Culture et Événements</h3>
+            <p>Organisation de réceptions sur des bateaux de luxe avec vue sur mer.</p>',
+            '332'       => '<h3 class="text-center">Nos Offres Complètes</h3>
+        <p class="text-justify">
+          Découvrez plus en détail les services que nous proposons. 
+          Nous avons conçu des solutions uniques pour répondre à vos besoins les plus exigeants. 
+          Que vous soyez à la recherche de services de transfert premium, 
+          de repas gastronomiques ou d\'une réception croisière,
+           nous avons la solution idéale pour vous. 
+           Tous nos services sont conçus pour offrir une expérience inégalée et 
+           garantir votre satisfaction à chaque étape de votre projet.
+          </p>',
+            '333'       => "<h3 class = \"text-center\"> Cruises Riception </h3>
+<p class = \"text-giustify\">
+& nbsp; Una compagnia di crociere è una società marittima specializzata in Cruises, una società turistica che offre viaggi ricreativi a bordo di navi da crociera. Con la qualità della sua infrastruttura portuale che può ospitare fino a 2 navi da crociera e il caloroso benvenuto dai suoi abitanti, Nosy Be è il primo porto di atterraggio e nave da crociera in Madagascar con i suoi 1.200 passeggeri da crociera. Ogni stagione delle crociere vede diverse navi fermarsi lungo le coste malgastiche, rafforzando così la posizione del Madagascar come must per i circuiti turistici. La nave da crociera ha fatto una nuova sosta ad Antsiranana. La barca, offrendo ai turisti un'opportunità unica per scoprire i tesori di questa destinazione di Nosy Be e del Madagascar settentrionale.
+Tra i punti salienti di questa visita, l'esplorazione della montagna Amber si è affermata come un must. Situata a 38 km da Diego-Suarez, questa destinazione offre un'immersione nella ricca biodiversità della riserva naturale, ammirando i panorami mozzafiato in quota. Non dimenticare una sosta per visitare Nosy Be e l'ambiente circostante come una prima sosta sulla nave da crociera in Madagascar!
+Possiamo offrirti diversi tipi di logistica.
+
+</p>",
             '334'       => '',
             '335'       => '',
             '336'       => '',
@@ -9114,22 +9331,133 @@ In evidenza: paesaggio: Pan di Zucchero, Antsoha, Ankazoberavina, sabbia bianca,
 <li>Spray repellente per zanzare</li>
 <li>Cappello o cappuccio parasole</li>
 </ul>',
-            '318'       => '',
-            '319'       => '',
-            '320'       => '',
-            '321'       => '',
-            '322'       => '',
-            '323'       => '',
-            '324'       => '',
-            '325'       => '',
-            '326'       => '',
-            '327'       => '',
-            '328'       => '',
-            '329'       => '',
-            '330'       => '',
-            '331'       => '',
-            '332'       => '',
-            '333'       => '',
+            '318'       => 'Soggiorno in spiaggia incontaminata',
+            '319'       => "<p class=\"mb-4\">
+<b> Visite: </b> Baie des Russes – Nosy Antsoha – Nosy Iranja <br>
+
+<b>Durata:</b> 4 giorni e 3 notti <br>
+
+<b> Partenza: </b> Ambatoloaka
+</p>
+
+<h2>Descrizione dei circuiti</h2>
+
+<p>
+<b>Numero di persone:</b> Ospiti, Guida, 1 Skipper, Cuoco <br>
+
+<b>Tipo di barca:</b> Barca veloce, giubbotti di salvataggio
+</p>
+
+Giorno 1: NOSY BE – BAIA RUSSA
+
+<p>
+La Baie des Russes o baia di Ambavatory si trova a 40 minuti di motoscafo da Nosy Be. Il suo interesse principale risiede nel fatto che è un ottimo ancoraggio per trascorrere la notte in tutta sicurezza. Si tratta di una baia vasta, spesso rifugio per i delfini, punteggiata di spiagge e piccoli villaggi di pescatori. La storia ci racconta che in questa baia la flotta russa di San Pietroburgo si rifugiò per due mesi nel 1904, prima di affrontare la flotta giapponese nella battaglia di Tsuhima, dove venne completamente annientata.
+
+La Baia Russa o Baia di Ambavatory non è solo una testimonianza storica della guerra russo-giapponese del 1904-1905 e del contingente russo che si stabilì nella splendida Baia di Ambavatory, ma è anche un luogo meraviglioso con numerose spiagge di sabbia bianca.
+
+Saranno previste diverse attività, a partire dalla visita a un'ampia e profonda baia composta da tre insenature dove finalmente potrete dormire senza rotolare! Per gli amanti del trekking, sullo sfondo a destra si vede un vecchio attracco in rovina utilizzato all'epoca dai marinai russi, una strada sterrata mai terminata conduce ad un albergo rimasto in fase di progettazione. Anche la pesca subacquea può essere praticata da chi sa farlo.
+
+Dopo questa lunga passeggiata, ci addentriamo nel cuore del villaggio per assaporare i deliziosi piatti tipici malgasci, preparati con prodotti freschi e con cura, all'ombra delle palme da cocco.
+
+Proseguiamo il circuito con un'escursione di 2 ore verso il villaggio di Angodroga, dove pernotteremo.  Ci godiamo lo splendido paesaggio selvaggio e boscoso, la vista panoramica dell'intera baia, la terra rossa della Grande Ile e alcune piante medicinali.
+
+Possiamo scegliere l'opzione della gita in barca per raggiungere il villaggio di Angodroga.
+
+Cena e pernottamento in un tipico e confortevole bungalow su palafitte nel villaggio
+</p>",
+            '320'       => "<h2>GIORNO 2: ANGODROGA – NOSY ANTSOHA</h2>
+
+<p>
+Dopo la colazione iniziamo una giornata ricca di scoperte e attività.
+
+Nosy Antsoha si trova a soli 10 minuti di canoa dal villaggio. È un'isola privata che ospita una riserva naturale con 4 specie di lemuri endemici del Madagascar. L'isola offre anche un percorso che porta alla cima, da cui si gode di una splendida vista su entrambi i lati e di una vista panoramica sul Pan di Zucchero, Nosy Iranja, Nosy Ankazoberavina e la terraferma. Piattaforme e percorsi sono stati appositamente progettati per questa attività.
+
+
+
+In cima alla piccola Antsoha si trova la famosa \"LOV ROOM\", pensata per gli innamorati in luna di miele o semplicemente in cerca di privacy assoluta, con solo una vista mozzafiato all'orizzonte: un'esperienza da vivere in coppia.
+
+Torneremo al villaggio per pranzo. Il pomeriggio sarà dedicato ad attività quali: snorkeling, immersioni subacquee, paddle boarding, kayak in mare e nelle mangrovie, trekking, equitazione, mountain bike, beach volley, badminton, visita al villaggio e persino bocce.
+
+Cena e pernottamento in un tipico e confortevole bungalow su palafitte nel villaggio
+</p>
+
+<h2>3° giorno: ANGODROGA – NOSY IRANJA</h2>
+
+
+<p>
+Verso le 10 del mattino lasciamo il villaggio di Angodroga in motoscafo per raggiungere Nosy Iranja, distante 30 minuti di traversata.
+
+Nosy Iranja, dove vi accoglierà l'Isola delle Tartarughe con il suo paesaggio mozzafiato: 2 isolotti collegati da una lunga lingua di sabbia bianca lunga 2 chilometri. Una volta arrivati ​​sull'isola, avrete l'opportunità di ammirare e godere della bellezza di quest'isola paradisiaca. Con la bassa marea, una spiaggia bianca e incontaminata è a vostra disposizione per trascorrere momenti di piacere, tra bagni di sole, nuotate e brevi passeggiate. È possibile visitare anche il vecchio faro situato sulle alture del grande Iranja, dal quale si gode di una magnifica vista panoramica.
+
+All'ombra delle palme da cocco vi verrà servito un delizioso pranzo a base di frutti di mare, piatti a base di cocco e frutta di stagione.
+
+Una volta sull'isola, non solo vi verrà proposta un'immersione totale in un villaggio di pescatori, ma anche la visita di due isole collegate da una lunga spiaggia di sabbia bianca che vi accoglie a 2 km di distanza. Con la bassa marea, una spiaggia di sabbia bianca e preservata è a vostra disposizione per tutti i vostri momenti di piacere, sole, bagni e passeggiate alla scoperta di alcune felci, il tutto su un mare turchese... Possibilità di accampamento per osservare le tartarughe marine che nidificano sulla spiaggia durante la notte.
+
+A mezzogiorno vi verrà servito un buon pasto preparato sul posto, all'ombra delle palme da cocco.
+
+Al ritorno del gruppo a Nosy Be, una guida locale (responsabile) vi accompagnerà al vostro bungalow \"CHEZ OLIVIA\" in riva al mare, pulito e dotato di servizi igienici, dove trascorrerete la notte e potrete riposare.
+
+Dopo cena, tornerete sulla lingua di sabbia bianca per assistere al primo spettacolare incontro delle tartarughine in mare. Fortunatamente, aiuterai anche la tartaruga madre a deporre le uova sulla spiaggia...
+
+Cena e pernottamento sull'isola di Iranja Be.
+</p>
+
+<h2>4° giorno: NOSY IRANJA – NOSY BE</h2>
+
+<p>
+Al mattino sarete svegliati dal ritmo della vita della popolazione e vi invitiamo ad ammirare l'alba sulla spiaggia tra queste isole; fare colazione su queste isole è un momento di vita indimenticabile. Giornata libera e pranzo di gruppo.
+
+Ritorneremo a Nosy Be verso le 15.00.
+</p>",
+            '321'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Motoscafo</li>
+<li>Alloggio</li>
+<li>Colazione - Pranzo - Cena</li>
+<li>Diritti di visita</li>
+<li>Acqua minerale</li>
+<li>Guida</li>
+Attività
+</ul>',
+            '322'       => '<h3> Servizi non inclusi </h3>
+<ul>
+<li> bevande </li>
+<li> extra personali </li>
+<li> Suggerimento con guide </li>
+</ul>',
+            '323'       => '<h1 class = "display-4"> Scopri i nostri servizi premium </h1>
+<p class = "lead"> soluzioni fatte su misura adattate alle tue esigenze specifiche. Esplora le nostre offerte e trasforma la tua esperienza. </p>',
+            '324'       => 'I nostri servizi',
+            '325'       => '<h3> trasferimento premium </h3>
+<p> Servizio di trasporto in alto, per viaggi confortevoli e veloci. </p>',
+            '326'       => 'Saperne di più',
+            '327'       => '<h3> servizio di catering </h3>
+<p> Offerta di pasti gourmet per tutti i tipi di eventi. </p>',
+            '328'       => '<h3> Ricezione delle crociere </h3>
+<p> Organizzazione dei ricevimenti su barche di lusso con vista sul mare. </p>',
+            '329'       => '<h3> viaggio incentivo </h3>
+<p> Reinventare l\'incentivo offrendoti un viaggio d\'affari originale. </p>',
+            '330'       => '<h3> matrimonio e luna di miele </h3>
+<p> Il team Paradise Tours ti offre il suo pacchetto per matrimoni e luna di miele. </p>',
+            '331'       => '<h3> cultura ed eventi </h3>
+<p> Organizzazione dei ricevimenti su barche di lusso con vista sul mare. </p>',
+            '332'       => "<h3 class = \"text-center\"> le nostre offerte complete </h3>
+<p class = \"text-justify\">
+Scopri i servizi che offriamo in modo più dettagliato.
+Abbiamo progettato soluzioni uniche per soddisfare le tue esigenze più impegnative.
+Che stai cercando servizi di trasferimento premium,
+pasti gourmet o un ricevimento di crociera,
+Abbiamo la soluzione ideale per te.
+Tutti i nostri servizi sono progettati per offrire un'esperienza senza rivali e
+Garantisci la tua soddisfazione in ogni fase del progetto.
+</p>",
+            '333'       => '<h3 class = "text-center"> Cruises Reception </h3>
+<p class = "text-justify">
+& nbsp; Eine Kreuzfahrtfirma ist ein Maritime -Unternehmen, das sich auf Kreuzfahrten spezialisiert hat, ein Touristenunternehmen, das Freizeitreisen an Bord von Kreuzfahrtschiffen anbietet. Nach der Qualität seiner Hafeninfrastruktur, die bis zu 2 Kreuzfahrtschiffe und der herzlichen Begrüßung seiner Bewohner aufnehmen kann, ist Nosy BE der 1. Hafen der Landungs- und Kreuzfahrtschiff in Madagaskar mit seinen 1.200 Kreuzfahrtpassagieren. In jeder Kreuzfahrt -Saison wird mehrere Schiffe entlang der madagischen Küste angehalten, wodurch die Position von Madagaskar als Muss touristische Schaltkreise verstärkt. Das Kreuzfahrtschiff hat in Antsoranana einen neuen Zwischenstopp gemacht. Das Boot bietet Touristen eine einzigartige Gelegenheit, die Schätze dieses Ziels von Nosy BE und Northern Madagaskar zu entdecken.
+Unter den Höhepunkten dieses Besuchs hat sich die Erkundung des Amber Mountain als Muss etabliert. Dieses Ziel liegt 38 km von Diego-Suarez entfernt und bietet ein Eintauchen in die reichhaltige Artenvielfalt des Naturschutzgebiets und bewundert gleichzeitig atemberaubende Panoramen in der Höhe. Vergessen Sie keinen Zwischenstopp, um Nosy BE und seine Umgebung als 1. Zwischenstopp auf dem Kreuzfahrtschiff in Madagaskar zu besuchen!
+Wir können Ihnen verschiedene Arten von Logistik anbieten.
+
+</p>',
             '334'       => '',
             '335'       => '',
             '336'       => '',
@@ -12955,22 +13283,133 @@ Highlights: Landschaft: Zuckerhut, Antsoha, Ankazoberavina, weißer Sand, Leucht
 <li>Mückenschutzspray</li>
 <li>Sonnenhut oder Kapuze</li>
 </ul>',
-            '318'       => '',
-            '319'       => '',
-            '320'       => '',
-            '321'       => '',
-            '322'       => '',
-            '323'       => '',
-            '324'       => '',
-            '325'       => '',
-            '326'       => '',
-            '327'       => '',
-            '328'       => '',
-            '329'       => '',
-            '330'       => '',
-            '331'       => '',
-            '332'       => '',
-            '333'       => '',
+            '318'       => 'Unberührter Strandaufenthalt',
+            '319'       => '<p class="mb-4">
+<b>Besuche:</b> Baie des Russes – Nosy Antsoha – Nosy Iranja <br>
+
+<b>Dauer:</b> 4 Tage 3 Nächte <br>
+
+<b> Abfahrt: </b> Ambatoloaka
+</p>
+
+<h2>Beschreibung der Schaltkreise</h2>
+
+<p>
+<b>Anzahl der Passagiere:</b> Gäste, Guide, 1 Skipper, Koch <br>
+
+<b>Bootstyp:</b> Schnellboot, Schwimmwesten
+</p>
+
+Tag 1: NOSY BE – RUSSISCHE BUCHT
+
+<p>
+Die Baie des Russes oder Ambavatory Bay liegt 40 Minuten mit dem Schnellboot von Nosy Be entfernt. Sein Hauptinteresse liegt darin, dass es ein ausgezeichneter Ankerplatz ist, um die Nacht in völliger Sicherheit zu verbringen. Es handelt sich um eine riesige Bucht, die oft ein Spielplatz für Delfine ist und übersät ist mit Stränden und kleinen Fischerdörfern. Aus der Geschichte wissen wir, dass die russische Flotte von Sankt Petersburg im Jahr 1904 in dieser Bucht zwei Monate lang Schutz suchte, bevor sie in der Schlacht von Tsuhima der japanischen Flotte gegenübertrat und dort vollständig vernichtet wurde.
+
+Russian Bay oder Ambavatory Bay ist nicht nur ein historisches Zeugnis des Russisch-Japanischen Krieges von 1904–1905 und des russischen Kontingents, das sich in der wunderschönen Ambavatory Bay niederließ, sondern auch ein wunderbarer Ort mit vielen weißen Sandstränden.
+
+Auf dem Programm stehen verschiedene Aktivitäten, angefangen mit einem Besuch einer großen, tiefen Bucht, die aus drei Buchten besteht, wo Sie endlich schlafen können, ohne sich umzuwälzen! Für Wanderfreunde: Im Hintergrund rechts ist eine alte, verfallene Anlegestelle zu sehen, die einst von russischen Seeleuten genutzt wurde. Ein nie fertiggestellter Feldweg führt zu einem Hotel, das sich noch in der Planungsphase befindet. Wer weiß, wie man Speerfischen kann, kann dies auch tun.
+
+Nach diesem langen Spaziergang betreten wir das Herz des Dorfes, um die köstlichen typisch madagassischen Gerichte mit frischen Produkten zu genießen, die sorgfältig im Schatten der Kokosnussbäume zubereitet werden.
+
+Wir setzen die Rundreise mit einer zweistündigen Wanderung in Richtung des Dorfes Angodroga fort, wo wir die Nacht verbringen werden.  Wir genießen die wunderschöne wilde, bewaldete Landschaft, den Panoramablick über die gesamte Bucht, die rote Erde der Grande Ile und einige Heilpflanzen.
+
+Wir können die Option einer Bootsfahrt wählen, um das Dorf Angodroga zu erreichen.
+
+Abendessen und Übernachtung in einem typischen, komfortablen Pfahlbungalow im Dorf
+</p>',
+            '320'       => '<h2>TAG 2: ANGODROGA – NOSY ANTSOHA</h2>
+
+<p>
+Nach dem Frühstück beginnen wir einen Tag voller Entdeckungen und Aktivitäten.
+
+Nosy Antsoha ist nur eine 10-minütige Kanufahrt vom Dorf entfernt. Es handelt sich um eine private Insel, auf der sich ein Naturschutzgebiet mit vier in Madagaskar endemischen Lemurenarten befindet. Die Insel bietet auch einen Weg zum Gipfel, der eine wunderschöne Aussicht auf beide Seiten und einen Panoramablick auf den Zuckerhut, Nosy Iranja, Nosy Ankazoberavina und das Festland bietet. Plattformen und Wege wurden speziell für diese Aktivität entworfen.
+
+
+
+Ganz oben im winzigen Antsoha befindet sich das berühmte „LOV ROOM“, das für Verliebte auf Hochzeitsreise oder auf der Suche nach absoluter Privatsphäre mit nur einem atemberaubenden Blick auf den Horizont konzipiert wurde – ein Erlebnis für zwei.
+
+Zum Mittagessen kehren wir ins Dorf zurück. Der Nachmittag ist Aktivitäten wie Schnorcheln, Sporttauchen, Paddeln, Kajakfahren im Meer und in den Mangroven, Trekking, Reiten, Mountainbiken, Beachvolleyball, Badminton, Dorfbesuchen und sogar Pétanque gewidmet.
+
+Abendessen und Übernachtung in einem typischen, komfortablen Pfahlbungalow im Dorf
+</p>
+
+<h2>Tag 3: ANGODROGA – NEUGIERIGES IRANJA</h2>
+
+
+<p>
+Wir verlassen das Dorf Angodroga gegen 10 Uhr mit dem Schnellboot und erreichen Nosy Iranja, das eine 30-minütige Überfahrt entfernt liegt.
+
+Nosy Iranja, wo Sie die Turtle Island mit ihrer atemberaubenden Landschaft willkommen heißt: 2 kleine Inseln, die durch eine 2 Kilometer lange weiße Sandbank verbunden sind. Sobald Sie auf der Insel ankommen, haben Sie die Möglichkeit, die Schönheit dieser paradiesischen Insel zu bewundern und zu genießen. Bei Ebbe steht Ihnen ein weißer und unberührter Strand für all Ihre Momente des Vergnügens, zum Sonnenbaden, Schwimmen und für kurze Spaziergänge zur Verfügung. Sie können auch den alten Leuchtturm auf den Höhen des großen Iranja besuchen, der ebenfalls einen herrlichen Panoramablick bietet.
+
+Im Schatten der Kokosnussbäume wird Ihnen ein köstliches Mittagessen mit Meeresfrüchten, Kokosnussgerichten und Früchten der Saison serviert.
+
+Auf der Insel angekommen, können Sie nicht nur völlig in die Welt eines Fischerdorfs eintauchen, sondern auch zwei Inseln besuchen, die durch einen langen weißen Sandstrand verbunden sind. In 2 km Entfernung empfängt Sie bei Ebbe ein geschützter weißer Sandstrand für all Ihre Momente des Vergnügens, der Sonne, des Schwimmens und des Spaziergangs, um einige Farne zu entdecken, und das alles an einem türkisfarbenen Meer ... Möglichkeit eines Camps, um die Meeresschildkröten zu beobachten, die nachts am Strand nisten.
+
+Mittags wird Ihnen ein gutes, vor Ort im Schatten der Kokospalmen zubereitetes Essen serviert.
+
+Wenn die Gruppe nach Nosy Be zurückkehrt, führt Sie ein lokaler Reiseleiter (verantwortlich) zu Ihrem Bungalow „CHEZ OLIVIA“ am Wasser, sauber und mit Toilette, wo Sie die Nacht verbringen und sich ausruhen können.
+
+Nach dem Abendessen kehren Sie zum weißen Sandstreifen zurück, um das erste spektakuläre Wiedersehen der Babyschildkröten im Meer mitzuerleben. Zum Glück helfen Sie der Schildkrötenmutter auch dabei, am Strand Eier abzulegen …
+
+Abendessen und Übernachtung auf der Insel Iranja Be.
+</p>
+
+<h2>Tag 4: NOSY IRANJA – NOSY BE</h2>
+
+<p>
+Morgens werden Sie vom Lebensrhythmus der Bevölkerung geweckt und wir laden Sie ein, den Sonnenaufgang am Strand zwischen diesen Inseln zu bewundern. Das Frühstück auf diesen Inseln ist ein unvergesslicher Moment im Leben. Freier Tag und gemeinsames Mittagessen.
+
+Gegen 15 Uhr kehren wir nach Nosy Be zurück.
+</p>',
+            '321'       => '<h3> Dienste enthalten </h3>
+<ul>
+<li> Schnelles Boot </li>
+<li> Unterkunft </li>
+<li> Frühstück -lunch -dinner </li>
+<li> RECHTSCHAFT </li>
+<li> Mineralwasser </li>
+<li> Leitfaden </li>
+<li> Aktivitäten </li>
+</ul>',
+            '322'       => '<h3> Nicht enthaltene Dienste </h3>
+<ul>
+<li> Getränke </li>
+<li> persönliche Extras </li>
+<li> Tipp mit Führern </li>
+</ul>',
+            '323'       => '<h1 class = "display-4"> Entdecken Sie unsere Premium-Dienste </h1>
+<p class = "lader"> Schneider -hergestellte Lösungen, die an Ihre spezifischen Bedürfnisse angepasst sind. Erkunden Sie unsere Angebote und verändern Sie Ihre Erfahrung. </p>',
+            '324'       => 'Unsere Dienste',
+            '325'       => '<h3> Premium -Übertragung </H3>
+<p> Hochverkehrsservice für komfortable und schnelle Reisen. </p>',
+            '326'       => 'Erfahren Sie mehr',
+            '327'       => '<h3> Catering -Service </h3>
+<p> Angebot von Gourmet -Mahlzeiten für alle Arten von Veranstaltungen. </p>',
+            '328'       => '<h3> Kreuzfahrtenempfang </h3>
+<p> Organisation von Empfängen auf Luxusbooten mit Meerblick. </p>',
+            '329'       => '<h3> Incentive -Reise </h3>
+<p> Erfinden Sie den Anreiz neu, indem Sie Ihnen eine ursprüngliche Geschäftsreise bieten. </p>',
+            '330'       => '<h3> Hochzeit und Flitterwochen </h3>
+<p> Das Team der Paradise Tours bietet Ihnen sein Hochzeits- und Flitterwochenpaket. </p>',
+            '331'       => '<h3> Kultur und Ereignisse </h3>
+<p> Organisation von Empfängen auf Luxusbooten mit Meerblick. </p>',
+            '332'       => "<H3 class = \"text-center \"> Unsere vollständigen Angebote </ h3>
+<p class = \"text-justify \">
+Entdecken Sie die Dienstleistungen, die wir detaillierter anbieten.
+Wir haben einzigartige Lösungen entwickelt, um Ihre anspruchsvollsten Bedürfnisse zu erfüllen.
+Sie suchen Premium -Transferdienste,
+Gourmet -Mahlzeiten oder ein Kreuzfahrtempfang,
+Wir haben die ideale Lösung für Sie.
+Alle unsere Dienstleistungen sollen ein unvergleichliches Erlebnis bieten. E.
+Garantieren Sie Ihre Zufriedenheit in jeder Phase des Projekts.
+</p>",
+            '333'       => '<h3 class = "text-center"> Cruises reception </h3>
+ <p Class = "text-Justify">
+ & nbsp; A cruise company is a maritime company specializing in cruises, a tourist company offering recreational trips aboard cruise ships. By the quality of its port infrastructure that can accommodate up to 2 cruise ships and the warm welcome from its inhabitants, Nosy Be is the 1st port of landing and cruise ship in Madagascar with its 1,200 cruise passengers. Each cruise season sees several ships stopover along the Malagasy coasts, thus strengthening the position of Madagascar as a must -have tourist circuits. The cruise ship has made a new stopover in Antsiranana. The boat, offering tourists a unique opportunity to discover the treasures of this destination by Nosy Be and northern Madagascar.
+ Among the highlights of this visit, the exploration of the Amber mountain has established itself as a must. Located 38 km from Diego-Suarez, this destination offers an immersion in the rich biodiversity of the nature reserve, while admiring breathtaking panoramas at altitude. Do not forget a stopover to visit Nosy Be and its surroundings as a 1st stopover on the cruise ship in Madagascar!
+ We can offer you different types of logistics.
+
+ </p>',
             '334'       => '',
             '335'       => '',
             '336'       => '',
