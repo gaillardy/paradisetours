@@ -1653,20 +1653,144 @@ Guarantee your satisfaction at every phase of the project.
           Nous pouvons vous proposer différents type de logistiques.
 
         </p>',
-            '334'       => '',
-            '335'       => '',
-            '336'       => '',
-            '337'       => '',
-            '338'       => '',
-            '339'       => '',
-            '340'       => '',
-            '341'       => '',
-            '342'       => '',
-            '343'       => '',
-            '344'       => '',
-            '345'       => '',
-            '346'       => '',
-            '347'       => '',
+            '334'       => '<caption class="text-center">En catamaran ou vedette rapide</caption>
+        <thead class="table-dark">
+          <tr>
+            <th scope="col">TYPE</th>
+            <th scope="col">NOMBRE  DE PLACES</th>
+            <th scope="col">ETAT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Catamaran à voile et moteur</td>
+            <td>12 places</td>
+            <td>neuf</td>
+          </tr>
+
+          <tr>
+            <td>Coque rapide à moteur</td>
+            <td>20 places</td>
+            <td>neuf</td>
+          </tr>
+
+          <tr>
+            <td>Catamaran rapide à moteur</td>
+            <td>50 places</td>
+            <td>neuf</td>
+          </tr>
+        </tbody>',
+            '335'       => '<caption class="text-center">Autre moyens de transports </caption>
+        <thead class="table-dark">
+          <tr>
+            <th scope="col">TYPE</th>
+            <th scope="col">NOMBRE  DE PLACES</th>
+            <th scope="col">ETAT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Grand bus</td>
+            <td>20 places</td>
+            <td>neuf</td>
+          </tr>
+          <tr>
+            <td>Mini bus (Starex)</td>
+            <td>9 places</td>
+            <td>neuf</td>
+          </tr>
+          <tr>
+            <td>4WD</td>
+            <td>4 places</td>
+            <td>bon état</td>
+          </tr>
+          <tr>
+            <td>4WD wagon</td>
+            <td>3 places</td>
+            <td>bon état</td>
+          </tr>
+          <tr>
+            <td>Tuk Tuk</td>
+            <td>2 places</td>
+            <td>neuf</td>
+          </tr>
+          <tr>
+            <td>Quad</td>
+            <td>2 places</td>
+            <td>bon état</td>
+          </tr>
+        </tbody>',
+            '336'       => "<h2 class=\"text-center mb-4\">Events</h2>
+<p class=\"text-justify mb-4\">
+Nosy Be Paradise Tours is also an event planner, preparing and coordinating a variety of events such as weddings, baptisms, graduation parties, and catering services. We can manage events from start to finish, depending on the client's needs and requests. The services offered by Nosy Be Paradise Tours vary depending on budget, so we accept all types of clients, and travel is possible anywhere in Madagascar.
+</p>",
+            '337'       => "<h3>The Major Festivals of Nosy Be</h3>
+<h4>Donia Festival</h4>
+<img src=\"/assets/images/services/Donia.jpg\" alt=\"Donia Festival\" class=\"img-fluid mb-3\">
+<p class=\"text-justify\">
+The Donia Festival is one of the most anticipated cultural events in Nosy Be,
+celebrating music, dance, and local traditions.
+Every year, it attracts thousands of visitors who come to discover
+the island's cultural riches.
+The DONIA festival, as the Sakalava people describe it, \"the good life,\"
+was created in 1994 and is held every May to celebrate life and the joy of living.
+It brings together the greatest artists of Madagascar and the Indian Ocean. This event features a variety of cultural and sporting events, which are showcased through a Salegy rhythm competition during a carnival on its opening day.
+</p>",
+            '338'       => "<h4>Sômarôho Festival</h4>
+<img src=\"/assets/images/services/Somaroho.jpg\" alt=\"Sômarôho Festival\" class=\"img-fluid mb-3\">
+<p class=\"text-justify\">
+As a young Nosy Be artist,
+WAWA decided in 2014 to organize a festival called \"SOMAROHO,\" particularly every August,
+to celebrate the group's anniversary with the people of Nosy Be.
+This major festival features sports, cultural, and traditional competitions, various dance rhythms,
+but especially the Salegy and Wadraha,
+during which national and international artists also participate to create a lively atmosphere.
+</p>",
+            '339'       => '<h4>Morengy</h4>
+<img src="/assets/images/services/morengy.jpg" alt="Morengy" class="img-fluid mb-3">
+<p class="text-justify">
+Morengy is a sporting event where competitors
+fight in traditional Malagasy boxing matches.
+It embodies the spirit of competition and discipline.
+
+Morengy, or Malagasy wrestling,
+is a culture practiced by the people living
+particularly in northwest Madagascar every Sunday afternoon.
+It is a fight in which each participant demonstrates their strength
+and spectators support the contest by betting on the winner.
+</p>',
+            '340'       => '<h4>Whale Watching Tours</h4>
+<img src="/assets/images/services/b-1.jpg" alt="Whale Watching Tours" class="img-fluid mb-3">
+<p class="text-justify">
+Whale watching tours offer the opportunity to observe
+humpback whales in their natural habitat.
+An unforgettable experience in the heart of the Indian Ocean.
+The days are generally warm and dry for most of the year.
+The coastal waters are a migratory route for humpback whales
+(July to October). The turtle nesting season
+and the weather conditions attract snorkeling enthusiasts.
+</p>',
+            '341'       => '<h4>Tsangan-Tsaina Culture</h4>
+<img src="/assets/images/services/15.jpg" alt="Tsangan-Tsaina Culture" class="img-fluid mb-3">
+<p class="text-justify">Tsangan-Tsaina culture is a fundamental aspect of local life, blending music, arts, and ancestral traditions.</p>',
+            '342'       => '<h4>BAPTISM</h4>
+<img src="/assets/images/services/15.jpg" alt="Tsangan-Tsaina Culture" class="img-fluid mb-3">
+<p class="text-justify">
+Baptism is an event that requires careful planning in advance to ensure it\'s fully organized and avoid any problems on the big day. It\'s often recommended to plan this celebration nearly three months in advance! If you decide to baptize a baby, you can start thinking about their baptism from the moment they\'re born!
+</p>',
+            '343'       => 'Wedding and Honeymoon',
+            '344'       => 'To celebrate the most beautiful thing on earth: LOVE.
+
+Do you dream of a wedding in an exceptional, one-of-a-kind setting or a honeymoon on a paradise island?
+
+The Paradise Tours team offers you its wedding and honeymoon package.',
+            '345'       => "We have several experienced wedding coordinators who can ensure your dream wedding.
+Whether for intimate events or large-scale events for up to 150 guests,
+our professional teams will do everything they can to create a unique moment for you.
+An idyllic setting, a heavenly setting, and a motivated team are at your disposal to make your moments truly special.
+It's no wonder the island stands out as one of the favorite destinations for celebrating love!",
+            '346'       => 'Catering service',
+            '347'       => 'Catering is a technical term that refers to the provision of meals and drinks to a group of people in any location. Catering is part of the catering segment and generally deals with temporary and festive events. As a caterer, Nosy Be Paradise Tours also places great importance on the impact on guests. Our services support and realize the objectives set by the client and aim to create warm memories that guests will cherish long after the event.',
             '348'       => '',
             '349'       => '',
             '350'       => '',
@@ -5493,20 +5617,145 @@ Tra i punti salienti di questa visita, l'esplorazione della montagna Amber si è
 Possiamo offrirti diversi tipi di logistica.
 
 </p>",
-            '334'       => '',
-            '335'       => '',
-            '336'       => '',
-            '337'       => '',
-            '338'       => '',
-            '339'       => '',
-            '340'       => '',
-            '341'       => '',
-            '342'       => '',
-            '343'       => '',
-            '344'       => '',
-            '345'       => '',
-            '346'       => '',
-            '347'       => '',
+            '334'       => '<caption class="text-center">In catamarano o motoscafo</caption>
+<thead class="table-dark">
+<tr>
+<th scope="col">TIPO</th>
+<th scope="col">NUMERO DI POSTI</th>
+<th scope="col">STATO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+Catamarano a vela e a motore
+12 posti
+<td>nove</td>
+</tr>
+
+<tr>
+<td>Scafo motore veloce</td>
+<td>20 posti</td>
+<td>nove</td>
+</tr>
+
+<tr>
+Catamarano a motore veloce
+<td>50 posti</td>
+<td>nove</td>
+</tr>
+</tbody>',
+            '335'       => '<caption class="text-center">Altri mezzi di trasporto</caption>
+<thead class="table-dark">
+<tr>
+<th scope="col">TIPO</th>
+<th scope="col">NUMERO DI POSTI</th>
+<th scope="col">STATO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Grande autobus</td>
+<td>20 posti</td>
+<td>nove</td>
+</tr>
+<tr>
+Minibus (Starex)
+9 posti
+<td>nove</td>
+</tr>
+<tr>
+4x4
+<td>4 posti</td>
+<td>buone condizioni</td>
+</tr>
+<tr>
+<td>Caravan 4WD</td>
+<td>3 posti</td>
+<td>buone condizioni</td>
+</tr>
+<tr>
+Tuk Tuk
+<td>2 posti</td>
+<td>nove</td>
+</tr>
+<tr>
+Quadruplo
+<td>2 posti</td>
+<td>buone condizioni</td>
+</tr>
+</tbody>',
+            '336'       => "<h2 class=\"text-center mb-4\">Eventi</h2>
+<p class=\"text-justify mb-4\">
+Nosy Be Paradise Tours è anche un organizzatore di eventi, prepara e coordina vari eventi come matrimoni, battesimi, feste di laurea e anche servizi di catering. Può gestire l'evento dall'inizio alla fine, in base alle esigenze e alle richieste del cliente. I servizi offerti da Nosy Be Paradise Tours variano a seconda del budget, per questo accettiamo tutti i tipi di clienti e i viaggi sono possibili ovunque in Madagascar.
+</p>",
+            '337'       => "<h3>Les Grands Festivals de Nosy Be</h3>
+          <h4>Festival Donia</h4>
+          <img src=\"/assets/images/services/Donia.jpg\" alt=\"Festival Donia\" class=\"img-fluid mb-3\">
+          <p class=\"text-justify\">
+            Le Festival Donia est l'un des événements culturels les plus attendus à Nosy Be, 
+            célébrant la musique, la danse et les traditions locales. 
+            Chaque année, il attire des milliers de visiteurs venus découvrir 
+            les richesses culturelles de l'île.
+            Le festival DONIA, comme décrit le peuple Sakalava « la belle vie », 
+            a été créé en 1994, se fête tous les mois de Mai pour célébrer la vie et le bonheur d’exister.
+             Il rassemble les grands artistes de Madagascar et de l’Océan Indien. 
+             Cet événement se caractérise par des manifestations culturelles et sportives différentes
+              qui sont montrés à travers un concours du rythme Salegy lors d’un carnaval pour le jour de son ouverture.
+          </p>",
+            '338'       => '<h4>Festival Sômarôho</h4>
+          <img src="/assets/images/services/Somaroho.jpg" alt="Festival Sômarôho" class="img-fluid mb-3">
+          <p class="text-justify">
+            En tant que jeune artiste nosybéen, 
+            WAWA fut décidé depuis 2014 d’organiser une festivité appelé «SOMAROHO» particulièrement tous les mois d’Août,
+            pour fêter l’anniversaire du Groupe avec les peuple de Nosy Be. 
+            Ce grand festival se manifeste par les concours sportifs, culturels, traditionnels, du rythme de danse différent, 
+            mais surtout le Salegy et Wadraha, 
+            durant lequel des artistes nationaux et internationaux participent aussi pour assurer l’ambiance.
+          </p>',
+            '339'       => "<h4>Le Morengy</h4>
+          <img src=\"/assets/images/services/morengy.jpg\" alt=\"Le Morengy\" class=\"img-fluid mb-3\">
+          <p class=\"text-justify\">
+            Le Morengy est un événement sportif où les compétiteurs
+             s'affrontent dans des matchs de boxe traditionnelle malgache. 
+             Il incarne l'esprit de la compétition et de la discipline.
+
+             Le Morengy ou lutte malgache, 
+             est une culture que pratique les peuples habitant particulièrement 
+             dans Nord-Ouest  de Madagascar tous les dimanches après-midi. 
+             Il s’agit d’une lutte à laquelle chaque participant démontre sa force 
+             et les spectateurs soutiennent en pariant sur le gagnant.
+          </p>",
+            '340'       => '<h4>Sortie Baleine</h4>
+          <img src="/assets/images/services/b-1.jpg" alt="Sortie Baleine" class="img-fluid mb-3">
+          <p class="text-justify">
+            Les sorties baleines offrent l\'opportunité d\'observer 
+            les baleines à bosse dans leur habitat naturel. 
+            Une expérience inoubliable au cœur de l\'océan Indien.
+            Les journées sont généralement chaudes et sèches la majeure partie de l’année. 
+            Les eaux côtières constituent une voie de migration pour les baleines à bosse 
+            (Juillet à Octobre). La saison de nidification des tortues 
+            et les conditions météorologiques attirent les amateurs de snorkeling.
+          </p>',
+            '341'       => '<h4>Culture Tsangan-Tsaina</h4>
+          <img src="/assets/images/services/15.jpg" alt="Culture Tsangan-Tsaina" class="img-fluid mb-3">
+          <p class="text-justify">La culture Tsangan-Tsaina est un aspect fondamental de la vie locale, mélangeant musique, arts et traditions ancestrales.</p>',
+            '342'       => '          <h4>BAPTEME</h4>
+          <img src="/assets/images/services/15.jpg" alt="Culture Tsangan-Tsaina" class="img-fluid mb-3">
+          <p class="text-justify">
+          Le baptême est un évènement qui nécessite d\'être préparé en amont afin de pouvoir l\'organiser dans sa globalité et ainsi éviter tout problème le jour J. Il est souvent conseillé de préparer cette fête près de 3 mois en avance ! Si vous décidez de baptiser un bébé vous pouvez déjà réfléchir à son baptême dès sa naissance !
+          </p>',
+            '343'       => 'Mariage et Lune de Miel',
+            '344'       => 'Pour fêter ce qu’il y a de plus beau sur terre, l’AMOUR.
+            Vous rêvez d’un mariage dans un cadre exceptionnel, hors du commun ou d’une lune de miel sur une île paradisiaque?
+
+            L’équipe Paradise Tours vous propose son forfait mariage et Lune de miel. ',
+            '345'       => 'Nous disposons de plusieurs coordonnateurs de mariage expérimentés, pouvant vous assurer un mariage de rêve. 
+            Que ce soit pour des événements intimes ou de grande envergure pouvant accueillir jusqu’à 150 invités,
+           nos équipes de professionnels mettent tout en œuvre pour créer un moment unique pour vous.
+           Un cadre idyllique, un décor paradisiaque et une équipe motivée à votre disposition pour rendre vos moments uniques. 
+           Pas étonnant que l’île se distingue comme l’une des destinations préférées pour célébrer l’amour!',
+            '346'       => 'Service traiteur',
+            '347'       => "Le service traiteur est un terme technique qui désigne la fourniture de repas et de boissons à un groupe de personnes dans un lieu quelconque .Le service traiteur fait partie du segment catering et s'occupe généralement d'événements éphémères et festifs. En tant que traiteur, Nosy Be Paradise Tours  accorde en outre une grande importance à l'effet produit sur les invités. Nos services soutiennent et concrétisent les objectifs fixés par le client et visent à créer des souvenirs chaleureux que les invités garderont longtemps après l’événement.",
             '348'       => '',
             '349'       => '',
             '350'       => '',
@@ -9458,20 +9707,145 @@ Unter den Höhepunkten dieses Besuchs hat sich die Erkundung des Amber Mountain 
 Wir können Ihnen verschiedene Arten von Logistik anbieten.
 
 </p>',
-            '334'       => '',
-            '335'       => '',
-            '336'       => '',
-            '337'       => '',
-            '338'       => '',
-            '339'       => '',
-            '340'       => '',
-            '341'       => '',
-            '342'       => '',
-            '343'       => '',
-            '344'       => '',
-            '345'       => '',
-            '346'       => '',
-            '347'       => '',
+            '334'       => '<caption class="text-center">Mit dem Katamaran oder Schnellboot</caption>
+<thead class="table-dark">
+<tr>
+<th scope="col">TYP</th>
+<th scope="col">ANZAHL DER PLÄTZE</th>
+<th scope="col">STATUS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Segel- und Motorkatamaran</td>
+<td>12 Sitze</td>
+<td>neun</td>
+</tr>
+
+<tr>
+<td>Schneller Motorrumpf</td>
+<td>20 Plätze</td>
+<td>neun</td>
+</tr>
+
+<tr>
+<td>Schneller Motorkatamaran</td>
+<td>50 Plätze</td>
+<td>neun</td>
+</tr>
+</tbody>',
+            '335'       => '<caption class="text-center">Andere Verkehrsmittel</caption>
+<thead class="table-dark">
+<tr>
+<th scope="col">TYP</th>
+<th scope="col">ANZAHL DER PLÄTZE</th>
+<th scope="col">STATUS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Großer Bus</td>
+<td>20 Plätze</td>
+<td>neun</td>
+</tr>
+<tr>
+<td>Kleinbus (Starex)</td>
+<td>9 Sitze</td>
+<td>neun</td>
+</tr>
+<tr>
+<td>Allradantrieb</td>
+<td>4 Plätze</td>
+<td>guter Zustand</td>
+</tr>
+<tr>
+<td>Allrad-Kombi</td>
+<td>3 Plätze</td>
+<td>guter Zustand</td>
+</tr>
+<tr>
+<td>Tuk Tuk</td>
+<td>2 Plätze</td>
+<td>neun</td>
+</tr>
+<tr>
+<td>Quad</td>
+<td>2 Plätze</td>
+<td>guter Zustand</td>
+</tr>
+</tbody>',
+            '336'       => '<h2 class="text-center mb-4">Veranstaltungen</h2>
+<p class="text-justify mb-4">
+Nosy Be Paradise Tours ist auch ein Eventorganisator, der verschiedene Veranstaltungen wie Hochzeiten, Taufen, Abschlussfeiern und auch einen Catering-Service vorbereitet und koordiniert. Kann die Veranstaltung je nach Bedarf und Anfrage des Kunden von Anfang bis Ende verwalten. Die von Nosy Be Paradise Tours angebotenen Dienstleistungen variieren je nach Budget. Wir akzeptieren daher alle Arten von Kunden und Reisen sind überall in Madagaskar möglich.
+</p>',
+            '337'       => "<h3>Le grandi feste di Nosy Be</h3>
+<h4>Festa di Donia</h4>
+<img src=\"/assets/images/services/Donia.jpg\" alt=\"Festival Donia\" class=\"img-fluid mb-3\">
+<p class=\"giustificazione del testo\">
+Il Festival di Donia è uno degli eventi culturali più attesi di Nosy Be,
+celebrando la musica, la danza e le tradizioni locali.
+Ogni anno attrae migliaia di visitatori che vengono a scoprire
+le ricchezze culturali dell'isola.
+Il festival DONIA, come il popolo Sakalava descrive “la bella vita”,
+è stata creata nel 1994 e si celebra ogni maggio per celebrare la vita e la gioia di esistere.
+Riunisce i grandi artisti del Madagascar e dell'Oceano Indiano.
+Questo evento è caratterizzato da diversi eventi culturali e sportivi
+che vengono mostrati attraverso una gara ritmica di Salegy durante il carnevale nel giorno della sua apertura.
+</p>",
+            '338'       => "<h4>Festival di Sômarôho</h4>
+<img src=\"/assets/images/services/Somaroho.jpg\" alt=\"Festival di Somaroho\" class=\"img-fluid mb-3\">
+<p class=\"giustificazione del testo\">
+Come giovane artista di Nosy Be,
+WAWA ha deciso dal 2014 di organizzare una festa chiamata “SOMAROHO” in particolare ogni mese di agosto,
+per festeggiare con la popolazione di Nosy Be l'anniversario del Gruppo.
+Questa grande festa si manifesta attraverso competizioni sportive, culturali, tradizionali, diversi ritmi di danza,
+ma soprattutto Salegy e Wadraha,
+durante la quale partecipano anche artisti nazionali e internazionali che creano l'atmosfera.
+</p>",
+            '339'       => "<h4>Il Morengy</h4>
+<img src=\"/assets/images/services/morengy.jpg\" alt=\"Le Morengy\" class=\"img-fluid mb-3\">
+<p class=\"giustificazione del testo\">
+Il Morengy è una manifestazione sportiva in cui i concorrenti
+competere in incontri di pugilato tradizionali malgasci.
+Incarna lo spirito competitivo e disciplinare.
+
+Morengy o wrestling malgascio,
+è una cultura praticata da persone che vivono particolarmente
+nel nord-ovest del Madagascar ogni domenica pomeriggio.
+È una lotta in cui ogni partecipante dimostra la sua forza
+e gli spettatori tifano scommettendo sul vincitore.
+</p>",
+            '340'       => "Uscita delle balene
+<img src=\"/assets/images/services/b-1.jpg\" alt=\"Liberazione delle balene\" class=\"img-fluid mb-3\">
+<p class=\"giustificazione del testo\">
+I tour di osservazione delle balene offrono l'opportunità di osservare
+balene megattere nel loro habitat naturale.
+Un'esperienza indimenticabile nel cuore dell'Oceano Indiano.
+Le giornate sono generalmente calde e secche per la maggior parte dell'anno.
+Le acque costiere forniscono una rotta migratoria per le megattere
+(da luglio a ottobre). Stagione di nidificazione delle tartarughe
+e le condizioni meteorologiche attraggono gli amanti dello snorkeling.
+</p>",
+            '341'       => '<h4>Cultura Tsangan-Tsaina</h4>
+<img src="/assets/images/services/15.jpg" alt="Cultura Tsangan-Tsaina" class="img-fluid mb-3">
+<p class="text-justify">La cultura Tsangan-Tsaina è un aspetto fondamentale della vita locale, che fonde musica, arte e tradizioni ancestrali.</p>',
+            '342'       => 'BATTESIMO
+<img src="/assets/images/services/15.jpg" alt="Cultura Tsangan-Tsaina" class="img-fluid mb-3">
+<p class="giustificazione del testo">
+Il battesimo è un evento che richiede una preparazione anticipata per poterlo organizzare in ogni sua parte ed evitare così qualsiasi problema nel grande giorno. Spesso si consiglia di preparare questa festa con quasi 3 mesi di anticipo! Se decidi di battezzare un neonato, puoi pensare al suo battesimo fin dal momento della nascita!
+</p>',
+            '343'       => 'Matrimonio e luna di miele',
+            '344'       => "Per celebrare la cosa più bella sulla terra: l'AMORE.
+Sognate un matrimonio in un luogo eccezionale e fuori dal comune oppure una luna di miele su un'isola paradisiaca?
+
+Il team di Paradise Tours vi offre pacchetti per matrimoni e luna di miele.",
+            '345'       => "Disponiamo di diversi wedding planner esperti che sapranno garantirvi un matrimonio da sogno.
+Che si tratti di eventi intimi o di grandi dimensioni che possono ospitare fino a 150 ospiti,
+I nostri team di professionisti faranno tutto il possibile per creare per voi un momento unico.
+Un ambiente idilliaco, una decorazione paradisiaca e un team motivato a vostra disposizione per rendere unici i vostri momenti.
+Non c'è da stupirsi che l'isola sia considerata una delle mete preferite per celebrare l'amore!",
+            '346'       => 'Servizio di ristorazione',
+            '347'       => "Catering è un termine tecnico che si riferisce alla fornitura di pasti e bevande a un gruppo di persone in qualsiasi luogo. Il catering fa parte del segmento della ristorazione e si occupa generalmente di eventi temporanei e festivi. In qualità di fornitore di servizi di catering, Nosy Be Paradise Tours attribuisce grande importanza anche all'impatto che il suo servizio ha sugli ospiti. I nostri servizi supportano e realizzano gli obiettivi del cliente e mirano a creare ricordi calorosi che gli ospiti conserveranno con cura anche dopo l'evento.",
             '348'       => '',
             '349'       => '',
             '350'       => '',
@@ -13410,20 +13784,145 @@ Garantieren Sie Ihre Zufriedenheit in jeder Phase des Projekts.
  We can offer you different types of logistics.
 
  </p>',
-            '334'       => '',
-            '335'       => '',
-            '336'       => '',
-            '337'       => '',
-            '338'       => '',
-            '339'       => '',
-            '340'       => '',
-            '341'       => '',
-            '342'       => '',
-            '343'       => '',
-            '344'       => '',
-            '345'       => '',
-            '346'       => '',
-            '347'       => '',
+            '334'       => '<caption class="text-center">By catamaran or speedboat</caption>
+<thead class="table-dark">
+<tr>
+<th scope="col">TYPE</th>
+<th scope="col">NUMBER OF BEDS</th>
+<th scope="col">CONDITION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sailing and motor catamaran</td>
+<td>12 seats</td>
+<td>new</td>
+</tr>
+
+<tr>
+<td>Fast motorboat</td>
+<td>20 seats</td>
+<td>new</td>
+</tr>
+
+<tr>
+<td>Fast motorboat</td>
+<td>50 seats</td>
+<td>new</td>
+</tr>
+</tbody>',
+            '335'       => '<caption class="text-center">Other means of transport </caption>
+ <thead class="table-dark">
+ <tr>
+ <th scope="col">TYPE</th>
+ <th scope="col">NUMBER OF PLACES</th>
+ <th scope="col">STATUS</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>Big bus</td>
+ <td>20 places</td>
+ <td>new</td>
+ </tr>
+ <tr>
+ <td>Mini bus (Starex)</td>
+ <td>9 places</td>
+ <td>new</td>
+ </tr>
+ <tr>
+ <td>4WD</td>
+ <td>4 places</td>
+ <td>good condition</td>
+ </tr>
+ <tr>
+ <td>4WD wagon</td>
+ <td>3 places</td>
+ <td>good condition</td>
+ </tr>
+ <tr>
+ <td>Tuk Tuk</td>
+ <td>2 places</td>
+ <td>new</td>
+ </tr>
+ <tr>
+ <td>Quad</td>
+ <td>2 places</td>
+ <td>good condition</td>
+ </tr>
+ </tbody>',
+            '336'       => "<h2 class=\"text-center mb-4\">Events</h2>
+<p class=\"text-justify mb-4\">
+Nosy Be Paradise Tours is also an event planner, preparing and coordinating a variety of events such as weddings, baptisms, graduation parties, and catering services. We can manage events from start to finish, depending on the client's needs and requests. The services offered by Nosy Be Paradise Tours vary depending on budget, so we accept all types of clients, and travel is possible anywhere in Madagascar.
+</p>",
+            '337'       => '<h3>Die großen Feste von Nosy Be</h3>
+<h4>Donia-Festival</h4>
+<img src="/assets/images/services/Donia.jpg" alt="Festival Donia" class="img-fluid mb-3">
+<p class="text-justify">
+Das Donia Festival ist eines der am meisten erwarteten kulturellen Ereignisse in Nosy Be,
+Feiern Sie Musik, Tanz und lokale Traditionen.
+Jedes Jahr zieht es Tausende von Besuchern an, die kommen, um zu entdecken
+die kulturellen Reichtümer der Insel.
+Das DONIA-Festival, wie die Sakalava „das gute Leben“ beschreiben,
+wurde 1994 ins Leben gerufen und wird jedes Jahr im Mai gefeiert, um das Leben und die Freude am Dasein zu feiern.
+Es bringt die großen Künstler Madagaskars und des Indischen Ozeans zusammen.
+Diese Veranstaltung zeichnet sich durch verschiedene kulturelle und sportliche Veranstaltungen aus
+die im Rahmen eines Salegy-Rhythmuswettbewerbs während des Karnevals am Eröffnungstag gezeigt werden.
+</p>',
+            '338'       => '<h4>Sômarôho-Festival</h4>
+<img src="/assets/images/services/Somaroho.jpg" alt="Sômarôho Festival" class="img-fluid mb-3">
+<p class="text-justify">
+Als junger Künstler aus Nosy Be,
+WAWA hat sich seit 2014 dazu entschlossen, jeden Monat im August ein Fest namens „SOMAROHO“ zu organisieren.
+um das Jubiläum der Gruppe mit den Menschen von Nosy Be zu feiern.
+Dieses große Festival manifestiert sich durch Sport, Kultur, traditionelle Wettbewerbe, verschiedene Tanzrhythmen,
+aber besonders Salegy und Wadraha,
+bei dem auch nationale und internationale Künstler mitwirken und für Stimmung sorgen.
+</p>',
+            '339'       => '<h4>Der Morengy</h4>
+<img src="/assets/images/services/morengy.jpg" alt="Le Morengy" class="img-fluid mb-3">
+<p class="text-justify">
+Das Morengy ist ein Sportereignis, bei dem die Teilnehmer
+Nehmen Sie an traditionellen madagassischen Boxkämpfen teil.
+Er verkörpert den Geist des Wettbewerbs und der Disziplin.
+
+Morengy oder madagassisches Ringen,
+ist eine Kultur, die von Menschen praktiziert wird, die besonders
+im Nordwesten Madagaskars jeden Sonntagnachmittag.
+Es ist ein Kampf, in dem jeder Teilnehmer seine Stärke unter Beweis stellt
+und die Zuschauer unterstützen, indem sie auf den Gewinner wetten.
+</p>',
+            '340'       => '<h4>Walausgang</h4>
+<img src="/assets/images/services/b-1.jpg" alt="Whale Release" class="img-fluid mb-3">
+<p class="text-justify">
+Walbeobachtungstouren bieten die Möglichkeit zu beobachten
+Buckelwale in ihrem natürlichen Lebensraum.
+Ein unvergessliches Erlebnis im Herzen des Indischen Ozeans.
+Die Tage sind die meiste Zeit des Jahres heiß und trocken.
+Küstengewässer bieten Buckelwalen eine Wanderroute
+(Juli bis Oktober). Brutzeit der Schildkröten
+und die Wetterbedingungen ziehen Schnorchelbegeisterte an.
+</p>',
+            '341'       => '<h4>Tsangan-Tsaina-Kultur</h4>
+<img src="/assets/images/services/15.jpg" alt="Tsangan-Tsaina-Kultur" class="img-fluid mb-3">
+<p class="text-justify">Die Tsangan-Tsaina-Kultur ist ein grundlegender Aspekt des lokalen Lebens und verbindet Musik, Kunst und alte Traditionen.</p>',
+            '342'       => '<h4>TAUFE</h4>
+<img src="/assets/images/services/15.jpg" alt="Tsangan-Tsaina-Kultur" class="img-fluid mb-3">
+<p class="text-justify">
+Die Taufe ist ein Ereignis, das im Voraus vorbereitet werden muss, um es vollständig zu organisieren und so Probleme am großen Tag zu vermeiden. Es wird oft empfohlen, diese Feier fast 3 Monate im Voraus vorzubereiten! Wenn Sie sich für die Taufe eines Babys entscheiden, können Sie bereits ab dem Moment der Geburt an die Taufe denken!
+</p>',
+            '343'       => 'Hochzeit und Flitterwochen',
+            '344'       => 'Um das Schönste auf Erden zu feiern: die LIEBE.
+Träumen Sie von einer Hochzeit in einer außergewöhnlichen, außergewöhnlichen Umgebung oder von Flitterwochen auf einer paradiesischen Insel?
+
+Das Team von Paradise Tours bietet Ihnen sein Hochzeits- und Flitterwochenpaket an.',
+            '345'       => 'Wir verfügen über mehrere erfahrene Hochzeitskoordinatoren, die dafür sorgen können, dass Sie eine Traumhochzeit haben.
+Ob für kleine oder große Veranstaltungen mit bis zu 150 Gästen,
+Unsere professionellen Teams tun alles, um Ihnen einen einzigartigen Moment zu bereiten.
+Eine idyllische Umgebung, ein himmlisches Dekor und ein motiviertes Team stehen Ihnen zur Verfügung, um Ihre Momente einzigartig zu machen.
+Kein Wunder, dass die Insel zu den beliebtesten Reisezielen zählt, um die Liebe zu feiern!',
+            '346'       => 'Catering-Service',
+            '347'       => 'Catering ist ein Fachbegriff, der sich auf die Versorgung einer Gruppe von Menschen an einem beliebigen Ort mit Speisen und Getränken bezieht. Catering ist Teil des Gastronomiesegments und befasst sich im Allgemeinen mit zeitlich begrenzten und festlichen Veranstaltungen. Als Caterer legt Nosy Be Paradise Tours auch großen Wert auf die Wirkung, die es auf die Gäste hat. Unsere Dienstleistungen unterstützen und erreichen die Ziele des Kunden und zielen darauf ab, schöne Erinnerungen zu schaffen, an die sich die Gäste noch lange nach der Veranstaltung erinnern werden.',
             '348'       => '',
             '349'       => '',
             '350'       => '',

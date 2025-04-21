@@ -190,174 +190,55 @@
     <!-- Table 1: Service Details (3 columns) -->
     <div class="table-responsive">
       <table class="table table-hover table-bordered">
-        <caption class="text-center">En catamaran ou vedette rapide</caption>
-        <thead class="table-dark">
-          <tr>
-            <th scope="col">TYPE</th>
-            <th scope="col">NOMBRE  DE PLACES</th>
-            <th scope="col">ETAT</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Catamaran à voile et moteur</td>
-            <td>12 places</td>
-            <td>neuf</td>
-          </tr>
-
-          <tr>
-            <td>Coque rapide à moteur</td>
-            <td>20 places</td>
-            <td>neuf</td>
-          </tr>
-
-          <tr>
-            <td>Catamaran rapide à moteur</td>
-            <td>50 places</td>
-            <td>neuf</td>
-          </tr>
-          
-        </tbody>
+        <?= $translations['334'] ?> 
       </table>
     </div>
 
     <!-- Table 2: Service Packages (4 columns) -->
     <div class="table-responsive mt-4">
       <table class="table table-hover table-bordered">
-        <caption class="text-center">Autre moyens de transports </caption>
-        <thead class="table-dark">
-          <tr>
-            <th scope="col">TYPE</th>
-            <th scope="col">NOMBRE  DE PLACES</th>
-            <th scope="col">ETAT</th>
-          </tr>
-        </thead>
-        <tr>
-          <tr>
-            <td>Grand bus</td>
-            <td>20 places</td>
-            <td>neuf</td>
-          </tr>
-          <tr>
-            <td>Mini bus (Starex)</td>
-            <td>9 places</td>
-            <td>neuf</td>
-          </tr>
-          <tr>
-            <td>4WD</td>
-            <td>4 places</td>
-            <td>bon état</td>
-          </tr>
-          <tr>
-            <td>4WD wagon</td>
-            <td>3 places</td>
-            <td>bon état</td>
-          </tr>
-          <tr>
-            <td>Tuk Tuk</td>
-            <td>2 places</td>
-            <td>neuf</td>
-          </tr>
-          <tr>
-            <td>Quad</td>
-            <td>2 places</td>
-            <td>bon état</td>
-          </tr>
-        </tbody>
+        <?= $translations['335'] ?>
       </table>
     </div>
   </section>
 
   <!-- Culture and Events Section -->
   <section id="culture-events" class="container py-5" data-aos="fade-up">
-    <h2 class="text-center mb-4">Événements</h2>
-    <p class="text-justify mb-4">
-      Nosy Be Paradise Tours, est aussi un organisateur  d’événements, prépare et coordonne des événements variés comme le mariage, baptême, fête de remise de diplôme et service traiteur aussi. Peut gérer l'événement du début à la fin, en fonction des besoins et de la demande du client. Les services que Nosy Be Paradise Tours varie selon budget donc nous acceptons tous type de clientèle et le  déplacement est possible partout à Madagascar.
-    </p>
+    <?= $translations['336'] ?>
     <div class="row">
       <!-- Event Block 1 -->
       <div class="col-md-6 mb-4" data-aos="fade-up">
         <div class="event-block shadow-lg rounded overflow-hidden">
-          <h3>Les Grands Festivals de Nosy Be</h3>
-          <h4>Festival Donia</h4>
-          <img src="/assets/images/services/Donia.jpg" alt="Festival Donia" class="img-fluid mb-3">
-          <p class="text-justify">
-            Le Festival Donia est l'un des événements culturels les plus attendus à Nosy Be, 
-            célébrant la musique, la danse et les traditions locales. 
-            Chaque année, il attire des milliers de visiteurs venus découvrir 
-            les richesses culturelles de l'île.
-            Le festival DONIA, comme décrit le peuple Sakalava « la belle vie », 
-            a été créé en 1994, se fête tous les mois de Mai pour célébrer la vie et le bonheur d’exister.
-             Il rassemble les grands artistes de Madagascar et de l’Océan Indien. 
-             Cet événement se caractérise par des manifestations culturelles et sportives différentes
-              qui sont montrés à travers un concours du rythme Salegy lors d’un carnaval pour le jour de son ouverture.
-          </p>
+          <?= $translations['337'] ?> 
         </div>
       </div>
       <!-- Event Block 2 -->
       <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
         <div class="event-block shadow-lg rounded overflow-hidden">
-          <h4>Festival Sômarôho</h4>
-          <img src="/assets/images/services/Somaroho.jpg" alt="Festival Sômarôho" class="img-fluid mb-3">
-          <p class="text-justify">
-            En tant que jeune artiste nosybéen, 
-            WAWA fut décidé depuis 2014 d’organiser une festivité appelé «SOMAROHO» particulièrement tous les mois d’Août,
-            pour fêter l’anniversaire du Groupe avec les peuple de Nosy Be. 
-            Ce grand festival se manifeste par les concours sportifs, culturels, traditionnels, du rythme de danse différent, 
-            mais surtout le Salegy et Wadraha, 
-            durant lequel des artistes nationaux et internationaux participent aussi pour assurer l’ambiance.
-          </p>
+          <?= $translations['338'] ?> 
         </div>
       </div>
       <!-- Event Block 3 -->
       <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
         <div class="event-block shadow-lg rounded overflow-hidden">
-          <h4>Le Morengy</h4>
-          <img src="/assets/images/services/morengy.jpg" alt="Le Morengy" class="img-fluid mb-3">
-          <p class="text-justify">
-            Le Morengy est un événement sportif où les compétiteurs
-             s'affrontent dans des matchs de boxe traditionnelle malgache. 
-             Il incarne l'esprit de la compétition et de la discipline.
-
-             Le Morengy ou lutte malgache, 
-             est une culture que pratique les peuples habitant particulièrement 
-             dans Nord-Ouest  de Madagascar tous les dimanches après-midi. 
-             Il s’agit d’une lutte à laquelle chaque participant démontre sa force 
-             et les spectateurs soutiennent en pariant sur le gagnant.
-          </p>
+          <?= $translations['339'] ?> 
         </div>
       </div>
       <!-- Event Block 4 -->
       <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="300">
         <div class="event-block shadow-lg rounded overflow-hidden">
-          <h4>Sortie Baleine</h4>
-          <img src="/assets/images/services/b-1.jpg" alt="Sortie Baleine" class="img-fluid mb-3">
-          <p class="text-justify">
-            Les sorties baleines offrent l'opportunité d'observer 
-            les baleines à bosse dans leur habitat naturel. 
-            Une expérience inoubliable au cœur de l'océan Indien.
-            Les journées sont généralement chaudes et sèches la majeure partie de l’année. 
-            Les eaux côtières constituent une voie de migration pour les baleines à bosse 
-            (Juillet à Octobre). La saison de nidification des tortues 
-            et les conditions météorologiques attirent les amateurs de snorkeling.
-          </p>
+          <?= $translations['340'] ?>
         </div>
       </div>
       <!-- Event Block 5 -->
       <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="400">
         <div class="event-block shadow-lg rounded overflow-hidden">
-          <h4>Culture Tsangan-Tsaina</h4>
-          <img src="/assets/images/services/15.jpg" alt="Culture Tsangan-Tsaina" class="img-fluid mb-3">
-          <p class="text-justify">La culture Tsangan-Tsaina est un aspect fondamental de la vie locale, mélangeant musique, arts et traditions ancestrales.</p>
+          <?= $translations['341'] ?>
         </div>
       </div>
       <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="400">
         <div class="event-block shadow-lg rounded overflow-hidden">
-          <h4>BAPTEME</h4>
-          <img src="/assets/images/services/15.jpg" alt="Culture Tsangan-Tsaina" class="img-fluid mb-3">
-          <p class="text-justify">
-          Le baptême est un évènement qui nécessite d'être préparé en amont afin de pouvoir l'organiser dans sa globalité et ainsi éviter tout problème le jour J. Il est souvent conseillé de préparer cette fête près de 3 mois en avance ! Si vous décidez de baptiser un bébé vous pouvez déjà réfléchir à son baptême dès sa naissance !
-          </p>
+          <?= $translations['342'] ?>
         </div>
       </div>
     </div>
@@ -366,7 +247,7 @@
 
     <!-- Mariage Section -->
   <section id="mariage-et-lune-de-miel" class="container py-5" data-aos="fade-up">
-    <h2 class="text-center mb-4" id="voyage-de-noce">Mariage et Lune de Miel</h2>
+    <h2 class="text-center mb-4" id="voyage-de-noce"><?= $translations['343'] ?></h2>
     <div class="row">
       <!-- Event Block 1 -->
       <div class="col-md-6 mb-4" data-aos="fade-up">
@@ -374,10 +255,7 @@
           
           <img src="/assets/images/services/s-1.jpg" alt="Festival Donia" class="img-fluid mb-3">
           <p class="text-justify">
-            Pour fêter ce qu’il y a de plus beau sur terre, l’AMOUR.
-            Vous rêvez d’un mariage dans un cadre exceptionnel, hors du commun ou d’une lune de miel sur une île paradisiaque?
-
-            L’équipe Paradise Tours vous propose son forfait mariage et Lune de miel. 
+            <?= $translations['344'] ?>
             <p class="mb-4"></p>
             <br>
             <br>
@@ -389,12 +267,7 @@
         <div class="event-block shadow-lg rounded overflow-hidden">
           <img src="/assets/images/services/s-3.jpg" alt="Festival Sômarôho" class="img-fluid mb-3">
           <p class="text-justify">
-            Nous disposons de plusieurs coordonnateurs de mariage expérimentés, pouvant vous assurer un mariage de rêve. 
-            Que ce soit pour des événements intimes ou de grande envergure pouvant accueillir jusqu’à 150 invités,
-           nos équipes de professionnels mettent tout en œuvre pour créer un moment unique pour vous.
-           Un cadre idyllique, un décor paradisiaque et une équipe motivée à votre disposition pour rendre vos moments uniques. 
-           Pas étonnant que l’île se distingue comme l’une des destinations préférées pour célébrer l’amour!
-            
+            <?= $translations['345'] ?>
           </p>
           <br>
         </div>
@@ -407,9 +280,9 @@
   <section id="additional-info" class="container py-5" data-aos="fade-up">
     <div class="row" >
       <div class="col-md-12" >
-        <h3 class="text-center">Service traiteur</h3>
+        <h3 class="text-center"><?= $translations['346'] ?></h3>
         <p class="text-justify">
-          Le service traiteur est un terme technique qui désigne la fourniture de repas et de boissons à un groupe de personnes dans un lieu quelconque .Le service traiteur fait partie du segment catering et s'occupe généralement d'événements éphémères et festifs. En tant que traiteur, Nosy Be Paradise Tours  accorde en outre une grande importance à l'effet produit sur les invités. Nos services soutiennent et concrétisent les objectifs fixés par le client et visent à créer des souvenirs chaleureux que les invités garderont longtemps après l’événement.
+          <?= $translations['347'] ?>
         </p>
       </div>
     </div>
