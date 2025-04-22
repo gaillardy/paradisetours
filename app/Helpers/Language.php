@@ -1791,11 +1791,51 @@ An idyllic setting, a heavenly setting, and a motivated team are at your disposa
 It's no wonder the island stands out as one of the favorite destinations for celebrating love!",
             '346'       => 'Catering service',
             '347'       => 'Catering is a technical term that refers to the provision of meals and drinks to a group of people in any location. Catering is part of the catering segment and generally deals with temporary and festive events. As a caterer, Nosy Be Paradise Tours also places great importance on the impact on guests. Our services support and realize the objectives set by the client and aim to create warm memories that guests will cherish long after the event.',
-            '348'       => '',
-            '349'       => '',
-            '350'       => '',
-            '351'       => '',
-            '352'       => '',
+            '348'       => 'Soa trip',
+            '349'       => '<h2>DAY 1: ARRIVAL IN NOSY BE</h2>
+<p class="mb-4">
+Highlights: Visit Ambanja, the Sambirano River, cocoa plantations, and Madagascar spices.
+</p>
+<p>
+Departure from your hotel around 7:00 a.m. and head to the port of Nosy Be, for a 45-minute boat transfer to Ankify. From the second port, we continue by car to the town of Ambanja. A visit to the spice fields and the cocoa cultivation of the Sambirano Valley, which has made this town famous, and spices such as peppers, lemongrass, coffee, and 4 spices, will be included.
+</p>
+<p>
+After the tour and lunch, a tour of the town of Ambanja will take you to discover the originality and charm of this town, as well as some infrastructure and public spaces in the late afternoon. Return to Nosy Be around 3:00 p.m. </p>
+
+<ul class="unstyled-list">
+<li><b>Number of Passengers:</b> Clients, Guide, Driver</li>
+<li><b>Vehicle Type:</b> Spacious, air-conditioned car</li>
+</ul>',
+            '350'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel Transfer to the Port</li>
+<li>Car</li>
+<li>Speedboat Transfer</li>
+<li>Lunch</li>
+<li>Guide</li>
+<li>Mineral Water</li>
+<li>Tourist Entrance Fee</li>
+</ul>',
+            '351'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+</ul>',
+            '352'       => '<h3>Mini Necessary Checklist</h3>
+<ul>
+<li>Personal Essentials</li>
+<li>Warm-weather clothing, made of wool or polyester</li>
+<li>Medicine</li>
+<li>Carry-on backpack and travel bag</li>
+<li>Light or flashlight</li>
+<li>Trekking boots and pants</li>
+<li>Sandals or casual shoes</li>
+<li>Sunglasses</li>
+<li>Sunscreen</li>
+<li>Mosquito repellent</li>
+<li>Sunhat or hood</li>
+</ul>',
             '353'       => '',
             '354'       => '',
             '355'       => '',
@@ -5756,11 +5796,52 @@ Nosy Be Paradise Tours è anche un organizzatore di eventi, prepara e coordina v
            Pas étonnant que l’île se distingue comme l’une des destinations préférées pour célébrer l’amour!',
             '346'       => 'Service traiteur',
             '347'       => "Le service traiteur est un terme technique qui désigne la fourniture de repas et de boissons à un groupe de personnes dans un lieu quelconque .Le service traiteur fait partie du segment catering et s'occupe généralement d'événements éphémères et festifs. En tant que traiteur, Nosy Be Paradise Tours  accorde en outre une grande importance à l'effet produit sur les invités. Nos services soutiennent et concrétisent les objectifs fixés par le client et visent à créer des souvenirs chaleureux que les invités garderont longtemps après l’événement.",
-            '348'       => '',
-            '349'       => '',
-            '350'       => '',
-            '351'       => '',
-            '352'       => '',
+            '348'       => 'Tour Soa',
+            '349'       => '<h2>JOUR 1: ARRIVEE A NOSY BE</h2>
+            <p class="mb-4">
+                Points fort:  visite Ambanja, rivière de Sambirano, plantation cacao et des épices de Madagascar .
+            </p>
+            <p>
+                Départ de votre hôtel vers 07h 00 et direction vers le port de Nosy Be, pour un transfert en bateau pour Ankify en 45 minutes. Du second port vers la ville d’Ambanja nous continuons en voiture. La visite de champ des épices et la culture de Cacao de la vallée du Sambirano qui fait la réputation de cette ville et les épices de tels que les poivres, citronnelle, café, 4 épices, …
+            </p>
+            <p>
+                Après la visite et le déjeuner, un tour dans la ville d’Ambanja pour découvrir : l’originalité et la charme de cette ville, quelques infrastructures et des lieux publics en fin d’après-midi. Retour à Nosy- Be vers 15h00. 
+            </p>                   
+            
+            <ul class="unstyled-list">
+                <li><b>Nombre de Pax :    </b> Clients, Guide Accompagnateur, Chauffeur</li>
+                <li><b>Type de véhicule : </b>  voiture spacieuse et climatisée</li>
+            </ul>',
+            '350'       => '                        <h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel vers au port</li>
+                            <li>Voiture</li>
+                            <li>Transfert au Bateaux rapide</li>
+                            <li>Déjeuner</li>
+                            <li>Guide</li>
+                            <li>Eau minéral</li>
+                            <li>Droit d\'entrée de visite</li>
+                        </ul>',
+            '351'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Les boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboire</li>
+                        </ul>',
+            '352'       => '<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle</li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine</li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking</li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon</li>
+                        </ul>',
             '353'       => '',
             '354'       => '',
             '355'       => '',
@@ -9846,11 +9927,52 @@ Un ambiente idilliaco, una decorazione paradisiaca e un team motivato a vostra d
 Non c'è da stupirsi che l'isola sia considerata una delle mete preferite per celebrare l'amore!",
             '346'       => 'Servizio di ristorazione',
             '347'       => "Catering è un termine tecnico che si riferisce alla fornitura di pasti e bevande a un gruppo di persone in qualsiasi luogo. Il catering fa parte del segmento della ristorazione e si occupa generalmente di eventi temporanei e festivi. In qualità di fornitore di servizi di catering, Nosy Be Paradise Tours attribuisce grande importanza anche all'impatto che il suo servizio ha sugli ospiti. I nostri servizi supportano e realizzano gli obiettivi del cliente e mirano a creare ricordi calorosi che gli ospiti conserveranno con cura anche dopo l'evento.",
-            '348'       => '',
-            '349'       => '',
-            '350'       => '',
-            '351'       => '',
-            '352'       => '',
+            '348'       => 'Torre Soa',
+            '349'       => "<h2>GIORNO 1: ARRIVO A NOSY BE</h2>
+<p class=\"mb-4\">
+Punti salienti: visita Ambanja, fiume Sambirano, piantagione di cacao e spezie del Madagascar. 
+</p>
+<p>
+Partenza dal vostro hotel intorno alle 7:00 del mattino e direzione porto di Nosy Be, per il trasferimento in barca ad Ankify in 45 minuti. Dal secondo porto si prosegue in auto fino alla cittadina di Ambanja. La visita ai campi di spezie e alle coltivazioni di cacao nella Valle del Sambirano che rendono famosa questa città e alle spezie come il pepe, la citronella, il caffè, le 4 spezie, ...
+</p>
+<p>
+Dopo la visita e il pranzo, nel tardo pomeriggio, tour della città di Ambanja per scoprire: l'originalità e il fascino di questa città, alcune infrastrutture e luoghi pubblici. Rientro a Nosy-Be verso le 15:00. 
+</p>
+
+<ul class=\"unstyled-list\">
+<li><b>Numero di passeggeri:</b> Clienti, Guida, Autista</li>
+<li><b>Tipo di veicolo:</b> auto spaziosa e climatizzata</li>
+</ul>",
+            '350'       => "<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento dall'hotel al porto</li>
+<li>Auto</li>
+<li>Trasferimento sulla barca veloce</li>
+<li>Pranzo</li>
+<li>Guida</li>
+<li>Acqua minerale</li>
+<li>Biglietto d'ingresso per i visitatori</li>
+</ul>",
+            '351'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Suggerimento</li>
+</ul>',
+            '352'       => '<h3>Mini elenco necessario</h3>
+<ul>
+<li>Necessità personale</li>
+<li>Abbigliamento adatto al clima caldo, in lana o poliestere</li>
+<li>Medicina</li>
+<li>Zaino da viaggio e custodia da viaggio</li>
+<li>Luce o torcia elettrica</li>
+<li>Scarponi e pantaloni da trekking</li>
+<li>Sandali o scarpe comode</li>
+<li>Occhiali da sole</li>
+<li>Protezione solare</li>
+<li>Spray repellente per zanzare</li>
+<li>Cappello o cappuccio parasole</li>
+</ul>',
             '353'       => '',
             '354'       => '',
             '355'       => '',
@@ -13923,11 +14045,52 @@ Eine idyllische Umgebung, ein himmlisches Dekor und ein motiviertes Team stehen 
 Kein Wunder, dass die Insel zu den beliebtesten Reisezielen zählt, um die Liebe zu feiern!',
             '346'       => 'Catering-Service',
             '347'       => 'Catering ist ein Fachbegriff, der sich auf die Versorgung einer Gruppe von Menschen an einem beliebigen Ort mit Speisen und Getränken bezieht. Catering ist Teil des Gastronomiesegments und befasst sich im Allgemeinen mit zeitlich begrenzten und festlichen Veranstaltungen. Als Caterer legt Nosy Be Paradise Tours auch großen Wert auf die Wirkung, die es auf die Gäste hat. Unsere Dienstleistungen unterstützen und erreichen die Ziele des Kunden und zielen darauf ab, schöne Erinnerungen zu schaffen, an die sich die Gäste noch lange nach der Veranstaltung erinnern werden.',
-            '348'       => '',
-            '349'       => '',
-            '350'       => '',
-            '351'       => '',
-            '352'       => '',
+            '348'       => 'Soa-Turm',
+            '349'       => '<h2>TAG 1: ANKUNFT IN NOSY BE</h2>
+<p Klasse="mb-4">
+Höhepunkte: Besuchen Sie Ambanja, den Fluss Sambirano, eine Kakaoplantage und die Gewürze Madagaskars. 
+</p>
+<p>
+Abfahrt von Ihrem Hotel gegen 7:00 Uhr und Fahrt zum Hafen von Nosy Be, für einen 45-minütigen Bootstransfer nach Ankify. Vom zweiten Hafen bis zur Stadt Ambanja geht es mit dem Auto weiter. Der Besuch der Gewürzfelder und des Kakaoanbaus im Sambirano-Tal, das den Ruf dieser Stadt ausmacht, und Gewürze wie Paprika, Zitronengras, Kaffee, 4 Gewürze, ...
+</p>
+<p>
+Nach dem Besuch und dem Mittagessen folgt am Ende des Nachmittags eine Tour durch die Stadt Ambanja, um die Originalität und den Charme dieser Stadt sowie einige Infrastrukturen und öffentliche Plätze zu entdecken. Rückkehr nach Nosy-Be gegen 15:00 Uhr. 
+</p>
+
+<ul class="unstyled-list">
+<li><b>Anzahl der Passagiere:</b> Kunden, Reiseleiter, Fahrer</li>
+<li><b>Fahrzeugtyp:</b> geräumiges, klimatisiertes Auto</li>
+</ul>',
+            '350'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer vom Hotel zum Hafen</li>
+<li>Auto</li>
+<li>Umstieg auf das Schnellboot</li>
+<li>Mittagessen</li>
+<li>Anleitung</li>
+<li>Mineralwasser</li>
+<li>Besuchereintrittsgebühr</li>
+</ul>',
+            '351'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipp</li>
+</ul>',
+            '352'       => '<h3>Mini-Notwendigkeitsliste</h3>
+<ul>
+<li>Persönliche Notwendigkeit</li>
+<li>Für warmes Wetter geeignete Kleidung aus Wolle oder Polyester</li>
+<li>Medizin</li>
+<li>Handgepäck-Rucksack und Reisehülle</li>
+<li>Licht oder Taschenlampe</li>
+<li>Trekkingstiefel und -hosen</li>
+<li>Sandalen oder bequeme Schuhe</li>
+<li>Sonnenbrille</li>
+<li>Sonnenschutz</li>
+<li>Mückenschutzspray</li>
+<li>Sonnenhut oder Kapuze</li>
+</ul>',
             '353'       => '',
             '354'       => '',
             '355'       => '',
