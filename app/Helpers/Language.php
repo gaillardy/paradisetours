@@ -1949,11 +1949,195 @@ At the end of our tour, transfer to Toliara airport for your return flight. A gu
 <li>Mosquito repellent</li>
 <li>Sunhat or hood</li>
 </ul>',
-            '359'       => '',
-            '360'       => '',
-            '361'       => '',
-            '362'       => '',
-            '363'       => '',
+            '359'       => 'Island tour',
+            '360'       => '<h2>Tour Description</h2>
+<p>
+By car, tuk-tuk, motorbike, or quad bike,
+the Nosy-be Island Tour is a favorite activity
+for visitors because it allows them to discover the island in a single day.
+An island tour is the perfect opportunity to discover the town,
+its people, its history, and, above all, its culture.
+</p>',
+            '361'       => '<li><b>Visit:</b> Sugarloaf Mountain, Little Iranja, Great Iranja, The Lighthouse, The White Sands</li>
+<li><b>Duration:</b> One day</li>
+<li><b>Departure:</b> From your hotel</li>
+<li><b>Number of passengers:</b> Clients, Guide, Driver</li>
+<li><b>Means of transport:</b> 9, 12, or 25-seater buses, air-conditioned and spacious</li>',
+            '362'       => '<h3>Highlights</h3>
+<ul>
+<li>Total immersion in Nosy Be culture</li>
+<li>Rum tasting and discovery of the famous ylang-ylang essence</li>
+<li>Nosy Be Market (local products)</li>
+<li>Impressive 360° view of all of Nosy Be and its archipelago, not to be missed!</li>
+<li>Magnificent, clean, and calm beaches, perfect for relaxing and sunbathing.</li>
+</ul>',
+            '363'       => '<h3>NOSY BE ISLAND TOURS</h3>
+<ol>
+<li>Island Tour: Lemuria Land, Hell Ville, Andilana Beach, Mont Passot (min 4 pax)</li>
+<li>Island Tour: Marodoka Village, Hell Ville, Andilana Beach, Mont Passot (min 4 pax)</li>
+<li>Island Tour: Lemuria Land, Mont Passot</li>
+<li>Island Tour: Hell Ville, Marodoka, Nosy Be Museum, Bemazava Sacred Tree, Andilana Beach</li>
+<li>Island Tour: Mahatsinjo Sacred Tree, Hell Ville Market, Andilana Beach, Mont Passot (min 4 pax)</li>
+<li>Mont Passot Tour (min 2 pax)</li>
+<li>Island Tour: Sacred Tree Mahatsinjo, Ampombilava, Djabala, Andilana Beach </li> 
+</ol>',
+            '364'       => '<h2><strong>Marodoka Village</strong></h2>
+<p class="mb-3">
+The first village of Nosy Be, which over the centuries welcomed traders from India and the Arabs,
+all attracted by the culture and historical richness of the place.
+This tour allows you to immerse yourself in the Sakalava culture and discover the ancestral riches and traditions of Nosy Be.
+</p>
+
+<h2><strong>Hell Ville</strong></h2>
+<p class="mb-3">
+Located in the south of Nosy Be, Hell Ville is the capital of this archipelago. It is a port city.
+With its old cannons, the port is one of the places that gives the city its charm. <br>
+
+A visit to the covered market, built during the colonial era, is a must to admire the local population
+and to enjoy the spices and artisanal products such as hand-carved wooden and stone kitchen utensils.
+</p>
+
+<h2><strong>Andilana Beach</strong></h2>
+<p class="mb-3">
+With its calm and beauty, Andilana Beach is an excellent place to relax.
+You can admire the beauty of Nosy Be art: paintings, embroidery, wood carving, and more.
+</p>
+
+<h2><strong><a href="#" download="/assets/documents/Mont-Passot.pdf" style="color: black;">Mont Passot</a></strong><span class="small">(PDF)</span></h2>
+<p class="mb-3">
+Imagine yourself safe and secure at an altitude of over 300 meters,
+overlooking Nosy Be and its archipelago with a 360-degree view.
+Even better, imagine ending your day there admiring a magnificent sunset. </p>
+
+<h2><strong><a href="#" download="/assets/documents/Lemuria-Land-fr.pdf" style="color: black;">Lemuria Land</a> </strong><span class="small">(PDF)</span></h2>
+
+<p class="mb-3">
+What makes this park so beautiful is the different types of lemurs found there,
+but there are also fish, crocodiles, birds, snakes, chameleons, and turtles.
+</p>
+<p class="mb-3">
+Visit the <strong>ylang-ylang distillery</strong>. A tree,
+native to the Philippines and introduced to Nosy Be at the end of the 19th century,
+has a delicately aromatic flower whose distillation
+produces a whole range of high-quality essences used particularly in fine perfumery. </p>
+
+<h2><strong><a href="#" download="/assets/documents/Arbre-sacré.pdf" style="color: black;">Mahatsinjo Sacred Tree</a></strong><span class="small">(PDF)</span></h2>
+<p class="mb-3">
+There are three sacred trees on Nosy Be, but the largest is Mahatsinjo.
+It is a historical, cultural, and religious site located 2.5 km south of the capital, Hell-ville.
+Its history dates back to 1837, when Queen Sakalava Tsiomeko took refuge near Mahatsinjo in Nosy Be after being driven out by the Merina Queen Ranavalona I. The Hindu delegation that came to visit the queen gave her a gift of a Ficus Benghalensis bud, or banyan tree, which she ordered to be planted. It became a doany for the Sakalava,
+a place of worship and prayer.
+Today, the tree has spread over 5,000 m², developing a multitude of branches, vines, and roots.
+</p>',
+            '365'       => '<h2><strong>Ampombilava</strong></h2>
+<p class="mb-3">A landscape of rice paddies and plantations.</p>
+
+<h2><strong>Djabala</strong></h2>
+<p class="mb-3">Mangrove forest, lake called "Soldier\'s Lake" which is said to be haunted.</p>
+
+<h2><strong>Nosy Be Museum</strong></h2>
+<p class="mb-3">
+Opened in 2019, this museum traces the entire history of Nosy Be.
+It houses impressive historical artifacts.
+</p>
+
+<h2><strong>Sacred Bemazava Tree</strong></h2>
+<p class="mb-3"><strong>The sacred forest of Bemazava</strong>, a revered sanctuary where offerings are placed in homage to ancestors.</p>',
+            '366'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel Pick-up</li>
+<li>Transfer</li>
+<li>Mineral Water</li>
+<li>Park Entrance.</li>
+</ul>',
+            '367'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Lunch</li>
+</ul>',
+            '368'       => '',
+            '369'       => '',
+            '370'       => '',
+            '371'       => '',
+            '372'       => '',
+            '373'       => '',
+            '374'       => '',
+            '375'       => '',
+            '376'       => '',
+            '377'       => '',
+            '378'       => '',
+            '379'       => '',
+            '380'       => '',
+            '381'       => '',
+            '382'       => '',
+            '383'       => '',
+            '384'       => '',
+            '385'       => '',
+            '386'       => '',
+            '387'       => '',
+            '388'       => '',
+            '389'       => '',
+            '390'       => '',
+            '391'       => '',
+            '392'       => '',
+            '393'       => '',
+            '394'       => '',
+            '395'       => '',
+            '396'       => '',
+            '397'       => '',
+            '398'       => '',
+            '399'       => '',
+            '400'       => '',
+            '401'       => '',
+            '402'       => '',
+            '403'       => '',
+            '404'       => '',
+            '405'       => '',
+            '406'       => '',
+            '407'       => '',
+            '408'       => '',
+            '409'       => '',
+            '410'       => '',
+            '411'       => '',
+            '412'       => '',
+            '413'       => '',
+            '414'       => '',
+            '415'       => '',
+            '416'       => '',
+            '417'       => '',
+            '418'       => '',
+            '419'       => '',
+            '420'       => '',
+            '421'       => '',
+            '422'       => '',
+            '423'       => '',
+            '424'       => '',
+            '425'       => '',
+            '426'       => '',
+            '427'       => '',
+            '428'       => '',
+            '429'       => '',
+            '430'       => '',
+            '431'       => '',
+            '432'       => '',
+            '433'       => '',
+            '434'       => '',
+            '435'       => '',
+            '436'       => '',
+            '437'       => '',
+            '438'       => '',
+            '439'       => '',
+            '440'       => '',
+            '441'       => '',
+            '442'       => '',
+            '443'       => '',
+            '444'       => '',
+            '445'       => '',
+            '446'       => '',
+            '447'       => '',
+            '448'       => '',
+            '449'       => '',
+            '450'       => '',
             '194'       => 'THE MITSIO ARCHIPELAGO in bivouac',            
             '195'       => '<h2>Description</h2>
 
@@ -6066,11 +6250,199 @@ Nosy Be Paradise Tours è anche un organizzatore di eventi, prepara e coordina v
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon </li>
                         </ul>',
-            '359'       => '',
-            '360'       => '',
-            '361'       => '',
-            '362'       => '',
-            '363'       => '',
+            '359'       => 'Tour de l’île',
+            '360'       => '<h2>Description du Circuit</h2>
+            <p>
+                En voiture, en Tuk tuk, en moto ou en quad, 
+                Nosy-be Island Tour est l’une des activités préférées 
+                des visiteurs car elle leur fait découvrir l’île en une seule journée.
+                Un tour de l’île est le moment idéal pour découvrir la ville, 
+                ses habitants, son histoire et surtout sa culture.
+            </p>',
+            '361'       => '<li><b>Visite : </b> Pain de Sucre, Petite Iranja, Grande Iranja, Le phare, la langue de sable blanc</li>
+                <li><b>Durée : </b>  Une journée</li>
+                <li><b>Départ :</b> de votre hôtel</li>
+                <li><b>Nombre de pax : </b> Clients, Guide Accompagnateur, Chauffeur</li>
+                <li><b>Moyen de transport : </b> Bus 9, 12, 25 places, climatisé et spacieux</li>',
+            '362'       => '<h3>Points fort </h3>
+                        <ul>
+                            <li>Totale immersion dans la culture nosybéenne</li>
+                            <li>Dégustation de « rhum » et découverte de la fameuse » essence d’ylang-ylang »</li>
+                            <li>Marché de Nosy-Be (produits locaux)</li>
+                            <li>Vu impressionnant de 360° sur tout nosy-be et son Archipel, à ne pas rater!</li>
+                            <li>Plages magnifiques, propres  et calmes, parfaites pour se relaxer et se bronzer.</li>
+                        </ul>',
+            '363'       => '<h3>LES TOURS DE L’ÎLE DE NOSY BE </h3>
+                        <ol>
+                            <li>Tour de l’île: Lemuria land , Hell Ville, Andilana Plage, Mont Passot  (min 4 pax)</li>
+                            <li>Tour de l’île: Village Marodoka,  Hell Ville , Plage d’Andilana, Mont Passot   (min 4 pax)</li>
+                            <li>Tour de l’île:  Lemuria land, Mont Passot  </li>
+                            <li>Tour de  l’île: Hell-Ville, Marodoka, Musée de Nosy Be, Arbre sacré  Bemazava, Plage d’Andilana  </li>
+                            <li>Tour de l’île: Arbre Sacré Mahatsinjo, Marché Hell Ville, Andilana Plage, Mont Passot (min 4 pax)</li>
+                            <li>Circuit  Mont Passot  (min 2 pax)</li>
+                            <li>Tour de l’île: Arbre Sacré Mahatsinjo, Ampombilava, Djabala, Plage d’Andilana  </li>
+                        </ol>',
+            '364'       => '<h2><strong>Village Marodoka</strong></h2>
+            <p class="mb-3">
+                Le premier village de Nosy Be, qui a accueilli au fil des siècles des commerçants venus d’Inde et des Arabes, 
+                tous attirés par la culture et la richesse historique du lieu. 
+                Ce circuit permet de s’imprégner de la culture Sakalava et de découvrir les richesses et traditions ancestrales de Nosy Be.
+            </p>
+
+            <h2><strong>Hell Ville</strong></h2>
+            <p class="mb-3">
+                Se trouvant dans le Sud de Nosy Be, Hell-Ville est la capitale de cet archipel. Elle est une ville portuaire. 
+                Avec ses vieux canons, le port est un des endroits qui donnent à la ville son charme. <br>
+
+                Un tour dans le marché couvert construit à l’époque coloniale est obligatoire pour admirer cette population 
+                et pour profite des épices et des produits artisanaux tesl que des  matériaux de cuisines en bois et en pierre sculptés à la main.
+            </p>
+
+            <h2><strong>Andilana Plage</strong></h2>
+            <p class="mb-3">
+                Avec son calme et sa beauté, la plage d’Andilana est excellente pour un farniente.
+                Vous pouvez admirez la beauté de l’art nosybéen : peinture sur tableaux, broderie, sculpture sur bois, etc.
+            </p>
+
+            <h2><strong><a href="#" download="/assets/documents/Mont-Passot.pdf" style="color: black;">Mont Passot</a></strong><span class="small">(PDF)</span></h2>
+            <p class="mb-3">
+                Imaginez-vous  bien en sécurité à plus de 300 mètres d’altitude, 
+                contemplant Nosy Be et son archipel avec un vu de 360 degrés. 
+                Encore mieux, imaginez-vous finir votre journée là en admirant un magnifique coucher de soleil. 
+            </p>
+
+            <h2><strong><a href="#" download="/assets/documents/Lemuria-Land-fr.pdf" style="color: black;">Lemuria land</a> </strong><span class="small">(PDF)</span></h2>
+            
+            <p class="mb-3">
+                Ce qui fait la béauté ce parc c’est les différentes types de lémuriens qu’on y retrouve, 
+                mais il y’a aussi des poissons, crocodiles, oiseaux, serpents, caméléons et tortues.
+            </p>
+            <p class="mb-3">
+                Visite de <strong> la distillerie d’ylang-ylang</strong>. Un arbre, 
+                originaire des Philippines et introduit à Nosy Be par à la fin du XIXe siècle, 
+                possèdant une fleur à l’arôme délicat dont la distillation 
+                produit toute une palette d’essences de très grande qualité utilisées notamment dans la haute parfumerie.
+            </p>
+
+            <h2><strong><a href="#" download="/assets/documents/Arbre-sacré.pdf" style="color: black;">Arbre Sacré Mahatsinjo</a></strong><span class="small">(PDF)</span></h2>
+            <p class="mb-3">
+                Il existe trois arbres sacrés sur Nosy Be, mais le plus grand est celui de Mahatsinjo.
+             C’est un lieu historique, culturel et religieux, il se trouve à 2,5 km  du sud de la capitale Hell-ville. 
+             Son histoire remonte à 1837, lorsque la reine Sakalava Tsiomeko se réfugia du côté de Mahatsinjo à Nosy be après
+              avoir été chassée par la reine Merina Ranavalona I. La délégation Hindu  venu visiter la reine lui a donné un cadeau 
+              d’un bourgeon Ficus Benghalensis ou banian, qu’elle ordonna de planter. Il est devenu un doany pour le Sakalava, 
+              un lieu de culte et de prière. 
+                Aujourd’hui, l’arbre s’est étendu sur 5000 m2  dévellopant une multitude de branches, de lianes et de racines.
+            </p>',
+            '365'       => '<h2><strong>Ampombilava</strong></h2>
+            <p class="mb-3">Un paysage de Rizière et  plantations.</p>
+
+            <h2><strong>Djabala</strong></h2>
+            <p class="mb-3">Forêt de mangroves, Lac  appelé « Lac des soldat » qui est d’après l’histoire est un lac hanté.</p>
+
+            <h2><strong>Musée de Nosy Be</strong></h2>
+            <p class="mb-3">
+                Inaugurée en 2019, ce musée retrace l’histoire entière de Nosy Be. 
+                On y retrouve des objets historiques impressionnants.
+            </p>
+
+            <h2><strong>Arbre sacré  Bemazava</strong></h2>
+            <p class="mb-3"><strong>La forêt sacrée de Bemazava</strong>, sanctuaire vénéré où sont déposées des offrandes en hommage aux ancêtres.</p>',
+            '366'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li> Accueil à l’hôtel</li>
+                            <li>Transfert</li>
+                            <li>Eau minéral</li>
+                            <li> Entrée parcs.</li>
+                        </ul>',
+            '367'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons</li>
+                            <li>Déjeuner</li>
+                        </ul>',
+            '368'       => '',
+            '369'       => '',
+            '370'       => '',
+            '371'       => '',
+            '372'       => '',
+            '373'       => '',
+            '374'       => '',
+            '375'       => '',
+            '376'       => '',
+            '377'       => '',
+            '378'       => '',
+            '379'       => '',
+            '380'       => '',
+            '381'       => '',
+            '382'       => '',
+            '383'       => '',
+            '384'       => '',
+            '385'       => '',
+            '386'       => '',
+            '387'       => '',
+            '388'       => '',
+            '389'       => '',
+            '390'       => '',
+            '391'       => '',
+            '392'       => '',
+            '393'       => '',
+            '394'       => '',
+            '395'       => '',
+            '396'       => '',
+            '397'       => '',
+            '398'       => '',
+            '399'       => '',
+            '400'       => '',
+            '401'       => '',
+            '402'       => '',
+            '403'       => '',
+            '404'       => '',
+            '405'       => '',
+            '406'       => '',
+            '407'       => '',
+            '408'       => '',
+            '409'       => '',
+            '410'       => '',
+            '411'       => '',
+            '412'       => '',
+            '413'       => '',
+            '414'       => '',
+            '415'       => '',
+            '416'       => '',
+            '417'       => '',
+            '418'       => '',
+            '419'       => '',
+            '420'       => '',
+            '421'       => '',
+            '422'       => '',
+            '423'       => '',
+            '424'       => '',
+            '425'       => '',
+            '426'       => '',
+            '427'       => '',
+            '428'       => '',
+            '429'       => '',
+            '430'       => '',
+            '431'       => '',
+            '432'       => '',
+            '433'       => '',
+            '434'       => '',
+            '435'       => '',
+            '436'       => '',
+            '437'       => '',
+            '438'       => '',
+            '439'       => '',
+            '440'       => '',
+            '441'       => '',
+            '442'       => '',
+            '443'       => '',
+            '444'       => '',
+            '445'       => '',
+            '446'       => '',
+            '447'       => '',
+            '448'       => '',
+            '449'       => '',
+            '450'       => '',
             '194'       => ' L’ARCHIPEL DE MITSIO en bivouac',            
             '195'       => '<h2>Description</h2>
            
@@ -10308,11 +10680,199 @@ Al termine del nostro servizio, trasferimento all'aeroporto di Toliara per il vo
 <li>Spray repellente per zanzare</li>
 <li>Cappello o cappuccio parasole</li>
 </ul>',
-            '359'       => '',
-            '360'       => '',
-            '361'       => '',
-            '362'       => '',
-            '363'       => '',
+            '359'       => 'giro dell\'isola',
+            '360'       => "<h2>Descrizione del circuito</h2>
+<p>
+In auto, in tuk tuk, in moto o in quad,
+Il tour dell'isola di Nosy-be è una delle attività preferite
+visitatori perché consente loro di scoprire l'isola in un solo giorno. 
+Un giro dell'isola è il momento perfetto per scoprire la città,
+i suoi abitanti, la sua storia e soprattutto la sua cultura. 
+</p>",
+            '361'       => '<li><b>Visita: </b> Pan di Zucchero, Piccola Iranja, Grande Iranja, Il faro, la lingua di sabbia bianca</li>
+<li><b>Durata:</b> Un giorno</li>
+<li><b>Partenza:</b> dal tuo hotel</li>
+<li><b>Numero di passeggeri:</b> Clienti, Guida, Autista</li>
+<li><b>Mezzi di trasporto:</b> autobus da 9, 12, 25 posti, climatizzati e spaziosi</li>',
+            '362'       => '<h3>Punti di forza</h3>
+<ul>
+<li>Immersione totale nella cultura nosybeana</li>
+<li>Degustazione di “rum” e scoperta della famosa “essenza di ylang-ylang”</li>
+<li>Mercato di Nosy-Be (prodotti locali)</li>
+<li>Una vista spettacolare a 360° su tutta Nosy Be e il suo arcipelago, da non perdere!</li>
+<li>Spiagge bellissime, pulite e tranquille, perfette per rilassarsi e prendere il sole.</li>
+</ul>',
+            '363'       => "<h3>I TOUR DELL'ISOLA DI NOSY BE</h3>
+<ol>
+<li>Tour dell'isola: Lemuria Land, Hell Ville, Andilana Beach, Mont Passot (min. 4 persone)</li>
+<li>Giro dell'isola: Marodoka Village, Hell Ville, Andilana Beach, Mont Passot (min 4 pax)</li>
+<li>Giro dell'isola: Terra di Lemuria, Mont Passot </li>
+<li>Tour dell'isola: Hell-Ville, Marodoka, Museo di Nosy Be, Albero sacro di Bemazava, Spiaggia di Andilana</li>
+<li>Tour dell'isola: albero sacro di Mahatsinjo, mercato di Hell Ville, spiaggia di Andilana, Mont Passot (min 4 persone)</li>
+<li>Circuito Mont Passot (min 2 persone)</li>
+<li>Giro dell'isola: Albero Sacro Mahatsinjo, Ampombilava, Djabala, Spiaggia di Andilana </li>
+</ol>",
+            '364'       => "<h2><strong>Villaggio di Marodoka</strong></h2>
+<p class=\"mb-3\">
+Il primo villaggio di Nosy Be, che nel corso dei secoli accolse commercianti provenienti dall'India e dagli arabi,
+tutti attratti dalla cultura e dalla ricchezza storica del luogo. 
+Questo tour vi permetterà di immergervi nella cultura Sakalava e di scoprire le ricchezze e le tradizioni ancestrali di Nosy Be. 
+</p>
+
+<h2><strong>Città Infernale</strong></h2>
+<p class=\"mb-3\">
+Situata a sud di Nosy Be, Hell-Ville è la capitale di questo arcipelago. È una città portuale. 
+Con i suoi vecchi cannoni, il porto è uno dei luoghi che conferisce alla città il suo fascino. <br>
+
+Un giro al mercato coperto costruito in epoca coloniale è d'obbligo per ammirare questa popolazione
+e per gustare spezie e prodotti artigianali come utensili da cucina in legno e pietra intagliati a mano. 
+</p>
+
+<h2><strong>Spiaggia di Andilana</strong></h2>
+<p class=\"mb-3\">
+Grazie alla sua calma e bellezza, la spiaggia di Andilana è il luogo ideale per rilassarsi. 
+Potrete ammirare la bellezza dell'arte di Nosy Be: pittura su tela, ricami, intaglio del legno, ecc. 
+</p>
+
+<h2><strong><a href=\"#\" download=\"/assets/documents/Mont-Passot.pdf\" style=\"color: black;\">Mont Passot</a></strong><span class=\"small\">(PDF)</span></h2>
+<p class=\"mb-3\">
+Immaginatevi al sicuro e protetti a oltre 300 metri sopra il livello del mare,
+ammirare Nosy Be e il suo arcipelago con una vista a 360 gradi. 
+Ancora meglio, immagina di concludere la giornata lì ammirando uno splendido tramonto. 
+</p>
+
+<h2><strong><a href=\"#\" download=\"/assets/documents/Lemuria-Land-fr.pdf\" style=\"color: black;\">Terra di Lemuria</a> </strong><span class=\"small\">(PDF)</span></h2>
+
+<p class=\"mb-3\">
+Ciò che rende questo parco così bello sono le diverse specie di lemuri che si possono trovare lì,
+ma ci sono anche pesci, coccodrilli, uccelli, serpenti, camaleonti e tartarughe. 
+</p>
+<p class=\"mb-3\">
+Visita alla distilleria di ylang-ylang. Un albero,
+originario delle Filippine e introdotto a Nosy Be alla fine del XIX secolo,
+che possiede un fiore dal profumo delicato la cui distillazione
+produce una vasta gamma di essenze di altissima qualità, utilizzate in particolare nell'alta profumeria. 
+</p>
+
+<h2><strong><a href=\"#\" download=\"/assets/documents/Arbre-sacré.pdf\" style=\"color: black;\">Albero sacro di Mahatsinjo</a></strong><span class=\"small\">(PDF)</span></h2>
+<p class=\"mb-3\">
+Ci sono tre alberi sacri a Nosy Be, ma il più grande è l'albero Mahatsinjo. 
+È un luogo storico, culturale e religioso, situato 2,5 km a sud della capitale Hell-ville. 
+La sua storia risale al 1837, quando la regina Sakalava Tsiomeko si rifugiò sul lato Mahatsinjo di Nosy Be dopo
+essendo stata cacciata dalla regina Merina Ranavalona I. La delegazione indù che venne a visitare la regina le fece un regalo
+di un Ficus Benghalensis o bocciolo di baniano, che ordinò di piantare. Divenne un doany per i Sakalava,
+un luogo di culto e di preghiera. 
+Oggi l'albero si estende su oltre 5000 m2, sviluppando una moltitudine di rami, viticci e radici. 
+</p>",
+            '365'       => '<h2><strong>Ampombilava</strong></h2>
+<p class="mb-3">Un paesaggio di risaie e piantagioni.</p>
+
+<h2><strong>Djabala</strong></h2>
+<p class="mb-3">Foresta di mangrovie, lago chiamato "Lago del Soldato" che si dice sia un lago infestato.</p>
+
+Museo di Nosy Be
+<p class="mb-3">
+Inaugurato nel 2019, questo museo ripercorre l\'intera storia di Nosy Be. 
+Lì si possono trovare oggetti storici impressionanti. 
+</p>
+
+<h2><strong>Albero sacro di Bemazava</strong></h2>
+<p class="mb-3"><strong>La foresta sacra di Bemazava</strong>, un santuario venerato dove vengono deposte offerte in omaggio agli antenati.</p>',
+            '366'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Reception dell\'hotel</li>
+<li>Trasferimento</li>
+<li>Acqua minerale</li>
+<li>Ingresso del parco.</li>
+</ul>',
+            '367'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Pranzo</li>
+</ul>',
+            '368'       => '',
+            '369'       => '',
+            '370'       => '',
+            '371'       => '',
+            '372'       => '',
+            '373'       => '',
+            '374'       => '',
+            '375'       => '',
+            '376'       => '',
+            '377'       => '',
+            '378'       => '',
+            '379'       => '',
+            '380'       => '',
+            '381'       => '',
+            '382'       => '',
+            '383'       => '',
+            '384'       => '',
+            '385'       => '',
+            '386'       => '',
+            '387'       => '',
+            '388'       => '',
+            '389'       => '',
+            '390'       => '',
+            '391'       => '',
+            '392'       => '',
+            '393'       => '',
+            '394'       => '',
+            '395'       => '',
+            '396'       => '',
+            '397'       => '',
+            '398'       => '',
+            '399'       => '',
+            '400'       => '',
+            '401'       => '',
+            '402'       => '',
+            '403'       => '',
+            '404'       => '',
+            '405'       => '',
+            '406'       => '',
+            '407'       => '',
+            '408'       => '',
+            '409'       => '',
+            '410'       => '',
+            '411'       => '',
+            '412'       => '',
+            '413'       => '',
+            '414'       => '',
+            '415'       => '',
+            '416'       => '',
+            '417'       => '',
+            '418'       => '',
+            '419'       => '',
+            '420'       => '',
+            '421'       => '',
+            '422'       => '',
+            '423'       => '',
+            '424'       => '',
+            '425'       => '',
+            '426'       => '',
+            '427'       => '',
+            '428'       => '',
+            '429'       => '',
+            '430'       => '',
+            '431'       => '',
+            '432'       => '',
+            '433'       => '',
+            '434'       => '',
+            '435'       => '',
+            '436'       => '',
+            '437'       => '',
+            '438'       => '',
+            '439'       => '',
+            '440'       => '',
+            '441'       => '',
+            '442'       => '',
+            '443'       => '',
+            '444'       => '',
+            '445'       => '',
+            '446'       => '',
+            '447'       => '',
+            '448'       => '',
+            '449'       => '',
+            '450'       => '',
             '194'       => 'L\'ARCIPELAGO MITSIO in bivacco',            
             '195'       => '<h2>Descrizione</h2>
 
@@ -14537,11 +15097,199 @@ Am Ende unseres Services Transfer zum Flughafen Toliara für Ihren Rückflug. Mi
 <li>Mückenschutzspray</li>
 <li>Sonnenhut oder Kapuze</li>
 </ul>',
-            '359'       => '',
-            '360'       => '',
-            '361'       => '',
-            '362'       => '',
-            '363'       => '',
+            '359'       => 'Inselrundfahrt',
+            '360'       => '<h2>Schaltkreisbeschreibung</h2>
+<p>
+Mit dem Auto, Tuk Tuk, Motorrad oder Quad,
+Nosy-be Island Tour ist eine der beliebtesten Aktivitäten
+Besucher, weil sie so die Insel an nur einem Tag entdecken können. 
+Eine Inselrundfahrt ist die perfekte Gelegenheit, die Stadt zu entdecken,
+seine Bewohner, seine Geschichte und vor allem seine Kultur. 
+</p>',
+            '361'       => '<li><b>Besuchen Sie: </b> Zuckerhut, Klein-Iranja, Groß-Iranja, den Leuchtturm, die Zunge aus weißem Sand</li>
+<li><b>Dauer:</b> Ein Tag</li>
+<li><b>Abfahrt:</b> von Ihrem Hotel</li>
+<li><b>Anzahl der Passagiere:</b> Kunden, Reiseleiter, Fahrer</li>
+<li><b>Transportmittel:</b> 9-, 12- und 25-Sitzer-Busse, klimatisiert und geräumig</li>',
+            '362'       => '<h3>Stärken</h3>
+<ul>
+<li>Völliges Eintauchen in die Nosybean-Kultur</li>
+<li>Verkostung von „Rum“ und Entdeckung der berühmten „Ylang-Ylang-Essenz“</li>
+<li>Nosy-Be-Markt (lokale Produkte)</li>
+<li>Beeindruckender 360°-Blick auf ganz Nosy Be und seinen Archipel, den Sie nicht verpassen sollten!</li>
+<li>Wunderschöne, saubere und ruhige Strände, perfekt zum Entspannen und Sonnenbaden.</li>
+</ul>',
+            '363'       => '<h3>DIE TOUREN DER INSEL NOSY BE</h3>
+<ol>
+<li>Inseltour: Lemuria Land, Hell Ville, Andilana Beach, Mont Passot (mindestens 4 Personen)</li>
+<li>Inseltour: Marodoka Village, Hell Ville, Andilana Beach, Mont Passot (min. 4 Personen)</li>
+<li>Tour um die Insel: Lemuria-Land, Mont Passot </li>
+<li>Inseltour: Hell-Ville, Marodoka, Nosy-Be-Museum, heiliger Baum von Bemazava, Andilana-Strand</li>
+<li>Inseltour: Heiliger Baum Mahatsinjo, Markt Hell Ville, Strand Andilana, Mont Passot (min. 4 Personen)</li>
+<li>Circuit Mont Passot (min. 2 Personen)</li>
+<li>Tour um die Insel: Heiliger Baum Mahatsinjo, Ampombilava, Djabala, Andilana Beach </li>
+</ol>',
+            '364'       => '<h2><strong>Marodoka-Dorf</strong></h2>
+<p Klasse="mb-3">
+Das erste Dorf von Nosy Be, das im Laufe der Jahrhunderte Händler aus Indien und den Arabern willkommen hieß,
+alle sind von der Kultur und dem historischen Reichtum des Ortes angezogen. 
+Auf dieser Tour können Sie in die Sakalava-Kultur eintauchen und die Reichtümer und alten Traditionen von Nosy Be entdecken. 
+</p>
+
+<h2><strong>Höllenstadt</strong></h2>
+<p Klasse="mb-3">
+Hell-Ville liegt im Süden von Nosy Be und ist die Hauptstadt dieses Archipels. Es ist eine Hafenstadt. 
+Der Hafen mit seinen alten Kanonen ist einer der Orte, die der Stadt ihren Charme verleihen. <br>
+
+Ein Rundgang durch den überdachten Markt aus der Kolonialzeit ist ein Muss, um diese Bevölkerung zu bewundern
+und Gewürze und handwerkliche Produkte wie handgeschnitzte Küchenmaterialien aus Holz und Stein zu genießen. 
+</p>
+
+<h2><strong>Andilana-Strand</strong></h2>
+<p Klasse="mb-3">
+Mit seiner Ruhe und Schönheit eignet sich der Strand von Andilana hervorragend zum Entspannen. 
+Sie können die Schönheit der Kunst von Nosy Be bewundern: Gemälde, Stickereien, Holzschnitzereien usw.
+</p>
+
+<h2><strong><a href="#" download="/assets/documents/Mont-Passot.pdf" style="color: black;">Mont Passot</a></strong><span class="small">(PDF)</span></h2>
+<p Klasse="mb-3">
+Stellen Sie sich vor, Sie liegen sicher und geborgen auf über 300 Metern über dem Meeresspiegel,
+Betrachten Sie Nosy Be und seinen Archipel mit einer 360-Grad-Aussicht. 
+Oder noch besser: Stellen Sie sich vor, Sie beenden Ihren Tag dort mit der Bewunderung eines herrlichen Sonnenuntergangs. 
+</p>
+
+<h2><strong><a href" download="/assets/documents/Lemuria-Land-fr.pdf" style="color: black;">Lemuria-Land</a> </strong><span class="small">(PDF)</span></h2>
+
+<p Klasse="mb-3">
+Was diesen Park so schön macht, sind die verschiedenen Arten von Lemuren, die dort zu finden sind.
+aber es gibt auch Fische, Krokodile, Vögel, Schlangen, Chamäleons und Schildkröten.
+</p>
+<p Klasse="mb-3">
+Besuch der <strong>Ylang-Ylang-Destillerie</strong>. Ein Baum,
+stammt ursprünglich von den Philippinen und wurde Ende des 19. Jahrhunderts nach Nosy Be eingeführt.
+eine Blume mit einem zarten Aroma, deren Destillation
+produziert eine ganze Reihe sehr hochwertiger Essenzen, die insbesondere in der Feinparfümerie Verwendung finden.
+</p>
+
+<h2><strong><a href="#" download="/assets/documents/Arbre-sacré.pdf" style="color: black;">Heiliger Mahatsinjo-Baum</a></strong><span class="small">(PDF)</span></h2>
+<p Klasse="mb-3">
+Auf Nosy Be gibt es drei heilige Bäume, aber der größte ist der Mahatsinjo-Baum. 
+Es ist ein historischer, kultureller und religiöser Ort, 2,5 km südlich der Hauptstadt Hell-ville gelegen. 
+Seine Geschichte reicht zurück bis ins Jahr 1837, als Königin Sakalava Tsiomeko auf der Mahatsinjo-Seite von Nosy Be Zuflucht suchte, nachdem
+von der Merina-Königin Ranavalona I. vertrieben worden war. Die Hindu-Delegation, die die Königin besuchte, überreichte ihr ein Geschenk
+einer Ficus Benghalensis- oder Banyan-Knospe, die sie einpflanzen ließ. Er wurde Doan für die Sakalava,
+ein Ort der Anbetung und des Gebets. 
+Heute hat sich der Baum über 5.000 m² ausgebreitet und eine Vielzahl von Ästen, Ranken und Wurzeln entwickelt. 
+</p>',
+            '365'       => '<h2><strong>Ampombilava</strong></h2>
+<p class="mb-3">Eine Landschaft aus Reisfeldern und Plantagen.</p>
+
+<h2><strong>Djabala</strong></h2>
+<p class="mb-3">Mangrovenwald, See namens „Soldier Lake“, von dem es heißt, es soll dort spuken.</p>
+
+<h2><strong>Nosy Be Museum</strong></h2>
+<p Klasse="mb-3">
+Dieses 2019 eröffnete Museum zeichnet die gesamte Geschichte von Nosy Be nach. 
+Dort sind beeindruckende historische Objekte zu finden. 
+</p>
+
+<h2><strong>Heiliger Bemazava-Baum</strong></h2>
+<p class="mb-3"><strong>Der heilige Wald von Bemazava</strong>, ein verehrtes Heiligtum, in dem Opfergaben zu Ehren der Vorfahren niedergelegt werden.</p>',
+            '366'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Hotelrezeption</li>
+<li>Übertragen</li>
+<li>Mineralwasser</li>
+<li>Parkeingang.</li>
+</ul>',
+            '367'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Mittagessen</li>
+</ul>',
+            '368'       => '',
+            '369'       => '',
+            '370'       => '',
+            '371'       => '',
+            '372'       => '',
+            '373'       => '',
+            '374'       => '',
+            '375'       => '',
+            '376'       => '',
+            '377'       => '',
+            '378'       => '',
+            '379'       => '',
+            '380'       => '',
+            '381'       => '',
+            '382'       => '',
+            '383'       => '',
+            '384'       => '',
+            '385'       => '',
+            '386'       => '',
+            '387'       => '',
+            '388'       => '',
+            '389'       => '',
+            '390'       => '',
+            '391'       => '',
+            '392'       => '',
+            '393'       => '',
+            '394'       => '',
+            '395'       => '',
+            '396'       => '',
+            '397'       => '',
+            '398'       => '',
+            '399'       => '',
+            '400'       => '',
+            '401'       => '',
+            '402'       => '',
+            '403'       => '',
+            '404'       => '',
+            '405'       => '',
+            '406'       => '',
+            '407'       => '',
+            '408'       => '',
+            '409'       => '',
+            '410'       => '',
+            '411'       => '',
+            '412'       => '',
+            '413'       => '',
+            '414'       => '',
+            '415'       => '',
+            '416'       => '',
+            '417'       => '',
+            '418'       => '',
+            '419'       => '',
+            '420'       => '',
+            '421'       => '',
+            '422'       => '',
+            '423'       => '',
+            '424'       => '',
+            '425'       => '',
+            '426'       => '',
+            '427'       => '',
+            '428'       => '',
+            '429'       => '',
+            '430'       => '',
+            '431'       => '',
+            '432'       => '',
+            '433'       => '',
+            '434'       => '',
+            '435'       => '',
+            '436'       => '',
+            '437'       => '',
+            '438'       => '',
+            '439'       => '',
+            '440'       => '',
+            '441'       => '',
+            '442'       => '',
+            '443'       => '',
+            '444'       => '',
+            '445'       => '',
+            '446'       => '',
+            '447'       => '',
+            '448'       => '',
+            '449'       => '',
+            '450'       => '',
             '194'       => 'DAS MITSIO-ARCHIPEL im Biwak',            
             '195'       => '<h2>Beschreibung</h2>
 
