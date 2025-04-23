@@ -1836,12 +1836,119 @@ After the tour and lunch, a tour of the town of Ambanja will take you to discove
 <li>Mosquito repellent</li>
 <li>Sunhat or hood</li>
 </ul>',
-            '353'       => '',
-            '354'       => '',
-            '355'       => '',
-            '356'       => '',
-            '357'       => '',
-            '358'       => '',
+            '353'       => 'SOUTHERN CIRCUIT OF MADAGASCAR RN7',
+            '354'       => '<h2>Tour Description</h2>
+<ul>
+<li>Departure: ANTANANRIVO</li>
+<li>Return: ANTANANRIVO</li>
+<li>Number of Passengers: Clients, Guide, Driver</li>
+<li>Vehicle Type: Spacious, comfortable, and air-conditioned 4WD</li>
+</ul>
+<h2>DAY 1: ARRIVAL IN Antananarivo</h2>
+<p>
+After being met at the airport, our guide will check you into your hotel.
+This will give you time to rest and prepare for the next day. </p>
+
+<h2>DAY 2: Antananarivo-Antsirabe - 3.5 hours drive</h2>
+<h5>Visit: <strong>Ambatolampy</strong> - <strong>Vakinankaratra</strong></h5>
+<p>
+
+After breakfast, we begin our tour. The drive is long, so you will be dazzled by the landscape of fir and cypress forests. Ambatolampy is a small country town popular with both locals and foreigners, renowned for its aluminum pot making. Along the way, you will find fruit and vegetable vendors along the roadside.
+Antsirabe is a pretty "spa town" and also known as a water town. Antsirabe has a warm climate with a dry winter. In winter, between July and August, temperatures can drop to around 5°C in the evenings and at night. They sometimes even reach 0°C. We continue our tour of the cathedral, which dates back to the colonial era, in the city center. Rickshaw drivers simply call it the "Thermal".
+
+</p>
+
+<h2>DAY 3: Antsirabe-Ambositra 3-hour drive</h2>
+<p>
+<strong>Ambositra</strong> is a town of green rice paddies, pine trees, and eucalyptus trees. One thing that characterizes the highlands is its architecture and local marquetry.
+</p>
+
+<h2>DAY 4: Ambositra-Ranomafana 4-hour drive</h2>
+<h5>Visit: Ranomafana Park</h5>
+<p>
+Be sure to have breakfast,
+we continue our tour of Ambositra.
+Afterward, we continue our journey to the town of Ranomafana. Visit Ranomafana National Park, with its 41,600 hectares of tropical rainforest, where you\'ll encounter various species of flora and fauna, including lemurs. Ranomafana National Park is made up of dense forest at low and mid-altitudes. Among the floral species visible there are the Rubiaceae, and many others.
+</p>',
+            '355'       => "<h2>DAY 5: Ranomafana, Fianarantsoa, ​​Anjà (3-hour drive)</h2>
+<p>
+<b>
+Visit: Wine market and tasting of authentic local wine, Anjà Reserve
+</b>
+</p>
+<p>
+After a good, relaxing sleep, we woke up with a good local coffee at 7:30 a.m. We left the town of Ranomafana to taste fine wine in Fianarantsoa, ​​more precisely in Ambalavao.
+In the afternoon, we visited the Anjà Reserve.
+The fabulous journey along the road promises
+the discovery of numerous parks to explore
+the Malagasy flora and fauna.
+The Anja Community Reserve covers about thirty hectares of dry forest, at the foot of a rocky massif surrounded by rice fields and agricultural plots. The landscape is dominated by three granite rock formations. </p>
+
+<h2>DAY 6: Ambalavao-Isalo (3-hour drive)</h2>
+<b>Isalo Park and Window</b>
+<p>
+After a good breakfast, we leave the hotel for the famous Anja Park.
+Along the way, we'll see beautiful landscapes like the Pope's Hat.
+We'll then continue through the famous Isalo Park. A huge massif eroded during the Jurassic period, it's one of the most spectacular in the country. The ancestral Bara tribes are here.
+Meet at the Isalo Window to admire a magnificent sunset.
+</p>
+
+<h2>DAY 7: Isalo-Toliara (4-hour drive)</h2>
+<h5>Transfer to Toliara</h5>
+
+<p>
+After a good breakfast, we hit the road to Tulear. Along the way, we'll stop at the mining villages of Ilakaka and Sakaraha, passing through the tamarind landscape and the tombs of the Mahafale tribes. Afterward, check into your hotel. The town is magnificent with its beautiful colonial infrastructure.
+
+</p>
+
+<h2>DAY 8: Toliara</h2>
+<h5>Visit: Ifaty Beach</h5>
+
+<p>
+This day is for relaxing at the famous Mangily Beach in Ifaty. You can enjoy the fresh seafood here, all along the white sand. Don't miss the oysters.
+
+</p>
+
+<h2>DAY 9: Tulear – Relax</h2>
+<p>A free day to relax and shop for souvenirs. </p>
+
+<h2>DAY 10: Tuléar – Antanarivo</h2>
+<p>
+At the end of our tour, transfer to Toliara airport for your return flight. A guide will assist you until you reach the airport.
+(Time will depend on the local flight time.)
+
+</p>",
+            '356'       => '<h3>Included Services</h3>
+<ul>
+<li>Transfer to the airport, hotel, and airport</li>
+<li>Air-conditioned 4WD</li>
+<li>Accommodation at each location described in the tour</li>
+<li>All lunches</li>
+<li>Daily mineral water</li>
+<li>Guide</li>
+<li>Visit rights</li>
+</ul>',
+            '357'       => '<h3>Services Not Included</h3>
+<ul>
+<li>All dinners</li>
+<li>Drinks</li>
+<li>Personal extras</li>
+<li>Tips</li>
+</ul>',
+            '358'       => '<h3>Mini Necessary Checklist</h3>
+<ul>
+<li>Personal Essentials</li>
+<li>Warm-weather clothing, made of wool or polyester</li>
+<li>Medicine kit</li>
+<li>Carry-on backpack and travel bag</li>
+<li>Light or flashlight</li>
+<li>Trekking boots and pants</li>
+<li>Sandals or casual shoes</li>
+<li>Sunglasses</li>
+<li>Sunscreen</li>
+<li>Mosquito repellent</li>
+<li>Sunhat or hood</li>
+</ul>',
             '359'       => '',
             '360'       => '',
             '361'       => '',
@@ -5842,12 +5949,123 @@ Nosy Be Paradise Tours è anche un organizzatore di eventi, prepara e coordina v
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon</li>
                         </ul>',
-            '353'       => '',
-            '354'       => '',
-            '355'       => '',
-            '356'       => '',
-            '357'       => '',
-            '358'       => '',
+            '353'       => 'CIRCUIT SUD DE MADAGASCAR RN7',
+            '354'       => '<h2>Description du circuit</h2>
+            <ul>
+                <li>Départ : ANTANANRIVO</li>
+                <li>Retour  : ANTANANRIVO</li>
+                <li>Nombre de Pax : Clients, Guide Accompagnateur, Chauffeur</li>
+                <li>Type de véhicule : 4WD spacieuse, confortable et climatisée</li>
+            </ul>
+            <h2>JOUR 1 : ARRIVÉE À Antananarivo</h2>
+            <p>
+                Apres l’accueil de l’aéroport, notre guide vous installera à l’hôtel.
+                Cela vous laissera le temps de vous reposer et aussi pour bien  préparer pour le lendemain.
+            </p>
+
+
+
+            <h2>JOUR 2: Antananarivo-Antsirabe- 3h30 de route</h2>
+            <h5>Visite : <strong>Ambatolampy</strong> - <strong>Vakinankaratra</strong></h5>
+            <p>
+                
+                Après le petit déjeuner, on entame notre circuit , le trajet est long, donc vous serez éblouie par le paysage de bois de sapins et cyprés.  Ambatolampy est une petite ville campagnarde appréciée autant par les nationaux que les étrangers réputés par la fabrication des marmites en aluminium. En chemin, on trouve des vendeurs de fruits et légumes au b ord de la route.
+                Antsirabe est une jolie "ville thermale" et aussi nommée ville d’eau. Antsirabe possède un climat chaud avec un hiver sec. En hiver, entre le mois de juillet et le mois d’août, les températures peuvent descendre à environ 5°C le soir et la nuit. Elles frôlent même parfois les 0°C. On continue la visite de la cathédrale depuis l’époque coloniale au centre-ville. Conducteurs de pousse-pousse l’appellent simplement le « Thermal ».
+
+            </p>
+
+            <h2>JOUR 3: Antsirabe-Ambositra 3h de route</h2>
+            <p>
+            <strong>Ambositra</strong>  quant à elle , est une ville des rizières vertes, des pins et des eucalyptus. Une chose qui marque les hauts plateaux est son architecture et de la marqueterie locales. 
+            </p>
+            
+            
+            <h2>JOUR 4 : Ambositra- Ranomafana 4h de route</h2>
+            <h5>Visite : Parc de Ranomafana</h5>
+            <p>
+                Ne pas manquer de prendre le petit déjeuner, 
+                on poursuit la visite à Ambositra. 
+                Après cela on continue notre route pour la ville de Ranomafana. On visite le parc de Ranomafana avec ses 41. 600 ha de forêt tropicale humide, où on y rencontre différents espèces de faunes et flores comme des lémuriens. Le Parc National de Ranomafana est constitué d’une forêt dense à basse et moyenne altitude. Parmi les espèces florales visibles sur place, vous avez les Rubiacées, et tant d’autres.  
+            </p>',
+            '355'       => "<h2>JOUR 5 : Ranomafana, Fianarantsoa, Anjà 3h de route</h2>
+            <p>
+                <b>
+                Visite : Marché du vin et dégustation du vin local authentique, Réserve Anjà
+                </b>
+            </p>
+            <p>
+                Apres un bon sommeil relaxant, on se réveille avec un bon café local à 7h30. On quitte la ville de Ranomafana pour déguster le bon vin à Fianarantsoa, plus précisément à Ambalavao.
+                Dans l’après-midi, nous vivions la réserve Anjà. 
+                Le fabuleux périple le long de la route promet 
+                la découverte de nombreux parcs pour explorer 
+                la faune et la flore malgache. 
+                La réserve communautaire de l’Anja s’étend sur une trentaine d’hectares de forêt sèche, au pied d’un massif rocheux entouré de rizières et de parcelles agricoles. Le paysage est dominé par trois formations des roches granitiques. 
+            </p>
+            
+
+            <h2>JOUR 6 : Ambalavao- Isalo 3h  de route</h2>
+            <b>Parc et fenêtre de l’Isalo</b>
+            <p>
+                Apres un bon petit déjeuner, nous quittons l’hôtel pour aller au fameux parc d’Anja.. 
+                En chemin, nous verrons de beaux paysages comme le chapeau du Pape.
+                On continue ensuite par le fameux parc de Isalo. Un immense massif érodé au Jurassique, l'un des plus spectaculaires du pays. Les ancêtres  tribus Bara y sont, 
+                Rendez-vous à la fenêtre Isalo pour admirer un magnifique coucher de soleil. 
+            </p>
+
+            <h2>JOUR 7 : Isalo-Toliara 4h  de route</h2>
+            <h5>Transfert pour Toliara</h5>
+
+            <p>
+                Apres un bon breakfast, on prend la route pour la Tuléar. En route, nous ferons un arrêt aux villages miniers d’Ilakaka et Sakaraha. A travers le Paysage de tamariniers et  tombeau des tribus  Mahafale. Apres cela, installation à l’hôtel. La ville est magnifique avec son joli paysage d’infrastructures coloniales.
+            </p>
+
+            <h2>JOUR 8: Toliara</h2>
+            <h5>Visite : Plage de Ifaty</h5>
+
+            <p>
+                Cette journée est pour aller se détendre à la célèbre plage de Mangily à Ifaty. Vous pouvez savourer les fruits de mer sur ce lieu, bien frais. Tout au long du sable blanc. Ne manquez pas de déguster les huitres. 
+            </p>
+
+            <h2>JOUR 9 : Tuléar – Relax</h2>
+            <p>Une journée libre pour se relaxer, faires des achats de souvenirs. </p>
+            
+            <h2>JOUR 10 : Tuléar – Antanarivo</h2>
+            <p>
+                La fin de notre prestation, transfert à l'aéroport de Toliara  pour votre vol de retour. Avec un guide accompagnateur pour assister jusqu’à l’aéroport.
+                ( Horaire dépendra de l’heure de vol local) 
+
+            </p>",
+            '356'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert vers aéroport l’hôtel et aéroport</li>
+                            <li>4WD  climatisée</li>
+                            <li>Hébergement à chaque lieu décrit dans le circuit</li>
+                            <li>Tous les  déjeuners</li>
+                            <li>Eau minérale de tous les jours</li>
+                            <li>Guide</li>
+                            <li>Droit de visites</li>
+                        </ul>',
+            '357'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Tous les diner</li>
+                            <li>Boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboire</li>
+                        </ul>',
+            '358'       => '<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle </li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine trousse </li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking </li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon </li>
+                        </ul>',
             '359'       => '',
             '360'       => '',
             '361'       => '',
@@ -9973,12 +10191,123 @@ Dopo la visita e il pranzo, nel tardo pomeriggio, tour della città di Ambanja p
 <li>Spray repellente per zanzare</li>
 <li>Cappello o cappuccio parasole</li>
 </ul>',
-            '353'       => '',
-            '354'       => '',
-            '355'       => '',
-            '356'       => '',
-            '357'       => '',
-            '358'       => '',
+            '353'       => 'CIRCUITO MERIDIONALE DEL MADAGASCAR RN7',
+            '354'       => "<h2>Descrizione del circuito</h2>
+<ul>
+<li>Partenza: ANTANANRIVO</li>
+<li>Ritorno: ANTANANRIVO</li>
+<li>Numero di passeggeri: clienti, guida, autista</li>
+<li>Tipo di veicolo: spazioso, confortevole, 4x4 con aria condizionata</li>
+</ul>
+<h2>GIORNO 1: ARRIVO AD Antananarivo</h2>
+<p>
+Dopo l'accoglienza in aeroporto, la nostra guida vi sistemerà in hotel. 
+Questo vi darà il tempo di riposare e di prepararvi al meglio per il giorno successivo. 
+</p>
+
+
+
+<h2>GIORNO 2: Antananarivo-Antsirabe - 3 ore e 30 in auto</h2>
+<h5>Visita: <strong>Ambatolampy</strong> - <strong>Vakinankaratra</strong></h5>
+<p>
+
+Dopo la colazione iniziamo il nostro tour, il tragitto è lungo, quindi rimarrete abbagliati dal paesaggio di boschi di abeti e cipressi. Ambatolampy è una cittadina di campagna apprezzata sia dalla gente del posto che dagli stranieri, nota per la produzione di pentole in alluminio. Lungo il percorso si incontrano venditori di frutta e verdura ai lati della strada. 
+Antsirabe è una graziosa \"città termale\", detta anche città sull'acqua. Antsirabe ha un clima caldo con inverni secchi. In inverno, tra luglio e agosto, le temperature possono scendere fino a circa 5 °C la sera e la notte. A volte raggiungono anche 0°C. Proseguiamo la visita della cattedrale di epoca coloniale nel centro della città. I conducenti di risciò lo chiamano semplicemente \"Thermal\". 
+
+</p>
+
+<h2>GIORNO 3: Antsirabe-Ambositra 3 ore di guida</h2>
+<p>
+<strong>Ambositra</strong> è una città caratterizzata da verdi risaie, pini ed eucalipti. Una delle cose che caratterizzano gli altopiani è l'architettura locale e i suoi intarsi. 
+</p>
+
+
+<h2>GIORNO 4: Ambositra- Ranomafana 4 ore di guida</h2>
+<h5>Visita: Parco Ranomafana</h5>
+<p>
+Non perdetevi la colazione,
+Continuiamo la visita ad Ambositra. 
+Dopodiché continueremo il nostro viaggio verso la cittadina di Ranomafana. Visitiamo il parco di Ranomafana con i suoi 41.600 ettari di foresta pluviale tropicale, dove incontriamo diverse specie di fauna e flora come i lemuri. Il Parco Nazionale Ranomafana è costituito da fitte foreste a bassa e media altitudine. Tra le specie floreali visibili nel sito ci sono le Rubiaceae e tante altre ancora. 
+</p>",
+            '355'       => "<h2>GIORNO 5: Ranomafana, Fianarantsoa, ​​​​Anjà 3 ore di macchina</h2>
+<p>
+<b>
+Visita: Mercato del vino e degustazione di autentici vini locali, Riserva di Anjà
+</b>
+</p>
+<p>
+Dopo una bella dormita rilassante, ci svegliamo alle 7:30 con un buon caffè locale. Lasciamo la cittadina di Ranomafana per degustare del buon vino a Fianarantsoa, ​​più precisamente ad Ambalavao. 
+Nel pomeriggio abbiamo visitato la riserva di Anjà. 
+Il favoloso viaggio lungo la strada promette
+la scoperta di tanti parchi da esplorare
+Flora e fauna malgascia. 
+La riserva comunitaria di Anja si estende su circa trenta ettari di foresta secca, ai piedi di un massiccio roccioso circondato da risaie e appezzamenti agricoli. Il paesaggio è dominato da tre formazioni rocciose granitiche. 
+</p>
+
+
+<h2>GIORNO 6: Ambalavao-Isalo 3 ore di guida</h2>
+<b>Isalo Park e Window</b>
+<p>
+Dopo una buona colazione, lasciamo l'hotel per recarci al famoso Parco Anja.
+Lungo il cammino vedremo paesaggi bellissimi come il cappello del Papa.
+Proseguiamo poi attraverso il famoso parco dell'Isalo. Un enorme massiccio eroso nel periodo Giurassico, uno dei più spettacolari del Paese. Gli antenati delle tribù Bara sono lì,
+Dirigetevi alla finestra dell'Isalo per ammirare uno splendido tramonto. 
+</p>
+
+<h2>GIORNO 7: Isalo-Toliara 4 ore di macchina</h2>
+Trasferimento a Toliara
+
+<p>
+Dopo una buona colazione, prendiamo la strada per Tulear. Lungo il percorso faremo tappa ai villaggi minerari di Ilakaka e Sakaraha. Attraverso il paesaggio di alberi di tamarindo e tombe delle tribù Mahafale. Dopodiché, effettuate il check-in in hotel. La città è bellissima, con il suo grazioso paesaggio di infrastrutture coloniali. 
+</p>
+
+GIORNO 8: Toliara
+Visita: Spiaggia di Ifaty
+
+<p>
+Questa giornata è dedicata al relax presso la famosa spiaggia di Mangily a Ifaty. Qui potrete gustare frutti di mare freschissimi. Lungo tutta la sabbia bianca. Non perdetevi l'occasione di assaggiare le ostriche. 
+</p>
+
+GIORNO 9: Tulear – Relax
+<p>Una giornata libera per rilassarsi e acquistare souvenir. </p>
+
+<h2>GIORNO 10: Tuléar – Antanarivo</h2>
+<p>
+Al termine del nostro servizio, trasferimento all'aeroporto di Toliara per il volo di ritorno. Con una guida al vostro fianco per assistervi nel trasporto in aeroporto. 
+(Il tempo dipenderà dall'orario del volo locale)
+
+</p>",
+            '356'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento in aeroporto, hotel e aeroporto</li>
+<li>4WD con aria condizionata</li>
+<li>Sistemazione in ogni località descritta nel tour</li>
+<li>Tutti i pranzi</li>
+<li>Acqua minerale di tutti i giorni</li>
+<li>Guida</li>
+<li>Diritti di visita</li>
+</ul>',
+            '357'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Tutte le cene</li>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Suggerimento</li>
+</ul>',
+            '358'       => '<h3>Mini elenco necessario</h3>
+<ul>
+<li>Necessità personale</li>
+<li>Abbigliamento adatto al clima caldo, in lana o poliestere</li>
+<li>Kit di medicinali</li>
+<li>Zaino da viaggio e custodia da viaggio</li>
+<li>Luce o torcia elettrica</li>
+<li>Scarponi e pantaloni da trekking</li>
+<li>Sandali o scarpe comode</li>
+<li>Occhiali da sole</li>
+<li>Protezione solare</li>
+<li>Spray repellente per zanzare</li>
+<li>Cappello o cappuccio parasole</li>
+</ul>',
             '359'       => '',
             '360'       => '',
             '361'       => '',
@@ -14091,12 +14420,123 @@ Nach dem Besuch und dem Mittagessen folgt am Ende des Nachmittags eine Tour durc
 <li>Mückenschutzspray</li>
 <li>Sonnenhut oder Kapuze</li>
 </ul>',
-            '353'       => '',
-            '354'       => '',
-            '355'       => '',
-            '356'       => '',
-            '357'       => '',
-            '358'       => '',
+            '353'       => 'SÜDLICHER RUNDEN VON MADAGASKAR RN7',
+            '354'       => '<h2>Schaltkreisbeschreibung</h2>
+<ul>
+<li>Abfahrt: ANTANANRIVO</li>
+<li>Rückkehr: ANTANANRIVO</li>
+<li>Anzahl der Passagiere: Kunden, Reiseleiter, Fahrer</li>
+<li>Fahrzeugtyp: Geräumiger, komfortabler Allradwagen mit Klimaanlage</li>
+</ul>
+<h2>TAG 1: ANKUNFT IN Antananarivo</h2>
+<p>
+Nach dem Empfang am Flughafen wird unser Reiseleiter Sie im Hotel unterbringen. 
+So haben Sie Zeit, sich auszuruhen und sich gut auf den nächsten Tag vorzubereiten. 
+</p>
+
+
+
+<h2>TAG 2: Antananarivo-Antsirabe – 3h30 Fahrt</h2>
+<h5>Besuch: <strong>Ambatolampy</strong> - <strong>Vakinankaratra</strong></h5>
+<p>
+
+Nach dem Frühstück beginnen wir unsere Tour. Die Fahrt ist lang, daher werden Sie von der Landschaft aus Tannen- und Zypressenwäldern geblendet sein. Ambatolampy ist eine kleine Landstadt, die sowohl bei Einheimischen als auch bei Ausländern beliebt ist und für ihre Produktion von Aluminiumtöpfen bekannt ist. Unterwegs gibt es Obst- und Gemüsestände am Straßenrand. 
+Antsirabe ist ein hübscher „Kurort“ und wird auch Wasserstadt genannt. Antsirabe hat ein warmes Klima mit trockenen Wintern. Im Winter, zwischen Juli und August, können die Temperaturen abends und nachts auf etwa 5 °C fallen. Teilweise erreichen sie sogar 0°C. Wir setzen die Besichtigung der Kathedrale aus der Kolonialzeit im Stadtzentrum fort. Rikschafahrer nennen es einfach „Thermal“. 
+
+</p>
+
+<h2>TAG 3: Antsirabe-Ambositra, 3 Stunden Fahrt</h2>
+<p>
+<strong>Ambositra</strong> ist eine Stadt mit grünen Reisfeldern, Kiefern und Eukalyptusbäumen. Eine Besonderheit des Hochlands ist die lokale Architektur und Intarsienarbeit. 
+</p>
+
+
+<h2>TAG 4: Ambositra – Ranomafana, 4 Stunden Fahrt</h2>
+<h5>Besuch: Ranomafana Park</h5>
+<p>
+Verpassen Sie nicht das Frühstück,
+Wir setzen den Besuch in Ambositra fort. 
+Danach setzen wir unsere Reise in die Stadt Ranomafana fort. Wir besuchen den Ranomafana-Park mit seinen 41.600 Hektar tropischem Regenwald, wo wir auf verschiedene Tier- und Pflanzenarten wie beispielsweise Lemuren treffen. Der Ranomafana-Nationalpark besteht aus dichten Wäldern in niedrigen und mittleren Höhenlagen. Zu den vor Ort sichtbaren Blumenarten zählen die Rubiaceae und viele andere. 
+</p>',
+            '355'       => '<h2>TAG 5: Ranomafana, Fianarantsoa, ​​​​Anjà 3 Stunden Fahrt</h2>
+<p>
+<b>
+Besuch: Weinmarkt und Verkostung authentischen lokalen Weins, Anjà Reserve
+</b>
+</p>
+<p>
+Nach einem erholsamen Schlaf werden wir um 7:30 Uhr mit einem guten lokalen Kaffee geweckt. Wir verlassen die Stadt Ranomafana, um in Fianarantsoa, ​​genauer gesagt in Ambalavao, guten Wein zu probieren. 
+Am Nachmittag besuchten wir das Anjà-Reservat. 
+Die fabelhafte Reise entlang der Straße verspricht
+die Entdeckung vieler Parks zum Erkunden
+Madagassische Flora und Fauna. 
+Das Anja-Gemeinschaftsreservat umfasst rund dreißig Hektar Trockenwald am Fuße eines Felsmassivs, umgeben von Reisfeldern und landwirtschaftlichen Flächen. Die Landschaft wird von drei Granitfelsformationen dominiert. 
+</p>
+
+
+<h2>TAG 6: Ambalavao – Isalo, 3 Stunden Fahrt</h2>
+<b>Isalo Park und Fenster</b>
+<p>
+Nach einem guten Frühstück verlassen wir das Hotel und gehen zum berühmten Anja-Park.
+Unterwegs sehen wir wunderschöne Landschaften wie den Papsthut. 
+Anschließend geht es weiter durch den berühmten Isalo-Park. Ein riesiges, in der Jurazeit erodiertes Massiv, eines der spektakulärsten des Landes. Die Vorfahren der Bara-Stämme sind dort,
+Gehen Sie zum Isalo-Fenster, um einen herrlichen Sonnenuntergang zu bewundern. 
+</p>
+
+<h2>TAG 7: Isalo-Toliara 4 Stunden Fahrt</h2>
+<h5>Transfer nach Toliara</h5>
+
+<p>
+Nach einem guten Frühstück machen wir uns auf den Weg nach Tulear. Unterwegs halten wir in den Bergbaudörfern Ilakaka und Sakaraha. Durch die Landschaft mit Tamarindenbäumen und Gräbern der Mahafale-Stämme. Anschließend Check-in im Hotel. Die Stadt ist mit ihrer hübschen Landschaft aus kolonialer Infrastruktur wunderschön. 
+</p>
+
+<h2>TAG 8: Toliara</h2>
+<h5>Besuch: Ifaty Beach</h5>
+
+<p>
+An diesem Tag können Sie am berühmten Mangily-Strand in Ifaty entspannen. Hier können Sie Meeresfrüchte genießen, ganz frisch. Überall am weißen Sandstrand. Verpassen Sie es nicht, die Austern zu probieren. 
+</p>
+
+<h2>TAG 9: Tulear – Entspannen</h2>
+<p>Ein freier Tag zum Entspannen und Souvenir-Shopping. </p>
+
+<h2>TAG 10: Tuléar – Antanarivo</h2>
+<p>
+Am Ende unseres Services Transfer zum Flughafen Toliara für Ihren Rückflug. Mit einem begleitenden Reiseführer, der Sie zum Flughafen begleitet. 
+(Die Zeit hängt von der lokalen Flugzeit ab)
+
+</p>',
+            '356'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer zum Flughafen, Hotel und Flughafen</li>
+<li>Klimatisierter Allradantrieb</li>
+<li>Unterkunft an jedem in der Tour beschriebenen Ort</li>
+<li>Alle Mittagessen</li>
+<li>Mineralwasser für jeden Tag</li>
+<li>Anleitung</li>
+<li>Besuchsrecht</li>
+</ul>',
+            '357'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Alle Abendessen</li>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipp</li>
+</ul>',
+            '358'       => '<h3>Mini-Notwendigkeitsliste</h3>
+<ul>
+<li>Persönliche Notwendigkeit</li>
+<li>Für warmes Wetter geeignete Kleidung aus Wolle oder Polyester</li>
+<li>Medizinkasten</li>
+<li>Handgepäck-Rucksack und Reisehülle</li>
+<li>Licht oder Taschenlampe</li>
+<li>Trekkingstiefel und -hosen</li>
+<li>Sandalen oder bequeme Schuhe</li>
+<li>Sonnenbrille</li>
+<li>Sonnenschutz</li>
+<li>Mückenschutzspray</li>
+<li>Sonnenhut oder Kapuze</li>
+</ul>',
             '359'       => '',
             '360'       => '',
             '361'       => '',
