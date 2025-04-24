@@ -2055,16 +2055,58 @@ It houses impressive historical artifacts.
 <li>Drinks</li>
 <li>Lunch</li>
 </ul>',
-            '368'       => '',
-            '369'       => '',
-            '370'       => '',
-            '371'       => '',
-            '372'       => '',
-            '373'       => '',
-            '374'       => '',
-            '375'       => '',
-            '376'       => '',
-            '377'       => '',
+            '368'       => 'Tour of Madagascar',
+            '369'       => 'GRAND TERRE CIRCUITS OF ALL REGIONS OF MADAGASCAR',
+            '370'       => 'Ensuring more discovery during your trip, Nosy Be Paradise Tours also offers a tour of the mainland,
+from North to South, visiting the various national parks in Madagascar, created by an MNP association (National Parks of Madagascar), recognized as being of public utility and operating under the supervision of the Ministry of the Environment, Ecology, the Sea, and Forests.
+However, experience an instant experience of living in a natural and protected area, rich in both flora and fauna.',
+            '371'       => 'Premium transfer',
+            '372'       => '<h1 class="display-4">Our Premium Transfer</h1>
+<p class="lead">
+Nosy Be Paradise Tours offers a comprehensive and varied range of tourist services and services on land and at sea for individuals and groups at the local, national, and international levels. In addition, we offer a full range of services to professionals such as tour operators, travel agencies, hotels, diving centers, and cruise lines, which are local and international partners. Nosy Be Paradise Tours sells and organizes not only day trips, but also multi-day catamaran trips or bivouacs on land on the many small islands around Nosy-Be. Nosy Be Paradise Tours offers its clients land and sea transfer services by car or speedboat. From the airport to the hotel or from the hotel to the airport. From the port of Ankify to the port of Nosy-Be or vice versa. There is also the option of transfers via the small islands neighboring Nosy Be or to other regions of Madagascar.
+</p>',
+            '373'       => '<h3 class="text-center">The Premium Transfer includes:</h3>
+<ul>
+<li>Private car or boat transfer</li>
+<li>Very comfortable and spacious car with air conditioning</li>
+<li>Driver or guide with communication skills</li>
+<li>1 bottle of fresh water per person</li>
+<li>Liability insurance</li>
+</ul>',
+            '374'       => '<h3 class="text-center">V.I.P. Transfer</h3>
+<ul>
+<li>Welcome to the VIP lounge</li>
+<li>Transfer by private car or boat</li>
+<li>Very comfortable and spacious car with air conditioning</li>
+<li>Bilingual driver or escort who can communicate with the client</li>
+<li>Snacks during the journey (in case of flight schedule changes)</li>
+<li>1 bottle of fresh water per person</li>
+<li>1 refreshing towel</li>
+<li>Baggage claim assistance</li>
+<li>Escortion to the vehicle</li>
+<li>Liability insurance</li>
+</ul>',
+            '375'       => '<h3 class="text-center">GROUND TRANSFER:</h3>
+<p class="text-justify">
+Whether for receptions, visits, or trips.
+
+Our agency provides its clients with comfortable road vehicles.
+
+</p>',
+            '376'       => '<h3 class="text-center">MARITIME TRANSFER:</h3>
+<p class="text-justify">
+During excursions to the surrounding islands,
+during express transfers, or during water activities.
+Guests must feel safe, comfortable, and at ease
+
+on their boat.
+</p>',
+            '377'       => '<h3 class="text-center">AIR TRANSFER:</h3>
+<p class="text-justify">
+Carsickness or seasickness?
+Choose an ultra-fast helicopter or plane transfer for your long excursions
+or simply for a stroll to admire the beauty of northern Madagascar.
+</p>',
             '378'       => '',
             '379'       => '',
             '380'       => '',
@@ -6360,16 +6402,58 @@ Nosy Be Paradise Tours è anche un organizzatore di eventi, prepara e coordina v
                             <li>Boissons</li>
                             <li>Déjeuner</li>
                         </ul>',
-            '368'       => '',
-            '369'       => '',
-            '370'       => '',
-            '371'       => '',
-            '372'       => '',
-            '373'       => '',
-            '374'       => '',
-            '375'       => '',
-            '376'       => '',
-            '377'       => '',
+            '368'       => 'Tour de Madagascar',
+            '369'       => 'CIRCUITS GRAND TERRE DE TOUTES REGIONS DE MADAGASCAR',
+            '370'       => 'En assurant davantage de découverte sur votre voyage NOSY BE PARADISE TOURS vous offre aussi le circuit sur  la grande terre, 
+                                de Nord au Sud à travers la visite des divers parcs nationaux existant à Madagascar, crées par une association MNP ; 
+                                reconnue d’utilité publique et opérante sous la tutelle du Ministère de l’Environnement, de l’Ecologie, de la Mer et des Forêts. 
+                                Cependant, vivez instantanément dans une aire naturelle et protégée par la suffisance faunistique autant que floristique.',
+            '371'       => 'Transfert premium',
+            '372'       => "<h1 class=\"display-4\">Notre transfert premium</h1>
+        <p class=\"lead\">
+          Nosy Be Paradise Tours propose des services et prestations touristiques complets et variés sur terre et en mer pour une clientèle individuelle ou des groupes au niveau local, national ou international. De plus, nous offrons une gamme complète de services aux professionnels tels que les tour-opérateurs, les agences de voyages, les hôtels, les centres de plongée et les compagnies de croisières qui sont des partenaires locaux et internationaux. Nosy Be Paradise Tours vend et organise non seulement des excursions à la journée, mais aussi des sorties en catamaran de plusieurs jours ou des bivouacs à terre sur les nombreuses petites îles autour de Nosy-Be. Nosy Be Paradise Tours propose à ses clients des services de transfert terrestre et maritime en voiture ou en hors-bord. De l'aéroport à l'hôtel ou de l'hôtel à l'aéroport. Du port d'Ankify au port de Nosy-Be ou inversement. 
+          Il existe également la possibilité de transfert via les petites îles voisines de Nosy-Be ou vers d'autres régions de Madagascar.
+        </p>",
+            '373'       => '<h3 class="text-center">Le transfert Premium comprend :</h3>
+        <ul>
+          <li>Transfert en voiture privée ou en bateau</li>
+          <li>voiture très confortable et spacieuse avec climatisation</li>
+          <li>Conducteur ou accompagnateur pouvant communiquer</li>
+          <li>1 bouteille d\'eau fraîche par personne</li>
+          <li>Assurance responsabilité civile</li>
+        </ul>',
+            '374'       => '<h3 class="text-center">Transfert V.I.P</h3>
+        <ul>
+          <li>bienvenue au salon V.I.P</li>
+          <li>Transfert en voiture privée ou en bateau</li>
+          <li>Voiture très confortable et spacieuse avec climatisation</li>
+          <li>Chauffeur ou accompagnateur bilingue pouvant communiquer avec le client</li>
+          <li>Collation pendant le voyage (en cas de changement d\'horaire de vol)</li>
+          <li>1 bouteille d\'eau fraîche par personne</li>
+          <li>1 serviette rafraîchissante</li>
+          <li>Assistance à la récupération des bagages</li>
+          <li>Accompagnement au véhicule</li>
+          <li>Assurance responsabilité civile</li>
+        </ul>',
+            '375'       => '<h3 class="text-center">TRANSFERT TERRESTRE :</h3>
+        <p class="text-justify">
+            Que ce soit pour l’accueil, pour les visites ou pour les déplacements. 
+            Notre agence met à la disposition des ses clients des véhicules routiers confortables.
+        </p>',
+            '376'       => '<h3 class="text-center">TRANSFERT MARITIME :</h3>
+        <p class="text-justify">
+            Lors des excursions sur les îles environnantes, 
+            lors des transferts rapides  ou lors des activités nautiques. 
+            Les  clients se doivent de se sentir bien en sécurité en confort et à l’aise
+
+            Dans leur bateau.
+        </p>',
+            '377'       => '<h3 class="text-center">TRANSFERT AÉRIENNE :</h3>
+        <p class="text-justify">
+            Mal de voiture ou mal de mer, 
+            Optez pour un transfert ultra rapide en hélico ou avion pour Vos longues excursions
+            ou simplement pour une balade  pour admirer la beauté du Nord de Madagascar.
+        </p>',
             '378'       => '',
             '379'       => '',
             '380'       => '',
@@ -10790,16 +10874,58 @@ Lì si possono trovare oggetti storici impressionanti.
 <li>Bevande</li>
 <li>Pranzo</li>
 </ul>',
-            '368'       => '',
-            '369'       => '',
-            '370'       => '',
-            '371'       => '',
-            '372'       => '',
-            '373'       => '',
-            '374'       => '',
-            '375'       => '',
-            '376'       => '',
-            '377'       => '',
+            '368'       => 'Tour del Madagascar',
+            '369'       => 'CIRCUITI GRAND TERRE DI TUTTE LE REGIONI DEL MADAGASCAR',
+            '370'       => "Per garantire più scoperte durante il tuo viaggio NOSY BE PARADISE TOURS ti offre anche il circuito sulla terraferma,
+da Nord a Sud attraverso la visita dei vari parchi nazionali esistenti in Madagascar, creati dall'associazione MNP; 
+riconosciuto di pubblica utilità e operante sotto la vigilanza del Ministero dell'Ambiente, dell'Ecologia, del Mare e delle Foreste. 
+Tuttavia, vivi subito in un'area naturale e protetta con fauna e flora sufficienti.",
+            '371'       => 'Trasferimento premium',
+            '372'       => '<h1 class="display-4">Il nostro trasferimento premium</h1>
+<p class="lead">
+Nosy Be Paradise Tours offre un\'ampia gamma di servizi turistici completi e variegati, via terra e via mare, per singoli e gruppi a livello locale, nazionale e internazionale. Inoltre, offriamo una gamma completa di servizi a professionisti quali tour operator, agenzie di viaggio, hotel, centri immersioni e compagnie di crociera, che sono partner locali e internazionali. Nosy Be Paradise Tours vende e organizza non solo escursioni giornaliere, ma anche gite di più giorni in catamarano o bivacchi a terra sulle numerose piccole isole attorno a Nosy-Be. Nosy Be Paradise Tours offre ai propri clienti servizi di trasferimento via terra e via mare in auto o motoscafo. Dall\'aeroporto all\'hotel o dall\'hotel all\'aeroporto. Dal porto di Ankify al porto di Nosy-Be o viceversa. 
+Esiste anche la possibilità di trasferimento tramite le piccole isole vicine di Nosy-Be o verso altre regioni del Madagascar. 
+</p>',
+            '373'       => '<h3 class="text-center">Il trasferimento Premium include:</h3>
+<ul>
+<li>Trasferimento in auto privata o in barca</li>
+<li>auto molto comoda e spaziosa con aria condizionata</li>
+<li>Autista o accompagnatore in grado di comunicare</li>
+<li>1 bottiglia di acqua fresca a persona</li>
+Assicurazione di responsabilità civile
+</ul>',
+            '374'       => '<h3 class="text-center">Trasferimento VIP</h3>
+<ul>
+<li>Benvenuti nella sala VIP</li>
+<li>Trasferimento in auto privata o in barca</li>
+<li>Auto molto comoda e spaziosa con aria condizionata</li>
+<li>Autista o accompagnatore bilingue in grado di comunicare con il cliente</li>
+<li>Spuntino durante il viaggio (in caso di cambio di programma del volo)</li>
+<li>1 bottiglia di acqua fresca a persona</li>
+<li>1 asciugamano rinfrescante</li>
+Assistenza al ritiro bagagli
+<li>Accompagnamento del veicolo</li>
+Assicurazione di responsabilità civile
+</ul>',
+            '375'       => '<h3 class="text-center">TRASFERIMENTO A TERRA:</h3>
+<p class="giustificazione del testo">
+Che si tratti di ricevimenti, visite o viaggi. 
+La nostra agenzia mette a disposizione dei propri clienti veicoli stradali confortevoli. 
+</p>',
+            '376'       => '<h3 class="text-center">TRASFERIMENTO NAVE:</h3>
+<p class="giustificazione del testo">
+Durante le escursioni alle isole circostanti,
+durante gli spostamenti rapidi o durante le attività in acqua. 
+I clienti devono sentirsi sicuri, a proprio agio e a proprio agio.
+
+Nella loro barca. 
+</p>',
+            '377'       => '<h3 class="text-center">TRASFERIMENTO AEREO:</h3>
+<p class="giustificazione del testo">
+Mal d\'auto o mal di mare,
+Scegli un trasferimento ultraveloce in elicottero o aereo per le tue lunghe escursioni
+o semplicemente per una passeggiata e ammirare le bellezze del Madagascar settentrionale. 
+</p>',
             '378'       => '',
             '379'       => '',
             '380'       => '',
@@ -15207,16 +15333,58 @@ Dort sind beeindruckende historische Objekte zu finden.
 <li>Getränke</li>
 <li>Mittagessen</li>
 </ul>',
-            '368'       => '',
-            '369'       => '',
-            '370'       => '',
-            '371'       => '',
-            '372'       => '',
-            '373'       => '',
-            '374'       => '',
-            '375'       => '',
-            '376'       => '',
-            '377'       => '',
+            '368'       => 'Tour durch Madagaskar',
+            '369'       => 'GRAND TERRE-RUNDREISEN DURCH ALLE REGIONEN MADAGASKAR',
+            '370'       => "Um Ihnen mehr Entdeckungen auf Ihrer Reise zu ermöglichen, bietet Ihnen NOSY BE PARADISE TOURS auch Rundreisen auf dem Festland an,
+von Nord nach Süd durch den Besuch der verschiedenen Nationalparks in Madagaskar, die von einem MNP-Verein gegründet wurden; 
+Als gemeinnützig anerkannt und unter der Aufsicht des Ministeriums für Umwelt, Ökologie, Meer und Wälder tätig. 
+Leben Sie jedoch sofort in einem natürlichen und geschützten Gebiet mit ausreichender Fauna und Flora.",
+            '371'       => 'Premium-Transfer',
+            '372'       => '<h1 class="display-4">Unsere Premium-Transfers</h1>
+<p classe="lead">
+Nosy Be Paradise Tours bietet eine breite Palette umfassender und vielfältiger touristischer Dienstleistungen zu Land und zu Wasser, einzeln oder in Gruppen auf lokalen, nationalen und internationalen Märkten. Darüber hinaus bieten wir professionellen Reiseveranstaltern, Reisebüros, Hotels, Immersionszentren und Kreuzfahrtunternehmen sowie lokalen und internationalen Partnern ein umfassendes Leistungsspektrum. Nosy Be Paradise Tours verkauft und organisiert Ausflüge ohne Begleitung, bietet aber auch Unterkünfte in einem Katamaran oder Biwak auf der Terrasse auf den zahlreichen isolierten kleinen Inseln in Nosy-Be an. Nosy Be Paradise Tours bietet einen eigenen Kundenservice für den Transport über Land und Meer mit dem Auto oder Motorrad. Vom Flughafen zum Hotel oder vom Hotel zum Flughafen. Vom Hafen von Ankify zum Hafen von Nosy-Be oder umgekehrt.
+Es besteht auch die Möglichkeit eines Transfers über das abgelegene Dorf Nosy-Be in andere Regionen Madagaskars.
+</p>',
+            '373'       => '<h3 class="text-center">Premium-Transfer beinhaltet:</h3>
+<ul>
+<li>Transfer mit privatem Auto oder Boot</li>
+<li>sehr komfortables und geräumiges Auto mit Klimaanlage</li>
+<li>Fahrer oder Begleiter, der kommunizieren kann</li>
+<li>1 Flasche frisches Wasser pro Person</li>
+<li>Haftpflichtversicherung</li>
+</ul>',
+            '374'       => '<h3 class="text-center">V.I.P.-Transfer</h3>
+<ul>
+<li>Willkommen in der VIP-Lounge</li>
+<li>Transfer mit privatem Auto oder Boot</li>
+<li>Sehr komfortables und geräumiges Auto mit Klimaanlage</li>
+<li>Zweisprachiger Fahrer oder Begleiter, der mit dem Kunden kommunizieren kann</li>
+<li>Snack während der Reise (bei Flugplanänderung)</li>
+<li>1 Flasche frisches Wasser pro Person</li>
+<li>1 Erfrischungstuch</li>
+<li>Hilfe bei der Gepäckausgabe</li>
+<li>Fahrzeugbegleitung</li>
+<li>Haftpflichtversicherung</li>
+</ul>',
+            '375'       => '<h3 class="text-center">BODENTRANSFER:</h3>
+<p class="text-justify">
+Ob für Empfänge, Besuche oder Reisen. 
+Unsere Agentur stellt ihren Kunden komfortable Straßenfahrzeuge zur Verfügung. 
+</p>',
+            '376'       => '<h3 class="text-center">SCHIFFSÜBERTRAGUNG:</h3>
+<p class="text-justify">
+Bei Ausflügen zu den umliegenden Inseln,
+bei schnellen Transfers oder bei Wasseraktivitäten. 
+Kunden sollen sich sicher, wohl und entspannt fühlen.
+
+In ihrem Boot. 
+</p>',
+            '377'       => '<h3 class="text-center">LUFTTRANSFER:</h3>
+<p class="text-justify">
+Reisekrankheit oder Seekrankheit,
+Wählen Sie für Ihre langen Ausflüge einen ultraschnellen Transfer mit dem Hubschrauber oder Flugzeug
+oder einfach für einen Spaziergang, um die Schönheit Nordmadagaskars zu bewundern. 
+</p>',
             '378'       => '',
             '379'       => '',
             '380'       => '',
