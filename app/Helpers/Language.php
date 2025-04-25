@@ -2107,12 +2107,94 @@ Carsickness or seasickness?
 Choose an ultra-fast helicopter or plane transfer for your long excursions
 or simply for a stroll to admire the beauty of northern Madagascar.
 </p>',
-            '378'       => '',
-            '379'       => '',
-            '380'       => '',
-            '381'       => '',
-            '382'       => '',
-            '383'       => '',
+            '378'       => 'Tsangatsanga trip',
+            '379'       => "<h2>DAY 1: NOSY BE – ANKIFY – ANKARANA SPECIAL RESERVE</h2>
+<p class=\"mb-4\">
+Highlights: Landscape, meeting with farmers, Grey Tsingy of Ankarana (10 circuits to choose from in the park).
+</p>
+<p>
+At around 7:00 a.m., depart from your hotel and head to the port of Nosy Be, for a 35-minute boat transfer to the port of Ankify.
+</p>
+<p>
+From the port of Ankify, continue north, passing through typical Antakarana tribal villages on one side and a vast mahogany field on the other, before reaching the urban commune of Ambilobe, crossing superb landscapes for panoramic views and, above all, the ravinala forest, one of Madagascar's emblematic plants, in a 2.5-hour drive. From the town of Ambilobe to Mahamasina, the main entrance to Ankarana National Park. After settling in for a delicious lunch, we begin our tour of the park with the Tsingy Gris, with its sharp and spectacular formations; with its fossilized animal tracks, the 11 species of lemurs, and the 92 species of birds that call its forests home. Overnight stay in a bungalow in Mahamasina.
+
+
+<h2>DAY 2: MAHAMASINA – TSINGY ROUGE – DIEGO SUAREZ</h2>
+
+<p>
+<b>Highlights</b>: Visit to the Grand Canyon in miniature. City tour of Diego Suarez
+
+Departure from the hotel around 7:30 a.m. from Mahamasina, taking the road to Diego Suarez with a stop at the sapphire villages, an opportunity to purchase precious stones, then we take the turnoff towards the Red Tsingy through lush landscapes... It is Mother Nature who has shaped and revealed these red tsingy, year after year for all to see. Their unique shape and shimmering color captivate the minds of those who have come to visit them. Sedimentary formations composed of sandstone, marl, laterite, and limestone, along with climate change, environmental deterioration, and water infiltration, have created this supernatural landscape, unique in the world, from the bowels of the earth. This canyon reveals immense ochre-red formations formed by water runoff in these open-air soils. The mixture of different oxides gives these curiosities a range of warm colors ranging from bright white to intense red.
+</p>
+<p>
+Picnic lunch en route, continuing to Diego around 3:30 p.m. with a short city tour to discover the history of Diego, Joffre Square, and the Naval Hotel, reminiscent of the colonial era. Transfer to the hotel in Diego around 4:00 p.m.
+</p>
+
+<h2>DAY 3: DIEGO SUAREZ – SUGARLOAF – THE 3 BAYS: DUNES BAY, SAKALAVA BAY, AND PIGEON BAY – DIEGO SUAREZ</h2>
+
+<p>
+<b>Highlights</b>: Meeting with farmers, Sakalava Bay, Dunes Bay and Pigeon Bay, military ruins, beaches. </p>
+
+<p>
+Visit: Baobab, mined camp, ruins of military camps.
+</p>
+
+<p>
+Departure from the hotel at 8:00 a.m. This will be a relaxing day, during which we will visit the three famous bays of the northern region of Madagascar. We begin by observing the sugarloaf-shaped islet, a sacred place of the Antakarana called Nosy Lonjo. It is a conical volcanic islet, 122 meters high and covering an area of ​​4.5 hectares. It is made up of nummulitic limestone banks detached from the mountain known as French Mountain. The islet is covered with vegetation consisting of typical Adansoniasuarezensis baobabs and mangroves. Nosy Lonjo is a picturesque natural site, preserved by its cultural vocation. Like all the islets off the northwest coast of Grande Terre (Madagascar), it serves as a burial site for the deceased Sakalava rulers, and is therefore sacred. It is also a place of ancestor worship through traditional \"fijoroana\" ceremonies still practiced by the local people.
+</p>",
+            '380'       => '<p>
+Then, we explore the three bays, starting with Sakalava Bay, a favorite spot for windsurfing and kitesurfing enthusiasts, then the Dune Bays, and ending with Pigeon Bay with its deserted beaches of exceptional beauty, and the Cap Miné with the remains of French military cannons and fortifications.
+</p>
+<p>
+In the afternoon around 1:00 p.m., lunch at a restaurant in Ramena with optional free time for swimming and a stroll on the beach. Return to the hotel in Diego Suarez around 4:00 p.m.
+</p>
+
+<h2>DAY 4: DIEGO SUAREZ – AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+After breakfast, this is the last day of our tour. It will be dedicated to the transfer from Diego Suarez to Nosy Be. There will be a few stops or breaks along the way so we can stretch out a bit.
+
+We will likely have lunch once we arrive in Ambilobe, around 11 a.m., and continue our journey afterward. Once we arrive at the port of Ankify, we will board a speedboat to reach the island of Nosy Be.
+
+</p>
+
+<ul class="unstyled-list">
+<li><b>Number of Passengers:</b> Clients, Guide, Driver</li>
+<li><b>Vehicle Type:</b> Spacious, comfortable, and air-conditioned 4WD</li>
+</ul>',
+            '381'       => '<H3> Services included </h3> 
+<ul> 
+<li> Hotel transfer to port </li> 
+<li> 4WD </li> 
+<li> Accommodation in Mahamasina, Diego Suarez, Ankify </li> 
+<li> Accommodation in Diego Suarez </li> 
+<li> Quick boats transfer </li> 
+<li> All lunches </li> 
+<li> Guide </li> 
+<li> Mineral water </li> 
+<li> Visit right </li> 
+</ul>',
+            '382'       => '<h3> not included services </h3> 
+<ul> 
+<li> Drinks </li> 
+<li> All dinners </li> 
+<li> Personal extras </li> 
+<li> Blind </li> 
+</ul>',
+            '383'       => '<h3> Mini list required </h3> 
+<ul> 
+<li> Need for personal order </li> 
+<li> Clothing adapted to warm weather, wool or polyester </li> 
+<li> Medicine </li> 
+<li> Backpack for cabin and travel cover </li> 
+<li> Light or flashlight </li> 
+<li> Trekking boots and pants </li> 
+<li> Relaxing sandals or shoes </li> 
+<li> Sunglasses </li> 
+<li> Suncreaming </li> 
+<li> Anti mosquito spray </li> 
+<li> Sun hat or cap </li> 
+</ul>',
             '384'       => '',
             '385'       => '',
             '386'       => '',
@@ -6454,12 +6536,102 @@ Nosy Be Paradise Tours è anche un organizzatore di eventi, prepara e coordina v
             Optez pour un transfert ultra rapide en hélico ou avion pour Vos longues excursions
             ou simplement pour une balade  pour admirer la beauté du Nord de Madagascar.
         </p>',
-            '378'       => '',
-            '379'       => '',
-            '380'       => '',
-            '381'       => '',
-            '382'       => '',
-            '383'       => '',
+            '378'       => 'Tour Tsangatsanga',
+            '379'       => '<h2>JOUR 1:  NOSY BE – ANKIFY  –  RÉSERVE SPÉCIALE DE L’ANKARANA</h2>
+            <p class="mb-4">
+                Points fort:  Paysage rencontre avec les paysans ,Tsingy Gris de l’Ankarana (10 Circuits aux choix dans le parc) .
+            </p>
+            <p>   
+                vers 07h 00 de votre hôtel et direction vers le port de Nosy Be, pour un transfert  en bateau pour le port d’Ankify en 35 minutes.
+            </p> 
+            <p>
+                Du port d’Ankify, on continue vers le Nord en traversant les villages typiques de tribus Antakarana d’une part et un immense champ d’acajou d’autre part avant de rejoindre la commune urbaine d’Ambilobe en traversant les superbes paysages pour des vues panoramiques et surtout à forêt de ravinala , une des plantes emblématique de Madagascar en 2h 30 minutes de trajet. De la ville d’Ambilobe vers Mahamasina, l’entrée principale du parc de l’Ankarana. Après l’installation on passe à table pour un délicieux déjeuner, on commence la visite du parc par les Tsingy Gris avec ses formations aigues et spectaculaires ; avec ses traces d’animaux fossilisés, les 11 espèces de lémuriens et les 92 espèces d’oiseaux qui abritent ses forêts. Nuitée dans un bungalow à Mahamasina.
+            </p>
+
+
+            <h2>JOUR 2:  MAHAMASINA – TSINGY ROUGE – DIEGO SUAREZ </h2>
+
+            <p>
+               <b>Points fort</b> : visite du  Grand Canyon en miniature,. visite de la ville de Diego Suarez
+            </p>
+
+            <p>
+                Départ de l’hôtel vers 7h30 de Mahamasina en prenant la route vers Diégo Suarez avec une halte aux villages de saphir, une possibilité d’acheter de pierre précieuse puis nous prenons la bifurcation vers les Tsingy Rouge à travers des paysages luxuriants… C’est Dame Nature qui a façonné et révélé ces tsingy rouges, année après année aux yeux de tous. Leur forme unique et leur couleur chatoyante envoutent les esprits de ceux qui sont venus jusqu’à elles pour les visiter. Des formations sédimentaires composées de grès, de marne, de latérite et calcaire avec le changement climatique et la détérioration de l’environnement et l’infiltration de l’eau a fait naitre de l’entrailles de la terre ce paysage surnaturel unique au monde. Ce canyon laisse apparaître d’immenses formations rouge ocre formées par le ruissellement de l’eau dans ces sols à ciel ouvert. Le mélange de différents oxydes donne à ces curiosités un panel de couleurs chaudes allant d’un blanc éclatant à un rouge intense. 
+            </p>
+            <p>
+                Déjeuner pique-nique en cours de route, continuation à Diégo vers 15h30 avec une petite tour de la ville afin de découvrir l’histoire de la ville de Diego, la place Joffre et l’hôtel de la marine qui rappelle l’époque colonial. Transfert à l’hôtel de Diego vers 16h00.
+            </p>
+          
+            
+            <h2>JOUR 3:  DIEGO SUAREZ – PAIN DE SUCRE – LES 3 BAIES : LA BAIE DES DUNES, LA BAIE DE SAKALAVA ET LA BAIE DES PIGEONS –  DIEGO SUAREZ</h2>
+
+            <p>
+                <b>Points forts</b>  :  rencontre avec les paysans , Baie de Sakalava , Baies des Dunes et Baie des Pigeons , Ruine militaire , plages.
+            </p>
+
+            <p>
+                Visite : Baobab, camp miné, ruine des camps militaires.
+            </p>
+          
+            <p>
+                Départ de l’hôtel à 08h00, ce sera une journée farniente, pendant laquelle nous allons visiter les 3 fameuses baies de la région Nord de Madagascar. Nous commençons par observer l’îlot en forme de pain de sucre, lieu sacré des Antakarana nommé Nosy Lonjo. C’est un îlot d’origine volcanique, de forme conique de 122 mètres de hauteur et d’une superficie de 4,5 hectares. Il est constitué par des bancs de calcaire nummulitique détachés de la montagne dénommée Montagne des Français. L’îlot est recouvert d’une végétation composée de baobabs typiques Adansoniasuarezensis et de mangroves. Nosy Lonjo est un site naturel pittoresque, préservé par sa vocation culturelle. Comme tous les îlots au large de la côte Nord-Ouest de la Grande Terre (Madagascar), il sert de lieu de sépulture des défunts souverains Sakalava, donc sacré. C’est aussi un lieu de culte aux ancêtres par les cérémonies traditionnelles « fijoroana » toujours pratiquées par les populations.
+            </p>',
+            '380'       => '<p>
+                Ensuite, nous entamons les trois baies en commençons par la baie de Sakalava lieu de prédilection des amateurs de windsurf et de kite surf, puis les baies de dune et nous finirons par la baie de pigeons avec ses plages désertes d’une beauté exceptionnelle, le Cap miné avec les vestiges de canons militaires et fortifications français.
+            </p>
+            <p>
+                L’après-midi vers 13h00, déjeuner dans un Restaurant à Ramena avec option temps libre pour la baignade et balade sur la plage. Retour à l’hôtel à Diego Suarez vers 16h00.
+            </p>
+
+           
+            
+
+            <h2>JOUR 4:  DIEGO SUAREZ  – AMBILOBE – ANKIFY – NOSY BE</h2>
+
+            <p>
+                Après le petit déjeuner, c’est le dernier jour de notre circuit, ce sera consacré au transfert de Diego Suarez à Nosy Be. Quelques arrêts ou pause sur le trajet pour que nous puissions s’étirer un peu.
+
+                Nous déjeunerons surement une fois arriver à Ambilobe, vers 11h, et nous continuerons après. Une fois arriver au port d’Ankify, nous embarquons dans un bateau rapide pour atteindre l’île de Nosy Be.
+            </p>
+
+           
+            <ul class="unstyled-list">
+                <li><b>Nombre de Pax :    </b> Clients, Guide Accompagnateur, Chauffeur</li>
+                <li><b>Type de véhicule : </b> 4WD spacieuse, confortable et climatisée</li>
+            </ul>',
+            '381'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel vers au port</li>
+                            <li>4WD</li>
+                            <li>Hébergement à Mahamasina , Diego Suarez , Ankify</li>
+                            <li>Hébergement à Diego Suarez</li>
+                            <li>Transfert en Bateaux rapide</li>
+                            <li>Tous les déjeuners</li>
+                            <li>Guide</li>
+                            <li>Eau minéral</li>
+                            <li>Droit de visite</li>
+                        </ul>',
+            '382'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Les boissons</li>
+                            <li>Tous les dîners</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboire</li>
+                        </ul>',
+            '383'       => '<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle</li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine</li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking</li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon</li>
+                        </ul>',
             '384'       => '',
             '385'       => '',
             '386'       => '',
@@ -10926,12 +11098,102 @@ Mal d\'auto o mal di mare,
 Scegli un trasferimento ultraveloce in elicottero o aereo per le tue lunghe escursioni
 o semplicemente per una passeggiata e ammirare le bellezze del Madagascar settentrionale. 
 </p>',
-            '378'       => '',
-            '379'       => '',
-            '380'       => '',
-            '381'       => '',
-            '382'       => '',
-            '383'       => '',
+            '378'       => 'Tour di Tsangatsanga',
+            '379'       => "<h2>GIORNO 1: NOSY BE – ANKIFY – RISERVA SPECIALE ANKARANA</h2>
+<p class=\"mb-4\">
+Punti salienti: Incontro paesaggistico con i contadini, Tsingy Gris dell'Ankarana (10 circuiti tra cui scegliere nel parco). 
+</p>
+<p>
+Partenza verso le ore 7:00 dal vostro hotel e direzione porto di Nosy Be, per il trasferimento in barca al porto di Ankify in 35 minuti. 
+</p>
+<p>
+Dal porto di Ankify, proseguiamo verso nord attraversando da un lato i villaggi tipici delle tribù Antakarana e dall'altro un immenso campo di mogano, prima di raggiungere il comune urbano di Ambilobe attraversando paesaggi superbi con viste panoramiche e soprattutto la foresta di ravinala, una delle piante emblematiche del Madagascar, in 2 ore e 30 minuti di viaggio. Dalla città di Ambilobe verso Mahamasina, l'ingresso principale del Parco Ankarana. Dopo esserci sistemati, ci sediamo per un delizioso pranzo e iniziamo la nostra visita al parco con lo Tsingy Gris con le sue formazioni aguzze e spettacolari; con le sue impronte fossilizzate di animali, le 11 specie di lemuri e le 92 specie di uccelli che vivono nelle sue foreste. Pernottamento in un bungalow a Mahamasina. 
+</p>
+
+
+<h2>GIORNO 2: MAHAMASINA – TSINGY ROUGE – DIEGO SUAREZ </h2>
+
+<p>
+<b>In evidenza</b>: visita il Grand Canyon in miniatura. Tour della città di Diego Suarez
+</p>
+
+<p>
+Partenza dall'hotel intorno alle 7:30 da Mahamasina, prendendo la strada per Diego Suarez con una sosta ai villaggi degli zaffiri, possibilità di acquistare pietre preziose, poi prendiamo la deviazione verso gli Tsingy Rossi attraverso paesaggi lussureggianti... È Madre Natura che, anno dopo anno, ha plasmato e svelato a tutti questi tsingy rossi. La loro forma unica e i colori scintillanti catturano l'attenzione di chi viene a visitarli. Formazioni sedimentarie composte da arenaria, marna, laterite e calcare, unite al cambiamento climatico, al degrado ambientale e alle infiltrazioni d'acqua, hanno creato dalle viscere della terra questo paesaggio sovrannaturale, unico al mondo. Questo canyon rivela immense formazioni color ocra-rosso formatesi grazie allo scorrere dell'acqua in questi terreni all'aperto. La miscela di diversi ossidi conferisce a queste curiosità una gamma di colori caldi che vanno dal bianco brillante al rosso intenso. 
+</p>
+<p>
+Pranzo al sacco durante il tragitto, proseguimento per Diego verso le 15:30. con un breve tour della città per scoprire la storia della città di Diego, la piazza Joffre e l'Hotel Marine che ricorda l'epoca coloniale. Trasferimento all'hotel di Diego verso le 16:00. 
+</p>
+
+
+GIORNO 3: DIEGO SUAREZ – PAN DI ZUCCHERO – LE 3 BAIE: BAIA DELLE DUNE, BAIA DI SAKALAVA E BAIA DEI PICCIONI – DIEGO SUAREZ
+
+<p>
+<b>Attrazioni</b>: incontro con i contadini, baia di Sakalava, baia delle Dune e baia dei Piccioni, rovine militari, spiagge. 
+</p>
+
+<p>
+Visita: Baobab, campo minato, rovine di accampamenti militari. 
+</p>
+
+<p>
+Partenza dall'hotel alle ore 8:00, sarà una giornata rilassante, durante la quale visiteremo le 3 famose baie della regione settentrionale del Madagascar. Iniziamo osservando l'isolotto a forma di pan di zucchero, luogo sacro degli Antakarana chiamato Nosy Lonjo. Si tratta di un isolotto di origine vulcanica, di forma conica, alto 122 metri e con una superficie di 4,5 ettari. È costituito da banchi di calcare nummulitico staccatisi dalla montagna chiamata Montagne des Français. L'isolotto è ricoperto da una vegetazione composta dai tipici baobab Adansoniasuarezensis e dalle mangrovie. Nosy Lonjo è un sito naturale pittoresco, preservato dalla sua vocazione culturale. Come tutti gli isolotti al largo della costa nord-occidentale di Grande Terre (Madagascar), funge da luogo di sepoltura per i sovrani Sakalava defunti ed è quindi sacro. È anche un luogo di culto degli antenati attraverso le tradizionali cerimonie “fijoroana” ancora praticate dalla popolazione. 
+</p>",
+            '380'       => "<p>
+Poi inizieremo con le tre baie, iniziando con Sakalava Bay, meta prediletta dagli amanti del windsurf e del kitesurf, poi Dune Bays e concluderemo con Pigeon Bay con le sue spiagge deserte di eccezionale bellezza, Mined Cape con i resti dei cannoni militari francesi e delle fortificazioni. 
+</p>
+<p>
+Nel pomeriggio, verso le ore 13:00, pranzo in un ristorante a Ramena con tempo libero facoltativo per nuotare e fare una passeggiata sulla spiaggia. Rientro in hotel a Diego Suarez verso le 16:00. 
+</p>
+
+
+
+
+<h2>GIORNO 4: DIEGO SUAREZ – AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+Dopo la colazione, è l'ultimo giorno del nostro tour, sarà dedicato al trasferimento da Diego Suarez a Nosy Be. Alcune soste o pause lungo il percorso per poterci sgranchire un po'. 
+
+Probabilmente pranzeremo una volta arrivati ​​ad Ambilobe, verso le 11:00, e poi ripartiremo. Una volta arrivati ​​al porto di Ankify, saliamo a bordo di un motoscafo per raggiungere l'isola di Nosy Be. 
+</p>
+
+
+<ul class=\"unstyled-list\">
+<li><b>Numero di passeggeri:</b> Clienti, Guida, Autista</li>
+<li><b>Tipo di veicolo:</b> 4x4 spazioso, confortevole e climatizzato</li>
+</ul>",
+            '381'       => '<h3> Servizi inclusi </h3>
+<ul>
+<li> Trasferimento di hotel a port </li>
+<li> 4wd </li>
+<li> Alloggio a Mahamasina, Diego Suarez, Ankify </li>
+<li> Alloggio a Diego Suarez </li>
+<li> Trasferimento di barche rapide </li>
+<li> Tutti i pranzi </li>
+<li> Guida </li>
+<li> Acqua minerale </li>
+<li> Visita a destra </li>
+</ul>',
+            '382'       => '<h3> Servizi non inclusi </h3>
+<ul>
+<li> bevande </li>
+<li> Tutte le cene </li>
+<li> extra personali </li>
+<li> cieco </li>
+</ul>',
+            '383'       => '<h3> Mini elenco richiesto </h3>
+<ul>
+<li> Necessità di ordine personale </li>
+<li> Abbigliamento adattato a clima caldo, lana o poliestere </li>
+<li> Medicina </li>
+<li> zaino per cabina e copertura di viaggio </li>
+<li> luce o torcia </li>
+<li> stivali da trekking e pantaloni </li>
+<li> sandali o scarpe rilassanti </li>
+<li> occhiali da sole </li>
+<li> Suncreaming </li>
+<li> Anti Mosquito Spray </li>
+<li> cappello da sole o cappello </li>
+</ul>',
             '384'       => '',
             '385'       => '',
             '386'       => '',
@@ -15385,12 +15647,102 @@ Reisekrankheit oder Seekrankheit,
 Wählen Sie für Ihre langen Ausflüge einen ultraschnellen Transfer mit dem Hubschrauber oder Flugzeug
 oder einfach für einen Spaziergang, um die Schönheit Nordmadagaskars zu bewundern. 
 </p>',
-            '378'       => '',
-            '379'       => '',
-            '380'       => '',
-            '381'       => '',
-            '382'       => '',
-            '383'       => '',
+            '378'       => 'Tsangatsanga-Tour',
+            '379'       => '<h2>TAG 1: NOSY BE – ANKIFY – ANKARANA SONDERRESERVAT</h2>
+<p Klasse="mb-4">
+Höhepunkte: Landschaftstreffen mit den Bauern, Tsingy Gris von Ankarana (10 Rundwege zur Auswahl im Park). 
+</p>
+<p>
+gegen 7:00 Uhr von Ihrem Hotel und fahren in Richtung Hafen von Nosy Be, um von dort in 35 Minuten mit dem Boot zum Hafen von Ankify zu gelangen. 
+</p>
+<p>
+Vom Hafen von Ankify aus fahren wir weiter Richtung Norden und durchqueren einerseits die typischen Dörfer der Antakarana-Stämme und andererseits ein riesiges Mahagonifeld, bevor wir nach einer 2,5-stündigen Fahrt die Stadtgemeinde Ambilobe erreichen. Dabei durchqueren wir herrliche Landschaften mit Panoramablicken und erreichen insbesondere den Ravinala-Wald, eine der emblematischen Pflanzen Madagaskars. Von der Stadt Ambilobe in Richtung Mahamasina, dem Haupteingang zum Ankarana-Park. Nachdem wir uns eingerichtet haben, nehmen wir ein köstliches Mittagessen zu uns und beginnen unseren Besuch im Park mit dem Tsingy Gris mit seinen scharfen und spektakulären Formationen. mit seinen versteinerten Tierspuren, den 11 Lemurenarten und den 92 Vogelarten, die in seinen Wäldern heimisch sind. Übernachtung in einem Bungalow in Mahamasina. 
+</p>
+
+
+<h2>TAG 2: MAHAMASINA – TSINGY ROUGE – DIEGO SUAREZ </h2>
+
+<p>
+<b>Highlights</b>: Besuchen Sie den Grand Canyon im Miniaturformat. Diego Suarez Stadtrundfahrt
+</p>
+
+<p>
+Abfahrt vom Hotel in Mahamasina um etwa 7:30 Uhr. Wir nehmen die Straße nach Diego Suarez mit einem Halt in den Saphirdörfern und der Möglichkeit, Edelsteine ​​zu kaufen. Dann nehmen wir die Abzweigung zu den Roten Tsingy durch üppige Landschaften. Es ist Mutter Natur, die diese roten Tsingy geformt und Jahr für Jahr für alle sichtbar freigelegt hat. Ihre einzigartige Form und schimmernde Farbe fesseln die Besucher. Sedimentformationen aus Sandstein, Mergel, Laterit und Kalkstein haben zusammen mit dem Klimawandel, der Umweltzerstörung und dem Eindringen von Wasser aus den Eingeweiden der Erde diese übernatürliche, weltweit einzigartige Landschaft geschaffen. In diesem Canyon sind gewaltige ockerrote Formationen zu sehen, die durch den Wasserfluss in diesen offenen Böden entstanden sind. Durch die Mischung verschiedener Oxide erhalten diese Kuriositäten eine Palette warmer Farbtöne, die von strahlendem Weiß bis zu intensivem Rot reichen. 
+</p>
+<p>
+Picknick-Mittagessen unterwegs, Weiterfahrt nach Diego gegen 15:30 Uhr. mit einer kurzen Stadtrundfahrt, um die Geschichte der Stadt Diego, den Joffre Square und das Marine Hotel zu entdecken, das an die Kolonialzeit erinnert. Transfer zu Diegos Hotel gegen 16:00 Uhr. 
+</p>
+
+
+TAG 3: DIEGO SUAREZ – ZUCKERHUT – DIE 3 BUCHTEN: DUNES BAY, SAKALAVA BAY UND PIGEON BAY – DIEGO SUAREZ
+
+<p>
+<b>Highlights</b>: Treffen mit den Bauern, Sakalava Bay, Dunes Bay und Pigeons Bay, Militärruine, Strände. 
+</p>
+
+<p>
+Besuch: Baobab, vermintes Lager, Ruinen von Militärlagern. 
+</p>
+
+<p>
+Abfahrt vom Hotel um 8:00 Uhr. Es wird ein entspannter Tag, an dem wir die drei berühmten Buchten im Norden Madagaskars besuchen. Wir beginnen mit der Besichtigung der kleinen Insel in Form eines Zuckerhuts, einem heiligen Ort der Antakarana namens Nosy Lonjo. Es handelt sich um eine kleine Insel vulkanischen Ursprungs mit konischer Form, 122 Metern Höhe und einer Fläche von 4,5 Hektar. Es besteht aus Bänken aus nummulitischem Kalkstein, die vom Berg Montagne des Français losgelöst sind. Die kleine Insel ist mit einer Vegetation bedeckt, die aus den für Adansonia suarezensis typischen Affenbrotbäumen und Mangroven besteht. Nosy Lonjo ist eine malerische Naturstätte, die durch ihre kulturelle Berufung erhalten wurde. Wie alle kleinen Inseln vor der Nordwestküste von Grande Terre (Madagaskar) dient sie als Begräbnisstätte für die verstorbenen Herrscher der Sakalava und ist daher heilig. Es ist auch ein Ort der Ahnenverehrung im Rahmen traditioneller „Fijoroana“-Zeremonien, die noch immer von der Bevölkerung praktiziert werden. 
+</p>',
+            '380'       => '<p>
+Dann beginnen wir mit den drei Buchten, beginnend mit der Sakalava-Bucht, einem beliebten Ort für Windsurf- und Kitesurf-Fans, dann die Dünenbuchten und zum Abschluss die Pigeon Bay mit ihren einsamen Stränden von außergewöhnlicher Schönheit, das Mined Cape mit den Überresten französischer Militärkanonen und Befestigungen. 
+</p>
+<p>
+Nachmittags gegen 13:00 Uhr Mittagessen in einem Restaurant in Ramena mit optionaler Freizeit zum Schwimmen und für einen Spaziergang am Strand. Rückkehr zum Hotel in Diego Suarez gegen 16:00 Uhr. 
+</p>
+
+
+
+
+<h2>TAG 4: DIEGO SUAREZ – AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+Nach dem Frühstück ist der letzte Tag unserer Tour angebrochen, der dem Transfer von Diego Suarez nach Nosy Be gewidmet ist. Unterwegs ein paar Stopps oder Pausen, damit wir uns ein wenig ausruhen können. 
+
+Wir werden voraussichtlich gegen 11 Uhr zu Mittag essen, sobald wir in Ambilobe ankommen, und danach weiterfahren. Sobald wir im Hafen von Ankify ankommen, besteigen wir ein Schnellboot, um die Insel Nosy Be zu erreichen. 
+</p>
+
+
+<ul class="unstyled-list">
+<li><b>Anzahl der Passagiere:</b> Kunden, Reiseleiter, Fahrer</li>
+<li><b>Fahrzeugtyp:</b> Geräumiger, komfortabler Allradwagen mit Klimaanlage</li>
+</ul>',
+            '381'       => '<h3> Dienste enthalten </h3>
+<ul>
+<li> Hotelübertragung zum Hafen </li>
+<li> 4WD </li>
+<li> Unterkunft in Mahamasina, Diego Suarez, Ankify </li>
+<li> Unterkunft in Diego Suarez </li>
+<li> Schnelle Boote Transfer </li>
+<li> Alle Mittagessen </li>
+<li> Leitfaden </li>
+<li> Mineralwasser </li>
+<li> RECHTSCHAFT </li>
+</ul>',
+            '382'       => '<h3> Nicht enthaltene Dienste </h3>
+<ul>
+<li> Getränke </li>
+<li> Alle Abendessen </li>
+<li> persönliche Extras </li>
+<li> Blind </li>
+</ul>',
+            '383'       => '<h3> Mini -Liste erforderlich </H3>
+<ul>
+<li> Bedürfnis nach persönlicher Ordnung </li>
+<li> Kleidung angepasst an warmes Wetter, Wolle oder Polyester </li>
+<li> Medizin </li>
+<li> Rucksack für Kabinen- und Reisebecker </li>
+<li> Licht oder Taschenlampe </li>
+<li> Trekkingstiefel und Hosen </li>
+<li> Entspannende Sandalen oder Schuhe </li>
+<li> Sonnenbrille </li>
+<li> Sonnencreaming </li>
+<li> Anti -Mückenspray </li>
+<li> Sonnenhut oder Mütze </li>
+</ul>',
             '384'       => '',
             '385'       => '',
             '386'       => '',
