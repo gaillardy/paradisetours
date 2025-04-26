@@ -2195,17 +2195,156 @@ We will likely have lunch once we arrive in Ambilobe, around 11 a.m., and contin
 <li> Anti mosquito spray </li> 
 <li> Sun hat or cap </li> 
 </ul>',
-            '384'       => '',
-            '385'       => '',
-            '386'       => '',
-            '387'       => '',
-            '388'       => '',
-            '389'       => '',
-            '390'       => '',
-            '391'       => '',
-            '392'       => '',
-            '393'       => '',
-            '394'       => '',
+            '384'       => 'Tsarabe Trip',
+            '385'       => "<h2>DAY 1: NOSY BE – ANKIFY – ANKARANA SPECIAL RESERVE</h2>
+<p>
+The Ankarana Special Reserve covers an area of ​​18,225 hectares. Twelve trails have currently been developed for visitors and researchers. During the Tsarabe Tour, those interested will have the opportunity and privilege to venture into these immense wonders and discover two different trails among the 12 available, depending on the time of year (rainy season, dry season).
+</p>
+<p>
+<b>Highlights</b>: Landscape, meeting with farmers, Tsingy Gris of Ankarana (10 trails to choose from in the park). </p>
+<p class=\"mb-4\">
+Departure: Around 7:00 a.m. from your hotel and head to the port of Nosy Be, for a 35-minute boat transfer to the port of Ankify.
+
+From the port of Ankify, we continue north, passing through typical Antakarana tribal villages on one side and a vast mahogany field on the other, before reaching the urban commune of Ambilobe, crossing superb landscapes for panoramic views and, above all, the ravinala forest, one of Madagascar's emblematic plants, a 2.5-hour journey. From the town of Ambilobe to Mahamasina, the main entrance to Ankarana National Park. After settling in, we settle in for a delicious lunch. We begin our tour of the park with the Tsingy Gris with its sharp and spectacular formations; with its fossilized animal tracks, the 11 species of lemurs, and the 92 species of birds that inhabit its forests. Dinner and overnight stay in a bungalow in Mahamasina.
+</p>
+
+<h2>DAY 2: MAHAMASINA – AMBILOBE</h2>
+
+<p>
+After breakfast, we continue our visit to the Ankarana Special Reserve, choosing the tour we prefer. The guide will of course give us a recommendation, but it will be a different tour than yesterday's.
+</p>
+<p>
+We have enough time for one tour, a 4-hour walk or more, before returning for lunch.
+</p>
+<p>
+In the afternoon, we head to Ambilobe. Dinner and overnight stay in a hotel in Ambilobe.
+</p>",
+            '386'       => '<h2>DAY 3: MAHAMASINA – AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+<b>Highlights</b>: Ambilobe town: market, royal palace and surrounding area, pottery workshop.
+</p>
+
+<p>
+Visit: Ambilobe town and surrounding area
+</p>
+
+<p>
+Departure: After a hearty breakfast, we leave the village of Mahamasina around 8:00 a.m. to reach the town of Ambilobe. Ambilobe is a very active and popular town, with its population. The town is a major crossroads in northern Madagascar, located on National Route 6, between Diego-Suarez and Ambanja (towards Nosy Be), as well as on the road connecting to the Indian Ocean coastal town of Vohémar. The town is also located on the Mahavavy River. A historic town of the Antakarana tribe, where Prince Issa Tsimiaro III resides. A visit to the palace could be arranged. Primarily focused on agriculture, the town is surrounded by sugarcane plantations and a sugarcane processing plant: Sirama Ambilobe. It also hosts an important market for the region. Today, artisanal mining is a trend, thanks to the gold deposits of Andavakoera, the sapphire of Amondromifehy, and the diamondoid of Antetezambato Ambanja.
+
+
+<p>
+By visiting the market, we will discover the famous "katy." Kath, qat, or kat, is a shrub or bush (a type of spindle tree) of the Celastraceae family, native to Ethiopia, whose cultivation spread to Arabia (especially Yemen) around the 15th century. It is consumed by men and women throughout almost all of Madagascar, who chew (graze) the leaves extensively for their stimulating and euphoric effect, comparable to that of amphetamine.
+</p>
+
+<p>
+Lunch at a restaurant in town. On the way out of town, we will visit a pottery workshop made with red earth and sand, made by village women.
+</p>
+
+<p>
+Continue to Ankify, boat transfer to Nosy Be.
+</p>
+<p>
+Transfer by vehicle to the port of Ankify and by boat to Nosy Be.
+</p>
+
+<ul class="unstyled-list">
+<li><b>Number of Passengers:</b> Clients, Guide, Driver</li>
+<li><b>Vehicle Type:</b> Spacious, comfortable, and air-conditioned 4WD</li>
+</ul>',
+            '387'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel transfer to the port</li>
+<li>4WD</li>
+<li>Accommodation in Mahamasina, Diego Suarez, Ankify</li>
+<li>Transfer to the speedboat</li>
+<li>Full board</li>
+<li>Guide</li>
+<li>Mineral water</li>
+<li>Visitor\'s fees</li>
+</ul>',
+            '388'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+</ul>',
+            '389'       => '<h3>Mini Necessary Checklist</h3>
+<ul>
+<li>Personal Essentials</li>
+<li>Warm-weather clothing, made of wool or polyester</li>
+<li>Medicine</li>
+<li>Carry-on backpack and travel bag</li>
+<li>Light or flashlight</li>
+<li>Trekking boots and pants</li>
+<li>Sandals or casual shoes</li>
+<li>Sunglasses</li>
+<li>Sunscreen</li>
+<li>Mosquito repellent</li>
+<li>Sunhat or hood</li>
+</ul>',
+            '390'       => 'Veloma Trip',
+            '391'       => "<h2>DAY 1: NOSY BE – ANKIFY – ANKARANA SPECIAL RESERVE – AMBILOBE</h2>
+
+<p class=\"mb-4\">
+<b>Highlights</b>: Landscape, meeting with farmers, Grey Tsingy of Ankarana (10 circuits to choose from in the park).
+</p>
+<p>
+Visits: Grey Tsingy – Riverbank – Wildlife and Plant Species.
+</p>
+<p>
+Departure: Around 7:00 a.m. from your hotel and head to the port of Nosy Be, for a 35-minute boat transfer to the port of Ankify. </p>
+<p>
+From the port of Ankify, we continue north, passing through typical Antakarana tribal villages on one side and a vast mahogany field on the other, before reaching the urban commune of Ambilobe, crossing superb landscapes for panoramic views and, above all, the ravinala forest, one of Madagascar's emblematic plants. A 2.5-hour drive from the town of Ambilobe leads to Mahamasina, the main entrance to Ankarana National Park. After settling in, we'll enjoy a delicious lunch. We begin our tour of the park with the Tsingy Gris, with its sharp and spectacular formations; with its fossilized animal tracks, the 11 species of lemurs, and the 92 species of birds that call its forests home. Toward the end of the day, a visit to the village of Mahamasina is another option. Dinner and overnight stay in a bungalow in Mahamasina. </p>
+
+<h2>DAY 2: AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+<b>Highlights</b>: Ambilobe town: market, royal palace and surrounding area, pottery workshop.
+</p>
+
+<p>
+Departure: After a hearty breakfast, we leave the town of Ambilobe around 8:00 a.m. to reach a spice plantation. Then we will continue to Ankify, followed by a boat transfer to Nosy Be.
+</p>
+<p>
+Transfer by vehicle to the port of Ankify and by boat to Nosy Be.
+</p>
+
+<ul class=\"unstyled-list\">
+<li><b>Number of Passengers:</b> Clients, Guide, Driver</li>
+<li><b>Vehicle Type:</b> Spacious, comfortable, and air-conditioned 4WD</li>
+</ul>",
+            '392'       => '<h3>Included Services</h3>
+<ul>
+<li>Hotel transfer to the port</li>
+<li>4WD</li>
+<li>Accommodation in Mahamasina</li>
+<li>Transfer to the speedboat</li>
+<li>Full board</li>
+<li>Guide</li>
+<li>Mineral water</li>
+<li>Visitor\'s fees</li>
+</ul>',
+            '393'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Drinks</li>
+<li>Personal Extras</li>
+<li>Tips</li>
+</ul>',
+            '394'       => '<h3>Mini Necessary Checklist</h3>
+<ul>
+<li>Personal Essentials</li>
+<li>Warm-weather clothing, made of wool or polyester</li>
+<li>Medicine</li>
+<li>Carry-on backpack and travel bag</li>
+<li>Light or flashlight</li>
+<li>Trekking boots and pants</li>
+<li>Sandals or casual shoes</li>
+<li>Sunglasses</li>
+<li>Sunscreen</li>
+<li>Mosquito repellent</li>
+<li>Sunhat or hood</li>
+</ul>',
             '395'       => '',
             '396'       => '',
             '397'       => '',
@@ -6632,17 +6771,159 @@ Nosy Be Paradise Tours è anche un organizzatore di eventi, prepara e coordina v
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon</li>
                         </ul>',
-            '384'       => '',
-            '385'       => '',
-            '386'       => '',
-            '387'       => '',
-            '388'       => '',
-            '389'       => '',
-            '390'       => '',
-            '391'       => '',
-            '392'       => '',
-            '393'       => '',
-            '394'       => '',
+            '384'       => 'Tour Tsarabe',
+            '385'       => '<h2>JOUR 1: NOSY BE – ANKIFY  – RÉSERVE SPÉCIALE DE L’ANKARANA</h2>
+            <p>
+                La réserve spéciale de l’Ankarana s’étend sur une superficie de 18 225ha.  Pour le moment 12 circuits ont été aménagés, pour les visiteurs et les chercheurs. Pendant le Tour Tsarabe, les intéressés auront l’opportunité et le privilège de s’aventurer dans ces immenses merveilles en découvriront deux différents circuits parmi les 12 exploitables, dépendamment de la période de l’année (saison de pluie, saison sèche).
+            </p>
+            <p>
+               <b>Points fort</b> :  Paysage rencontre avec les paysans ,Tsingy Gris de l’Ankarana (10 Circuits aux choix dans la parc) .
+            </p>
+            <p class="mb-4">
+                Départ : vers 07h 00 de votre hôtel et direction vers le port de Nosy Be, pour un transfert en bateau pour le port d’Ankify en 35 minutes.
+
+                Du port d’Ankify, on continue vers le Nord en traversant les villages typiques de tribus Antakarana d’une part et un immense champ d’acajou d’autre part avant de rejoindre la commune urbaine d’Ambilobe en traversant les superbes paysages pour des vues panoramiques et surtout la forêt de ravinala, une des plantes emblématiques de Madagascar en 2h 30 minutes de trajet. De la ville d’Ambilobe vers Mahamasina, l’entrée principale du parc de l’Ankarana. Après l’installation on passe à table pour un délicieux déjeuner. On commence la visite du parc par les Tsingy Gris avec ses formations aigues et spectaculaires ; avec ses traces d’animaux fossilisés, les 11 espèces de lémuriens et les 92 espèces d’oiseaux qui abritent ses forêts. Diner et nuitée dans un bungalow à Mahamasina.
+            </p>
+
+            <h2>JOUR 2: MAHAMASINA – AMBILOBE</h2>
+
+            <p>
+                Après le petit déjeuner, nous recommençons la visite   de la réserve spéciale de l’Ankarana en choisissant le circuit que le client désire et bien sur le guide nous donnera sa recommandation, mais ce sera un autre circuit que hier.
+            </p>
+            <p>
+                Nous disposons assez de temps pour un circuit, pour 4h de marche ou plus, le temps que nous retournons pour le déjeuner.
+            </p>
+            <p>
+                 Dans l’après-midi nous prenons la route vers Ambilobe. Diner et nuitée dans un hôtel à Ambilobe.
+            </p>',
+            '386'       => '<h2>JOUR 3:  MAHAMASINA – AMBILOBE – ANKIFY – NOSY BE</h2>
+
+            <p>
+                <b>Points forts</b>  : Ville d’ Ambilobe : marché , palais royal  et ses alentours , atelier de poterie .
+            </p>
+
+            <p>
+                Visite : Ville d’Ambilobe et ses alentours
+            </p>
+
+            <p>
+                Départ : Après un bon petit déjeuner, nous quittons le village de Mahamasina   vers 08h00 pour rejoindre la ville d’Ambilobe. Ambilobe  est une ville très active et tres popumaire , avec ses populations La ville est un carrefour majeur dans le nord de Madagascar, située sur la route nationale 6, entre Diégo-Suarez et Ambanja (vers Nosy Be), ainsi que sur la piste se reliant vers la ville côtière de l’Océan Indien, Vohémar. La ville est, par ailleurs, située sur le cours du fleuve Mahavavy. Ville historique de la tribu Antakarana, où siège le prince ISSA TSIMIARO III. Une visite du palais pourrait être s’organiser. Principalement tournée vers l’agriculture, la ville est entourée de plantations de cannes à sucre et d’une usine de traitement de la canne : la Sirama Ambilobe. Elle accueille par ailleurs un marché important pour la région. Aujourd’hui une tendance sur la vocation minière artisanale due au gisement d’or d’Andavakoera, Saphir d’Amondromifehy et la diamantoide d’Antetezambato Ambanja.
+            </p>
+
+            <p>
+                En visitant le marché nous allons connaitre la célèbre « katy » le Kath, qat ou kat, est un arbuste ou arbrisseau (une sorte de fusain) de la famille des Célastracées, originaire d’Éthiopie, dont la culture s’est étendue à l’Arabie (surtout au Yémen) vers le xve siècle. Il est consommé par hommes et femmes dans presque toutes Madagascar qui en mâchent (broutent) longuement les feuilles pour leur effet stimulant et euphorisant comparable à celui de l’amphétamine. 
+            </p>
+
+            <p>
+                Déjeuner dans un restaurant en ville. En sortant de la ville, nous visiterons un atelier de fabrication de poterie à base de terre rouge et du sable, faites par des femmes du village.
+            </p>
+
+            <p>
+                Continuation vers Ankify, transfert en bateau pour Nosy Be.
+            </p>
+            <p>
+                Transfert en véhicule vers le port d’Ankify et en bateau vers Nosy Be
+            </p>
+            
+            <ul class="unstyled-list">
+                <li><b>Nombre de Pax :    </b> Clients, Guide Accompagnateur, Chauffeur</li>
+                <li><b>Type de véhicule : </b> 4WD spacieuse, confortable et climatisée</li>
+            </ul>',
+            '387'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel vers au port</li>
+                            <li>4WD</li>
+                            <li>Hébergement à Mahamasina , Diego Suarez , Ankify</li>
+                            <li>Transfert au Bateaux rapide</li>
+                            <li>Pension complète</li>
+                            <li>Guide</li>
+                            <li>Eau minéral</li>
+                            <li>Droit de visite</li>
+                        </ul>',
+            '388'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Les boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboire</li>
+                        </ul>',
+            '389'       => '<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle</li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine</li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking</li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon</li>
+                        </ul>',
+            '390'       => 'Tour Veloma',
+            '391'       => '<h2>JOUR 1: NOSY BE – ANKIFY  – RÉSERVE SPÉCIALE DE L’ANKARANA – AMBILOBE</h2>
+
+            <p class="mb-4">
+                <b>Points fort</b> :   Paysage rencontre avec les paysans ,Tsingy Gris de l’Ankarana (10 Circuits aux choix dans la parc) .
+            </p>
+            <p>
+                Visites : Tsingy Gris – Perte de rivière – espèces faunistiques et floristiques.
+            </p>
+            <p>
+                Départ : vers 07h 00 de votre hôtel et direction vers le port de Nosy Be, pour un transfert en bateau pour le port d’Ankify en 35 minutes.
+            </p>
+            <p>
+                 Du port d’Ankify, on continue vers le Nord en traversant les villages typiques de tribus Antakarana d’une part et un immense champ d’acajou d’autre part avant de rejoindre la commune urbaine d’Ambilobe en traversant les superbes paysages pour des vues panoramiques et surtout la forêt de ravinala, une des plantes emblématiques de Madagascar en 2h 30 minutes de trajet. De la ville d’Ambilobe vers Mahamasina, l’entrée principale du parc de l’Ankarana. Après l’installation on passe à table pour un délicieux déjeuner. On commence la visite du parc par les Tsingy Gris avec ses formations aigues et spectaculaires ; avec ses traces d’animaux fossilisés, les 11 espèces de lémuriens et les 92 espèces d’oiseaux qui abritent ses forêts. Vers la fin de la journée une visite du village de Mahamasina sera une autre option. Diner et nuitée dans un bungalow à Mahamasina.
+            </p>
+
+            <h2>JOUR 2:  AMBILOBE – ANKIFY – NOSY BE</h2>
+
+            <p>
+               <b>Points fort</b> : Ville d’ Ambilobe : marché , palais royal  et ses alentours , atelier de poterie .
+            </p>
+
+            <p>
+                Départ : Après un bon petit déjeuner, nous quittons la ville d’ambilobe vers 08h00 pour rejoindre un champ de plantation des épices.  Puis nous Continuerons vers Ankify, transfert en bateau pour Nosy Be.
+            </p>
+            <p>
+                Transfert en véhicule vers le port d’Ankify et en bateau vers Nosy Be
+            </p>
+
+            <ul class="unstyled-list">
+                <li><b>Nombre de Pax :    </b> Clients, Guide Accompagnateur, Chauffeur</li>
+                <li><b>Type de véhicule : </b> 4WD spacieuse, confortable et climatisée</li>
+            </ul>',
+            '392'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’hôtel vers au port</li>
+                            <li>4WD</li>
+                            <li>Hébergement à Mahamasina</li>
+                            <li>Transfert au Bateaux rapide</li>
+                            <li>Pension complète</li>
+                            <li>Guide</li>
+                            <li>Eau minéral</li>
+                            <li>Droit de visite</li>
+                        </ul>',
+            '393'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Les boissons</li>
+                            <li>Les extras à caractère personnel</li>
+                            <li>Pourboire</li>
+                        </ul>',
+            '394'       => '<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle</li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine</li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking</li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon</li>
+                        </ul>',
             '395'       => '',
             '396'       => '',
             '397'       => '',
@@ -11194,17 +11475,159 @@ Probabilmente pranzeremo una volta arrivati ​​ad Ambilobe, verso le 11:00, e
 <li> Anti Mosquito Spray </li>
 <li> cappello da sole o cappello </li>
 </ul>',
-            '384'       => '',
-            '385'       => '',
-            '386'       => '',
-            '387'       => '',
-            '388'       => '',
-            '389'       => '',
-            '390'       => '',
-            '391'       => '',
-            '392'       => '',
-            '393'       => '',
-            '394'       => '',
+            '384'       => 'Torre Tsarabe',
+            '385'       => "<h2>GIORNO 1: NOSY BE – ANKIFY – RISERVA SPECIALE ANKARANA</h2>
+<p>
+La riserva speciale dell'Ankarana si estende su una superficie di 18.225 ettari. Finora sono stati allestiti 12 circuiti per visitatori e ricercatori. Durante il Tsarabe Tour, gli interessati avranno l'opportunità e il privilegio di avventurarsi in queste immense meraviglie e scopriranno due circuiti diversi tra i 12 percorribili, a seconda del periodo dell'anno (stagione delle piogge, stagione secca). 
+</p>
+<p>
+<b>In evidenza</b>: Incontro paesaggistico con i contadini, Tsingy Gris dell'Ankarana (10 circuiti tra cui scegliere nel parco). 
+</p>
+<p class=\"mb-4\">
+Partenza: intorno alle ore 7:00 dal vostro hotel verso il porto di Nosy Be, per il trasferimento in barca al porto di Ankify in 35 minuti. 
+
+Dal porto di Ankify, proseguiamo verso Nord attraversando da un lato i villaggi tipici delle tribù Antakarana e dall'altro un immenso campo di mogano, prima di raggiungere il comune urbano di Ambilobe attraversando paesaggi superbi con viste panoramiche e in particolare la foresta di ravinala, una delle piante emblematiche del Madagascar, in 2 ore e 30 minuti di viaggio. Dalla città di Ambilobe verso Mahamasina, l'ingresso principale del Parco Ankarana. Dopo esserci sistemati, ci sediamo per un delizioso pranzo. Iniziamo la visita del parco con lo Tsingy Gris con le sue formazioni aguzze e spettacolari; con le sue impronte fossilizzate di animali, le 11 specie di lemuri e le 92 specie di uccelli che vivono nelle sue foreste. Cena e pernottamento in un bungalow a Mahamasina. 
+</p>
+
+<h2>GIORNO 2: MAHAMASINA – AMBILOBO</h2>
+
+<p>
+Dopo la colazione, riprenderemo la visita alla Riserva Speciale dell'Ankarana, scegliendo il tour desiderato dal cliente e, naturalmente, la guida ci darà il suo consiglio, ma sarà un tour diverso da quello di ieri. 
+</p>
+<p>
+Abbiamo abbastanza tempo per un circuito, per 4 ore di cammino o più, mentre torniamo per pranzo. 
+</p>
+<p>
+Nel pomeriggio prendiamo la strada per Ambilobe. Cena e pernottamento in un hotel ad Ambilobe. 
+</p>",
+            '386'       => "<h2>GIORNO 3: MAHAMASINA – AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+<b>Attrazioni</b>: Città di Ambilobe: mercato, palazzo reale e dintorni, laboratorio di ceramica. 
+</p>
+
+<p>
+Visita: Città di Ambilobe e dintorni
+</p>
+
+<p>
+Partenza: Dopo una buona colazione, verso le 8:00 lasciamo il villaggio di Mahamasina per raggiungere la cittadina di Ambilobe. Ambilobe è una cittadina molto attiva e molto frequentata, con una popolazione di circa 10.000 abitanti. La cittadina è un importante crocevia del nord del Madagascar, situata sulla strada nazionale 6, tra Diego-Suarez e Ambanja (in direzione di Nosy Be), nonché sulla pista che collega alla cittadina costiera dell'Oceano Indiano, Vohémar. La città è situata anche sul corso del fiume Mahavavy. Città storica della tribù Antakarana, dove risiede il principe ISSA TSIMIARO III. Si potrebbe organizzare una visita al palazzo. La città, prevalentemente agricola, è circondata da piantagioni di canna da zucchero e da una fabbrica di lavorazione della canna da zucchero: Sirama Ambilobe. Ospita anche un importante mercato per la regione. Oggigiorno si assiste a una tendenza verso l'estrazione artigianale dovuta al giacimento aurifero di Andavakoera, allo zaffiro di Amondromifehy e al diamantato di Antetezambato Ambanja. 
+</p>
+
+<p>
+Visitando il mercato avremo modo di conoscere il famoso \"katy\". Il kath, qat o kat, è un arbusto o cespuglio (una specie di fusaggine) della famiglia delle Celastraceae, originario dell'Etiopia, la cui coltivazione si diffuse in Arabia (in particolare nello Yemen) intorno al XV secolo. Viene consumata da uomini e donne in quasi tutto il Madagascar, che masticano (sfiorano) a lungo le foglie per il loro effetto stimolante ed euforico, paragonabile a quello dell'anfetamina. 
+</p>
+
+<p>
+Pranzo in un ristorante in città. Lasciando la città, visiteremo un laboratorio di ceramica in terra rossa e sabbia, realizzato dalle donne del villaggio. 
+</p>
+
+<p>
+Proseguimento per Ankify, trasferimento in barca a Nosy Be. 
+</p>
+<p>
+Trasferimento in auto al porto di Ankify e in barca a Nosy Be
+</p>
+
+<ul class=\"unstyled-list\">
+<li><b>Numero di passeggeri:</b> Clienti, Guida, Autista</li>
+<li><b>Tipo di veicolo:</b> 4x4 spazioso, confortevole e climatizzato</li>
+</ul>",
+            '387'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento dall\'hotel al porto</li>
+4x4
+<li>Alloggi a Mahamasina, Diego Suarez, Ankify</li>
+<li>Trasferimento sulla barca veloce</li>
+<li>Pensione completa</li>
+<li>Guida</li>
+<li>Acqua minerale</li>
+<li>Diritti di visita</li>
+</ul>',
+            '388'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Suggerimento</li>
+</ul>',
+            '389'       => '<h3>Mini elenco necessario</h3>
+<ul>
+<li>Necessità personale</li>
+<li>Abbigliamento adatto al clima caldo, in lana o poliestere</li>
+<li>Medicina</li>
+<li>Zaino da viaggio e custodia da viaggio</li>
+<li>Luce o torcia elettrica</li>
+<li>Scarponi e pantaloni da trekking</li>
+<li>Sandali o scarpe comode</li>
+<li>Occhiali da sole</li>
+<li>Protezione solare</li>
+<li>Spray repellente per zanzare</li>
+<li>Cappello o cappuccio parasole</li>
+</ul>',
+            '390'       => 'Torre Veloma',
+            '391'       => "<h2>GIORNO 1: NOSY BE – ANKIFY – RISERVA SPECIALE ANKARANA – AMBILOBE</h2>
+
+<p class=\"mb-4\">
+<b>In evidenza</b>: Incontro paesaggistico con i contadini, Tsingy Gris dell'Ankarana (10 circuiti tra cui scegliere nel parco). 
+</p>
+<p>
+Visite: Tsingy Gris – Scolo del fiume – specie di fauna e flora. 
+</p>
+<p>
+Partenza: intorno alle ore 7:00 dal vostro hotel verso il porto di Nosy Be, per il trasferimento in barca al porto di Ankify in 35 minuti. 
+</p>
+<p>
+Dal porto di Ankify, proseguiamo verso Nord attraversando da un lato i villaggi tipici delle tribù Antakarana e dall'altro un immenso campo di mogano, prima di raggiungere il comune urbano di Ambilobe attraversando paesaggi superbi con viste panoramiche e in particolare la foresta di ravinala, una delle piante emblematiche del Madagascar, in 2 ore e 30 minuti di viaggio. Dalla città di Ambilobe verso Mahamasina, l'ingresso principale del Parco Ankarana. Dopo esserci sistemati, ci sediamo per un delizioso pranzo. Iniziamo la visita del parco con lo Tsingy Gris con le sue formazioni aguzze e spettacolari; con le sue impronte fossilizzate di animali, le 11 specie di lemuri e le 92 specie di uccelli che vivono nelle sue foreste. Verso la fine della giornata un'altra possibilità sarà quella di visitare il villaggio di Mahamasina. Cena e pernottamento in un bungalow a Mahamasina. 
+</p>
+
+<h2>GIORNO 2: AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+<b>Attrazioni</b>: Città di Ambilobe: mercato, palazzo reale e dintorni, laboratorio di ceramica. 
+</p>
+
+<p>
+Partenza: Dopo una buona colazione, verso le 8:00 lasciamo la cittadina di Ambilobe per raggiungere una piantagione di spezie. Poi proseguiremo verso Ankify, trasferimento in barca a Nosy Be. 
+</p>
+<p>
+Trasferimento in auto al porto di Ankify e in barca a Nosy Be
+</p>
+
+<ul class=\"unstyled-list\">
+<li><b>Numero di passeggeri:</b> Clienti, Guida, Autista</li>
+<li><b>Tipo di veicolo:</b> 4x4 spazioso, confortevole e climatizzato</li>
+</ul>",
+            '392'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento dall\'hotel al porto</li>
+4x4
+<li>Alloggio a Mahamasina</li>
+<li>Trasferimento sulla barca veloce</li>
+<li>Pensione completa</li>
+<li>Guida</li>
+<li>Acqua minerale</li>
+<li>Diritti di visita</li>
+</ul>',
+            '393'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Extra personali</li>
+<li>Suggerimento</li>
+</ul>',
+            '394'       => '<h3>Mini elenco necessario</h3>
+<ul>
+<li>Necessità personale</li>
+<li>Abbigliamento adatto al clima caldo, in lana o poliestere</li>
+<li>Medicina</li>
+<li>Zaino da viaggio e custodia da viaggio</li>
+<li>Luce o torcia elettrica</li>
+<li>Scarponi e pantaloni da trekking</li>
+<li>Sandali o scarpe comode</li>
+<li>Occhiali da sole</li>
+<li>Protezione solare</li>
+<li>Spray repellente per zanzare</li>
+<li>Cappello o cappuccio parasole</li>
+</ul>',
             '395'       => '',
             '396'       => '',
             '397'       => '',
@@ -15743,17 +16166,159 @@ Wir werden voraussichtlich gegen 11 Uhr zu Mittag essen, sobald wir in Ambilobe 
 <li> Anti -Mückenspray </li>
 <li> Sonnenhut oder Mütze </li>
 </ul>',
-            '384'       => '',
-            '385'       => '',
-            '386'       => '',
-            '387'       => '',
-            '388'       => '',
-            '389'       => '',
-            '390'       => '',
-            '391'       => '',
-            '392'       => '',
-            '393'       => '',
-            '394'       => '',
+            '384'       => 'Tsarabe Turm',
+            '385'       => '<h2>TAG 1: NOSY BE – ANKIFY – ANKARANA SONDERRESERVAT</h2>
+<p>
+Das Ankarana-Sonderreservat umfasst eine Fläche von 18.225 Hektar. Bisher wurden 12 Rundgänge für Besucher und Forscher eingerichtet. Während der Tsarabe-Tour haben Interessierte die Möglichkeit und das Privileg, diese immensen Wunder zu erkunden und je nach Jahreszeit (Regenzeit, Trockenzeit) zwei der zwölf verfügbaren Rundwege zu entdecken. 
+</p>
+<p>
+<b>Highlights</b>: Landschaftstreffen mit den Bauern, Tsingy Gris von Ankarana (10 Rundwege zur Auswahl im Park). 
+</p>
+<p Klasse="mb-4">
+Abfahrt: gegen 7:00 Uhr von Ihrem Hotel in Richtung Hafen von Nosy Be, von wo aus Sie in 35 Minuten mit dem Boot zum Hafen von Ankify gelangen. 
+
+Vom Hafen von Ankify aus fahren wir weiter Richtung Norden und durchqueren einerseits die typischen Dörfer der Antakarana-Stämme und andererseits ein riesiges Mahagonifeld, bevor wir nach einer 2,5-stündigen Fahrt die Stadtgemeinde Ambilobe erreichen. Dabei durchqueren wir herrliche Landschaften mit Panoramablicken und sehen insbesondere den Ravinala-Wald, eine der emblematischen Pflanzen Madagaskars. Von der Stadt Ambilobe in Richtung Mahamasina, dem Haupteingang zum Ankarana-Park. Nachdem wir uns eingerichtet haben, setzen wir uns zu einem köstlichen Mittagessen. Wir beginnen den Besuch des Parks mit dem Tsingy Gris mit seinen scharfen und spektakulären Formationen; mit seinen versteinerten Tierspuren, den 11 Lemurenarten und den 92 Vogelarten, die in seinen Wäldern heimisch sind. Abendessen und Übernachtung in einem Bungalow in Mahamasina. 
+</p>
+
+<h2>TAG 2: MAHAMASINA – AMBILOBE</h2>
+
+<p>
+Nach dem Frühstück beginnen wir erneut mit der Besichtigung des Ankarana-Sonderreservats. Dabei wählen wir die vom Kunden gewünschte Tour aus und der Reiseleiter wird uns natürlich seine Empfehlung geben, aber es wird eine andere Tour als gestern sein. 
+</p>
+<p>
+Wir haben genügend Zeit für einen Rundgang von vier Stunden oder mehr und kehren zum Mittagessen zurück. 
+</p>
+<p>
+Am Nachmittag nehmen wir die Straße nach Ambilobe. Abendessen und Übernachtung in einem Hotel in Ambilobe. 
+</p>',
+            '386'       => '<h2>TAG 3: MAHAMASINA – AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+<b>Highlights</b>: Stadt Ambilobe: Markt, Königspalast und Umgebung, Töpferwerkstatt. 
+</p>
+
+<p>
+Besuchen Sie: Stadt Ambilobe und Umgebung
+</p>
+
+<p>
+Abreise: Nach einem guten Frühstück verlassen wir gegen 8:00 Uhr das Dorf Mahamasina, um die Stadt Ambilobe zu erreichen. Ambilobe ist eine sehr aktive und beliebte Stadt mit einer Bevölkerung von 1,5 Millionen Einwohnern. Die Stadt ist ein wichtiger Knotenpunkt im Norden Madagaskars und liegt an der Nationalstraße 6 zwischen Diego-Suarez und Ambanja (Richtung Nosy Be) sowie an der Verbindungsstrecke zur Küstenstadt Vohémar am Indischen Ozean. Die Stadt liegt außerdem am Lauf des Mahavavy-Flusses. Historische Stadt des Antakarana-Stammes, in der Prinz ISSA TSIMIARO III sitzt. Eine Schlossbesichtigung könnte organisiert werden. Die Stadt ist hauptsächlich auf die Landwirtschaft ausgerichtet und von Zuckerrohrplantagen und einer Zuckerrohrverarbeitungsfabrik umgeben: Sirama Ambilobe. Darüber hinaus beherbergt es einen wichtigen Markt für die Region. Heute gibt es aufgrund der Goldvorkommen von Andavakoera, der Saphirvorkommen von Amondromifehy und der Diamantoiden von Antetezambato Ambanja einen Trend zum handwerklichen Bergbau. 
+</p>
+
+<p>
+Bei einem Besuch des Marktes lernen wir das berühmte „Katy“ kennen. Kath, Qat oder Kat, ist ein Strauch oder Busch (eine Art Spindelbaum) aus der Familie der Celastraceae, der ursprünglich aus Äthiopien stammt und dessen Anbau sich etwa im 15. Jahrhundert nach Arabien (insbesondere in den Jemen) ausbreitete. Es wird von Männern und Frauen in fast ganz Madagaskar konsumiert, die die Blätter lange kauen (grasen), da sie eine anregende und euphorisierende Wirkung haben, die mit der von Amphetamin vergleichbar ist. 
+</p>
+
+<p>
+Mittagessen in einem Restaurant in der Stadt. Beim Verlassen der Stadt besuchen wir eine Töpferwerkstatt aus roter Erde und Sand, die von Frauen aus dem Dorf betrieben wird. 
+</p>
+
+<p>
+Weiter nach Ankify, Transfer mit dem Boot nach Nosy Be. 
+</p>
+<p>
+Transfer mit dem Fahrzeug zum Hafen von Ankify und mit dem Boot nach Nosy Be
+</p>
+
+<ul class="unstyled-list">
+<li><b>Anzahl der Passagiere:</b> Kunden, Reiseleiter, Fahrer</li>
+<li><b>Fahrzeugtyp:</b> Geräumiger, komfortabler Allradwagen mit Klimaanlage</li>
+</ul>',
+            '387'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer vom Hotel zum Hafen</li>
+<li>Allradantrieb</li>
+<li>Unterkunft in Mahamasina, Diego Suarez, Ankify</li>
+<li>Umstieg auf das Schnellboot</li>
+<li>Vollpension</li>
+<li>Anleitung</li>
+<li>Mineralwasser</li>
+<li>Besuchsrecht</li>
+</ul>',
+            '388'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipp</li>
+</ul>',
+            '389'       => '<h3>Mini-Notwendigkeitsliste</h3>
+<ul>
+<li>Persönliche Notwendigkeit</li>
+<li>Für warmes Wetter geeignete Kleidung aus Wolle oder Polyester</li>
+<li>Medizin</li>
+<li>Handgepäck-Rucksack und Reisehülle</li>
+<li>Licht oder Taschenlampe</li>
+<li>Trekkingstiefel und -hosen</li>
+<li>Sandalen oder bequeme Schuhe</li>
+<li>Sonnenbrille</li>
+<li>Sonnenschutz</li>
+<li>Mückenschutzspray</li>
+<li>Sonnenhut oder Kapuze</li>
+</ul>',
+            '390'       => 'Veloma-Turm',
+            '391'       => '<h2>TAG 1: NOSY BE – ANKIFY – ANKARANA SONDERRESERVAT – AMBILOBE</h2>
+
+<p class="mb-4">
+<b>Highlights</b>: Landschaftstreffen mit den Bauern, Tsingy Gris von Ankarana (10 Rundwege zur Auswahl im Park). 
+</p>
+<p>
+Besuche: Tsingy Gris – Flussverlust – Tier- und Pflanzenarten. 
+</p>
+<p>
+Abfahrt: gegen 7:00 Uhr von Ihrem Hotel in Richtung Hafen von Nosy Be, von wo aus Sie in 35 Minuten mit dem Boot zum Hafen von Ankify gelangen. 
+</p>
+<p>
+Vom Hafen von Ankify aus fahren wir weiter Richtung Norden und durchqueren einerseits die typischen Dörfer der Antakarana-Stämme und andererseits ein riesiges Mahagonifeld, bevor wir nach einer 2,5-stündigen Fahrt die Stadtgemeinde Ambilobe erreichen. Dabei durchqueren wir herrliche Landschaften mit Panoramablicken und sehen insbesondere den Ravinala-Wald, eine der emblematischen Pflanzen Madagaskars. Von der Stadt Ambilobe in Richtung Mahamasina, dem Haupteingang zum Ankarana-Park. Nachdem wir uns eingerichtet haben, setzen wir uns zu einem köstlichen Mittagessen. Wir beginnen den Besuch des Parks mit dem Tsingy Gris mit seinen scharfen und spektakulären Formationen; mit seinen versteinerten Tierspuren, den 11 Lemurenarten und den 92 Vogelarten, die in seinen Wäldern heimisch sind. Gegen Ende des Tages besteht die Möglichkeit, das Dorf Mahamasina zu besuchen. Abendessen und Übernachtung in einem Bungalow in Mahamasina. 
+</p>
+
+<h2>TAG 2: AMBILOBE – ANKIFY – NOSY BE</h2>
+
+<p>
+<b>Highlights</b>: Stadt Ambilobe: Markt, Königspalast und Umgebung, Töpferwerkstatt. 
+</p>
+
+<p>
+Abreise: Nach einem guten Frühstück verlassen wir gegen 8:00 Uhr die Stadt Ambilobe, um zu einer Gewürzplantage zu gelangen. Anschließend geht es weiter nach Ankify, Bootstransfer nach Nosy Be. 
+</p>
+<p>
+Transfer mit dem Fahrzeug zum Hafen von Ankify und mit dem Boot nach Nosy Be
+</p>
+
+<ul class="unstyled-list">
+<li><b>Anzahl der Passagiere:</b> Kunden, Reiseleiter, Fahrer</li>
+<li><b>Fahrzeugtyp:</b> Geräumiger, komfortabler Allradwagen mit Klimaanlage</li>
+</ul>',
+            '392'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer vom Hotel zum Hafen</li>
+<li>Allradantrieb</li>
+<li>Unterkunft in Mahamasina</li>
+<li>Umstieg auf das Schnellboot</li>
+<li>Vollpension</li>
+<li>Anleitung</li>
+<li>Mineralwasser</li>
+<li>Besuchsrecht</li>
+</ul>',
+            '393'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+<li>Tipp</li>
+</ul>',
+            '394'       => '<h3>Mini-Notwendigkeitsliste</h3>
+<ul>
+<li>Persönliche Notwendigkeit</li>
+<li>Für warmes Wetter geeignete Kleidung aus Wolle oder Polyester</li>
+<li>Medizin</li>
+<li>Handgepäck-Rucksack und Reisehülle</li>
+<li>Licht oder Taschenlampe</li>
+<li>Trekkingstiefel und -hosen</li>
+<li>Sandalen oder bequeme Schuhe</li>
+<li>Sonnenbrille</li>
+<li>Sonnenschutz</li>
+<li>Mückenschutzspray</li>
+<li>Sonnenhut oder Kapuze</li>
+</ul>',
             '395'       => '',
             '396'       => '',
             '397'       => '',
