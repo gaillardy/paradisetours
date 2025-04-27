@@ -2345,17 +2345,151 @@ Transfer by vehicle to the port of Ankify and by boat to Nosy Be.
 <li>Mosquito repellent</li>
 <li>Sunhat or hood</li>
 </ul>',
-            '395'       => '',
-            '396'       => '',
-            '397'       => '',
-            '398'       => '',
-            '399'       => '',
-            '400'       => '',
-            '401'       => '',
-            '402'       => '',
-            '403'       => '',
-            '404'       => '',
-            '405'       => '',
+            '395'       => 'NATURE DISCOVERY',
+            '396'       => '<h2>DAY 1: ARRIVAL IN NOSY BE</h2>
+<p>Welcome and transfer from the airport to the hotel</p>
+<h2>DAY 2: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h2>
+<p>Highlights: Marine reserve: snorkeling and scuba diving – Mini park – private island</p>
+
+<h2>DAY 3: LOKOBE NATURE RESERVE</h2>
+<p>
+Highlights: Fishing village, cultural visit, traditional pirogue, nature reserve, meeting with the locals
+</p>
+
+<h2>DAY 4: NOSY BE ISLAND TOUR</h2>
+<p>
+Highlights: History and culture of Nosy Be, meeting with the locals, cultural visit, folk entertainment, beach, distillery, sunset
+</p>
+
+<h2>DAY 5: FREE DAY
+
+<h2>DAY 6: NOSY IRANJA
+<p>
+Highlights: Landscape: Sugarloaf Mountain, Antsoha, Ankazoberavina, white sand, lighthouse, meeting with the locals
+</p>
+
+<h2>DAY 7: DEPARTURE DAY
+<p>Transfer from the hotel to the airport</p>',
+            '397'       => '<h3>Included Services</h3>
+<ul>
+<li>Airport – Hotel Transfer: Arrival and Departure</li>
+<li>Accommodation: Hotel in Nosy Be</li>
+<li>Spacious, Air-conditioned Vehicle</li>
+<li>All Breakfasts</li>
+<li>Lunches during excursion days</li>
+<li>Dinners during excursion days</li>
+<li>Daily Mineral Water</li>
+<li>Guide</li>
+<li>Site Entrance Fees</li>
+</ul>',
+            '398'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Lunch: Day 4 if the guest is staying at the hotel</li>
+<li>Dinner: Day 4 if the guest is staying at the hotel</li>
+<li>Drinks</li>
+<li>Personal Extras</li>
+</ul>',
+            '399'       => '<h3>Mini Necessary Checklist</h3>
+<ul>
+<li>Personal Essentials</li>
+<li>Warm-weather clothing, made of wool or polyester</li>
+<li>Medicine</li>
+<li>Carry-on backpack and travel bag</li>
+<li>Light or flashlight</li>
+<li>Trekking boots and pants</li>
+<li>Sandals or casual shoes</li>
+<li>Sunglasses</li>
+<li>Sunscreen</li>
+<li>Mosquito repellent</li>
+<li>Sunhat or hood</li>
+</ul>',
+            '400'       => 'Weekend in Nosy Iranja',
+            '401'       => "<h2>WEEKEND AT PRINCESS IRANJA'S</h2>
+<p>
+<b>Visits:</b> Sugarloaf Mountain, Little Iranja, Great Iranja, The lighthouse, the white sand spit, night tour <br>
+
+<b>Duration:</b> 2 days 1 night <br>
+
+<b>Departure:</b> Ambatoloaka
+</p>
+
+<h2>Tour Description</h2>
+
+<ul class=\"unstyled-list\">
+<li><b>Number of passengers:</b> Guests + 1 Guide + Skippers</li>
+<li><b>Means of transport:</b> Speedboat</li>
+<li><b>Highlights:</b> Sugarloaf Mountain – the sand spit – swimming – the lighthouse – lobster fishing</li>
+</ul>
+
+<p>
+Departing from the port of Nosy Be at 8 a.m. 30, Nosy Iranja is a 1.5-hour speedboat ride away.
+
+As you cross the magnificent landscapes of Madagascar, the pristine beach and numerous islets enhance the journey.
+
+Once on the island, not only will you be fully immersed in a fishing village, but you'll also be able to visit two islands connected by a long stretch of white sand. At low tide, a pristine white sand beach awaits you for all your moments of fun, sunbathing, swimming, and strolling to discover some ferns, all set against a turquoise sea. A camp is also available to observe the sea turtles nesting on the beach overnight.
+
+At noon, you'll be served a delicious meal prepared on site in the shade of the coconut trees.
+
+When the group returns to Nosy Be, a local guide (in charge) will guide you to your typical, clean, beachfront bungalow with a bathroom, where you'll spend the night and relax.
+
+After dinner, you'll return to the white sand beach to witness the first spectacular reunion of baby turtles at sea. Luckily, you'll also help the mother turtle lay eggs on the beach...
+
+In the morning, the locals' rhythm of life will awaken you, and we invite you to admire the sunrise on the beach between these islands. Having breakfast on these islands is an unforgettable moment. Free day and lunch with a group.
+
+We'll return to Nosy Be around 3 p.m., joining a group of tourists.
+
+</p>",
+            '402'       => '<h3>Included Services</h3>
+<ul>
+<li>Round-trip speedboat transfer</li>
+<li>2 lunches</li>
+<li>1 dinner</li>
+<li>1 breakfast</li>
+<li>Site ticket</li>
+<li>Bungalow accommodation</li>
+<li>Night tour</li>
+<li>Mineral water</li>
+<li>Guide</li>
+</ul>',
+            '403'       => '<h3>Services Not Included</h3>
+<ul>
+<li>Beverages</li>
+<li>Personal Expenses</li>
+<li>Tips</li>
+<li>Meals Other Than Those Mentioned</li>
+</ul>',
+            '404'       => 'Zombitse Park',
+            '405'       => "<h2>Specificity of the Park</h2>
+
+<p class=\"mb-4\">
+The Zombitse Vohibasia complex is renowned for its wealth of rare bird species,
+endemic to Madagascar and/or the area.
+The Park is part of Endemic Bird Area No. 093 according to the World Bank 1992.
+It also has eight species of lemurs, some of which are near-threatened,
+such as the Phaner furcifer pallescens.
+This Protected Area boasts \"exceptional biodiversity.\"
+Due to its rich biodiversity, the Zombitse Vohibasia National Park
+is an excellent research area.
+It has a laboratory for conducting various types of research. </p>
+
+<h2>The Landscapes of Zombitse Park</h2>
+
+<h4>The Fauna of Zombitse Park</h4>
+
+<p>
+Zombitse Vohibasia National Park is home to endemic wildlife species,
+including some sixty bird species, 47% of which are endemic to Madagascar,
+24% of which are endemic to the Malagasy region, and one local endemic species – the Phylastrephus apperti,
+endemic lacertilians, and vulnerable species. Ispidina madagascariensis was recorded in the Zombitse forest.
+It is the only protected area home to the Phelsuma standingi and the Phyllastrephus apperti.
+It also has eight species of lemurs, some of which are near-threatened, such as the Phaner furcifer pallescens. </p>
+
+<h4>The Flora of Zombitse Park</h4>
+
+<p>
+Two species of Didieraceae typical of this region;
+various species of baobabs such as dwarf baobabs and Grandidier's baobabs; Euphorbiaceae, Fabaceae, and Apocynaceae predominate.
+</p>",
             '406'       => '',
             '407'       => '',
             '408'       => '',
@@ -6924,17 +7058,156 @@ Nosy Be Paradise Tours è anche un organizzatore di eventi, prepara e coordina v
                             <li>Spray anti moustique</li>
                             <li>Chapeau de soleil ou capuchon</li>
                         </ul>',
-            '395'       => '',
-            '396'       => '',
-            '397'       => '',
-            '398'       => '',
-            '399'       => '',
-            '400'       => '',
-            '401'       => '',
-            '402'       => '',
-            '403'       => '',
-            '404'       => '',
-            '405'       => '',
+            '395'       => 'NATURE DÉCOUVERTE',
+            '396'       => '<h2>JOUR 1: ARRIVEE A NOSY BE</h2>
+            <p>Accueil et transfert de l’ aéroport   vers l’hôtel</p>
+            <h2>JOUR 2:NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h2>
+            <p>Points fort: Reserve marine : snorkeling et plongée sous marine – Mini parc – île privée </p>
+
+            <h2>JOUR 3: LA RESERVE NATUREL DE LOKOBE</h2>
+            <p>
+            Points fort: Village des pêcheurs, visite culturelle, pirogue  traditionnel , reserve naturelle rencontre avec la population
+            </p>
+            
+            
+            <h2>JOUR 4: TOUR DE L’ÎLE DE NOSY BE</h2>
+            <p>
+            Points fort: Histoire et culture de Nosy Be , rencontre avec la population , visite Culturelle , animation folklorique , plage , distillerie , couché du soleil
+            </p>
+
+            <h2>JOUR 5:  JOURNEE LIBRE</h2>
+            <h2>JOUR 6: NOSY IRANJA</h2>
+            <p>
+            Points fort: paysage : pain de sucre , Antsoha , Ankazoberavina , sable blanc , phare , rencontre avec la population,
+            </p>
+
+            <h2>JOUR 7: JOUR DE DEPART</h2>
+            <p>Transfert   de l’hôtel vers l’ aéroport</p>',
+            '397'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert de l’aéroport – l’hôtel: arrivée et départ</li>
+                            <li>Hébergement: Hôtel à Nosy Be</li>
+                            <li>Véhicule spacieux et climatisé</li>
+                            <li>Tous les petits déjeuners</li>
+                            <li>Déjeuners pendant les jours d’excursions</li>
+                            <li>Diner pendant les jours d’excursions</li>
+                            <li>Eau minérale de tous les jours</li>
+                            <li>Guide</li>
+                            <li>Droit d’entrée dans les sites</li>
+                        </ul>',
+            '398'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Déjeuner: jour 4 si le client reste à l’hôtel</li>
+                            <li>Dîner: jour 4 si le client séjourne à l’hôtel</li>
+                            <li>Boissons</li>
+                            <li>Extras personnels</li>
+                        </ul>',
+            '399'       => '<h3>Mini liste nécessaire</h3>
+                        <ul>
+                            <li>Nécessité à l’ordre personnelle</li>
+                            <li>Vêtements adaptés au temps chauds, en laine ou en polyester</li>
+                            <li>Médecine</li>
+                            <li>Sac à dos pour cabine et housse de voyage</li>
+                            <li>Lumière ou lampe de poche</li>
+                            <li>Bottes et pantalons de trekking</li>
+                            <li>Sandales ou chaussures relaxante</li>
+                            <li>Lunettes de soleil</li>
+                            <li>Crème solaire</li>
+                            <li>Spray anti moustique</li>
+                            <li>Chapeau de soleil ou capuchon</li>
+                        </ul>',
+            '400'       => 'Week-End à Nosy Iranja',
+            '401'       => '<h2>WEEK END CHEZ PRINCESSE IRANJA</h2>
+            <p>
+                <b> Visites:</b> Pain de Sucre, Petite Iranja, Grande Iranja, Le phare, la langue de sable blanche, visite nocturne <br>
+
+                <b>Durée:</b> 2 jours 1 nuit <br>
+
+                <b>Départ:</b> Ambatoloaka
+            </p>
+
+            <h2>Description des circuits</h2>
+            
+            <ul class="unstyled-list">
+                <li><b>Nombre de pax  : </b> Clients + 1  Guides  Accompagnateur + Skippeurs</li>
+                <li><b>Moyen de transport  : </b>  bateau rapide</li>
+                <li><b>Points forts :</b> Pain de sucre – la langue de sable – baignade – le phare- Pêche à langouste</li>
+            </ul>
+
+            <p>
+                Partant du port de Nosy Be à 08h 30, le Nosy Iranja se situe à 1h30min en hors-bord.
+
+                En traversant de magnifiques paysages de Madagascar, la plage vierge et de nombreux îlots embellissent le transfert.
+
+                Une fois sur l’île, non seulement une immersion totale dans un village de pêcheurs vous sera offerte mais aussi la visite de deux îles reliées par un long sable blanc vous accueille à 2 km à marée basse, une plage de sable blanc et préservée est à votre disposition pour tous vos moments de plaisir, soleil, baignade et balade pour découvrir quelques fougères, le tout sur une mer turquoise … Possibilité d’un camp pour observer les tortues marines qui nichent sur la plage pendant la nuit.
+
+                A midi un bon repas préparé sur place à l’ombre des cocotiers vous sera servi.
+
+                Lorsque le groupe retourne à Nosy Be, un guide local (responsable) vous guidera jusqu’à votre bungalow typique, pied dans l’eau, propre avec toilette, où vous passerez la nuit et vous laisserez vous reposer.
+
+                Après le dîner, vous retournez vers le band de  sable blanc pour assister à la première réunion spectaculaire de bébés tortus à la mer. Par chance, vous aiderez également la tortue mère à pondre des œufs sur la plage …
+
+                
+
+                Le matin, le rythme de vie de la population vous réveillera et nous vous invitons à admirer le lever du soleil sur la plage entre ces îles, prendre le petit déjeuner sur ces îles est un moment de vie inoubliable. Journée libre  et déjeuner en groupe.
+
+                Nous reviendrons vers Nosy Be vers 15h en rejoignant un groupe de touristes.
+            </p>',
+            '402'       => '<h3>Services Inclus </h3>
+                        <ul>
+                            <li>Transfert en bateau rapide allé et retour</li>
+                            <li>2 déjeuners</li>
+                            <li>1 diner</li>
+                            <li>1 petit déjeuner</li>
+                            <li>Ticket sur le site</li>
+                            <li>Hébergement « bungalow »</li>
+                            <li>Visite nocturne</li>
+                            <li>Eau minérale</li>
+                            <li>Guide</li>
+                        </ul>',
+            '403'       => '<h3>Services Non Inclus</h3>
+                        <ul>
+                            <li>Boissons</li>
+                            <li>Les dépenses à caractère personnel</li>
+                            <li>Pourboires</li>
+                            <li>Repas hors les mentionnés</li>
+                        </ul>',
+            '404'       => 'Parc Zombitse',
+            '405'       => '<h2>Spécificité du Parc</h2>
+            
+            <p class="mb-4">
+                Le complexe Zombitse Vohibasia est réputé par sa richesse en espèce d’oiseaux rares, 
+                endémiques de Madagascar et / ou de la zone. 
+                Le Parc fait partie de la zone d’oiseaux endémiques N° 093 d’après World Bank 1992. 
+                Il compte également 08 espèces de lémuriens dont certaines sont quasi menacées 
+                comme le cas du Phaner furcifer pallescens.
+                Cette Aire Protégée dispose « une biodiversité exceptionnelle»
+                De par sa richesse en biodiversité, le Parc National de Zombitse Vohibasia
+                se présente comme une aire de recherche par excellence.
+                Il dispose d’un laboratoire pour réaliser différente types de recherche.
+            </p>
+
+            <h2>Les paysages du Parc  Parc Zombitse</h2>
+
+            
+            <h4>Les Faunes du Parc Zombitse</h4>
+
+           <p>
+                Le Parc National Zombitse Vohibasia abrite des espèces faunistiques endémiques, 
+                avec une soixantaine espèces d’oiseaux dont 47% endémiques de Madagascar, 
+                24% endémiques de la région malgache et une espèce endémique locale – le Phylastrephus apperti, 
+                des lacertiliens endémiques et des espèces vulnérables. Ispidina madagascariensis était enregistré dans la forêt de Zombitse. 
+                Elle est la seule Aire protégée abritant le Phelsuma standingi et le Phyllastrephus apperti. 
+                Il compte également 08 espèces de lémuriens dont certaines sont quasi menacées comme le cas du Phaner furcifer pallescens.
+           </p>
+
+            <h4>Les Flores du Parc Zombitse</h4>
+
+            <p>
+                02 espèces de didiéracées typique de cette région ; 
+                différentes espèces de baobabs comme les baobabs nains, 
+                les baobabs de Grandidier ; dominance des Euphorbiaceae, Fabaceae, Apocynaceae.
+            </p>',
             '406'       => '',
             '407'       => '',
             '408'       => '',
@@ -11628,17 +11901,156 @@ Trasferimento in auto al porto di Ankify e in barca a Nosy Be
 <li>Spray repellente per zanzare</li>
 <li>Cappello o cappuccio parasole</li>
 </ul>',
-            '395'       => '',
-            '396'       => '',
-            '397'       => '',
-            '398'       => '',
-            '399'       => '',
-            '400'       => '',
-            '401'       => '',
-            '402'       => '',
-            '403'       => '',
-            '404'       => '',
-            '405'       => '',
+            '395'       => 'SCOPERTA DELLA NATURA',
+            '396'       => "<h2>GIORNO 1: ARRIVO A NOSY BE</h2>
+<p>Incontro e trasferimento dall'aeroporto all'hotel</p>
+<h2>GIORNO 2:NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h2>
+<p>In evidenza: Riserva marina: snorkeling e immersioni subacquee – Mini parco – isola privata</p>
+
+<h2>GIORNO 3: LA RISERVA NATURALE DI LOKOBE</h2>
+<p>
+Punti salienti: villaggio di pescatori, visita culturale, canoa tradizionale, riserva naturale, incontro con la gente del posto
+</p>
+
+
+<h2>GIORNO 4: TOUR DELL'ISOLA DI NOSY BE</h2>
+<p>
+Momenti salienti: Storia e cultura di Nosy Be, incontro con la popolazione, visita culturale, intrattenimento folkloristico, spiaggia, distilleria, tramonto
+</p>
+
+<h2>GIORNO 5: GIORNATA LIBERA</h2>
+GIORNO 6: NOSY IRANJA
+<p>
+In evidenza: paesaggio: Pan di Zucchero, Antsoha, Ankazoberavina, sabbia bianca, faro, incontro con la popolazione,
+</p>
+
+<h2>GIORNO 7: GIORNO DELLA PARTENZA</h2>
+<p>Trasferimento dall'hotel all'aeroporto</p>",
+            '397'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento dall\'aeroporto all\'hotel: arrivo e partenza</li>
+<li>Alloggi: Hotel a Nosy Be</li>
+<li>Veicolo spazioso e climatizzato</li>
+<li>Tutte le colazioni</li>
+<li>Pranzi durante le giornate di escursione</li>
+<li>Cena durante le giornate di escursione</li>
+<li>Acqua minerale di tutti i giorni</li>
+<li>Guida</li>
+<li>Diritto di accesso ai siti</li>
+</ul>',
+            '398'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Pranzo: Giorno 4 se il cliente soggiorna in hotel</li>
+<li>Cena: Giorno 4 se l\'ospite soggiorna in hotel</li>
+<li>Bevande</li>
+<li>Extra personali</li>
+</ul>',
+            '399'       => '<h3>Mini elenco necessario</h3>
+<ul>
+<li>Necessità personale</li>
+<li>Abbigliamento adatto al clima caldo, in lana o poliestere</li>
+<li>Medicina</li>
+<li>Zaino da viaggio e custodia da viaggio</li>
+<li>Luce o torcia elettrica</li>
+<li>Scarponi e pantaloni da trekking</li>
+<li>Sandali o scarpe comode</li>
+<li>Occhiali da sole</li>
+<li>Protezione solare</li>
+<li>Spray repellente per zanzare</li>
+<li>Cappello o cappuccio parasole</li>
+</ul>',
+            '400'       => 'Fine settimana a Nosy Iranja',
+            '401'       => "<h2>WEEK END ALLA PRINCIPESSA IRANJA</h2>
+<p>
+<b>Visite:</b> Pan di Zucchero, Piccola Iranja, Grande Iranja, Il faro, la lingua di sabbia bianca, tour notturno <br>
+
+<b>Durata:</b> 2 giorni 1 notte <br>
+
+Partenza: Ambatoloaka
+</p>
+
+<h2>Descrizione dei circuiti</h2>
+
+<ul class=\"unstyled-list\">
+<li><b>Numero di passeggeri:</b> Clienti + 1 Guida Accompagnatrice + Skipper</li>
+<li><b>Mezzo di trasporto:</b> barca veloce</li>
+<li><b>In evidenza:</b> Pan di Zucchero – il banco di sabbia – nuoto – il faro – pesca all'aragosta</li>
+</ul>
+
+<p>
+Partendo dal porto di Nosy Be alle 8:30 del mattino, il Nosy Iranja è raggiungibile in 1 ora e 30 minuti di motoscafo. 
+
+Attraversando i magnifici paesaggi del Madagascar, la spiaggia vergine e i numerosi isolotti impreziosiscono il trasferimento. 
+
+Una volta sull'isola, non solo vi verrà proposta un'immersione totale in un villaggio di pescatori, ma anche la visita di due isole collegate da una lunga spiaggia di sabbia bianca che vi accoglie a 2 km di distanza. Con la bassa marea, una spiaggia di sabbia bianca e preservata è a vostra disposizione per tutti i vostri momenti di piacere, sole, bagni e passeggiate alla scoperta di alcune felci, il tutto su un mare turchese... Possibilità di accampamento per osservare le tartarughe marine che nidificano sulla spiaggia durante la notte. 
+
+A mezzogiorno vi verrà servito un buon pasto preparato sul posto, all'ombra delle palme da cocco. 
+
+Al ritorno del gruppo a Nosy Be, una guida locale (incaricata) vi accompagnerà al vostro tipico bungalow, direttamente sull'acqua, pulito e dotato di servizi igienici, dove trascorrerete la notte e vi riposerete. 
+
+Dopo cena, tornerete sulla lingua di sabbia bianca per assistere al primo spettacolare incontro delle tartarughine in mare. Fortunatamente, aiuterai anche la tartaruga madre a deporre le uova sulla spiaggia...
+
+
+
+Al mattino sarete svegliati dal ritmo della vita della popolazione e vi invitiamo ad ammirare l'alba sulla spiaggia tra queste isole; fare colazione su queste isole è un momento di vita indimenticabile. Giornata libera e pranzo di gruppo. 
+
+Torneremo a Nosy Be verso le 15:00, unendoci a un gruppo di turisti. 
+</p>",
+            '402'       => '<h3>Servizi inclusi</h3>
+<ul>
+<li>Trasferimento di andata e ritorno in motoscafo</li>
+<li>2 pranzi</li>
+<li>1 cena</li>
+<li>1 colazione</li>
+<li>Biglietto sul sito</li>
+<li>Alloggi in bungalow</li>
+<li>Tour notturno</li>
+<li>Acqua minerale</li>
+<li>Guida</li>
+</ul>',
+            '403'       => '<h3>Servizi non inclusi</h3>
+<ul>
+<li>Bevande</li>
+<li>Spese personali</li>
+<li>Suggerimenti</li>
+<li>Pasti diversi da quelli menzionati</li>
+</ul>',
+            '404'       => 'Parco Zombitse',
+            '405'       => "<h2>Specificità del Parco</h2>
+
+<p class=\"mb-4\">
+Il complesso Zombitse Vohibasia è rinomato per la sua ricchezza di specie di uccelli rari,
+endemica del Madagascar e/o della zona. 
+Il parco fa parte dell'area di conservazione degli uccelli endemici n. 093 secondo la Banca Mondiale, 1992.
+Ospita anche 8 specie di lemuri, alcune delle quali sono quasi a rischio di estinzione.
+come nel caso del Phaner furcifer pallescens. 
+Questa area protetta ha una “biodiversità eccezionale”
+Grazie alla sua ricca biodiversità, il Parco Nazionale Zombitse Vohibasia
+si presenta come un ambito di ricerca per eccellenza. 
+Dispone di un laboratorio in cui vengono effettuati diversi tipi di ricerca. 
+</p>
+
+<h2>I paesaggi del Parc Zombitse</h2>
+
+
+<h4>I Fauni del Parco Zombitse</h4>
+
+<p>
+Il Parco Nazionale Zombitse Vohibasia ospita specie endemiche di fauna selvatica,
+con circa sessanta specie di uccelli, il 47% delle quali sono endemiche del Madagascar,
+24% endemico della regione malgascia e una specie endemica locale: il Phylastrephus apperti,
+lacertiliani endemici e specie vulnerabili. Ispidina madagascariensis è stata registrata nella foresta di Zombitse. 
+È l'unica area protetta che ospita Phelsuma standingi e Phyllastrephus apperti. 
+Ospita anche 8 specie di lemuri, alcune delle quali sono quasi minacciate, come il Phaner furcifer pallescens. 
+</p>
+
+<h4>I fiori di Zombitse Park</h4>
+
+<p>
+02 specie di Didieraceae tipiche di questa regione; 
+diverse specie di baobab come i baobab nani,
+I baobab di Grandidier; dominanza di Euphorbiaceae, Fabaceae, Apocynaceae. 
+</p>",
             '406'       => '',
             '407'       => '',
             '408'       => '',
@@ -16319,17 +16731,156 @@ Transfer mit dem Fahrzeug zum Hafen von Ankify und mit dem Boot nach Nosy Be
 <li>Mückenschutzspray</li>
 <li>Sonnenhut oder Kapuze</li>
 </ul>',
-            '395'       => '',
-            '396'       => '',
-            '397'       => '',
-            '398'       => '',
-            '399'       => '',
-            '400'       => '',
-            '401'       => '',
-            '402'       => '',
-            '403'       => '',
-            '404'       => '',
-            '405'       => '',
+            '395'       => 'NATUR ENTDECKEN',
+            '396'       => '<h2>TAG 1: ANKUNFT IN NOSY BE</h2>
+<p>Abholung und Transfer vom Flughafen zum Hotel</p>
+<h2>TAG 2: NOSY TANIKELY – NOSY KOMBA – NOSY VORONA</h2>
+<p>Highlights: Meeresschutzgebiet: Schnorcheln und Tauchen – Minipark – Privatinsel</p>
+
+<h2>TAG 3: DAS NATURRESERVAT LOKOBE</h2>
+<p>
+Highlights: Fischerdorf, kultureller Besuch, traditionelles Kanu, Naturschutzgebiet, Treffen mit den Einheimischen
+</p>
+
+
+<h2>TAG 4: TOUR ÜBER DIE INSEL NOSY BE</h2>
+<p>
+Highlights: Geschichte und Kultur von Nosy Be, Treffen mit der Bevölkerung, kultureller Besuch, Volksunterhaltung, Strand, Brennerei, Sonnenuntergang
+</p>
+
+<h2>TAG 5: FREIER TAG</h2>
+<h2>TAG 6: NEUGIERIGES IRANJA</h2>
+<p>
+Highlights: Landschaft: Zuckerhut, Antsoha, Ankazoberavina, weißer Sand, Leuchtturm, Treffen mit der Bevölkerung,
+</p>
+
+<h2>TAG 7: ABREISETAG</h2>
+<p>Transfer vom Hotel zum Flughafen</p>',
+            '397'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Transfer vom Flughafen zum Hotel: An- und Abreise</li>
+<li>Unterkunft: Hotel in Nosy Be</li>
+<li>Geräumiges, klimatisiertes Fahrzeug</li>
+<li>Alle Frühstücke</li>
+<li>Mittagessen an Ausflugstagen</li>
+<li>Abendessen an Ausflugstagen</li>
+<li>Mineralwasser für jeden Tag</li>
+<li>Anleitung</li>
+<li>Zutrittsrecht zu den Standorten</li>
+</ul>',
+            '398'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Mittagessen: Tag 4, wenn der Kunde im Hotel übernachtet</li>
+<li>Abendessen: Tag 4, wenn der Gast im Hotel übernachtet</li>
+<li>Getränke</li>
+<li>Persönliche Extras</li>
+</ul>',
+            '399'       => '<h3>Mini-Notwendigkeitsliste</h3>
+<ul>
+<li>Persönliche Notwendigkeit</li>
+<li>Für warmes Wetter geeignete Kleidung aus Wolle oder Polyester</li>
+<li>Medizin</li>
+<li>Handgepäck-Rucksack und Reisehülle</li>
+<li>Licht oder Taschenlampe</li>
+<li>Trekkingstiefel und -hosen</li>
+<li>Sandalen oder bequeme Schuhe</li>
+<li>Sonnenbrille</li>
+<li>Sonnenschutz</li>
+<li>Mückenschutzspray</li>
+<li>Sonnenhut oder Kapuze</li>
+</ul>',
+            '400'       => 'Wochenende in Nosy Iranja',
+            '401'       => '<h2>WOCHENENDE BEI ​​PRINZESSIN IRANJA</h2>
+<p>
+<b>Besuche:</b> Zuckerhut, Klein-Iranja, Groß-Iranja, Leuchtturm, weiße Sandbank, Nachttour <br>
+
+<b>Dauer:</b> 2 Tage 1 Nacht <br>
+
+<b>Abflug:</b> Ambatoloaka
+</p>
+
+<h2>Beschreibung der Schaltkreise</h2>
+
+<ul class="unstyled-list">
+<li><b>Anzahl der Passagiere:</b> Kunden + 1 begleitender Guide + Skipper</li>
+<li><b>Transportmittel:</b> Schnellboot</li>
+<li><b>Highlights:</b> Sugarloaf – die Sandbank – Schwimmen – der Leuchtturm – Hummerfischen</li>
+</ul>
+
+<p>
+Abfahrt vom Hafen von Nosy Be um 8:30 Uhr, die Nosy Iranja ist 1 Stunde und 30 Minuten mit dem Schnellboot entfernt. 
+
+Die Fahrt durch die herrlichen Landschaften Madagaskars, mit unberührten Stränden und zahlreichen kleinen Inseln verschönert den Transfer. 
+
+Auf der Insel angekommen, können Sie nicht nur völlig in die Welt eines Fischerdorfs eintauchen, sondern auch zwei Inseln besuchen, die durch einen langen weißen Sandstrand verbunden sind. In 2 km Entfernung empfängt Sie bei Ebbe ein geschützter weißer Sandstrand für all Ihre Momente des Vergnügens, der Sonne, des Schwimmens und des Spaziergangs, um einige Farne zu entdecken, und das alles an einem türkisfarbenen Meer ... Möglichkeit eines Camps, um die Meeresschildkröten zu beobachten, die nachts am Strand nisten. 
+
+Mittags wird Ihnen ein gutes, vor Ort im Schatten der Kokospalmen zubereitetes Essen serviert. 
+
+Wenn die Gruppe nach Nosy Be zurückkehrt, führt Sie ein lokaler Reiseleiter (verantwortlich) zu Ihrem typischen Bungalow direkt am Wasser, sauber und mit Toilette, wo Sie die Nacht verbringen und sich ausruhen können. 
+
+Nach dem Abendessen kehren Sie zum weißen Sandstreifen zurück, um das erste spektakuläre Wiedersehen der Babyschildkröten im Meer mitzuerleben. Zum Glück helfen Sie der Schildkrötenmutter auch dabei, am Strand Eier abzulegen …
+
+
+
+Morgens werden Sie vom Lebensrhythmus der Bevölkerung geweckt und wir laden Sie ein, den Sonnenaufgang am Strand zwischen diesen Inseln zu bewundern. Das Frühstück auf diesen Inseln ist ein unvergesslicher Moment im Leben. Freier Tag und gemeinsames Mittagessen. 
+
+Gegen 15 Uhr kehren wir nach Nosy Be zurück und schließen uns einer Gruppe von Touristen an. 
+</p>',
+            '402'       => '<h3>Inklusivleistungen</h3>
+<ul>
+<li>Hin- und Rücktransfer mit dem Schnellboot</li>
+<li>2 Mittagessen</li>
+<li>1 Abendessen</li>
+<li>1 Frühstück</li>
+<li>Ticket auf der Website</li>
+<li>Bungalow-Unterkunft</li>
+<li>Nachttour</li>
+<li>Mineralwasser</li>
+<li>Anleitung</li>
+</ul>',
+            '403'       => '<h3>Nicht inbegriffene Leistungen</h3>
+<ul>
+<li>Getränke</li>
+<li>Persönliche Ausgaben</li>
+<li>Tipps</li>
+<li>Andere als die genannten Mahlzeiten</li>
+</ul>',
+            '404'       => 'Zombitse Park',
+            '405'       => '<h2>Besonderheiten des Parks</h2>
+
+<p Klasse="mb-4">
+Der Zombitse Vohibasia-Komplex ist bekannt für seinen Reichtum an seltenen Vogelarten,
+endemisch in Madagaskar und/oder der Region. 
+Der Park ist Teil des endemischen Vogelgebiets Nr. 093 gemäß Weltbank 1992.
+Außerdem gibt es dort acht Lemurenarten, von denen einige fast vom Aussterben bedroht sind.
+wie im Fall von Phaner furcifer pallescens. 
+Dieses Schutzgebiet verfügt über eine „außergewöhnliche Artenvielfalt“
+Aufgrund seiner reichen Artenvielfalt ist der Zombitse Vohibasia Nationalpark
+präsentiert sich als Forschungsgebiet par excellence. 
+Es verfügt über ein Labor zur Durchführung verschiedener Forschungsarbeiten. 
+</p>
+
+<h2>Die Landschaften des Parc Zombitse</h2>
+
+
+<h4>Die Faune des Zombitse-Parks</h4>
+
+<p>
+Der Zombitse Vohibasia Nationalpark ist die Heimat endemischer Wildtierarten,
+mit rund sechzig Vogelarten, von denen 47 % auf Madagaskar endemisch sind,
+24 % sind in der madagassischen Region endemisch und eine lokale endemische Art – der Phylastrephus apperti,
+endemische Lacertilien und gefährdete Arten. Ispidina madagascariensis wurde im Zombitse-Wald nachgewiesen. 
+Es ist das einzige Schutzgebiet, in dem Phelsuma standingi und Phyllastrephus apperti vorkommen. 
+Außerdem gibt es dort acht Lemurenarten, von denen einige fast vom Aussterben bedroht sind, wie etwa der Phaner furcifer pallescens. 
+</p>
+
+<h4>Die Flores des Zombitse Parks</h4>
+
+<p>
+02 für diese Region typische Arten der Didieraceae; 
+verschiedene Baobab-Arten wie Zwergbaobabs,
+Grandidiers Affenbrotbäume; Dominanz von Euphorbiaceae, Fabaceae, Apocynaceae. 
+</p>',
             '406'       => '',
             '407'       => '',
             '408'       => '',
